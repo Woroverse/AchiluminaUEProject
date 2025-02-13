@@ -1,0 +1,1276 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.18"/>
+	<User ID="USER" OS="Windows 10"/>
+	<ActorMesh name="DS_Caesar_bed_linen" layer="BED ROOM">
+		<mesh name="DS_Caesar_bed_linen__Mesh_008"/>
+		<Transform tx="-588.068054" ty="782.585693" tz="92.885193" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001566" sy="0.001566" sz="0.001566"/>
+	</ActorMesh>
+	<ActorMesh name="Caesar_Bed" layer="BED ROOM">
+		<mesh name="Mesh_009"/>
+		<Transform tx="-586.070923" ty="783.530029" tz="122.323822" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001566" sy="0.001566" sz="0.001566"/>
+	</ActorMesh>
+	<ActorMesh name="Nightstand_Continental" layer="BED ROOM">
+		<mesh name="Mesh_010"/>
+		<Transform tx="-431.871033" ty="572.224121" tz="62.966061" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001566" sy="0.001566" sz="0.001566"/>
+	</ActorMesh>
+	<ActorMesh name="Plane_007" layer="NIGHT STAND">
+		<mesh name="Plane_005"/>
+		<Transform tx="-1063.839966" ty="586.069641" tz="51.238625" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.915622" sy="0.915622" sz="0.915622"/>
+	</ActorMesh>
+	<ActorMesh name="Plane_008" layer="NIGHT STAND">
+		<mesh name="Plane_008"/>
+		<Transform tx="-1140.201782" ty="551.373352" tz="69.194275" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.915622" sy="0.915622" sz="0.915622"/>
+	</ActorMesh>
+	<ActorMesh name="Rectangle006" layer="WALL DECOR ROOM">
+		<mesh name="Mesh_114"/>
+		<Transform tx="-1145.341919" ty="1061.817505" tz="154.118668" qw="0.707107" qx="0.707107" qy="-0.000000" qz="0.000000" sx="-0.030846" sy="-0.030846" sz="-0.030846"/>
+	</ActorMesh>
+	<ActorMesh name="Box009" layer="WALL DECOR ROOM">
+		<mesh name="Mesh_201"/>
+		<Transform tx="-1084.072266" ty="1066.050659" tz="174.891022" qw="0.707107" qx="-0.707107" qy="-0.000000" qz="0.000000" sx="0.032338" sy="0.032338" sz="0.032338"/>
+	</ActorMesh>
+	<ActorMesh name="Rectangle006_001" layer="WALL DECOR ROOM">
+		<mesh name="Mesh_114"/>
+		<Transform tx="-558.048645" ty="1061.817505" tz="154.118668" qw="0.707107" qx="0.707107" qy="-0.000000" qz="0.000000" sx="-0.030846" sy="-0.030846" sz="-0.030846"/>
+	</ActorMesh>
+	<ActorMesh name="Box009_001" layer="WALL DECOR ROOM">
+		<mesh name="Mesh_201"/>
+		<Transform tx="-496.778961" ty="1066.050659" tz="174.891022" qw="0.707107" qx="-0.707107" qy="-0.000000" qz="0.000000" sx="0.032338" sy="0.032338" sz="0.032338"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder016" layer="LAMP">
+		<mesh name="Mesh_168"/>
+		<Transform tx="-486.087311" ty="991.485901" tz="135.179443" qw="0.000000" qx="-0.000000" qy="-0.707107" qz="0.707107" sx="0.002515" sy="0.002515" sz="0.002515"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder013" layer="LAMP">
+		<mesh name="Mesh_169"/>
+		<Transform tx="-486.087311" ty="991.485901" tz="135.179443" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.002515" sy="0.002515" sz="0.002515"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder015" layer="LAMP">
+		<mesh name="Mesh_170"/>
+		<Transform tx="-486.087311" ty="991.485901" tz="135.179443" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.002515" sy="0.002515" sz="0.002515"/>
+	</ActorMesh>
+	<ActorMesh name="Line005" layer="LAMP">
+		<mesh name="Mesh_171"/>
+		<Transform tx="-487.999664" ty="991.365051" tz="100.203232" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.002515" sy="0.002515" sz="0.002515"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder014" layer="LAMP">
+		<mesh name="Mesh_172"/>
+		<Transform tx="-486.087311" ty="991.485901" tz="135.179443" qw="0.500000" qx="-0.500000" qy="-0.500000" qz="0.500000" sx="0.002515" sy="0.002515" sz="0.002515"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder011" layer="LAMP">
+		<mesh name="Mesh_173"/>
+		<Transform tx="-486.022705" ty="991.351685" tz="124.998161" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.002515" sy="0.002515" sz="0.002515"/>
+	</ActorMesh>
+	<ActorMesh name="Torus062" layer="LAMP">
+		<mesh name="Mesh_197"/>
+		<Transform tx="-486.135040" ty="991.342163" tz="69.624588" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.039867" sy="0.039867" sz="0.039867"/>
+	</ActorMesh>
+	<ActorMesh name="Torus063" layer="LAMP">
+		<mesh name="Mesh_198"/>
+		<Transform tx="-485.982422" ty="991.493713" tz="79.758575" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.039867" sy="0.039867" sz="0.039867"/>
+	</ActorMesh>
+	<ActorMesh name="Torus065" layer="LAMP">
+		<mesh name="Mesh_209"/>
+		<Transform tx="-485.982422" ty="991.493713" tz="78.757172" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.039867" sy="0.039867" sz="0.039867"/>
+	</ActorMesh>
+	<ActorMesh name="Torus066" layer="LAMP">
+		<mesh name="Mesh_210"/>
+		<Transform tx="-485.982422" ty="991.493713" tz="119.835617" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.039867" sy="0.039867" sz="0.039867"/>
+	</ActorMesh>
+	<ActorMesh name="Torus067" layer="LAMP">
+		<mesh name="Mesh_211"/>
+		<Transform tx="-485.982422" ty="991.493713" tz="121.074608" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.039867" sy="0.039867" sz="0.039867"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_178" layer="FRAME">
+		<mesh name="Cube_029"/>
+		<Transform tx="-704.098267" ty="459.753754" tz="122.988510" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.639564" sy="0.016381" sz="1.000000"/>
+	</ActorMesh>
+	<Actor name="LampWeraJaneFrameA006_4K_Empty" layer="CEILING  LIGHT">
+		<Transform tx="-681.025574" ty="459.753754" tz="122.988510" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+		<children visible="True">
+			<ActorMesh name="LampWerajaneFrameA006_001" layer="CEILING  LIGHT">
+				<mesh name="LampWerajaneFrameA006_001__LampWerajaneFrameA006"/>
+				<Transform tx="-802.994751" ty="792.227844" tz="298.215363" qw="0.707107" qx="0.707107" qy="0.000000" qz="0.000000" sx="117.182877" sy="117.182877" sz="117.182877"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<ActorMesh name="Sphere" layer="CEILING  LIGHT">
+		<mesh name="Sphere"/>
+		<Transform tx="-802.994751" ty="792.227844" tz="201.923065" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.121555" sy="0.121555" sz="0.121555"/>
+	</ActorMesh>
+	<Environment name="world_environment_background" label="world_environment_background">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="0"/>
+	</Environment>
+	<Environment name="world_environment_lighting" label="world_environment_lighting">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="1"/>
+	</Environment>
+	<StaticMesh label="DS_Caesar_bed_linen__Mesh_008" name="DS_Caesar_bed_linen__Mesh_008">
+		<Material id="0" name="generic_perforated_01_001"/>
+		<Material id="1" name="generic_perforated_01"/>
+		<file path="BEDROOM_Assets/DS_Caesar_bed_linen__Mesh_008.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4c3486a81f67c06ed1e7830821835fa4"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_009" name="Mesh_009">
+		<Material id="0" name="Caesar_Bed_Metall"/>
+		<Material id="1" name="Bed_Slot__2"/>
+		<Material id="2" name="Bed_Slot__3"/>
+		<Material id="3" name="FabricLeatherCowhide001_4K"/>
+		<Material id="4" name="Caesar_Bed_Wood"/>
+		<file path="BEDROOM_Assets/Mesh_009.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f5b8a40640183a76bd09d206e87327c7"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_010" name="Mesh_010">
+		<Material id="0" name="Continental_Metall"/>
+		<Material id="1" name="Continental_Wood"/>
+		<Material id="2" name="Continental_Plastik"/>
+		<file path="BEDROOM_Assets/Mesh_010.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="384b28350cfd913eeb2da2f5459ed650"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_005" name="Plane_005">
+		<Material id="0" name="light_beige_wood_tex_001"/>
+		<Material id="1" name="black_wood_tex_001"/>
+		<Material id="2" name="grey_rubber_001"/>
+		<file path="BEDROOM_Assets/Plane_005.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="16ea71209661381da96c5c9a2de8e77f"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_008" name="Plane_008">
+		<Material id="0" name="light_beige_wood_tex_001"/>
+		<Material id="1" name="black_wood_tex_001"/>
+		<Material id="2" name="grey_rubber_001"/>
+		<file path="BEDROOM_Assets/Plane_008.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d5b8fb90d9949db75df68c17db1e23a3"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_114" name="Mesh_114">
+		<Material id="0" name="08___Default23"/>
+		<Material id="1" name="Material_030"/>
+		<file path="BEDROOM_Assets/Mesh_114.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bacf49c6104d8bc1b1cb5def479255fc"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_201" name="Mesh_201">
+		<Material id="0" name="16___Default"/>
+		<file path="BEDROOM_Assets/Mesh_201.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="179c5de811b1eb8d77d8e5697ac06398"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_168" name="Mesh_168">
+		<Material id="0" name="gold"/>
+		<file path="BEDROOM_Assets/Mesh_168.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9c6a255a2de8f448b5a63ad4d1262a87"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_169" name="Mesh_169">
+		<Material id="0" name="gold"/>
+		<file path="BEDROOM_Assets/Mesh_169.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3a683d2a07f1c6cdf5bd441ab1dacd14"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_170" name="Mesh_170">
+		<Material id="0" name="gold"/>
+		<file path="BEDROOM_Assets/Mesh_170.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="93bc6fa0c1258aab192ebaeab3d97b2b"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_171" name="Mesh_171">
+		<Material id="0" name="gold"/>
+		<file path="BEDROOM_Assets/Mesh_171.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5319e93970f418111d7fca9d3be1b8e8"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_172" name="Mesh_172">
+		<Material id="0" name="gold"/>
+		<file path="BEDROOM_Assets/Mesh_172.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9d7e1af49781d96cbdc410031f63a48a"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_173" name="Mesh_173">
+		<Material id="0" name="22___Defaultsss"/>
+		<file path="BEDROOM_Assets/Mesh_173.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="773f5396e2976e323cfb1887a8b91606"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_197" name="Mesh_197">
+		<Material id="0" name="gold"/>
+		<file path="BEDROOM_Assets/Mesh_197.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ba3604355b45870296c7f06886627ee9"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_198" name="Mesh_198">
+		<Material id="0" name="gold"/>
+		<file path="BEDROOM_Assets/Mesh_198.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6c2963adecd1c09a7e235e096f5184ba"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_209" name="Mesh_209">
+		<Material id="0" name="gold"/>
+		<file path="BEDROOM_Assets/Mesh_209.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5e53979e5771af48d39ab6ac378f6abc"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_210" name="Mesh_210">
+		<Material id="0" name="Material_029"/>
+		<file path="BEDROOM_Assets/Mesh_210.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="baf9d6418f6a89e9b4f17a4fed48c1c8"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_211" name="Mesh_211">
+		<Material id="0" name="gold"/>
+		<file path="BEDROOM_Assets/Mesh_211.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d2c8e65e9ea8144b377ee3e90b1a010f"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_029" name="Cube_029">
+		<Material id="0" name="Material_033"/>
+		<Material id="1" name="Material_034"/>
+		<file path="BEDROOM_Assets/Cube_029.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1372997e2982dfa82f08f785153ef442"/>
+	</StaticMesh>
+	<StaticMesh label="LampWerajaneFrameA006_001__LampWerajaneFrameA006" name="LampWerajaneFrameA006_001__LampWerajaneFrameA006">
+		<Material id="0" name="LampWeraJaneFrameA006_4K"/>
+		<Material id="1" name="Material_013"/>
+		<file path="BEDROOM_Assets/LampWerajaneFrameA006_001__LampWerajaneFrameA006.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="55c1c61f87455e83fb2e138ed0b79848"/>
+	</StaticMesh>
+	<StaticMesh label="Sphere" name="Sphere">
+		<Material id="0" name="Material_035"/>
+		<file path="BEDROOM_Assets/Sphere.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="25f920b180d33622b63c2b6f3ae67b9e"/>
+	</StaticMesh>
+	<UEPbrMaterial name="generic_perforated_01_001">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.134863,G=0.134863,B=0.134863,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="3.900000"/>
+			<Scalar constant="0.100000"/>
+			<Scalar constant="45.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="10.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="12"/>
+				<1 expression="13"/>
+			</DotProduct>
+		</Expressions>
+		<BaseColor expression="1" OutputIndex="0"/>
+		<Metallic expression="2" OutputIndex="0"/>
+		<Roughness expression="3" OutputIndex="0"/>
+		<Specular expression="14"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="generic_perforated_01">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.135000,G=0.128257,B=0.131113,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="3.900000"/>
+			<Scalar constant="0.100000"/>
+			<Scalar constant="45.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="10.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="12"/>
+				<1 expression="13"/>
+			</DotProduct>
+		</Expressions>
+		<BaseColor expression="1" OutputIndex="0"/>
+		<Metallic expression="2" OutputIndex="0"/>
+		<Roughness expression="3" OutputIndex="0"/>
+		<Specular expression="14"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Caesar_Bed_Metall">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Bed_Slot__2">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Bed_Slot__3">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="FabricLeatherCowhide001_4K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="FabricLeatherCowhide001_REFL_4K_jpg">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="FabricLeatherCowhide001_GLOSS_4K_jpg">
+				<Coordinates expression="14"/>
+			</Texture>
+			<OneMinus>
+				<0 expression="15" OutputIndex="0"/>
+			</OneMinus>
+			<Scalar constant="1.000000"/>
+			<LinearInterpolate>
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16"/>
+				<2 expression="17" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="18"/>
+				<1 expression="19"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="FabricLeatherCowhide001_NRM_4K_jpg">
+				<Coordinates expression="22"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="13"/>
+		<Roughness expression="20"/>
+		<Specular expression="21" OutputIndex="0"/>
+		<Normal expression="23" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Caesar_Bed_Wood">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=-0.040000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="Map__2070297256">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Texture PathName="Map__2070297257"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="9" OutputIndex="0"/>
+				<1 expression="10"/>
+			</DotProduct>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.000000,G=-0.040000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="14" OutputIndex="0"/>
+				<2 expression="15" OutputIndex="0"/>
+				<3 expression="16" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="17"/>
+			</ComponentMask>
+			<Texture PathName="Map__2070297255">
+				<Coordinates expression="18"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="11"/>
+		<Roughness expression="12" OutputIndex="0"/>
+		<Specular expression="13" OutputIndex="0"/>
+		<Normal expression="19" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Continental_Metall">
+		<Expressions>
+			<Color constant="(R=0.329590,G=0.335815,B=0.322754,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Continental_Wood">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=-0.040000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="Map__2070297256">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Texture PathName="Map__2070297281"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="9" OutputIndex="0"/>
+				<1 expression="10"/>
+			</DotProduct>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.000000,G=-0.040000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="14" OutputIndex="0"/>
+				<2 expression="15" OutputIndex="0"/>
+				<3 expression="16" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="17"/>
+			</ComponentMask>
+			<Texture PathName="Map__2070297255">
+				<Coordinates expression="18"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="11"/>
+		<Roughness expression="12" OutputIndex="0"/>
+		<Specular expression="13" OutputIndex="0"/>
+		<Normal expression="19" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Continental_Plastik">
+		<Expressions>
+			<Color constant="(R=0.003922,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="light_beige_wood_tex_001">
+		<Expressions>
+			<Texture PathName="wood_color_png"/>
+			<Scalar constant="0.000000"/>
+			<Texture PathName="black_wood_roughness_png"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="2" OutputIndex="0"/>
+				<1 expression="3"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="wood_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="4"/>
+		<Specular expression="5" OutputIndex="0"/>
+		<Normal expression="6" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="black_wood_tex_001">
+		<Expressions>
+			<Texture PathName="black_wood_color_png"/>
+			<Scalar constant="0.000000"/>
+			<Texture PathName="wood_roughness_png"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="2" OutputIndex="0"/>
+				<1 expression="3"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="wood_normal_png"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="4"/>
+		<Specular expression="5" OutputIndex="0"/>
+		<Normal expression="6" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="grey_rubber_001">
+		<Expressions>
+			<Color constant="(R=0.229393,G=0.229393,B=0.229393,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.421569"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="08___Default23">
+		<Expressions>
+			<Texture PathName="Map__5"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.707183"/>
+			<Scalar constant="0.540000"/>
+			<Texture PathName="Map__5_001"/>
+			<Scalar constant="0.300000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_030">
+		<Expressions>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW"/>
+			<Color constant="(R=0.150000,G=2.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=2.354449,B=0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint3D">
+				<0 expression="0"/>
+				<1 expression="1" OutputIndex="0"/>
+				<2 expression="2" OutputIndex="0"/>
+				<3 expression="3" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="4"/>
+			</ComponentMask>
+			<Texture PathName="autism_day_awareness_with_colourful_portrait_jpg">
+				<Coordinates expression="5"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="6" OutputIndex="0"/>
+		<Metallic expression="7" OutputIndex="0"/>
+		<Roughness expression="8" OutputIndex="0"/>
+		<Specular expression="9" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="16___Default">
+		<Expressions>
+			<Texture PathName="Map__27"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.858579"/>
+			<Scalar constant="0.000000"/>
+			<Texture PathName="Map__27_003"/>
+			<Scalar constant="0.300000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="gold">
+		<Expressions>
+			<Texture PathName="Map__30"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.626787"/>
+			<Scalar constant="0.480000"/>
+			<Texture PathName="Map__30_002"/>
+			<Scalar constant="0.050000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="22___Defaultsss">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.160928,G=0.085376,B=0.028492,A=1.000000)"/>
+			<Scalar constant="0.676364"/>
+			<Scalar constant="0.181818"/>
+			<Scalar constant="0.840000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<LinearInterpolate>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="9" OutputIndex="0"/>
+			</LinearInterpolate>
+			<LinearInterpolate>
+				<0 expression="2"/>
+				<1 expression="8"/>
+				<2 expression="9" OutputIndex="0"/>
+			</LinearInterpolate>
+		</Expressions>
+		<BaseColor expression="10"/>
+		<Refraction expression="1"/>
+		<Opacity expression="11"/>
+		<Metallic expression="4" OutputIndex="0"/>
+		<Roughness expression="5" OutputIndex="0"/>
+		<Specular expression="6" OutputIndex="0"/>
+		<Normal expression="7" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_029">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="30.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_033">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_034">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=2.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=3.141593,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=3.000000,G=3.000000,B=3.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint3D">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="watercolor_elephant_illustration_jpg">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="LampWeraJaneFrameA006_4K">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="LampWeraJaneFrameA006_COL_4K_METALNESS_png">
+				<Coordinates expression="13"/>
+			</Texture>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/AdjustHSV">
+				<0 expression="9" OutputIndex="0"/>
+				<1 expression="10" OutputIndex="0"/>
+				<2 expression="11" OutputIndex="0"/>
+				<3 expression="12" OutputIndex="0"/>
+				<4 expression="14" OutputIndex="0"/>
+			</FunctionCall>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/BrightContrast">
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16" OutputIndex="0"/>
+				<2 expression="17" OutputIndex="0"/>
+			</FunctionCall>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="LampWeraJaneFrameA006_METALNESS_4K_METALNESS_png">
+				<Coordinates expression="24"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="25" OutputIndex="0"/>
+				<1 expression="26"/>
+			</DotProduct>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="LampWeraJaneFrameA006_ROUGHNESS_4K_METALNESS_png">
+				<Coordinates expression="33"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="34" OutputIndex="0"/>
+				<1 expression="35"/>
+			</DotProduct>
+			<Scalar constant="1.000000"/>
+			<Add>
+				<0 expression="28" OutputIndex="0"/>
+				<1 expression="37" OutputIndex="0"/>
+			</Add>
+			<Multiply>
+				<0 expression="36"/>
+				<1 expression="38"/>
+			</Multiply>
+			<Scalar constant="1.000000"/>
+			<Subtract>
+				<0 expression="38"/>
+				<1 expression="40" OutputIndex="0"/>
+			</Subtract>
+			<Add>
+				<0 expression="39"/>
+				<1 expression="41"/>
+			</Add>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="LampWeraJaneFrameA006_TRANSMISSION_4K_METALNESS_png">
+				<Coordinates expression="49"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="50" OutputIndex="0"/>
+				<1 expression="51"/>
+			</DotProduct>
+			<OneMinus>
+				<0 expression="52"/>
+			</OneMinus>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="LampWeraJaneFrameA006_NRM_4K_METALNESS_png">
+				<Coordinates expression="59"/>
+			</Texture>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="60" OutputIndex="0"/>
+				<1 expression="55" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="18"/>
+		<Metallic expression="27"/>
+		<Roughness expression="42"/>
+		<Specular expression="43" OutputIndex="0"/>
+		<Opacity expression="53"/>
+		<Normal expression="61"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_013">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="200.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_035">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="30.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<Texture name="meadow_2_8k_exr" file="BEDROOM_Assets\meadow_2_8k_exr.exr" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="1ade9928b0b0252505dfb8f7631e4ed2"/>
+	</Texture>
+	<Texture name="FabricLeatherCowhide001_REFL_4K_jpg" file="BEDROOM_Assets\FabricLeatherCowhide001_REFL_4K_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="d5531f9bb2417a28d65533546af76530"/>
+	</Texture>
+	<Texture name="FabricLeatherCowhide001_GLOSS_4K_jpg" file="BEDROOM_Assets\FabricLeatherCowhide001_GLOSS_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="2964e8a3a99629cb9e71a021928339d6"/>
+	</Texture>
+	<Texture name="FabricLeatherCowhide001_NRM_4K_jpg" file="BEDROOM_Assets\FabricLeatherCowhide001_NRM_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="f6d4936be4481b6c02d102d5ae6db48e"/>
+	</Texture>
+	<Texture name="Map__2070297256" file="BEDROOM_Assets\Map__2070297256.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="1ec587736db0efc656ee52c4b3394a82"/>
+	</Texture>
+	<Texture name="Map__2070297257" file="BEDROOM_Assets\Map__2070297257.tga" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3"/>
+	<Texture name="Map__2070297255" file="BEDROOM_Assets\Map__2070297255.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="389a620d8f9e06a54cbebf332b181ab4"/>
+	</Texture>
+	<Texture name="Map__2070297281" file="BEDROOM_Assets\Map__2070297281.tga" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3"/>
+	<Texture name="wood_color_png" file="BEDROOM_Assets\wood_color_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="1aa652380b37946d1225291610f6e99c"/>
+	</Texture>
+	<Texture name="black_wood_roughness_png" file="BEDROOM_Assets\black_wood_roughness_png.tga" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3"/>
+	<Texture name="wood_normal_png" file="BEDROOM_Assets\wood_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="e4334d7099f3cfbaadaf299ef3265b43"/>
+	</Texture>
+	<Texture name="black_wood_color_png" file="BEDROOM_Assets\black_wood_color_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="9ff4001c987b6ce0d13224cc817f6e44"/>
+	</Texture>
+	<Texture name="wood_roughness_png" file="BEDROOM_Assets\wood_roughness_png.png" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="e01eb4c9d2e9da0fd4678ecb2b32337b"/>
+	</Texture>
+	<Texture name="Map__5" file="BEDROOM_Assets\Map__5.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="48e47947dfad89bc460194ce6ce6f840"/>
+	</Texture>
+	<Texture name="Map__5_001" file="BEDROOM_Assets\Map__5_001.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="48e47947dfad89bc460194ce6ce6f840"/>
+	</Texture>
+	<Texture name="autism_day_awareness_with_colourful_portrait_jpg" file="BEDROOM_Assets\autism_day_awareness_with_colourful_portrait_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="ea612cb712f70b24165003f3f8c322b7"/>
+	</Texture>
+	<Texture name="Map__27" file="BEDROOM_Assets\Map__27.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="fbfafe22ad670a8c5211f609052c4478"/>
+	</Texture>
+	<Texture name="Map__27_003" file="BEDROOM_Assets\Map__27_003.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="fbfafe22ad670a8c5211f609052c4478"/>
+	</Texture>
+	<Texture name="Map__30" file="BEDROOM_Assets\Map__30.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="4d3227b2fefcbbf28f2170ee7ad18577"/>
+	</Texture>
+	<Texture name="Map__30_002" file="BEDROOM_Assets\Map__30_002.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="4d3227b2fefcbbf28f2170ee7ad18577"/>
+	</Texture>
+	<Texture name="watercolor_elephant_illustration_jpg" file="BEDROOM_Assets\watercolor_elephant_illustration_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="def3d942fcfbc8c9a78380c40da9fe3c"/>
+	</Texture>
+	<Texture name="LampWeraJaneFrameA006_COL_4K_METALNESS_png" file="BEDROOM_Assets\LampWeraJaneFrameA006_COL_4K_METALNESS_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="87913df110adbc120036bff1a9721950"/>
+	</Texture>
+	<Texture name="LampWeraJaneFrameA006_METALNESS_4K_METALNESS_png" file="BEDROOM_Assets\LampWeraJaneFrameA006_METALNESS_4K_METALNESS_png.png" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="becb6b09e80293a6002beaab73d2f195"/>
+	</Texture>
+	<Texture name="LampWeraJaneFrameA006_ROUGHNESS_4K_METALNESS_png" file="BEDROOM_Assets\LampWeraJaneFrameA006_ROUGHNESS_4K_METALNESS_png.png" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="296094d1eb584dc891ec3aa2e554fcc1"/>
+	</Texture>
+	<Texture name="LampWeraJaneFrameA006_TRANSMISSION_4K_METALNESS_png" file="BEDROOM_Assets\LampWeraJaneFrameA006_TRANSMISSION_4K_METALNESS_png.png" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="31c5a5ea5a41234cc40bfd67a15033c9"/>
+	</Texture>
+	<Texture name="LampWeraJaneFrameA006_NRM_4K_METALNESS_png" file="BEDROOM_Assets\LampWeraJaneFrameA006_NRM_4K_METALNESS_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="8dd09aefcb75d3fc8237dd7b8598cc74"/>
+	</Texture>
+	<MetaData name="Actor_DS_Caesar_bed_linen" reference="Actor.DS_Caesar_bed_linen">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="386.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': '_Caesar_bed_linen@1', 'object_ptr': '2074582064416', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Caesar_Bed" reference="StaticMesh.Caesar_Bed">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_009@251', 'object_ptr': '2074602429728'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Caesar_Bed" reference="Actor.Caesar_Bed">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="135.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Caesar_Bed@250', 'object_ptr': '2074581389088', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Nightstand_Continental" reference="StaticMesh.Nightstand_Continental">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_010@1383', 'object_ptr': '2074602427936'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Nightstand_Continental" reference="Actor.Nightstand_Continental">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="473.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Nightstand_Continental@1382', 'object_ptr': '2074578441760', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Plane_007" reference="StaticMesh.Plane_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_005@1551', 'object_ptr': '2074595675936'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Plane_007" reference="Actor.Plane_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Plane_007@1550', 'object_ptr': '2074594862112', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Plane_008" reference="StaticMesh.Plane_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_008@1553', 'object_ptr': '2074595903520'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Plane_008" reference="Actor.Plane_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Plane_008@1552', 'object_ptr': '2074594860320', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Rectangle006" reference="StaticMesh.Rectangle006">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_114@1655', 'object_ptr': '2074599790112'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Rectangle006" reference="Actor.Rectangle006">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="130.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Rectangle006@1652', 'object_ptr': '2074594629152', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Box009" reference="StaticMesh.Box009">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_201@227', 'object_ptr': '2074598654240'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Box009" reference="Actor.Box009">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="340.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Box009@224', 'object_ptr': '2074581429024', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Rectangle006_001" reference="Actor.Rectangle006_001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="130.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Rectangle006_001@1654', 'object_ptr': '2074594627360', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Box009_001" reference="Actor.Box009_001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="340.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Box009_001@226', 'object_ptr': '2074581427232', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder016" reference="StaticMesh.Cylinder016">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_168@954', 'object_ptr': '2074598978080'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder016" reference="Actor.Cylinder016">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="193.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder016@953', 'object_ptr': '2074579787040', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder013" reference="StaticMesh.Cylinder013">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_169@948', 'object_ptr': '2074598976288'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder013" reference="Actor.Cylinder013">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="194.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder013@947', 'object_ptr': '2074579792416', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder015" reference="StaticMesh.Cylinder015">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_170@952', 'object_ptr': '2074598972704'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder015" reference="Actor.Cylinder015">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="195.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder015@951', 'object_ptr': '2074579788832', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Line005" reference="StaticMesh.Line005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_171@1305', 'object_ptr': '2074598969120'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Line005" reference="Actor.Line005">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="196.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Line005@1304', 'object_ptr': '2074579000608', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder014" reference="StaticMesh.Cylinder014">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_172@950', 'object_ptr': '2074598965536'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder014" reference="Actor.Cylinder014">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="197.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder014@949', 'object_ptr': '2074579790624', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder011" reference="StaticMesh.Cylinder011">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_173@946', 'object_ptr': '2074598865184'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder011" reference="Actor.Cylinder011">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="198.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder011@945', 'object_ptr': '2074579794208', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Torus062" reference="StaticMesh.Torus062">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_197@2911', 'object_ptr': '2074598666784'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Torus062" reference="Actor.Torus062">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="336.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Torus062@2910', 'object_ptr': '2074592253472', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Torus063" reference="StaticMesh.Torus063">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_198@2913', 'object_ptr': '2074598664992'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Torus063" reference="Actor.Torus063">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="337.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Torus063@2912', 'object_ptr': '2074592251680', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Torus065" reference="StaticMesh.Torus065">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_209@2915', 'object_ptr': '2074598581280'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Torus065" reference="Actor.Torus065">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="352.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Torus065@2914', 'object_ptr': '2074592249888', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Torus066" reference="StaticMesh.Torus066">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_210@2917', 'object_ptr': '2074598579488'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Torus066" reference="Actor.Torus066">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="353.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Torus066@2916', 'object_ptr': '2074592248096', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Torus067" reference="StaticMesh.Torus067">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_211@2919', 'object_ptr': '2074598574112'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Torus067" reference="Actor.Torus067">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="354.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Torus067@2918', 'object_ptr': '2074592229664', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_178" reference="StaticMesh.Cube_178">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_029@794', 'object_ptr': '2074605331488'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_178" reference="Actor.Cube_178">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_178@793', 'object_ptr': '2074580194848', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_LampWerajaneFrameA006_001" reference="StaticMesh.LampWerajaneFrameA006_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_LampWerajaneFrameA006@1270', 'object_ptr': '2074602677280'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_LampWerajaneFrameA006_001" reference="Actor.LampWerajaneFrameA006_001">
+		<KeyValueProperty name="poliigon" val="Models;LampWeraJaneFrameA006" type="String"/>
+		<KeyValueProperty name="poliigon_props" val="{'asset_id': 7530, 'asset_name': 'LampWeraJaneFrameA006', 'asset_type': 'MODEL', 'size': '4K', 'use_collection': 0, 'link_blend': 0}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'LampWerajaneFrameA006_001@1269', 'object_ptr': '2074579067936', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_LampWeraJaneFrameA006_4K_Empty" reference="Actor.LampWeraJaneFrameA006_4K_Empty">
+		<KeyValueProperty name="vray" val="{'unique_id': 'LampWeraJaneFrameA006_4K_Empty@1271', 'object_ptr': '2074579066144'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Sphere" reference="StaticMesh.Sphere">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Sphere@1814', 'object_ptr': '2075204842016'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Sphere" reference="Actor.Sphere">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Sphere@1813', 'object_ptr': '2074594255904', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<Export Duration="20.25"/>
+</DatasmithUnrealScene>

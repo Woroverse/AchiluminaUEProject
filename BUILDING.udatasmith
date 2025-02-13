@@ -1,0 +1,604 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.18"/>
+	<User ID="USER" OS="Windows 10"/>
+	<ActorMesh name="Cube_013" layer="BUILDING">
+		<mesh name="Cube_013__Cube_048"/>
+		<Transform tx="-38.305069" ty="1352.906860" tz="5.692653" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="1.000000" sx="-1.000000" sy="-0.025054" sz="-0.069203"/>
+	</ActorMesh>
+	<ActorMesh name="archmodels95_010_001" layer="BUILDING">
+		<mesh name="Mesh_438"/>
+		<Transform tx="-166.804443" ty="1096.623657" tz="158.673569" qw="0.707107" qx="-0.707107" qy="-0.000000" qz="-0.000000" sx="0.037107" sy="0.037107" sz="0.037107"/>
+	</ActorMesh>
+	<ActorMesh name="archmodels95_010_002" layer="BUILDING">
+		<mesh name="Mesh_439"/>
+		<Transform tx="-166.804443" ty="1097.208008" tz="154.509949" qw="0.707107" qx="-0.707107" qy="-0.000000" qz="-0.000000" sx="0.037107" sy="0.037107" sz="0.037107"/>
+	</ActorMesh>
+	<ActorMesh name="archmodels95_010_005" layer="BUILDING">
+		<mesh name="Mesh_441"/>
+		<Transform tx="-166.804443" ty="1097.037598" tz="163.494568" qw="0.707107" qx="-0.707107" qy="-0.000000" qz="-0.000000" sx="0.037107" sy="0.037107" sz="0.037107"/>
+	</ActorMesh>
+	<ActorMesh name="BUILDING__WALL" layer="BUILDING">
+		<mesh name="BUILDING__WALL__Cube_004"/>
+		<Transform tx="-202.703735" ty="1366.742920" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.361350" sy="0.134763" sz="1.500000"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_002" layer="BUILDING">
+		<mesh name="Cube_002__Cube_011"/>
+		<Transform tx="-38.305069" ty="1352.906860" tz="5.692653" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="1.000000" sx="-1.000000" sy="-0.025054" sz="-0.069203"/>
+	</ActorMesh>
+	<ActorMesh name="WOODEN_WALL_2" layer="WOODEN WALL">
+		<mesh name="WOODEN_WALL_2__Cube_006"/>
+		<Transform tx="-390.818634" ty="440.340424" tz="145.357819" qw="0.000000" qx="-0.000000" qy="1.000000" qz="-0.000000" sx="-0.048482" sy="-0.053155" sz="-1.523127"/>
+	</ActorMesh>
+	<Environment name="world_environment_background" label="world_environment_background">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="0"/>
+	</Environment>
+	<Environment name="world_environment_lighting" label="world_environment_lighting">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="1"/>
+	</Environment>
+	<StaticMesh label="Cube_013__Cube_048" name="Cube_013__Cube_048">
+		<Material id="0" name="marble_wall"/>
+		<file path="BUILDING_Assets/Cube_013__Cube_048.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7b03a7d576b199fe32a42b5e1184150e"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_438" name="Mesh_438">
+		<Material id="0" name="Material_002"/>
+		<file path="BUILDING_Assets/Mesh_438.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5cc774c48fec0168e3a55088bb381acd"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_439" name="Mesh_439">
+		<Material id="0" name="expanded_ps"/>
+		<file path="BUILDING_Assets/Mesh_439.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d1c0493789488ad73079bcc29abb0808"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_441" name="Mesh_441">
+		<Material id="0" name="archmodels95_010_005"/>
+		<file path="BUILDING_Assets/Mesh_441.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="07046a8cd7b7160169cdb3f71fc4dfe7"/>
+	</StaticMesh>
+	<StaticMesh label="BUILDING__WALL__Cube_004" name="BUILDING__WALL__Cube_004">
+		<Material id="0" name="Poliigon_ConcreteFloorPoured_7656_2K_001"/>
+		<Material id="1" name="marble_wall_001"/>
+		<Material id="2" name="Material_003"/>
+		<Material id="3" name="DefaultMaterial"/>
+		<Material id="4" name="Poliigon_PlasterPainted_7664_1K"/>
+		<Material id="5" name="flagstone_02"/>
+		<file path="BUILDING_Assets/BUILDING__WALL__Cube_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6742689fd5dee2165a640e84e0db4bd8"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_002__Cube_011" name="Cube_002__Cube_011">
+		<Material id="0" name="marble_wall_001"/>
+		<file path="BUILDING_Assets/Cube_002__Cube_011.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a0bbcf007c84288cdbb885cb00bd9254"/>
+	</StaticMesh>
+	<StaticMesh label="WOODEN_WALL_2__Cube_006" name="WOODEN_WALL_2__Cube_006">
+		<Material id="0" name="Poliigon_MetalBronzeWorn_7248_4K"/>
+		<file path="BUILDING_Assets/WOODEN_WALL_2__Cube_006.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f0acd0916ff573415b451b29039f57c9"/>
+	</StaticMesh>
+	<UEPbrMaterial name="marble_wall">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="4.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="8"/>
+			</ComponentMask>
+			<Texture PathName="Marble012_4K_Color_jpg">
+				<Coordinates expression="9"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="10" OutputIndex="0"/>
+				<1 expression="11"/>
+			</DotProduct>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1024.000000"/>
+			<TextureObject>
+				<0 name="Texture" type="Texture" val="datasmith_curves"/>
+			</TextureObject>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/ColorRamp">
+				<0 expression="12"/>
+				<1 expression="13"/>
+				<2 expression="14"/>
+				<3 expression="15"/>
+			</FunctionCall>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="8"/>
+			</ComponentMask>
+			<Texture PathName="Marble012_4K_Roughness_jpg">
+				<Coordinates expression="18"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="19" OutputIndex="0"/>
+				<1 expression="20"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="8"/>
+			</ComponentMask>
+			<Texture PathName="Marble012_4K_Normal_jpg">
+				<Coordinates expression="23"/>
+			</Texture>
+			<Scalar constant="2.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="24" OutputIndex="0"/>
+				<1 expression="25" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="16" OutputIndex="0"/>
+		<Metallic expression="17" OutputIndex="0"/>
+		<Roughness expression="21"/>
+		<Specular expression="22" OutputIndex="0"/>
+		<Normal expression="26"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_002">
+		<Expressions>
+			<Color constant="(R=0.025618,G=0.025618,B=0.025618,A=1.000000)"/>
+			<Scalar constant="0.345455"/>
+			<Scalar constant="0.416364"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="expanded_ps">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.750000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.660000"/>
+			<Scalar constant="0.840000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.056878"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.380000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="15"/>
+				<1 expression="16"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="13"/>
+		<Metallic expression="14" OutputIndex="0"/>
+		<Roughness expression="17"/>
+		<Specular expression="18" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="archmodels95_010_005">
+		<Expressions>
+			<Color constant="(R=0.058824,G=0.058824,B=0.058824,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Poliigon_ConcreteFloorPoured_7656_2K_001">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</DotProduct>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1024.000000"/>
+			<TextureObject>
+				<0 name="Texture" type="Texture" val="datasmith_curves"/>
+			</TextureObject>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/ColorRamp">
+				<0 expression="2"/>
+				<1 expression="3"/>
+				<2 expression="4"/>
+				<3 expression="5"/>
+			</FunctionCall>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="7"/>
+				<1 expression="8"/>
+			</AppendVector>
+			<Scalar constant="0.070000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="15"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_ConcreteFloorPoured_7656_Metallic_2K_jpg_001">
+				<Coordinates expression="16"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="17" OutputIndex="0"/>
+				<1 expression="18"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="15"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_ConcreteFloorPoured_7656_Roughness_2K_jpg_001">
+				<Coordinates expression="20"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="21" OutputIndex="0"/>
+				<1 expression="22"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="15"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_ConcreteFloorPoured_7656_Normal_2K_png_001">
+				<Coordinates expression="25"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="6" OutputIndex="0"/>
+		<Metallic expression="19"/>
+		<Roughness expression="23"/>
+		<Specular expression="24" OutputIndex="0"/>
+		<Normal expression="26" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="marble_wall_001">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="4.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="8"/>
+			</ComponentMask>
+			<Texture PathName="Marble012_4K_Color_jpg_001">
+				<Coordinates expression="9"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="10" OutputIndex="0"/>
+				<1 expression="11"/>
+			</DotProduct>
+			<Scalar constant="2.000000"/>
+			<Scalar constant="1024.000000"/>
+			<TextureObject>
+				<0 name="Texture" type="Texture" val="datasmith_curves"/>
+			</TextureObject>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/ColorRamp">
+				<0 expression="12"/>
+				<1 expression="13"/>
+				<2 expression="14"/>
+				<3 expression="15"/>
+			</FunctionCall>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="8"/>
+			</ComponentMask>
+			<Texture PathName="Marble012_4K_Roughness_jpg_001">
+				<Coordinates expression="18"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="19" OutputIndex="0"/>
+				<1 expression="20"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="8"/>
+			</ComponentMask>
+			<Texture PathName="Marble012_4K_Normal_jpg_001">
+				<Coordinates expression="23"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="16" OutputIndex="0"/>
+		<Metallic expression="17" OutputIndex="0"/>
+		<Roughness expression="21"/>
+		<Specular expression="22" OutputIndex="0"/>
+		<Normal expression="24" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_003">
+		<Expressions>
+			<Color constant="(R=0.414551,G=0.425781,B=0.395020,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="DefaultMaterial">
+		<Expressions>
+			<Color constant="(R=0.906332,G=0.906332,B=0.906332,A=1.000000)"/>
+			<Scalar constant="0.400000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Roughness expression="1" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Poliigon_PlasterPainted_7664_1K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_PlasterPainted_7664_Metallic_1K_jpg">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_PlasterPainted_7664_Roughness_1K_jpg">
+				<Coordinates expression="14"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_PlasterPainted_7664_Normal_1K_jpg">
+				<Coordinates expression="19"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="13"/>
+		<Roughness expression="17"/>
+		<Specular expression="18" OutputIndex="0"/>
+		<Normal expression="20" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="flagstone_02">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.590000"/>
+			<Scalar constant="1.300000"/>
+			<Scalar constant="1.730000"/>
+			<Scalar constant="0.340000"/>
+			<Scalar constant="0.907609"/>
+			<Color constant="(R=0.549510,G=0.522139,B=0.493845,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.548913"/>
+			<Color constant="(R=0.209428,G=0.147957,B=0.113805,A=1.000000)"/>
+			<Scalar constant="0.300000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.505435"/>
+			<Scalar constant="0.322603"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="10.200000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="31"/>
+				<1 expression="32"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.000000"/>
+		</Expressions>
+		<BaseColor expression="29"/>
+		<Metallic expression="30" OutputIndex="0"/>
+		<Roughness expression="33"/>
+		<Specular expression="34" OutputIndex="0"/>
+		<Normal expression="35"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Poliigon_MetalBronzeWorn_7248_4K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalBronzeWorn_7248_Metallic_4K_jpg">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalBronzeWorn_7248_Roughness_4K_jpg">
+				<Coordinates expression="14"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalBronzeWorn_7248_Normal_4K_jpg">
+				<Coordinates expression="19"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="13"/>
+		<Roughness expression="17"/>
+		<Specular expression="18" OutputIndex="0"/>
+		<Normal expression="20" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<Texture name="meadow_2_8k_exr" file="BUILDING_Assets\meadow_2_8k_exr.exr" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="1ade9928b0b0252505dfb8f7631e4ed2"/>
+	</Texture>
+	<Texture name="Marble012_4K_Color_jpg" file="BUILDING_Assets\Marble012_4K_Color_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="2cc49fdaaa7df0959d7b6d3cd78efb1b"/>
+	</Texture>
+	<Texture name="Marble012_4K_Roughness_jpg" file="BUILDING_Assets\Marble012_4K_Roughness_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="a8a16ad9dd0b9b251f6bae5282538ccc"/>
+	</Texture>
+	<Texture name="Marble012_4K_Normal_jpg" file="BUILDING_Assets\Marble012_4K_Normal_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="3174f1f81ad48339ec95f29c0f7ec52d"/>
+	</Texture>
+	<Texture name="Poliigon_ConcreteFloorPoured_7656_Metallic_2K_jpg_001" file="BUILDING_Assets\Poliigon_ConcreteFloorPoured_7656_Metallic_2K_jpg_001.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="54bff18599542d0328b146f1ccd94c2a"/>
+	</Texture>
+	<Texture name="Poliigon_ConcreteFloorPoured_7656_Roughness_2K_jpg_001" file="BUILDING_Assets\Poliigon_ConcreteFloorPoured_7656_Roughness_2K_jpg_001.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="3d6aede5418a7728a576b71c60a0ca5d"/>
+	</Texture>
+	<Texture name="Poliigon_ConcreteFloorPoured_7656_Normal_2K_png_001" file="BUILDING_Assets\Poliigon_ConcreteFloorPoured_7656_Normal_2K_png_001.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="4e35ea46c0df562975cf70434bc75bc9"/>
+	</Texture>
+	<Texture name="Marble012_4K_Color_jpg_001" file="BUILDING_Assets\Marble012_4K_Color_jpg_001.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="2cc49fdaaa7df0959d7b6d3cd78efb1b"/>
+	</Texture>
+	<Texture name="Marble012_4K_Roughness_jpg_001" file="BUILDING_Assets\Marble012_4K_Roughness_jpg_001.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="a8a16ad9dd0b9b251f6bae5282538ccc"/>
+	</Texture>
+	<Texture name="Marble012_4K_Normal_jpg_001" file="BUILDING_Assets\Marble012_4K_Normal_jpg_001.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="3174f1f81ad48339ec95f29c0f7ec52d"/>
+	</Texture>
+	<Texture name="Poliigon_PlasterPainted_7664_Metallic_1K_jpg" file="BUILDING_Assets\Poliigon_PlasterPainted_7664_Metallic_1K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="27831a33b3e5649e0b00a0d5c448d53f"/>
+	</Texture>
+	<Texture name="Poliigon_PlasterPainted_7664_Roughness_1K_jpg" file="BUILDING_Assets\Poliigon_PlasterPainted_7664_Roughness_1K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="340219fd71f88e982b4da3725aefdbfd"/>
+	</Texture>
+	<Texture name="Poliigon_PlasterPainted_7664_Normal_1K_jpg" file="BUILDING_Assets\Poliigon_PlasterPainted_7664_Normal_1K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="e4bc66d51ef70c5fde60f0892d9dfd5c"/>
+	</Texture>
+	<Texture name="Poliigon_MetalBronzeWorn_7248_Metallic_4K_jpg" file="BUILDING_Assets\Poliigon_MetalBronzeWorn_7248_Metallic_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="3f5d245296f101e26dca4da408c357be"/>
+	</Texture>
+	<Texture name="Poliigon_MetalBronzeWorn_7248_Roughness_4K_jpg" file="BUILDING_Assets\Poliigon_MetalBronzeWorn_7248_Roughness_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="e4ee73a236247fd65f1325eb5c357923"/>
+	</Texture>
+	<Texture name="Poliigon_MetalBronzeWorn_7248_Normal_4K_jpg" file="BUILDING_Assets\Poliigon_MetalBronzeWorn_7248_Normal_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="e3783804ca3415ec5afad9c9765ac521"/>
+	</Texture>
+	<Texture name="datasmith_curves" file="BUILDING_Assets\datasmith_curves.exr" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="73e33a245cf853dc83de93393ac3bb92"/>
+	</Texture>
+	<MetaData name="Actor_Cube_013" reference="Actor.Cube_013">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_013@751', 'object_ptr': '2074580265760', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_archmodels95_010_001" reference="StaticMesh.archmodels95_010_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_438@20', 'object_ptr': '2074596671776'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_archmodels95_010_001" reference="Actor.archmodels95_010_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MapChannel:2" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="2.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'archmodels95_010_001@19', 'object_ptr': '2074581993504', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_archmodels95_010_002" reference="StaticMesh.archmodels95_010_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_439@22', 'object_ptr': '2074596602400'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_archmodels95_010_002" reference="Actor.archmodels95_010_002">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="3.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'archmodels95_010_002@21', 'object_ptr': '2074581991712', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_archmodels95_010_005" reference="StaticMesh.archmodels95_010_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_441@28', 'object_ptr': '2074596593440'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_archmodels95_010_005" reference="Actor.archmodels95_010_005">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="5.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'archmodels95_010_005@27', 'object_ptr': '2074581969696', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_BUILDING__WALL" reference="StaticMesh.BUILDING__WALL">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_004@233', 'object_ptr': '2074605648160'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_BUILDING__WALL" reference="Actor.BUILDING__WALL">
+		<KeyValueProperty name="vray" val="{'unique_id': 'BUILDING__WALL@232', 'object_ptr': '2074581421856', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_002" reference="Actor.Cube_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_002@729', 'object_ptr': '2074580302112', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_WOODEN_WALL_2" reference="Actor.WOODEN_WALL_2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'WOODEN_WALL_2@3064', 'object_ptr': '2074591827488', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<Export Duration="14.203999999997905"/>
+</DatasmithUnrealScene>

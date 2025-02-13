@@ -1,0 +1,654 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.18"/>
+	<User ID="USER" OS="Windows 10"/>
+	<Actor name="Splinker" layer="SPRINKLERS">
+		<Transform tx="-279.296021" ty="710.571411" tz="283.912079" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.491692" sy="1.491692" sz="1.491692"/>
+		<children visible="True">
+			<ActorMesh name="Object050" layer="SPRINKLERS">
+				<mesh name="Mesh_094"/>
+				<Transform tx="-279.296021" ty="710.571411" tz="277.181305" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object052" layer="SPRINKLERS">
+				<mesh name="Mesh_084"/>
+				<Transform tx="-279.296021" ty="710.571411" tz="275.719330" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object054" layer="SPRINKLERS">
+				<mesh name="Mesh_085"/>
+				<Transform tx="-279.296021" ty="710.571411" tz="282.929169" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object056" layer="SPRINKLERS">
+				<mesh name="Mesh_086"/>
+				<Transform tx="-279.296021" ty="708.604004" tz="281.048920" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object058" layer="SPRINKLERS">
+				<mesh name="Mesh_091"/>
+				<Transform tx="-279.296021" ty="710.571411" tz="275.691589" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object060" layer="SPRINKLERS">
+				<mesh name="Mesh_092"/>
+				<Transform tx="-280.999878" ty="711.555176" tz="281.048920" qw="0.183013" qx="-0.183013" qy="-0.683013" qz="0.683013" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object062" layer="SPRINKLERS">
+				<mesh name="Mesh_093"/>
+				<Transform tx="-277.592163" ty="711.555176" tz="281.048920" qw="0.683013" qx="-0.683013" qy="-0.183013" qz="0.183013" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object064" layer="SPRINKLERS">
+				<mesh name="Mesh_096"/>
+				<Transform tx="-279.296021" ty="718.964722" tz="283.264008" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Smoke_detector" layer="SPRINKLERS">
+		<Transform tx="-247.033112" ty="712.561340" tz="284.482910" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.491692" sy="1.491692" sz="1.491692"/>
+		<children visible="True">
+			<ActorMesh name="Object" layer="SPRINKLERS">
+				<mesh name="Mesh_134"/>
+				<Transform tx="-247.033112" ty="712.561340" tz="280.444794" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.843937" sy="1.843937" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object002_002" layer="SPRINKLERS">
+				<mesh name="Mesh_098"/>
+				<Transform tx="-247.033112" ty="712.561340" tz="277.856506" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object004_001" layer="SPRINKLERS">
+				<mesh name="Mesh_099"/>
+				<Transform tx="-247.033112" ty="706.365723" tz="278.286285" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object006_001" layer="SPRINKLERS">
+				<mesh name="Mesh_100"/>
+				<Transform tx="-248.778793" ty="706.617065" tz="278.286285" qw="0.142315" qx="-0.000000" qy="0.000000" qz="0.989821" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object008_001" layer="SPRINKLERS">
+				<mesh name="Mesh_111"/>
+				<Transform tx="-250.382568" ty="707.349243" tz="278.286285" qw="0.281733" qx="-0.000000" qy="0.000000" qz="0.959493" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object010_001" layer="SPRINKLERS">
+				<mesh name="Mesh_112"/>
+				<Transform tx="-251.715332" ty="708.504028" tz="278.286285" qw="0.415415" qx="-0.000000" qy="0.000000" qz="0.909632" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object012_001" layer="SPRINKLERS">
+				<mesh name="Mesh_115"/>
+				<Transform tx="-252.668686" ty="709.987671" tz="278.286285" qw="0.540641" qx="-0.000000" qy="0.000000" qz="0.841253" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object014_002" layer="SPRINKLERS">
+				<mesh name="Mesh_116"/>
+				<Transform tx="-253.165604" ty="711.679382" tz="278.286285" qw="0.654861" qx="-0.000000" qy="0.000000" qz="0.755749" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object016_002" layer="SPRINKLERS">
+				<mesh name="Mesh_118"/>
+				<Transform tx="-253.165604" ty="713.443359" tz="278.286285" qw="0.755750" qx="-0.000000" qy="0.000000" qz="0.654860" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object018_001" layer="SPRINKLERS">
+				<mesh name="Mesh_119"/>
+				<Transform tx="-252.668686" ty="715.135071" tz="278.286285" qw="0.841254" qx="-0.000000" qy="0.000000" qz="0.540641" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object020_001" layer="SPRINKLERS">
+				<mesh name="Mesh_120"/>
+				<Transform tx="-251.715332" ty="716.618713" tz="278.286285" qw="0.909632" qx="-0.000000" qy="0.000000" qz="0.415415" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object022_001" layer="SPRINKLERS">
+				<mesh name="Mesh_121"/>
+				<Transform tx="-250.382568" ty="717.773499" tz="278.286285" qw="0.959493" qx="-0.000000" qy="0.000000" qz="0.281732" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object024_001" layer="SPRINKLERS">
+				<mesh name="Mesh_097"/>
+				<Transform tx="-248.778793" ty="718.505676" tz="278.286285" qw="0.989821" qx="-0.000000" qy="0.000000" qz="0.142315" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object026" layer="SPRINKLERS">
+				<mesh name="Mesh_123"/>
+				<Transform tx="-247.033112" ty="718.757019" tz="278.286285" qw="1.000000" qx="-0.000000" qy="0.000000" qz="0.000000" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object028" layer="SPRINKLERS">
+				<mesh name="Mesh_124"/>
+				<Transform tx="-245.287445" ty="718.505676" tz="278.286285" qw="0.989821" qx="-0.000000" qy="-0.000000" qz="-0.142315" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object030" layer="SPRINKLERS">
+				<mesh name="Mesh_125"/>
+				<Transform tx="-243.683670" ty="717.773499" tz="278.286285" qw="0.959493" qx="-0.000000" qy="-0.000000" qz="-0.281733" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object032" layer="SPRINKLERS">
+				<mesh name="Mesh_126"/>
+				<Transform tx="-242.350906" ty="716.618713" tz="278.286285" qw="0.909632" qx="-0.000000" qy="-0.000000" qz="-0.415415" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object034" layer="SPRINKLERS">
+				<mesh name="Mesh_127"/>
+				<Transform tx="-241.397552" ty="715.135071" tz="278.286285" qw="0.841254" qx="-0.000000" qy="-0.000000" qz="-0.540641" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object036" layer="SPRINKLERS">
+				<mesh name="Mesh_128"/>
+				<Transform tx="-240.900635" ty="713.443359" tz="278.286285" qw="0.755750" qx="-0.000000" qy="-0.000000" qz="-0.654861" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object038" layer="SPRINKLERS">
+				<mesh name="Mesh_129"/>
+				<Transform tx="-240.900635" ty="711.679382" tz="278.286285" qw="0.654861" qx="-0.000000" qy="-0.000000" qz="-0.755749" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object040" layer="SPRINKLERS">
+				<mesh name="Mesh_130"/>
+				<Transform tx="-241.397552" ty="709.987671" tz="278.286285" qw="0.540641" qx="-0.000000" qy="-0.000000" qz="-0.841253" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object042" layer="SPRINKLERS">
+				<mesh name="Mesh_131"/>
+				<Transform tx="-242.350906" ty="708.504028" tz="278.286285" qw="0.415415" qx="-0.000000" qy="-0.000000" qz="-0.909632" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object044" layer="SPRINKLERS">
+				<mesh name="Mesh_132"/>
+				<Transform tx="-243.683670" ty="707.349243" tz="278.286285" qw="0.281733" qx="-0.000000" qy="-0.000000" qz="-0.959493" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object046" layer="SPRINKLERS">
+				<mesh name="Mesh_133"/>
+				<Transform tx="-245.287415" ty="706.617065" tz="278.286285" qw="0.142315" qx="-0.000000" qy="-0.000000" qz="-0.989821" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+			<ActorMesh name="Object048" layer="SPRINKLERS">
+				<mesh name="Mesh_122"/>
+				<Transform tx="-247.033112" ty="712.561340" tz="278.747925" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.491692" sy="1.491692" sz="1.491692"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Environment name="world_environment_background" label="world_environment_background">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="0"/>
+	</Environment>
+	<Environment name="world_environment_lighting" label="world_environment_lighting">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="1"/>
+	</Environment>
+	<StaticMesh label="Mesh_094" name="Mesh_094">
+		<Material id="0" name="rojo"/>
+		<file path="SPRINKLERS_Assets/Mesh_094.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b8833d4f5f8aebafb10ac1fc882a1950"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_084" name="Mesh_084">
+		<Material id="0" name="inox"/>
+		<file path="SPRINKLERS_Assets/Mesh_084.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5c9eef4a63d5ac4d603a51205ae0dcc5"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_085" name="Mesh_085">
+		<Material id="0" name="inox"/>
+		<file path="SPRINKLERS_Assets/Mesh_085.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a277f8932d578513dfe483101ed6ca8c"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_086" name="Mesh_086">
+		<Material id="0" name="inox"/>
+		<file path="SPRINKLERS_Assets/Mesh_086.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="66cf21e0d6e252cf534ade114c733069"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_091" name="Mesh_091">
+		<Material id="0" name="inox"/>
+		<file path="SPRINKLERS_Assets/Mesh_091.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f64b5043f2a10edbcf1e7559e412860e"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_092" name="Mesh_092">
+		<Material id="0" name="inox"/>
+		<file path="SPRINKLERS_Assets/Mesh_092.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c0ef00e34946d4956c5d44e189118963"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_093" name="Mesh_093">
+		<Material id="0" name="inox"/>
+		<file path="SPRINKLERS_Assets/Mesh_093.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="30d134dbea9104cda2ba12727e6bc9ef"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_096" name="Mesh_096">
+		<Material id="0" name="inox"/>
+		<file path="SPRINKLERS_Assets/Mesh_096.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ddaf4647e7ac526418bb8952f70cd697"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_134" name="Mesh_134">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_134.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2d09370d428703cdb2dacfebba3ca232"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_098" name="Mesh_098">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_098.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="27374fbf77ad8b9e768ad736683452f6"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_099" name="Mesh_099">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_099.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9df303ea7bdba9fa5d583dfe20c8353e"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_100" name="Mesh_100">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_100.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2893c6d34adb675f0c79f27e3a3cac58"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_111" name="Mesh_111">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_111.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="82a395e4ffa049afc4152db6cb5086dd"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_112" name="Mesh_112">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_112.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="505f135fa2c9841914c9622d8d1b317f"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_115" name="Mesh_115">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_115.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="af99d358366ac5eba506bc03a352e7e5"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_116" name="Mesh_116">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_116.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f6365982514955c20979fb7c98796aa7"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_118" name="Mesh_118">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_118.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b97804510f56c2c2bf8d79a7516590e3"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_119" name="Mesh_119">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_119.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8ec9c16e48d5b995a7222b02063d2f08"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_120" name="Mesh_120">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_120.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f0a49e1a0305885804319518d9319d4c"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_121" name="Mesh_121">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_121.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dc875405bc7bd603057ba29c83e241b0"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_097" name="Mesh_097">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_097.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="348cd56eedfa7f53d5b20c22a7c84fc9"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_123" name="Mesh_123">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_123.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="43a332fa45f4316e18e1df45092020d6"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_124" name="Mesh_124">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_124.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="37ad15178fd7b425cff724b69ddff4c3"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_125" name="Mesh_125">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_125.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="21776b875258cfe9e47d38390cd47ce5"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_126" name="Mesh_126">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_126.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="644e5e126ad6a9d960e0bb37909814bb"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_127" name="Mesh_127">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_127.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a296f7832dd9fe5170c9204119db6c78"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_128" name="Mesh_128">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_128.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="92e8cda1a3567be467ab7236791e4d94"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_129" name="Mesh_129">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_129.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e6681a4502007c0539ae51354e3303a7"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_130" name="Mesh_130">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_130.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6b87c1ce72618c1573df6f57a9572118"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_131" name="Mesh_131">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_131.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8a7e1462a62418aae094c396fb06692d"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_132" name="Mesh_132">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_132.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bce7c3c00dd0628a7cea9391eedfabe7"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_133" name="Mesh_133">
+		<Material id="0" name="blanco_plastico"/>
+		<file path="SPRINKLERS_Assets/Mesh_133.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f598f53bf702042029c69f8c7df52166"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_122" name="Mesh_122">
+		<Material id="0" name="wenge"/>
+		<file path="SPRINKLERS_Assets/Mesh_122.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fe782d626c454d48833c74b3ef80ba12"/>
+	</StaticMesh>
+	<UEPbrMaterial name="rojo">
+		<Expressions>
+			<Color constant="(R=1.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="inox">
+		<Expressions>
+			<Color constant="(R=0.505882,G=0.505882,B=0.505882,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="blanco_plastico">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="wenge">
+		<Expressions>
+			<Color constant="(R=0.086275,G=0.086275,B=0.086275,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<Texture name="meadow_2_8k_exr" file="SPRINKLERS_Assets\meadow_2_8k_exr.exr" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="1ade9928b0b0252505dfb8f7631e4ed2"/>
+	</Texture>
+	<MetaData name="StaticMesh_Object050" reference="StaticMesh.Object050">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_094@1457', 'object_ptr': '2074600227104'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object050" reference="Actor.Object050">
+		<KeyValueProperty name="MaxHandle" val="134922.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object050@1456', 'object_ptr': '2074578325280', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object052" reference="StaticMesh.Object052">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_084@1459', 'object_ptr': '2074600414496'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object052" reference="Actor.Object052">
+		<KeyValueProperty name="MaxHandle" val="134923.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object052@1458', 'object_ptr': '2074578323488', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object054" reference="StaticMesh.Object054">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_085@1461', 'object_ptr': '2074600410912'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object054" reference="Actor.Object054">
+		<KeyValueProperty name="MaxHandle" val="134924.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object054@1460', 'object_ptr': '2074578321696', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object056" reference="StaticMesh.Object056">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_086@1463', 'object_ptr': '2074600305184'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object056" reference="Actor.Object056">
+		<KeyValueProperty name="MaxHandle" val="134925.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object056@1462', 'object_ptr': '2074578303264', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object058" reference="StaticMesh.Object058">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_091@1465', 'object_ptr': '2074600241440'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object058" reference="Actor.Object058">
+		<KeyValueProperty name="MaxHandle" val="134926.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object058@1464', 'object_ptr': '2074578301472', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object060" reference="StaticMesh.Object060">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_092@1467', 'object_ptr': '2074600232480'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object060" reference="Actor.Object060">
+		<KeyValueProperty name="MaxHandle" val="134927.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object060@1466', 'object_ptr': '2074578299680', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object062" reference="StaticMesh.Object062">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_093@1469', 'object_ptr': '2074600228896'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object062" reference="Actor.Object062">
+		<KeyValueProperty name="MaxHandle" val="134928.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object062@1468', 'object_ptr': '2074578297888', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object064" reference="StaticMesh.Object064">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_096@1471', 'object_ptr': '2074600168736'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object064" reference="Actor.Object064">
+		<KeyValueProperty name="MaxHandle" val="134929.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object064@1470', 'object_ptr': '2074578296096', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Splinker" reference="Actor.Splinker">
+		<KeyValueProperty name="MaxHandle" val="134930.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Splinker@1831', 'object_ptr': '2074594223136'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object" reference="StaticMesh.Object">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_134@1389', 'object_ptr': '2074599515168'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object" reference="Actor.Object">
+		<KeyValueProperty name="MaxHandle" val="134897.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object@1388', 'object_ptr': '2074578436384', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object002_002" reference="StaticMesh.Object002_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_098@1395', 'object_ptr': '2074600163360'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object002_002" reference="Actor.Object002_002">
+		<KeyValueProperty name="MaxHandle" val="134898.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object002_002@1394', 'object_ptr': '2074578414368', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object004_001" reference="StaticMesh.Object004_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_099@1399', 'object_ptr': '2074600161568'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object004_001" reference="Actor.Object004_001">
+		<KeyValueProperty name="MaxHandle" val="134899.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object004_001@1398', 'object_ptr': '2074578410784', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object006_001" reference="StaticMesh.Object006_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_100@1401', 'object_ptr': '2074600044832'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object006_001" reference="Actor.Object006_001">
+		<KeyValueProperty name="MaxHandle" val="134900.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object006_001@1400', 'object_ptr': '2074578408992', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object008_001" reference="StaticMesh.Object008_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_111@1403', 'object_ptr': '2074599795488'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object008_001" reference="Actor.Object008_001">
+		<KeyValueProperty name="MaxHandle" val="134901.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object008_001@1402', 'object_ptr': '2074578407200', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object010_001" reference="StaticMesh.Object010_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_112@1405', 'object_ptr': '2074599793696'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object010_001" reference="Actor.Object010_001">
+		<KeyValueProperty name="MaxHandle" val="134902.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object010_001@1404', 'object_ptr': '2074578405408', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object012_001" reference="StaticMesh.Object012_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_115@1407', 'object_ptr': '2074599788320'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object012_001" reference="Actor.Object012_001">
+		<KeyValueProperty name="MaxHandle" val="134903.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object012_001@1406', 'object_ptr': '2074578403616', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object014_002" reference="StaticMesh.Object014_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_116@1413', 'object_ptr': '2074599786528'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object014_002" reference="Actor.Object014_002">
+		<KeyValueProperty name="MaxHandle" val="134904.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object014_002@1412', 'object_ptr': '2074578381600', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object016_002" reference="StaticMesh.Object016_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_118@1417', 'object_ptr': '2074599700768'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object016_002" reference="Actor.Object016_002">
+		<KeyValueProperty name="MaxHandle" val="134905.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object016_002@1416', 'object_ptr': '2074578378016', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object018_001" reference="StaticMesh.Object018_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_119@1421', 'object_ptr': '2074599698976'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object018_001" reference="Actor.Object018_001">
+		<KeyValueProperty name="MaxHandle" val="134906.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object018_001@1420', 'object_ptr': '2074578374432', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object020_001" reference="StaticMesh.Object020_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_120@1425', 'object_ptr': '2074599697184'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object020_001" reference="Actor.Object020_001">
+		<KeyValueProperty name="MaxHandle" val="134907.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object020_001@1424', 'object_ptr': '2074578370848', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object022_001" reference="StaticMesh.Object022_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_121@1427', 'object_ptr': '2074599695392'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object022_001" reference="Actor.Object022_001">
+		<KeyValueProperty name="MaxHandle" val="134908.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object022_001@1426', 'object_ptr': '2074578352416', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object024_001" reference="StaticMesh.Object024_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_097@1431', 'object_ptr': '2074600165152'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object024_001" reference="Actor.Object024_001">
+		<KeyValueProperty name="MaxHandle" val="134909.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object024_001@1430', 'object_ptr': '2074578348832', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object026" reference="StaticMesh.Object026">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_123@1433', 'object_ptr': '2074599633440'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object026" reference="Actor.Object026">
+		<KeyValueProperty name="MaxHandle" val="134910.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object026@1432', 'object_ptr': '2074578347040', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object028" reference="StaticMesh.Object028">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_124@1435', 'object_ptr': '2074599631648'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object028" reference="Actor.Object028">
+		<KeyValueProperty name="MaxHandle" val="134911.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object028@1434', 'object_ptr': '2074578345248', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object030" reference="StaticMesh.Object030">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_125@1437', 'object_ptr': '2074599629856'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object030" reference="Actor.Object030">
+		<KeyValueProperty name="MaxHandle" val="134912.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object030@1436', 'object_ptr': '2074578343456', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object032" reference="StaticMesh.Object032">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_126@1439', 'object_ptr': '2074599628064'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object032" reference="Actor.Object032">
+		<KeyValueProperty name="MaxHandle" val="134913.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object032@1438', 'object_ptr': '2074578341664', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object034" reference="StaticMesh.Object034">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_127@1441', 'object_ptr': '2074599626272'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object034" reference="Actor.Object034">
+		<KeyValueProperty name="MaxHandle" val="134914.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object034@1440', 'object_ptr': '2074578339872', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object036" reference="StaticMesh.Object036">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_128@1443', 'object_ptr': '2074599624480'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object036" reference="Actor.Object036">
+		<KeyValueProperty name="MaxHandle" val="134915.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object036@1442', 'object_ptr': '2074578338080', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object038" reference="StaticMesh.Object038">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_129@1445', 'object_ptr': '2074599622688'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object038" reference="Actor.Object038">
+		<KeyValueProperty name="MaxHandle" val="134916.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object038@1444', 'object_ptr': '2074578336032', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object040" reference="StaticMesh.Object040">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_130@1447', 'object_ptr': '2074599620896'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object040" reference="Actor.Object040">
+		<KeyValueProperty name="MaxHandle" val="134917.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object040@1446', 'object_ptr': '2074578334240', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object042" reference="StaticMesh.Object042">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_131@1449', 'object_ptr': '2074599520544'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object042" reference="Actor.Object042">
+		<KeyValueProperty name="MaxHandle" val="134918.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object042@1448', 'object_ptr': '2074578332448', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object044" reference="StaticMesh.Object044">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_132@1451', 'object_ptr': '2074599518752'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object044" reference="Actor.Object044">
+		<KeyValueProperty name="MaxHandle" val="134919.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object044@1450', 'object_ptr': '2074578330656', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object046" reference="StaticMesh.Object046">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_133@1453', 'object_ptr': '2074599516960'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object046" reference="Actor.Object046">
+		<KeyValueProperty name="MaxHandle" val="134920.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object046@1452', 'object_ptr': '2074578328864', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object048" reference="StaticMesh.Object048">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_122@1455', 'object_ptr': '2074599693600'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object048" reference="Actor.Object048">
+		<KeyValueProperty name="MaxHandle" val="134921.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object048@1454', 'object_ptr': '2074578327072', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Smoke_detector" reference="Actor.Smoke_detector">
+		<KeyValueProperty name="MaxHandle" val="134931.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Smoke_detector@1757', 'object_ptr': '2074594388768'}" type="String"/>
+	</MetaData>
+	<Export Duration="8.48399999999674"/>
+</DatasmithUnrealScene>

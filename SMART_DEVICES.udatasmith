@@ -1,0 +1,2807 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.18"/>
+	<User ID="USER" OS="Windows 10"/>
+	<Actor name="TOP_DESK" layer="OFFICE">
+		<Transform tx="-877.109741" ty="42.581375" tz="0.797880" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="-4.252933" sy="-4.252933" sz="-4.252933"/>
+		<children visible="True">
+			<ActorMesh name="Echo_Body" layer="AmazonEcho">
+				<mesh name="Cylinder_016"/>
+				<Transform tx="-930.429810" ty="13.804385" tz="101.761719" qw="0.701606" qx="0.000000" qy="-0.000000" qz="-0.712565" sx="0.321508" sy="0.321508" sz="0.321508"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<ActorMesh name="Wifi" layer="SMART DEVICES">
+		<mesh name="DS____001"/>
+		<Transform tx="-447.287170" ty="-267.243256" tz="112.463608" qw="0.707107" qx="0.000000" qy="-0.000000" qz="-0.707107" sx="0.196923" sy="0.196923" sz="0.090249"/>
+	</ActorMesh>
+	<ActorMesh name="black_circle" layer="AmazonEcho">
+		<mesh name="black_circle_001"/>
+		<Transform tx="-997.647217" ty="130.850037" tz="194.721741" qw="0.044835" qx="0.089375" qy="0.108089" qz="-0.989100" sx="0.001895" sy="0.001895" sz="0.001895"/>
+	</ActorMesh>
+	<ActorMesh name="plus" layer="AmazonEcho">
+		<mesh name="plus_001"/>
+		<Transform tx="-996.113403" ty="129.896790" tz="194.868927" qw="0.014157" qx="0.057367" qy="-0.110672" qz="0.992099" sx="0.003563" sy="0.003563" sz="0.003563"/>
+	</ActorMesh>
+	<ActorMesh name="minus_sign" layer="AmazonEcho">
+		<mesh name="minus_sign_001"/>
+		<Transform tx="-993.424194" ty="129.780457" tz="194.701096" qw="0.007672" qx="-0.001092" qy="-0.140900" qz="0.989994" sx="0.002766" sy="0.002766" sz="0.002766"/>
+	</ActorMesh>
+	<ActorMesh name="mute" layer="AmazonEcho">
+		<mesh name="mute_001"/>
+		<Transform tx="-991.809631" ty="130.664352" tz="194.722168" qw="0.007713" qx="-0.000747" qy="-0.096437" qz="0.995309" sx="0.003137" sy="0.003137" sz="0.003137"/>
+	</ActorMesh>
+	<ActorMesh name="black_circle_001" layer="AmazonEcho2">
+		<mesh name="black_circle_002"/>
+		<Transform tx="688.916077" ty="871.489319" tz="284.592072" qw="0.667696" qx="-0.139628" qy="-0.013233" qz="0.731102" sx="0.002116" sy="0.002116" sz="0.002116"/>
+	</ActorMesh>
+	<ActorMesh name="plus_001" layer="AmazonEcho2">
+		<mesh name="plus_002"/>
+		<Transform tx="687.851746" ty="869.776733" tz="284.756409" qw="0.711530" qx="-0.037692" qy="-0.118821" qz="0.691510" sx="0.003978" sy="0.003978" sz="0.003978"/>
+	</ActorMesh>
+	<ActorMesh name="minus_sign_001" layer="AmazonEcho2">
+		<mesh name="minus_sign_002"/>
+		<Transform tx="687.721802" ty="866.774170" tz="284.569031" qw="0.705456" qx="-0.100403" qy="-0.098859" qz="0.694606" sx="0.003089" sy="0.003089" sz="0.003089"/>
+	</ActorMesh>
+	<ActorMesh name="mute_001" layer="AmazonEcho2">
+		<mesh name="mute_002"/>
+		<Transform tx="688.708801" ty="864.971252" tz="284.592560" qw="0.709244" qx="-0.068720" qy="-0.067663" qz="0.698336" sx="0.003502" sy="0.003502" sz="0.003502"/>
+	</ActorMesh>
+	<ActorMesh name="Echo_Body_001" layer="AmazonEcho2">
+		<mesh name="Cylinder_014"/>
+		<Transform tx="692.046875" ty="868.210571" tz="279.195282" qw="0.007749" qx="0.000000" qy="0.000000" qz="0.999970" sx="0.358983" sy="0.358983" sz="0.358983"/>
+	</ActorMesh>
+	<ActorMesh name="backCap" layer="Probook">
+		<mesh name="Mesh_136"/>
+		<Transform tx="-37.513344" ty="416.789520" tz="178.604141" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="middlePanel" layer="Probook">
+		<mesh name="Mesh_137"/>
+		<Transform tx="-37.513344" ty="418.483337" tz="165.117630" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="usbPort_part03" layer="Probook">
+		<mesh name="Mesh_138"/>
+		<Transform tx="-37.521568" ty="417.027466" tz="147.383423" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="usbPort_part02" layer="Probook">
+		<mesh name="Mesh_139"/>
+		<Transform tx="-37.521355" ty="417.047974" tz="147.715317" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="usbPort_part01" layer="Probook">
+		<mesh name="Mesh_140"/>
+		<Transform tx="-37.521355" ty="416.936676" tz="147.366989" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="sideButton02_icon02" layer="Probook">
+		<mesh name="Mesh_141"/>
+		<Transform tx="-25.332228" ty="419.510559" tz="155.527100" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="sideButton02_icon01" layer="Probook">
+		<mesh name="Mesh_142"/>
+		<Transform tx="-25.305882" ty="419.507690" tz="158.933273" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="sideButton01_icon02" layer="Probook">
+		<mesh name="Mesh_143"/>
+		<Transform tx="-25.301949" ty="419.510468" tz="161.879425" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="sideButton01_icon01" layer="Probook">
+		<mesh name="Mesh_144"/>
+		<Transform tx="-25.301949" ty="419.512573" tz="166.744843" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="sideButton02" layer="Probook">
+		<mesh name="Mesh_145"/>
+		<Transform tx="-25.238911" ty="419.437500" tz="157.260315" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="sideButton01" layer="Probook">
+		<mesh name="Mesh_207"/>
+		<Transform tx="-25.238911" ty="419.437500" tz="164.253647" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="screen" layer="Probook">
+		<mesh name="Mesh_216"/>
+		<Transform tx="-37.296097" ty="419.377319" tz="166.932907" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="resetButton_part02" layer="Probook">
+		<mesh name="Mesh_236"/>
+		<Transform tx="-42.797794" ty="417.019379" tz="147.756348" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="resetButton_part01" layer="Probook">
+		<mesh name="Mesh_281"/>
+		<Transform tx="-42.798176" ty="417.019379" tz="147.891724" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="powerButton" layer="Probook">
+		<mesh name="Mesh_282"/>
+		<Transform tx="-29.667059" ty="417.344757" tz="183.267792" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="microSDPort_part04" layer="Probook">
+		<mesh name="Mesh_361"/>
+		<Transform tx="-33.927193" ty="416.935547" tz="147.891724" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="microSDPort_part03" layer="Probook">
+		<mesh name="Mesh_362"/>
+		<Transform tx="-34.865704" ty="417.101685" tz="147.503937" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="microSDPort_part02" layer="Probook">
+		<mesh name="Mesh_363"/>
+		<Transform tx="-33.530273" ty="417.101685" tz="147.503937" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="microSDPort_part01" layer="Probook">
+		<mesh name="Mesh_364"/>
+		<Transform tx="-33.915462" ty="416.816986" tz="147.503937" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="headPhonesPort_part03" layer="Probook">
+		<mesh name="Mesh_365"/>
+		<Transform tx="-41.195408" ty="417.046265" tz="147.891724" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="headPhonesPort_part02" layer="Probook">
+		<mesh name="Mesh_366"/>
+		<Transform tx="-41.195408" ty="417.046265" tz="147.761078" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="headPhonesPort_part01" layer="Probook">
+		<mesh name="Mesh_367"/>
+		<Transform tx="-41.195408" ty="417.046265" tz="147.977905" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontWheelButton_icon04" layer="Probook">
+		<mesh name="Mesh_368"/>
+		<Transform tx="-32.530037" ty="419.631775" tz="148.344910" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontWheelButton_icon03" layer="Probook">
+		<mesh name="Mesh_369"/>
+		<Transform tx="-33.985390" ty="419.631775" tz="149.799377" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontWheelButton_icon02" layer="Probook">
+		<mesh name="Mesh_370"/>
+		<Transform tx="-32.529156" ty="419.631775" tz="151.255493" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontWheelButton_icon01" layer="Probook">
+		<mesh name="Mesh_371"/>
+		<Transform tx="-31.074682" ty="419.631775" tz="149.799377" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontWheelButton" layer="Probook">
+		<mesh name="Mesh_372"/>
+		<Transform tx="-32.530037" ty="419.388000" tz="149.800293" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontPanel" layer="Probook">
+		<mesh name="Mesh_373"/>
+		<Transform tx="-37.513344" ty="419.437408" tz="165.117630" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontLogo" layer="Probook">
+		<mesh name="Mesh_374"/>
+		<Transform tx="-42.928089" ty="419.485657" tz="149.779297" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontButton01" layer="Probook">
+		<mesh name="Mesh_375"/>
+		<Transform tx="-35.354153" ty="418.213074" tz="149.800247" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="extraGeo_part05" layer="Probook">
+		<mesh name="Mesh_376"/>
+		<Transform tx="-30.472103" ty="417.366302" tz="146.923645" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="extraGeo_part04" layer="Probook">
+		<mesh name="Mesh_377"/>
+		<Transform tx="-44.554676" ty="417.366302" tz="146.923645" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="extraGeo_part03" layer="Probook">
+		<mesh name="Mesh_378"/>
+		<Transform tx="-24.159588" ty="417.524719" tz="150.966827" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="extraGeo_part02" layer="Probook">
+		<mesh name="Mesh_379"/>
+		<Transform tx="-24.159588" ty="417.524719" tz="171.127899" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="extraGeo_part01" layer="Probook">
+		<mesh name="Mesh_380"/>
+		<Transform tx="-50.867092" ty="417.462433" tz="163.776474" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="chargePort_part02" layer="Probook">
+		<mesh name="Mesh_381"/>
+		<Transform tx="-39.659729" ty="417.088409" tz="147.978165" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="chargePort_part01" layer="Probook">
+		<mesh name="Mesh_382"/>
+		<Transform tx="-39.659729" ty="417.088409" tz="147.977905" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="bottomIcons05" layer="Probook">
+		<mesh name="Mesh_383"/>
+		<Transform tx="-43.299858" ty="417.104919" tz="146.917618" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="bottomIcons04" layer="Probook">
+		<mesh name="Mesh_384"/>
+		<Transform tx="-41.973152" ty="417.167664" tz="146.917618" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="bottomIcons03" layer="Probook">
+		<mesh name="Mesh_385"/>
+		<Transform tx="-40.120544" ty="417.167664" tz="146.917618" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="bottomIcons02" layer="Probook">
+		<mesh name="Mesh_386"/>
+		<Transform tx="-38.710464" ty="417.108826" tz="146.917618" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="bottomIcons01" layer="Probook">
+		<mesh name="Mesh_387"/>
+		<Transform tx="-35.477535" ty="417.108826" tz="146.917618" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="backPanel" layer="Probook">
+		<mesh name="Mesh_388"/>
+		<Transform tx="-37.516323" ty="404.832794" tz="161.037903" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="backLogo" layer="Probook">
+		<mesh name="Mesh_389"/>
+		<Transform tx="-37.513344" ty="416.275116" tz="175.022995" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="torus" layer="Probook">
+		<mesh name="Mesh_390"/>
+		<Transform tx="-32.529846" ty="418.025696" tz="149.798508" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="cylinder" layer="Probook">
+		<mesh name="Mesh_391"/>
+		<Transform tx="-32.529846" ty="417.564484" tz="149.798508" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="backCap_001" layer="Probook2">
+		<mesh name="Mesh_392"/>
+		<Transform tx="-97.255943" ty="-474.300293" tz="210.933090" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="middlePanel_001" layer="Probook2">
+		<mesh name="Mesh_393"/>
+		<Transform tx="-96.880104" ty="-474.300293" tz="197.446579" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="usbPort_part03_001" layer="Probook2">
+		<mesh name="Mesh_394"/>
+		<Transform tx="-97.018005" ty="-474.292053" tz="179.712387" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="usbPort_part02_001" layer="Probook2">
+		<mesh name="Mesh_395"/>
+		<Transform tx="-96.997498" ty="-474.292267" tz="180.044266" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="usbPort_part01_001" layer="Probook2">
+		<mesh name="Mesh_396"/>
+		<Transform tx="-97.108795" ty="-474.292267" tz="179.695938" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="sideButton02_icon02_001" layer="Probook2">
+		<mesh name="Mesh_397"/>
+		<Transform tx="-95.852898" ty="-486.481384" tz="187.856049" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="sideButton02_icon01_001" layer="Probook2">
+		<mesh name="Mesh_398"/>
+		<Transform tx="-95.855759" ty="-486.507751" tz="191.262222" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="sideButton01_icon02_001" layer="Probook2">
+		<mesh name="Mesh_399"/>
+		<Transform tx="-95.852997" ty="-486.511658" tz="194.208389" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="sideButton01_icon01_001" layer="Probook2">
+		<mesh name="Mesh_400"/>
+		<Transform tx="-95.850899" ty="-486.511658" tz="199.073792" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="sideButton02_001" layer="Probook2">
+		<mesh name="Mesh_401"/>
+		<Transform tx="-95.925949" ty="-486.574707" tz="189.589264" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="sideButton01_001" layer="Probook2">
+		<mesh name="Mesh_402"/>
+		<Transform tx="-95.925949" ty="-486.574707" tz="196.582611" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="screen_001" layer="Probook2">
+		<mesh name="Mesh_403"/>
+		<Transform tx="-95.986130" ty="-474.517548" tz="199.261856" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="resetButton_part02_001" layer="Probook2">
+		<mesh name="Mesh_404"/>
+		<Transform tx="-97.026108" ty="-469.015839" tz="180.085297" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="resetButton_part01_001" layer="Probook2">
+		<mesh name="Mesh_405"/>
+		<Transform tx="-97.026108" ty="-469.015442" tz="180.220673" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="powerButton_001" layer="Probook2">
+		<mesh name="Mesh_406"/>
+		<Transform tx="-96.700714" ty="-482.146545" tz="215.596741" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="microSDPort_part04_001" layer="Probook2">
+		<mesh name="Mesh_407"/>
+		<Transform tx="-97.109940" ty="-477.886444" tz="180.220673" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="microSDPort_part03_001" layer="Probook2">
+		<mesh name="Mesh_408"/>
+		<Transform tx="-96.943810" ty="-476.947937" tz="179.832886" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="microSDPort_part02_001" layer="Probook2">
+		<mesh name="Mesh_409"/>
+		<Transform tx="-96.943810" ty="-478.283356" tz="179.832886" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="microSDPort_part01_001" layer="Probook2">
+		<mesh name="Mesh_410"/>
+		<Transform tx="-97.228477" ty="-477.898163" tz="179.832886" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="headPhonesPort_part03_001" layer="Probook2">
+		<mesh name="Mesh_411"/>
+		<Transform tx="-96.999214" ty="-470.618195" tz="180.220673" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="headPhonesPort_part02_001" layer="Probook2">
+		<mesh name="Mesh_412"/>
+		<Transform tx="-96.999214" ty="-470.618195" tz="180.090042" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="headPhonesPort_part01_001" layer="Probook2">
+		<mesh name="Mesh_413"/>
+		<Transform tx="-96.999214" ty="-470.618195" tz="180.306870" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontWheelButton_icon04_001" layer="Probook2">
+		<mesh name="Mesh_414"/>
+		<Transform tx="-95.731689" ty="-479.283569" tz="180.673859" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontWheelButton_icon03_001" layer="Probook2">
+		<mesh name="Mesh_415"/>
+		<Transform tx="-95.731689" ty="-477.828217" tz="182.128326" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontWheelButton_icon02_001" layer="Probook2">
+		<mesh name="Mesh_416"/>
+		<Transform tx="-95.731689" ty="-479.284485" tz="183.584457" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontWheelButton_icon01_001" layer="Probook2">
+		<mesh name="Mesh_417"/>
+		<Transform tx="-95.731689" ty="-480.738922" tz="182.128326" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontWheelButton_001" layer="Probook2">
+		<mesh name="Mesh_418"/>
+		<Transform tx="-95.975449" ty="-479.283569" tz="182.129242" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontPanel_001" layer="Probook2">
+		<mesh name="Mesh_419"/>
+		<Transform tx="-95.926048" ty="-474.300293" tz="197.446579" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontLogo_001" layer="Probook2">
+		<mesh name="Mesh_420"/>
+		<Transform tx="-95.877792" ty="-468.885529" tz="182.108261" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="frontButton01_001" layer="Probook2">
+		<mesh name="Mesh_421"/>
+		<Transform tx="-95.832397" ty="-476.459442" tz="182.129211" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="extraGeo_part05_001" layer="Probook2">
+		<mesh name="Mesh_422"/>
+		<Transform tx="-96.679161" ty="-481.341492" tz="179.252594" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="extraGeo_part04_001" layer="Probook2">
+		<mesh name="Mesh_423"/>
+		<Transform tx="-96.679161" ty="-467.258942" tz="179.252594" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="extraGeo_part03_001" layer="Probook2">
+		<mesh name="Mesh_424"/>
+		<Transform tx="-96.520760" ty="-487.654022" tz="183.295776" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="extraGeo_part02_001" layer="Probook2">
+		<mesh name="Mesh_425"/>
+		<Transform tx="-96.520760" ty="-487.654022" tz="203.456848" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="extraGeo_part01_001" layer="Probook2">
+		<mesh name="Mesh_426"/>
+		<Transform tx="-96.583031" ty="-460.946503" tz="196.105438" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="chargePort_part02_001" layer="Probook2">
+		<mesh name="Mesh_427"/>
+		<Transform tx="-96.957062" ty="-472.153900" tz="180.307129" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="chargePort_part01_001" layer="Probook2">
+		<mesh name="Mesh_428"/>
+		<Transform tx="-96.957062" ty="-472.153900" tz="180.306870" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="bottomIcons05_001" layer="Probook2">
+		<mesh name="Mesh_429"/>
+		<Transform tx="-96.940567" ty="-468.513763" tz="179.246567" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="bottomIcons04_001" layer="Probook2">
+		<mesh name="Mesh_430"/>
+		<Transform tx="-96.877815" ty="-469.840485" tz="179.246567" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="bottomIcons03_001" layer="Probook2">
+		<mesh name="Mesh_431"/>
+		<Transform tx="-96.877815" ty="-471.693085" tz="179.246567" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="bottomIcons02_001" layer="Probook2">
+		<mesh name="Mesh_432"/>
+		<Transform tx="-96.936653" ty="-473.103149" tz="179.246567" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="bottomIcons01_001" layer="Probook2">
+		<mesh name="Mesh_433"/>
+		<Transform tx="-96.936653" ty="-476.336090" tz="179.246567" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="backPanel_001" layer="Probook2">
+		<mesh name="Mesh_434"/>
+		<Transform tx="-97.243027" ty="-474.297272" tz="193.577759" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="backLogo_001" layer="Probook2">
+		<mesh name="Mesh_435"/>
+		<Transform tx="-97.770355" ty="-474.300293" tz="207.351944" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="torus_001" layer="Probook2">
+		<mesh name="Mesh_436"/>
+		<Transform tx="-96.019791" ty="-479.283752" tz="182.127457" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="cylinder_001" layer="Probook2">
+		<mesh name="Mesh_437"/>
+		<Transform tx="-96.480988" ty="-479.283752" tz="182.127457" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.050800" sy="0.050800" sz="0.050800"/>
+	</ActorMesh>
+	<ActorMesh name="archmodels95_010_004" layer="Samsung">
+		<mesh name="Mesh_440"/>
+		<Transform tx="-166.804443" ty="1096.197144" tz="163.569122" qw="0.707107" qx="-0.707107" qy="-0.000000" qz="-0.000000" sx="0.037107" sy="0.037107" sz="0.037107"/>
+	</ActorMesh>
+	<ActorMesh name="archmodels95_010_003" layer="Samsung">
+		<mesh name="Mesh_442"/>
+		<Transform tx="-166.804443" ty="1097.602417" tz="163.569122" qw="0.707107" qx="-0.707107" qy="-0.000000" qz="-0.000000" sx="0.037107" sy="0.037107" sz="0.037107"/>
+	</ActorMesh>
+	<ActorMesh name="Arch_056_057_07" layer="Samsung">
+		<mesh name="Mesh_882"/>
+		<Transform tx="-1101.086182" ty="438.106293" tz="92.417107" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="0.012273" sy="0.012273" sz="0.012273"/>
+	</ActorMesh>
+	<Environment name="world_environment_background" label="world_environment_background">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="0"/>
+	</Environment>
+	<Environment name="world_environment_lighting" label="world_environment_lighting">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="1"/>
+	</Environment>
+	<StaticMesh label="Cylinder_016" name="Cylinder_016">
+		<Material id="0" name="Cloth"/>
+		<Material id="1" name="Ligth"/>
+		<Material id="2" name="Plastic_002"/>
+		<Material id="3" name="Plastic_2"/>
+		<file path="SMART_DEVICES_Assets/Cylinder_016.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c9b3cb5178b002acf2f19cbe94c1e6e8"/>
+	</StaticMesh>
+	<StaticMesh label="DS____001" name="DS____001">
+		<Material id="0" name="beige_White_001"/>
+		<Material id="1" name="Plastic_1_001"/>
+		<Material id="2" name="Metall_2_001"/>
+		<Material id="3" name="Metall_003"/>
+		<Material id="4" name="Plastic_Black_001"/>
+		<Material id="5" name="Plastic_Black_Old_001"/>
+		<Material id="6" name="Pins_2_001"/>
+		<Material id="7" name="Plastic_Yelow_001"/>
+		<Material id="8" name="Plastic_Blue_001"/>
+		<Material id="9" name="Plastic_red_001"/>
+		<Material id="10" name="Plastic_2_001"/>
+		<Material id="11" name="Metall_Color_1_001"/>
+		<Material id="12" name="Sticker_2_001"/>
+		<Material id="13" name="beige_Dark_001"/>
+		<Material id="14" name="Plastic_3_001"/>
+		<Material id="15" name="Element_Light_1_001"/>
+		<Material id="16" name="Pins_1_001"/>
+		<Material id="17" name="Display_001"/>
+		<file path="SMART_DEVICES_Assets/DS____001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d9b12900f82fab49f3ecefa8d19c8e15"/>
+	</StaticMesh>
+	<StaticMesh label="black_circle_001" name="black_circle_001">
+		<Material id="0" name="black_circle"/>
+		<file path="SMART_DEVICES_Assets/black_circle_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3f6e169329b8f52b3d6d8f9b8276f4c7"/>
+	</StaticMesh>
+	<StaticMesh label="plus_001" name="plus_001">
+		<Material id="0" name="plus"/>
+		<file path="SMART_DEVICES_Assets/plus_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9010b8d56a1e0460cbe1bfe7daead989"/>
+	</StaticMesh>
+	<StaticMesh label="minus_sign_001" name="minus_sign_001">
+		<Material id="0" name="minus_sign"/>
+		<file path="SMART_DEVICES_Assets/minus_sign_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f3a1aabb1424b6a1465c51d0d0296c2c"/>
+	</StaticMesh>
+	<StaticMesh label="mute_001" name="mute_001">
+		<Material id="0" name="mute"/>
+		<file path="SMART_DEVICES_Assets/mute_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7f1d39c2102d65ef98a92ea4847d69ab"/>
+	</StaticMesh>
+	<StaticMesh label="black_circle_002" name="black_circle_002">
+		<Material id="0" name="black_circle"/>
+		<file path="SMART_DEVICES_Assets/black_circle_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4cc78dd329562df3ee1c3b663911062b"/>
+	</StaticMesh>
+	<StaticMesh label="plus_002" name="plus_002">
+		<Material id="0" name="plus"/>
+		<file path="SMART_DEVICES_Assets/plus_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="34de993302ed18299cab291dba778bae"/>
+	</StaticMesh>
+	<StaticMesh label="minus_sign_002" name="minus_sign_002">
+		<Material id="0" name="minus_sign"/>
+		<file path="SMART_DEVICES_Assets/minus_sign_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="13502daa9e7ea2551979d45bb67e6505"/>
+	</StaticMesh>
+	<StaticMesh label="mute_002" name="mute_002">
+		<Material id="0" name="mute"/>
+		<file path="SMART_DEVICES_Assets/mute_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ee3bfd4dad22c27f6fdf62890f4719e8"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_014" name="Cylinder_014">
+		<Material id="0" name="Cloth"/>
+		<Material id="1" name="Ligth"/>
+		<Material id="2" name="Plastic_002"/>
+		<Material id="3" name="Plastic_2"/>
+		<file path="SMART_DEVICES_Assets/Cylinder_014.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c8f975eb960ae7cfcd8ccf79d21a2b83"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_136" name="Mesh_136">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_136.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3191ba3e4c1ae3d337730415f7e200eb"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_137" name="Mesh_137">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_137.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dfd8f5c4a382e5c678b1010487b89e45"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_138" name="Mesh_138">
+		<Material id="0" name="Gold_001"/>
+		<file path="SMART_DEVICES_Assets/Mesh_138.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="98f3eaa0a08e7d12032a01c5b6430eaf"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_139" name="Mesh_139">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_139.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fe437f02f758c7df300e440c3b001b97"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_140" name="Mesh_140">
+		<Material id="0" name="Alum"/>
+		<file path="SMART_DEVICES_Assets/Mesh_140.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9da98d11bdfa1aa19885c4fb32bdbe7f"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_141" name="Mesh_141">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_141.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c0f4a4fecb7fb5642c2de46b0ff85497"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_142" name="Mesh_142">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_142.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="657b4c393af3f8f9c73c7119b2baef65"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_143" name="Mesh_143">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_143.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2237eaef54de17d9c22b5a54fa248750"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_144" name="Mesh_144">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_144.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="98368bbf38ad9a706caf53f26ab00d1d"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_145" name="Mesh_145">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_145.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ec349cc078da12f3b8a752178b2d7c08"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_207" name="Mesh_207">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_207.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bdd16c0d6f9dc2ce2bd41639f85a4a73"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_216" name="Mesh_216">
+		<Material id="0" name="Screen"/>
+		<file path="SMART_DEVICES_Assets/Mesh_216.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ba117d63827d09979634de0c4083110b"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_236" name="Mesh_236">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_236.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0ba5c700c82c6f3c3c27263d3f96da3e"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_281" name="Mesh_281">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_281.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9cffb3521bc0c69adb44b5ddd0abd6a3"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_282" name="Mesh_282">
+		<Material id="0" name="Stainless_Steel"/>
+		<file path="SMART_DEVICES_Assets/Mesh_282.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="941e684b4f85c9bec51c3c9038994170"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_361" name="Mesh_361">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_361.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="134cceeabf7ad4a201089b81e505ae17"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_362" name="Mesh_362">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_362.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="339bfdeeaf5b8373cd50ade5c5323a0f"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_363" name="Mesh_363">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_363.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="045049b1c97267f650c9836bac9e1066"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_364" name="Mesh_364">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_364.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="37515665018efd3fbfce80ca98da9822"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_365" name="Mesh_365">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_365.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ea4a5bcfe0c24f283ad5bd109e3ac0b3"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_366" name="Mesh_366">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_366.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ee33e8e91e799b4d36782b8d371f1e18"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_367" name="Mesh_367">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_367.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4bb6d7698497f52b74bdcbb50816151e"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_368" name="Mesh_368">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_368.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ae114efff3d25b887cc7773adb1131ad"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_369" name="Mesh_369">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_369.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="546726b550a5bd8172fe94774cfebf36"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_370" name="Mesh_370">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_370.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3b20463a1ae1a31e97437fc1d4c27bca"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_371" name="Mesh_371">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_371.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6cbd2db08f22fd2e15259f2d840ab724"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_372" name="Mesh_372">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_372.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="97476982cd4eea696eefbca8b807fddd"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_373" name="Mesh_373">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_373.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="33d209228ee1e8e2c210dc58dc7d17c3"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_374" name="Mesh_374">
+		<Material id="0" name="logofront"/>
+		<file path="SMART_DEVICES_Assets/Mesh_374.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4370151f589e4282745cf844ddd4d388"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_375" name="Mesh_375">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_375.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b93815515aec50cc59aecce33fb71d89"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_376" name="Mesh_376">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_376.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d8df382c570b55ec3bfa6294c38147c7"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_377" name="Mesh_377">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_377.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="78ffbd6809c19501717bc956adcb357f"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_378" name="Mesh_378">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_378.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8cf3adaf7ea4bb05635064bbce45d10e"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_379" name="Mesh_379">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_379.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7f1028b3751ccf35e8873699c14079f9"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_380" name="Mesh_380">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_380.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="514b5efa774083569709cf8078a86e21"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_381" name="Mesh_381">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_381.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0acb0e9756f1315d4db9ba3344505773"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_382" name="Mesh_382">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_382.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="adfae2f641cf98b65c7ea225c7e8e8a2"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_383" name="Mesh_383">
+		<Material id="0" name="icon_reset"/>
+		<file path="SMART_DEVICES_Assets/Mesh_383.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0e4365e98d7674f4c3fde2f4cd848656"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_384" name="Mesh_384">
+		<Material id="0" name="icon_headphones"/>
+		<file path="SMART_DEVICES_Assets/Mesh_384.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d63c735d45eed388251efcd1cd9acdfc"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_385" name="Mesh_385">
+		<Material id="0" name="icon_charge"/>
+		<file path="SMART_DEVICES_Assets/Mesh_385.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="71f8dd3c49651e7b18923c261567ae5b"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_386" name="Mesh_386">
+		<Material id="0" name="icon_usb"/>
+		<file path="SMART_DEVICES_Assets/Mesh_386.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b344d245b72e8c36a44997a28b9756cf"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_387" name="Mesh_387">
+		<Material id="0" name="icon_microsd"/>
+		<file path="SMART_DEVICES_Assets/Mesh_387.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e5abd7571ad209c100231b5ae388a742"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_388" name="Mesh_388">
+		<Material id="0" name="backPanel_metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_388.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="18b18c3f0561392a61243beb96cb3969"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_389" name="Mesh_389">
+		<Material id="0" name="vray_logoback"/>
+		<file path="SMART_DEVICES_Assets/Mesh_389.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4f7d8343cd037b3ba8516f3a1f667d9a"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_390" name="Mesh_390">
+		<Material id="0" name="Stainless_Steel"/>
+		<file path="SMART_DEVICES_Assets/Mesh_390.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="37f0fedbe3dd8d9cc180bcf4a28e38b5"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_391" name="Mesh_391">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_391.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fc2cdd8cbc4f2879495293ec85b52a5a"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_392" name="Mesh_392">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_392.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="da169cfc91fa3259201cf8cef2edd929"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_393" name="Mesh_393">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_393.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6f4b142a1723819c36d230c9daa7f41d"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_394" name="Mesh_394">
+		<Material id="0" name="Gold_001"/>
+		<file path="SMART_DEVICES_Assets/Mesh_394.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0fea483f82c2c3b13dd181091d9dd21a"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_395" name="Mesh_395">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_395.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f2e384222c713b376eb8b6262893caf3"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_396" name="Mesh_396">
+		<Material id="0" name="Alum"/>
+		<file path="SMART_DEVICES_Assets/Mesh_396.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c6714849d12d80e99dee77aeef6b2bb5"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_397" name="Mesh_397">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_397.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4e07a77d8a8f5d656530be855342ba8d"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_398" name="Mesh_398">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_398.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0025105d3316b94c94e3840b8105fb63"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_399" name="Mesh_399">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_399.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c4c7f02c14cb3cbfa259885227ec3a43"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_400" name="Mesh_400">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_400.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c7872829e44cdff45ee6d3ef2785ab17"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_401" name="Mesh_401">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_401.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="85cd98dd2caed67251c17b1849e8eccd"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_402" name="Mesh_402">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_402.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d5b15df0b88741dc8c645d09a631a18e"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_403" name="Mesh_403">
+		<Material id="0" name="Screen"/>
+		<file path="SMART_DEVICES_Assets/Mesh_403.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1470ebca3e8f37228acadaff52b749c2"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_404" name="Mesh_404">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_404.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="34ef6aa040a55605c003c639d43a46e5"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_405" name="Mesh_405">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_405.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d2038ef722c4f071d153036d24c91d94"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_406" name="Mesh_406">
+		<Material id="0" name="Stainless_Steel"/>
+		<file path="SMART_DEVICES_Assets/Mesh_406.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6fad1a1c8150fb9c1484fd4628245cbc"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_407" name="Mesh_407">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_407.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="88f219f3e0cfb8b3ab185a3a411adac4"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_408" name="Mesh_408">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_408.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d19c1ab7ad9740a202bb4ef6e2a8addc"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_409" name="Mesh_409">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_409.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ee2dae612574e1df14ff0aea0f0909d4"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_410" name="Mesh_410">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_410.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="10a6e929454825c5c90ae285dd04ec68"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_411" name="Mesh_411">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_411.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="72bfb5f20408da404164fd007d2a70da"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_412" name="Mesh_412">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_412.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="64fbc2b438443de2f8c5b01ed86658df"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_413" name="Mesh_413">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_413.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4d797174eb9d6a263970b8ed742f2126"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_414" name="Mesh_414">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_414.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="291b667887e2c2c58709b26949c9e53e"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_415" name="Mesh_415">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_415.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a2458903cc08e7667f41f967c069acb8"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_416" name="Mesh_416">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_416.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e6b510a92858e31b5033c584ea27b22b"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_417" name="Mesh_417">
+		<Material id="0" name="buttons_icons"/>
+		<file path="SMART_DEVICES_Assets/Mesh_417.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="12e2bf9fbf718311a039a347bc182e39"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_418" name="Mesh_418">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_418.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="15aaeb2a83e8aa09d6f7d80138b01005"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_419" name="Mesh_419">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_419.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cb9f6031ba87a3569c4579872a769e9d"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_420" name="Mesh_420">
+		<Material id="0" name="logofront"/>
+		<file path="SMART_DEVICES_Assets/Mesh_420.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="63c48b314a5284f3ee0f5c9743226ade"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_421" name="Mesh_421">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_421.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e76973ecea636d02bfb3e9df6fdfe4b2"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_422" name="Mesh_422">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_422.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5d153b1f836d21d9f6b29a315374d75c"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_423" name="Mesh_423">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_423.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="05f5cb332112ad046ac9a3b0cc9facf8"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_424" name="Mesh_424">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_424.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="66e9bf54f33d0474e3c3246ed0723a81"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_425" name="Mesh_425">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_425.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="54a3f783da0a855b3643f10ff4cca4fa"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_426" name="Mesh_426">
+		<Material id="0" name="metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_426.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="10819f5cd380f954a0b07099455a0ece"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_427" name="Mesh_427">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_427.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f45f3f587315193fecf36f17c94bd31a"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_428" name="Mesh_428">
+		<Material id="0" name="greyPlastic"/>
+		<file path="SMART_DEVICES_Assets/Mesh_428.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c7085d22cb51cb37bcd20b1b30b19495"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_429" name="Mesh_429">
+		<Material id="0" name="icon_reset"/>
+		<file path="SMART_DEVICES_Assets/Mesh_429.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0ff9c9e58f498ac84daa39659aca2975"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_430" name="Mesh_430">
+		<Material id="0" name="icon_headphones"/>
+		<file path="SMART_DEVICES_Assets/Mesh_430.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="605859842c30fa71749e5075e202cdea"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_431" name="Mesh_431">
+		<Material id="0" name="icon_charge"/>
+		<file path="SMART_DEVICES_Assets/Mesh_431.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2158a92a5a1ce7d68fb5808d4e46a5cb"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_432" name="Mesh_432">
+		<Material id="0" name="icon_usb"/>
+		<file path="SMART_DEVICES_Assets/Mesh_432.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8d7a5e8b9a03b61e3683498a4e28cb72"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_433" name="Mesh_433">
+		<Material id="0" name="icon_microsd"/>
+		<file path="SMART_DEVICES_Assets/Mesh_433.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="81cffb2905e55fcb6e0f2082d619b6a3"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_434" name="Mesh_434">
+		<Material id="0" name="backPanel_metal01"/>
+		<file path="SMART_DEVICES_Assets/Mesh_434.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="455197123d53cdf387f64e34e1d7183c"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_435" name="Mesh_435">
+		<Material id="0" name="vray_logoback"/>
+		<file path="SMART_DEVICES_Assets/Mesh_435.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8031667d3ac0009a6bfbc39b2465a200"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_436" name="Mesh_436">
+		<Material id="0" name="Stainless_Steel"/>
+		<file path="SMART_DEVICES_Assets/Mesh_436.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="067ae8a7e1dddbe574aca2e428fb6366"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_437" name="Mesh_437">
+		<Material id="0" name="frontPanelGrey"/>
+		<file path="SMART_DEVICES_Assets/Mesh_437.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0ad02d5ea482362cac5a476485573c07"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_440" name="Mesh_440">
+		<Material id="0" name="archmodels95_010_004"/>
+		<file path="SMART_DEVICES_Assets/Mesh_440.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ee44d5ee03564487e781bff3d16ad75c"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_442" name="Mesh_442">
+		<Material id="0" name="archmodels95_010_003"/>
+		<file path="SMART_DEVICES_Assets/Mesh_442.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="19c2d3db2cf919449c618584a1ae7429"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_882" name="Mesh_882">
+		<Material id="0" name="PhysicalMaterial_194"/>
+		<file path="SMART_DEVICES_Assets/Mesh_882.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="01d055248c288f9d4a82939e4a5758d3"/>
+	</StaticMesh>
+	<UEPbrMaterial name="Cloth">
+		<Expressions>
+			<Color constant="(R=0.260174,G=0.800000,B=0.142129,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Texture PathName="roughness_tif"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="2" OutputIndex="0"/>
+				<1 expression="3"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="6" OutputIndex="0"/>
+				<1 expression="7" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="4"/>
+		<Specular expression="5" OutputIndex="0"/>
+		<Normal expression="8"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Ligth">
+		<Expressions>
+			<Color constant="(R=0.210480,G=0.323380,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Plastic_002">
+		<Expressions>
+			<Color constant="(R=0.011003,G=0.010702,B=0.011792,A=1.000000)"/>
+			<Scalar constant="0.363636"/>
+			<Scalar constant="0.615152"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Plastic_2">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.308956"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="beige_White_001">
+		<Expressions>
+			<Color constant="(R=0.018006,G=0.017786,B=0.017166,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Plastic_1_001">
+		<Expressions>
+			<Color constant="(R=0.378427,G=0.365943,B=0.350312,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.591759"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Metall_2_001">
+		<Expressions>
+			<Color constant="(R=0.401969,G=0.381282,B=0.323008,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.627660"/>
+			<Scalar constant="0.464539"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Metall_003">
+		<Expressions>
+			<Color constant="(R=0.603816,G=0.603816,B=0.603816,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.336879"/>
+			<Scalar constant="0.429078"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Plastic_Black_001">
+		<Expressions>
+			<Color constant="(R=0.015981,G=0.013968,B=0.011079,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.890071"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Plastic_Black_Old_001">
+		<Expressions>
+			<Color constant="(R=0.039680,G=0.013249,B=0.006020,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.678369"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Pins_2_001">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Plastic_Yelow_001">
+		<Expressions>
+			<Color constant="(R=0.638272,G=0.595888,B=0.608730,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Plastic_Blue_001">
+		<Expressions>
+			<Color constant="(R=0.117784,G=0.114246,B=0.401969,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Plastic_red_001">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.637555,B=0.652096,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Plastic_2_001">
+		<Expressions>
+			<Color constant="(R=0.132864,G=0.129561,B=0.126972,A=1.000000)"/>
+			<Scalar constant="0.136364"/>
+			<Scalar constant="0.478656"/>
+			<Scalar constant="0.287234"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Metall_Color_1_001">
+		<Expressions>
+			<Color constant="(R=0.398034,G=0.385368,B=0.410939,A=1.000000)"/>
+			<Scalar constant="0.617021"/>
+			<Scalar constant="0.627660"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Sticker_2_001">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="beige_Dark_001">
+		<Expressions>
+			<Color constant="(R=0.376977,G=0.332314,B=0.354952,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Plastic_3_001">
+		<Expressions>
+			<Color constant="(R=0.139638,G=0.127992,B=0.136672,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.450355"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Element_Light_1_001">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.400000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Pins_1_001">
+		<Expressions>
+			<Color constant="(R=0.087140,G=0.044528,B=0.033046,A=1.000000)"/>
+			<Scalar constant="0.553191"/>
+			<Scalar constant="0.237589"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Display_001">
+		<Expressions>
+			<Color constant="(R=0.018678,G=0.018678,B=0.018678,A=1.000000)"/>
+			<Scalar constant="0.886525"/>
+			<Scalar constant="0.139773"/>
+			<Scalar constant="0.245455"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="black_circle">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="black_circle_png">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="12" OutputIndex="0"/>
+				<1 expression="13" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+		<Normal expression="14"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="plus">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="plus_png">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="12" OutputIndex="0"/>
+				<1 expression="13" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+		<Normal expression="14"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="minus_sign">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="minus_sign_png">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="12" OutputIndex="0"/>
+				<1 expression="13" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+		<Normal expression="14"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="mute">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="mute_png">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="12" OutputIndex="0"/>
+				<1 expression="13" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+		<Normal expression="14"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="frontPanelGrey">
+		<Expressions>
+			<Color constant="(R=0.022542,G=0.023259,B=0.023975,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="metal01">
+		<Expressions>
+			<Color constant="(R=0.811765,G=0.811765,B=0.811765,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Gold_001">
+		<Expressions>
+			<Color constant="(R=0.501961,G=0.501961,B=0.501961,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="greyPlastic">
+		<Expressions>
+			<Color constant="(R=0.058824,G=0.058824,B=0.058824,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Alum">
+		<Expressions>
+			<Color constant="(R=0.960784,G=0.878431,B=0.811765,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="buttons_icons">
+		<Expressions>
+			<Color constant="(R=0.650980,G=0.650980,B=0.650980,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Screen">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.225000,G=2.200000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.600000,G=0.600000,B=0.600000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="3cef80570a0b0dfcb0149a1dd943cd34_jpg">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Stainless_Steel">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="logofront">
+		<Expressions>
+			<Color constant="(R=0.180793,G=0.180793,B=0.180793,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="icon_reset">
+		<Expressions>
+			<Color constant="(R=0.700000,G=0.700000,B=0.700000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="icon_headphones">
+		<Expressions>
+			<Color constant="(R=0.700000,G=0.700000,B=0.700000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="icon_charge">
+		<Expressions>
+			<Color constant="(R=0.700000,G=0.700000,B=0.700000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="icon_usb">
+		<Expressions>
+			<Color constant="(R=0.700000,G=0.700000,B=0.700000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="icon_microsd">
+		<Expressions>
+			<Color constant="(R=0.700000,G=0.700000,B=0.700000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="backPanel_metal01">
+		<Expressions>
+			<Color constant="(R=0.380392,G=0.380392,B=0.380392,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="vray_logoback">
+		<Expressions>
+			<Color constant="(R=0.050980,G=0.050980,B=0.050980,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="archmodels95_010_004">
+		<Expressions>
+			<Color constant="(R=0.474510,G=0.474510,B=0.474510,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="archmodels95_010_003">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="PhysicalMaterial_194">
+		<Expressions>
+			<Color constant="(R=0.083094,G=0.083094,B=0.083094,A=1.000000)"/>
+			<Scalar constant="0.440000"/>
+			<Scalar constant="0.603696"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="2.700000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<Texture name="meadow_2_8k_exr" file="SMART_DEVICES_Assets\meadow_2_8k_exr.exr" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="1ade9928b0b0252505dfb8f7631e4ed2"/>
+	</Texture>
+	<Texture name="roughness_tif" file="SMART_DEVICES_Assets\roughness_tif.tga" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3"/>
+	<Texture name="black_circle_png" file="SMART_DEVICES_Assets\black_circle_png.tga" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3"/>
+	<Texture name="plus_png" file="SMART_DEVICES_Assets\plus_png.tga" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3"/>
+	<Texture name="minus_sign_png" file="SMART_DEVICES_Assets\minus_sign_png.tga" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3"/>
+	<Texture name="mute_png" file="SMART_DEVICES_Assets\mute_png.tga" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3"/>
+	<Texture name="3cef80570a0b0dfcb0149a1dd943cd34_jpg" file="SMART_DEVICES_Assets\3cef80570a0b0dfcb0149a1dd943cd34_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="8c52a6682f9e2a9e3a2f3d931de98bd1"/>
+	</Texture>
+	<MetaData name="StaticMesh_Echo_Body" reference="StaticMesh.Echo_Body">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_016@1036', 'object_ptr': '2074603716896'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Echo_Body" reference="Actor.Echo_Body">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Echo_Body@1035', 'object_ptr': '2074579616032', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_TOP_DESK" reference="Actor.TOP_DESK">
+		<KeyValueProperty name="vray" val="{'unique_id': 'TOP_DESK@1857', 'object_ptr': '2074594162976'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Wifi" reference="StaticMesh.Wifi">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_____001@3019', 'object_ptr': '2075204279584'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Wifi" reference="Actor.Wifi">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Wifi@3018', 'object_ptr': '2074591962144', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_black_circle" reference="StaticMesh.black_circle">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_black_circle_001@139', 'object_ptr': '2074591408672'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_black_circle" reference="Actor.black_circle">
+		<KeyValueProperty name="vray" val="{'unique_id': 'black_circle@138', 'object_ptr': '2074581684000', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_plus" reference="StaticMesh.plus">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_plus_001@1611', 'object_ptr': '2075205624864'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_plus" reference="Actor.plus">
+		<KeyValueProperty name="vray" val="{'unique_id': 'plus@1610', 'object_ptr': '2074594752800', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_minus_sign" reference="StaticMesh.minus_sign">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_minus_sign_001@1362', 'object_ptr': '2074596314912'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_minus_sign" reference="Actor.minus_sign">
+		<KeyValueProperty name="vray" val="{'unique_id': 'minus_sign@1361', 'object_ptr': '2074578527264', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_mute" reference="StaticMesh.mute">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_mute_001@1378', 'object_ptr': '2074596214816'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_mute" reference="Actor.mute">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mute@1377', 'object_ptr': '2074578447136', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_black_circle_001" reference="StaticMesh.black_circle_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_black_circle_002@141', 'object_ptr': '2074591405088'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_black_circle_001" reference="Actor.black_circle_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'black_circle_001@140', 'object_ptr': '2074581682208', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_plus_001" reference="StaticMesh.plus_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_plus_002@1613', 'object_ptr': '2075205621280'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_plus_001" reference="Actor.plus_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'plus_001@1612', 'object_ptr': '2074594751008', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_minus_sign_001" reference="StaticMesh.minus_sign_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_minus_sign_002@1364', 'object_ptr': '2074596225568'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_minus_sign_001" reference="Actor.minus_sign_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'minus_sign_001@1363', 'object_ptr': '2074578525472', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_mute_001" reference="StaticMesh.mute_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_mute_002@1380', 'object_ptr': '2074596194592'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_mute_001" reference="Actor.mute_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mute_001@1379', 'object_ptr': '2074578445344', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Echo_Body_001" reference="StaticMesh.Echo_Body_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_014@1038', 'object_ptr': '2074603722272'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Echo_Body_001" reference="Actor.Echo_Body_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Echo_Body_001@1037', 'object_ptr': '2074579613984', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_backCap" reference="StaticMesh.backCap">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_136@89', 'object_ptr': '2074599508000'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_backCap" reference="Actor.backCap">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="1.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'backCap@88', 'object_ptr': '2074581811488', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_middlePanel" reference="StaticMesh.middlePanel">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_137@1358', 'object_ptr': '2074599436832'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_middlePanel" reference="Actor.middlePanel">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="2.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'middlePanel@1357', 'object_ptr': '2074578530848', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_usbPort_part03" reference="StaticMesh.usbPort_part03">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_138@2973', 'object_ptr': '2074599431456'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_usbPort_part03" reference="Actor.usbPort_part03">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="3.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'usbPort_part03@2972', 'object_ptr': '2074592049440', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_usbPort_part02" reference="StaticMesh.usbPort_part02">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_139@2969', 'object_ptr': '2074599427872'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_usbPort_part02" reference="Actor.usbPort_part02">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="4.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'usbPort_part02@2968', 'object_ptr': '2074592118816', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_usbPort_part01" reference="StaticMesh.usbPort_part01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_140@2965', 'object_ptr': '2074599369504'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_usbPort_part01" reference="Actor.usbPort_part01">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="5.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'usbPort_part01@2964', 'object_ptr': '2074592122400', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_sideButton02_icon02" reference="StaticMesh.sideButton02_icon02">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_141@1739', 'object_ptr': '2074599362336'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_sideButton02_icon02" reference="Actor.sideButton02_icon02">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="6.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'sideButton02_icon02@1738', 'object_ptr': '2074594406944', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_sideButton02_icon01" reference="StaticMesh.sideButton02_icon01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_142@1735', 'object_ptr': '2074599303968'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_sideButton02_icon01" reference="Actor.sideButton02_icon01">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="7.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'sideButton02_icon01@1734', 'object_ptr': '2074594427168', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_sideButton01_icon02" reference="StaticMesh.sideButton01_icon02">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_143@1727', 'object_ptr': '2074599296800'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_sideButton01_icon02" reference="Actor.sideButton01_icon02">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="8.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'sideButton01_icon02@1726', 'object_ptr': '2074594434336', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_sideButton01_icon01" reference="StaticMesh.sideButton01_icon01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_144@1723', 'object_ptr': '2074599293216'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_sideButton01_icon01" reference="Actor.sideButton01_icon01">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="9.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'sideButton01_icon01@1722', 'object_ptr': '2074594437920', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_sideButton02" reference="StaticMesh.sideButton02">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_145@1731', 'object_ptr': '2074599256608'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_sideButton02" reference="Actor.sideButton02">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="10.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'sideButton02@1730', 'object_ptr': '2074594430752', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_sideButton01" reference="StaticMesh.sideButton01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_207@1719', 'object_ptr': '2074598586656'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_sideButton01" reference="Actor.sideButton01">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="11.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'sideButton01@1718', 'object_ptr': '2074594441504', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_screen" reference="StaticMesh.screen">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_216@1693', 'object_ptr': '2074598406432'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_screen" reference="Actor.screen">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="12.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'screen@1692', 'object_ptr': '2074594534432', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_resetButton_part02" reference="StaticMesh.resetButton_part02">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_236@1669', 'object_ptr': '2074598399264'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_resetButton_part02" reference="Actor.resetButton_part02">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="13.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'resetButton_part02@1668', 'object_ptr': '2074594594592', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_resetButton_part01" reference="StaticMesh.resetButton_part01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_281@1665', 'object_ptr': '2074598395680'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_resetButton_part01" reference="Actor.resetButton_part01">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="14.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'resetButton_part01@1664', 'object_ptr': '2074594598176', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_powerButton" reference="StaticMesh.powerButton">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_282@1637', 'object_ptr': '2074598390048'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_powerButton" reference="Actor.powerButton">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="15.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'powerButton@1636', 'object_ptr': '2074594709280', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_microSDPort_part04" reference="StaticMesh.microSDPort_part04">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_361@1354', 'object_ptr': '2074598295584'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_microSDPort_part04" reference="Actor.microSDPort_part04">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="16.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'microSDPort_part04@1353', 'object_ptr': '2074578534688', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_microSDPort_part03" reference="StaticMesh.microSDPort_part03">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_362@1350', 'object_ptr': '2074598193440'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_microSDPort_part03" reference="Actor.microSDPort_part03">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="17.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'microSDPort_part03@1349', 'object_ptr': '2074578538272', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_microSDPort_part02" reference="StaticMesh.microSDPort_part02">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_363@1346', 'object_ptr': '2074598189856'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_microSDPort_part02" reference="Actor.microSDPort_part02">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="18.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'microSDPort_part02@1345', 'object_ptr': '2074578541856', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_microSDPort_part01" reference="StaticMesh.microSDPort_part01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_364@1342', 'object_ptr': '2074598186272'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_microSDPort_part01" reference="Actor.microSDPort_part01">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="19.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'microSDPort_part01@1341', 'object_ptr': '2074578545440', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_headPhonesPort_part03" reference="StaticMesh.headPhonesPort_part03">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_365@1208', 'object_ptr': '2074598182688'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_headPhonesPort_part03" reference="Actor.headPhonesPort_part03">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="20.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'headPhonesPort_part03@1207', 'object_ptr': '2074579224608', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_headPhonesPort_part02" reference="StaticMesh.headPhonesPort_part02">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_366@1204', 'object_ptr': '2074598179104'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_headPhonesPort_part02" reference="Actor.headPhonesPort_part02">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="21.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'headPhonesPort_part02@1203', 'object_ptr': '2074579228192', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_headPhonesPort_part01" reference="StaticMesh.headPhonesPort_part01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_367@1200', 'object_ptr': '2074598107936'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_headPhonesPort_part01" reference="Actor.headPhonesPort_part01">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="22.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'headPhonesPort_part01@1199', 'object_ptr': '2074579231776', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontWheelButton_icon04" reference="StaticMesh.frontWheelButton_icon04">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_368@1130', 'object_ptr': '2074598102560'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontWheelButton_icon04" reference="Actor.frontWheelButton_icon04">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="23.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontWheelButton_icon04@1129', 'object_ptr': '2074579366432', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontWheelButton_icon03" reference="StaticMesh.frontWheelButton_icon03">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_369@1126', 'object_ptr': '2074598045984'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontWheelButton_icon03" reference="Actor.frontWheelButton_icon03">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="24.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontWheelButton_icon03@1125', 'object_ptr': '2074579386656', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontWheelButton_icon02" reference="StaticMesh.frontWheelButton_icon02">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_370@1122', 'object_ptr': '2074598035232'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontWheelButton_icon02" reference="Actor.frontWheelButton_icon02">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="25.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontWheelButton_icon02@1121', 'object_ptr': '2074579390240', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontWheelButton_icon01" reference="StaticMesh.frontWheelButton_icon01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_371@1118', 'object_ptr': '2074597991456'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontWheelButton_icon01" reference="Actor.frontWheelButton_icon01">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="26.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontWheelButton_icon01@1117', 'object_ptr': '2074579393824', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontWheelButton" reference="StaticMesh.frontWheelButton">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_372@1114', 'object_ptr': '2074597947680'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontWheelButton" reference="Actor.frontWheelButton">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="27.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontWheelButton@1113', 'object_ptr': '2074579397408', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontPanel" reference="StaticMesh.frontPanel">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_373@1110', 'object_ptr': '2074597940512'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontPanel" reference="Actor.frontPanel">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="28.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontPanel@1109', 'object_ptr': '2074579400992', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontLogo" reference="StaticMesh.frontLogo">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_374@1106', 'object_ptr': '2074597936928'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontLogo" reference="Actor.frontLogo">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="29.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontLogo@1105', 'object_ptr': '2074579421216', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontButton01" reference="StaticMesh.frontButton01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_375@1102', 'object_ptr': '2074597878560'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontButton01" reference="Actor.frontButton01">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="30.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontButton01@1101', 'object_ptr': '2074579424800', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_extraGeo_part05" reference="StaticMesh.extraGeo_part05">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_376@1071', 'object_ptr': '2074597869600'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_extraGeo_part05" reference="Actor.extraGeo_part05">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="31.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'extraGeo_part05@1070', 'object_ptr': '2074579492128', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_extraGeo_part04" reference="StaticMesh.extraGeo_part04">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_377@1067', 'object_ptr': '2074597829408'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_extraGeo_part04" reference="Actor.extraGeo_part04">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="32.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'extraGeo_part04@1066', 'object_ptr': '2074579495712', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_extraGeo_part03" reference="StaticMesh.extraGeo_part03">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_378@1063', 'object_ptr': '2074597780256'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_extraGeo_part03" reference="Actor.extraGeo_part03">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="33.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'extraGeo_part03@1062', 'object_ptr': '2074579499296', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_extraGeo_part02" reference="StaticMesh.extraGeo_part02">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_379@1059', 'object_ptr': '2074597776672'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_extraGeo_part02" reference="Actor.extraGeo_part02">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="34.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'extraGeo_part02@1058', 'object_ptr': '2074579568672', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_extraGeo_part01" reference="StaticMesh.extraGeo_part01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_380@1055', 'object_ptr': '2074597771296'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_extraGeo_part01" reference="Actor.extraGeo_part01">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="35.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'extraGeo_part01@1054', 'object_ptr': '2074579572256', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_chargePort_part02" reference="StaticMesh.chargePort_part02">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_381@294', 'object_ptr': '2074597716512'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_chargePort_part02" reference="Actor.chargePort_part02">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="36.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'chargePort_part02@293', 'object_ptr': '2074581236000', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_chargePort_part01" reference="StaticMesh.chargePort_part01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_382@290', 'object_ptr': '2074597711136'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_chargePort_part01" reference="Actor.chargePort_part01">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="37.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'chargePort_part01@289', 'object_ptr': '2074581272608', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bottomIcons05" reference="StaticMesh.bottomIcons05">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_383@203', 'object_ptr': '2074597705760'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bottomIcons05" reference="Actor.bottomIcons05">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="38.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bottomIcons05@202', 'object_ptr': '2074581514528', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bottomIcons04" reference="StaticMesh.bottomIcons04">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_384@199', 'object_ptr': '2074597701920'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bottomIcons04" reference="Actor.bottomIcons04">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="39.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bottomIcons04@198', 'object_ptr': '2074581518368', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bottomIcons03" reference="StaticMesh.bottomIcons03">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_385@195', 'object_ptr': '2074597698336'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bottomIcons03" reference="Actor.bottomIcons03">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="40.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bottomIcons03@194', 'object_ptr': '2074581521952', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bottomIcons02" reference="StaticMesh.bottomIcons02">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_386@191', 'object_ptr': '2074597694752'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bottomIcons02" reference="Actor.bottomIcons02">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="41.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bottomIcons02@190', 'object_ptr': '2074581525536', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bottomIcons01" reference="StaticMesh.bottomIcons01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_387@187', 'object_ptr': '2074597691168'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bottomIcons01" reference="Actor.bottomIcons01">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="42.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bottomIcons01@186', 'object_ptr': '2074581529120', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_backPanel" reference="StaticMesh.backPanel">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_388@97', 'object_ptr': '2074597687584'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_backPanel" reference="Actor.backPanel">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="43.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'backPanel@96', 'object_ptr': '2074581787680', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_backLogo" reference="StaticMesh.backLogo">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_389@93', 'object_ptr': '2074597667360'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_backLogo" reference="Actor.backLogo">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="44.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'backLogo@92', 'object_ptr': '2074581791264', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_torus" reference="StaticMesh.torus">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_390@1867', 'object_ptr': '2074597658400'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_torus" reference="Actor.torus">
+		<KeyValueProperty name="MaxHandle" val="45.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'torus@1866', 'object_ptr': '2074594154016', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_cylinder" reference="StaticMesh.cylinder">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_391@904', 'object_ptr': '2074597552672'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_cylinder" reference="Actor.cylinder">
+		<KeyValueProperty name="MaxHandle" val="46.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'cylinder@903', 'object_ptr': '2074579914528', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_backCap_001" reference="StaticMesh.backCap_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_392@91', 'object_ptr': '2074597545504'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_backCap_001" reference="Actor.backCap_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="1.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'backCap_001@90', 'object_ptr': '2074581793056', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_middlePanel_001" reference="StaticMesh.middlePanel_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_393@1360', 'object_ptr': '2074597541920'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_middlePanel_001" reference="Actor.middlePanel_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="2.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'middlePanel_001@1359', 'object_ptr': '2074578529056', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_usbPort_part03_001" reference="StaticMesh.usbPort_part03_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_394@2975', 'object_ptr': '2074597456160'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_usbPort_part03_001" reference="Actor.usbPort_part03_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="3.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'usbPort_part03_001@2974', 'object_ptr': '2074592047648', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_usbPort_part02_001" reference="StaticMesh.usbPort_part02_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_395@2971', 'object_ptr': '2074597454368'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_usbPort_part02_001" reference="Actor.usbPort_part02_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="4.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'usbPort_part02_001@2970', 'object_ptr': '2074592117024', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_usbPort_part01_001" reference="StaticMesh.usbPort_part01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_396@2967', 'object_ptr': '2074597445408'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_usbPort_part01_001" reference="Actor.usbPort_part01_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="5.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'usbPort_part01_001@2966', 'object_ptr': '2074592120608', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_sideButton02_icon02_001" reference="StaticMesh.sideButton02_icon02_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_397@1741', 'object_ptr': '2074597441824'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_sideButton02_icon02_001" reference="Actor.sideButton02_icon02_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="6.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'sideButton02_icon02_001@1740', 'object_ptr': '2074594405152', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_sideButton02_icon01_001" reference="StaticMesh.sideButton02_icon01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_398@1737', 'object_ptr': '2074597350688'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_sideButton02_icon01_001" reference="Actor.sideButton02_icon01_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="7.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'sideButton02_icon01_001@1736', 'object_ptr': '2074594408736', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_sideButton01_icon02_001" reference="StaticMesh.sideButton01_icon02_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_399@1729', 'object_ptr': '2074597347104'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_sideButton01_icon02_001" reference="Actor.sideButton01_icon02_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="8.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'sideButton01_icon02_001@1728', 'object_ptr': '2074594432544', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_sideButton01_icon01_001" reference="StaticMesh.sideButton01_icon01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_400@1725', 'object_ptr': '2074597345312'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_sideButton01_icon01_001" reference="Actor.sideButton01_icon01_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="9.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'sideButton01_icon01_001@1724', 'object_ptr': '2074594436128', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_sideButton02_001" reference="StaticMesh.sideButton02_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_401@1733', 'object_ptr': '2074597343520'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_sideButton02_001" reference="Actor.sideButton02_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="10.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'sideButton02_001@1732', 'object_ptr': '2074594428960', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_sideButton01_001" reference="StaticMesh.sideButton01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_402@1721', 'object_ptr': '2074597323296'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_sideButton01_001" reference="Actor.sideButton01_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="11.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'sideButton01_001@1720', 'object_ptr': '2074594439712', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_screen_001" reference="StaticMesh.screen_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_403@1695', 'object_ptr': '2074597319712'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_screen_001" reference="Actor.screen_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="12.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'screen_001@1694', 'object_ptr': '2074594532640', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_resetButton_part02_001" reference="StaticMesh.resetButton_part02_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_404@1671', 'object_ptr': '2074597317920'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_resetButton_part02_001" reference="Actor.resetButton_part02_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="13.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'resetButton_part02_001@1670', 'object_ptr': '2074594592800', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_resetButton_part01_001" reference="StaticMesh.resetButton_part01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_405@1667', 'object_ptr': '2074597316128'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_resetButton_part01_001" reference="Actor.resetButton_part01_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="14.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'resetButton_part01_001@1666', 'object_ptr': '2074594596384', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_powerButton_001" reference="StaticMesh.powerButton_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_406@1639', 'object_ptr': '2074597312544'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_powerButton_001" reference="Actor.powerButton_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="15.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'powerButton_001@1638', 'object_ptr': '2074594707488', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_microSDPort_part04_001" reference="StaticMesh.microSDPort_part04_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_407@1356', 'object_ptr': '2074597190432'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_microSDPort_part04_001" reference="Actor.microSDPort_part04_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="16.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'microSDPort_part04_001@1355', 'object_ptr': '2074578532640', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_microSDPort_part03_001" reference="StaticMesh.microSDPort_part03_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_408@1352', 'object_ptr': '2074597186848'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_microSDPort_part03_001" reference="Actor.microSDPort_part03_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="17.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'microSDPort_part03_001@1351', 'object_ptr': '2074578536480', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_microSDPort_part02_001" reference="StaticMesh.microSDPort_part02_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_409@1348', 'object_ptr': '2074597185056'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_microSDPort_part02_001" reference="Actor.microSDPort_part02_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="18.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'microSDPort_part02_001@1347', 'object_ptr': '2074578540064', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_microSDPort_part01_001" reference="StaticMesh.microSDPort_part01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_410@1344', 'object_ptr': '2074597183264'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_microSDPort_part01_001" reference="Actor.microSDPort_part01_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="19.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'microSDPort_part01_001@1343', 'object_ptr': '2074578543648', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_headPhonesPort_part03_001" reference="StaticMesh.headPhonesPort_part03_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_411@1210', 'object_ptr': '2074597181472'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_headPhonesPort_part03_001" reference="Actor.headPhonesPort_part03_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="20.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'headPhonesPort_part03_001@1209', 'object_ptr': '2074579222816', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_headPhonesPort_part02_001" reference="StaticMesh.headPhonesPort_part02_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_412@1206', 'object_ptr': '2074597179680'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_headPhonesPort_part02_001" reference="Actor.headPhonesPort_part02_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="21.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'headPhonesPort_part02_001@1205', 'object_ptr': '2074579226400', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_headPhonesPort_part01_001" reference="StaticMesh.headPhonesPort_part01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_413@1202', 'object_ptr': '2074597159456'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_headPhonesPort_part01_001" reference="Actor.headPhonesPort_part01_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="22.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'headPhonesPort_part01_001@1201', 'object_ptr': '2074579229984', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontWheelButton_icon04_001" reference="StaticMesh.frontWheelButton_icon04_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_414@1132', 'object_ptr': '2074597155872'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontWheelButton_icon04_001" reference="Actor.frontWheelButton_icon04_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="23.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontWheelButton_icon04_001@1131', 'object_ptr': '2074579364640', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontWheelButton_icon03_001" reference="StaticMesh.frontWheelButton_icon03_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_415@1128', 'object_ptr': '2074597148704'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontWheelButton_icon03_001" reference="Actor.frontWheelButton_icon03_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="24.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontWheelButton_icon03_001@1127', 'object_ptr': '2074579368224', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontWheelButton_icon02_001" reference="StaticMesh.frontWheelButton_icon02_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_416@1124', 'object_ptr': '2074597057568'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontWheelButton_icon02_001" reference="Actor.frontWheelButton_icon02_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="25.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontWheelButton_icon02_001@1123', 'object_ptr': '2074579388448', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontWheelButton_icon01_001" reference="StaticMesh.frontWheelButton_icon01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_417@1120', 'object_ptr': '2074597044768'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontWheelButton_icon01_001" reference="Actor.frontWheelButton_icon01_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="26.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontWheelButton_icon01_001@1119', 'object_ptr': '2074579392032', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontWheelButton_001" reference="StaticMesh.frontWheelButton_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_418@1116', 'object_ptr': '2074597037600'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontWheelButton_001" reference="Actor.frontWheelButton_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="27.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontWheelButton_001@1115', 'object_ptr': '2074579395616', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontPanel_001" reference="StaticMesh.frontPanel_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_419@1112', 'object_ptr': '2074597034016'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontPanel_001" reference="Actor.frontPanel_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="28.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontPanel_001@1111', 'object_ptr': '2074579399200', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontLogo_001" reference="StaticMesh.frontLogo_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_420@1108', 'object_ptr': '2074596962848'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontLogo_001" reference="Actor.frontLogo_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="29.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontLogo_001@1107', 'object_ptr': '2074579419424', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_frontButton01_001" reference="StaticMesh.frontButton01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_421@1104', 'object_ptr': '2074596955680'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_frontButton01_001" reference="Actor.frontButton01_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="30.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'frontButton01_001@1103', 'object_ptr': '2074579423008', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_extraGeo_part05_001" reference="StaticMesh.extraGeo_part05_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_422@1073', 'object_ptr': '2074596950304'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_extraGeo_part05_001" reference="Actor.extraGeo_part05_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="31.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'extraGeo_part05_001@1072', 'object_ptr': '2074579490336', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_extraGeo_part04_001" reference="StaticMesh.extraGeo_part04_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_423@1069', 'object_ptr': '2074596860960'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_extraGeo_part04_001" reference="Actor.extraGeo_part04_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="32.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'extraGeo_part04_001@1068', 'object_ptr': '2074579493920', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_extraGeo_part03_001" reference="StaticMesh.extraGeo_part03_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_424@1065', 'object_ptr': '2074596831776'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_extraGeo_part03_001" reference="Actor.extraGeo_part03_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="33.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'extraGeo_part03_001@1064', 'object_ptr': '2074579497504', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_extraGeo_part02_001" reference="StaticMesh.extraGeo_part02_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_425@1061', 'object_ptr': '2074596829984'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_extraGeo_part02_001" reference="Actor.extraGeo_part02_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="34.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'extraGeo_part02_001@1060', 'object_ptr': '2074579566880', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_extraGeo_part01_001" reference="StaticMesh.extraGeo_part01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_426@1057', 'object_ptr': '2074596826400'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_extraGeo_part01_001" reference="Actor.extraGeo_part01_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="35.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'extraGeo_part01_001@1056', 'object_ptr': '2074579570464', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_chargePort_part02_001" reference="StaticMesh.chargePort_part02_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_427@296', 'object_ptr': '2074596822816'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_chargePort_part02_001" reference="Actor.chargePort_part02_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="36.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'chargePort_part02_001@295', 'object_ptr': '2074581234208', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_chargePort_part01_001" reference="StaticMesh.chargePort_part01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_428@292', 'object_ptr': '2074596819232'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_chargePort_part01_001" reference="Actor.chargePort_part01_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="37.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'chargePort_part01_001@291', 'object_ptr': '2074581270816', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bottomIcons05_001" reference="StaticMesh.bottomIcons05_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_429@205', 'object_ptr': '2074596815392'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bottomIcons05_001" reference="Actor.bottomIcons05_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="38.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bottomIcons05_001@204', 'object_ptr': '2074581512736', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bottomIcons04_001" reference="StaticMesh.bottomIcons04_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_430@201', 'object_ptr': '2074596813600'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bottomIcons04_001" reference="Actor.bottomIcons04_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="39.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bottomIcons04_001@200', 'object_ptr': '2074581516576', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bottomIcons03_001" reference="StaticMesh.bottomIcons03_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_431@197', 'object_ptr': '2074596811808'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bottomIcons03_001" reference="Actor.bottomIcons03_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="40.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bottomIcons03_001@196', 'object_ptr': '2074581520160', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bottomIcons02_001" reference="StaticMesh.bottomIcons02_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_432@193', 'object_ptr': '2074596810016'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bottomIcons02_001" reference="Actor.bottomIcons02_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="41.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bottomIcons02_001@192', 'object_ptr': '2074581523744', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bottomIcons01_001" reference="StaticMesh.bottomIcons01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_433@189', 'object_ptr': '2074596808224'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bottomIcons01_001" reference="Actor.bottomIcons01_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="42.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bottomIcons01_001@188', 'object_ptr': '2074581527328', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_backPanel_001" reference="StaticMesh.backPanel_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_434@99', 'object_ptr': '2074596806432'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_backPanel_001" reference="Actor.backPanel_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="43.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'backPanel_001@98', 'object_ptr': '2074581785888', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_backLogo_001" reference="StaticMesh.backLogo_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_435@95', 'object_ptr': '2074596804640'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_backLogo_001" reference="Actor.backLogo_001">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="44.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'backLogo_001@94', 'object_ptr': '2074581789472', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_torus_001" reference="StaticMesh.torus_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_436@1869', 'object_ptr': '2074596680736'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_torus_001" reference="Actor.torus_001">
+		<KeyValueProperty name="MaxHandle" val="45.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'torus_001@1868', 'object_ptr': '2074594152224', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_cylinder_001" reference="StaticMesh.cylinder_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_437@908', 'object_ptr': '2074596677152'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_cylinder_001" reference="Actor.cylinder_001">
+		<KeyValueProperty name="MaxHandle" val="46.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'cylinder_001@907', 'object_ptr': '2074579910944', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_archmodels95_010_004" reference="StaticMesh.archmodels95_010_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_440@26', 'object_ptr': '2074596598816'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_archmodels95_010_004" reference="Actor.archmodels95_010_004">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="4.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'archmodels95_010_004@25', 'object_ptr': '2074581971488', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_archmodels95_010_003" reference="StaticMesh.archmodels95_010_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_442@24', 'object_ptr': '2074596471328'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_archmodels95_010_003" reference="Actor.archmodels95_010_003">
+		<KeyValueProperty name="MapChannel:1" val="UVChannel_1" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="6.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'archmodels95_010_003@23', 'object_ptr': '2074581973280', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Arch_056_057_07" reference="StaticMesh.Arch_056_057_07">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_882@18', 'object_ptr': '2074596407584'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Arch_056_057_07" reference="Actor.Arch_056_057_07">
+		<KeyValueProperty name="MaxHandle" val="631.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Arch_056_057_07@17', 'object_ptr': '2074581995296', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<Export Duration="34.06199999999808"/>
+</DatasmithUnrealScene>

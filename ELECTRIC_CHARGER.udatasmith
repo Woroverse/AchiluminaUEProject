@@ -1,0 +1,804 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.18"/>
+	<User ID="USER" OS="Windows 10"/>
+	<Actor name="Empty_001" layer="ELECTRIC CHARGER/CAR">
+		<Transform tx="1154.212280" ty="872.751709" tz="123.727974" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="2.869821" sy="2.869821" sz="2.869821"/>
+	</Actor>
+	<ActorMesh name="EVD200SK_LG_EVCharger" layer="CHARGER">
+		<mesh name="EVD200SK_LG_EVCharger__Circle_005"/>
+		<Transform tx="969.116211" ty="714.901917" tz="0.808322" qw="0.670793" qx="-0.670793" qy="0.223689" qz="-0.223689" sx="1.253317" sy="1.253317" sz="1.253317"/>
+		<children visible="True">
+			<ActorMesh name="charger_001" layer="CHARGER">
+				<mesh name="charger_001__Cylinder_032"/>
+				<Transform tx="1009.067444" ty="893.482483" tz="56.704731" qw="0.532166" qx="-0.130821" qy="-0.351241" qz="0.759154" sx="1.253317" sy="1.253317" sz="1.253317"/>
+			</ActorMesh>
+		</children>
+	</ActorMesh>
+	<ActorMesh name="PoleStar_Suv_Concept_" layer="Collection.003">
+		<mesh name="PoleStar_Suv_Concept___Plane_015"/>
+		<Transform tx="1161.760254" ty="1048.202271" tz="159.929840" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.772016" sy="0.739577" sz="0.739577"/>
+		<children visible="True">
+			<ActorMesh name="Bottom_Left_Tire_" layer="Collection.003">
+				<mesh name="Bottom_Left_Tire___Circle_008"/>
+				<Transform tx="1287.648315" ty="887.975342" tz="49.981903" qw="0.707107" qx="0.000000" qy="0.707107" qz="0.000000" sx="0.355681" sy="0.355681" sz="0.285271"/>
+			</ActorMesh>
+			<ActorMesh name="Bottom_Left_Wheel" layer="Collection.003">
+				<mesh name="Bottom_Left_Wheel__Plane_028"/>
+				<Transform tx="1278.197388" ty="888.512024" tz="50.125141" qw="0.271543" qx="-0.652891" qy="-0.271533" qz="0.652891" sx="0.015991" sy="0.015991" sz="0.015991"/>
+			</ActorMesh>
+			<ActorMesh name="Bottom_Right_Tire_" layer="Collection.003">
+				<mesh name="Bottom_Right_Tire___Circle_010"/>
+				<Transform tx="1036.443115" ty="888.512024" tz="49.981903" qw="0.000000" qx="0.707107" qy="0.000000" qz="-0.707107" sx="0.355681" sy="0.355681" sz="0.285271"/>
+			</ActorMesh>
+			<ActorMesh name="Bottom_Right_Wheel" layer="Collection.003">
+				<mesh name="Bottom_Right_Wheel__Plane_034"/>
+				<Transform tx="1045.894043" ty="887.975342" tz="50.125141" qw="0.654289" qx="0.268151" qy="0.654293" qz="0.268143" sx="0.015991" sy="0.015991" sz="0.015991"/>
+			</ActorMesh>
+			<ActorMesh name="Front_Headlight_Grills_" layer="Collection.003">
+				<mesh name="Front_Headlight_Grills___Plane_019"/>
+				<Transform tx="1161.760254" ty="987.392456" tz="159.929840" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.772016" sy="0.739577" sz="0.739577"/>
+			</ActorMesh>
+			<ActorMesh name="Grill" layer="Collection.003">
+				<mesh name="Grill__Plane_022"/>
+				<Transform tx="1161.760254" ty="1048.202271" tz="159.929840" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.772016" sy="0.739577" sz="0.739577"/>
+			</ActorMesh>
+			<ActorMesh name="Head_Lights_" layer="Collection.003">
+				<mesh name="Head_Lights___Plane_021"/>
+				<Transform tx="1161.760254" ty="1048.202271" tz="159.929840" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.772016" sy="0.739577" sz="0.739577"/>
+			</ActorMesh>
+			<ActorMesh name="INTERIOR" layer="Collection.003">
+				<mesh name="INTERIOR__Plane_035"/>
+				<Transform tx="1161.760254" ty="1409.804199" tz="-6.888952" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.739577" sy="0.739577" sz="0.739577"/>
+				<children visible="True">
+					<ActorMesh name="Center_tablet_" layer="Collection.003">
+						<mesh name="Cube_059"/>
+						<Transform tx="1161.760254" ty="1107.003784" tz="124.758591" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.739577" sy="0.739577" sz="0.739577"/>
+					</ActorMesh>
+					<ActorMesh name="Driver_Display_" layer="Collection.003">
+						<mesh name="Cube_060"/>
+						<Transform tx="1212.607300" ty="1135.001953" tz="122.178650" qw="0.973786" qx="-0.227465" qy="0.000000" qz="0.000000" sx="0.056333" sy="0.056333" sz="0.056333"/>
+					</ActorMesh>
+					<ActorMesh name="Front_Dash" layer="Collection.003">
+						<mesh name="Plane_038"/>
+						<Transform tx="1161.760254" ty="1409.804199" tz="-6.888952" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.739577" sy="0.739577" sz="0.739577"/>
+					</ActorMesh>
+					<ActorMesh name="seat" layer="Collection.003">
+						<mesh name="seat__Cube_032"/>
+						<Transform tx="1212.910767" ty="1054.750610" tz="79.701149" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.141957" sy="0.141957" sz="0.111128"/>
+					</ActorMesh>
+					<ActorMesh name="seat_2" layer="Collection.003">
+						<mesh name="seat_2__Cube_056"/>
+						<Transform tx="1213.374390" ty="957.627991" tz="83.544991" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.141957" sy="0.141957" sz="0.111128"/>
+					</ActorMesh>
+					<ActorMesh name="seat_3" layer="Collection.003">
+						<mesh name="seat_3__Cube_057"/>
+						<Transform tx="1113.392578" ty="957.532898" tz="83.544991" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.141957" sy="0.141957" sz="0.111128"/>
+					</ActorMesh>
+					<ActorMesh name="seat_4" layer="Collection.003">
+						<mesh name="seat_4__Cube_058"/>
+						<Transform tx="1113.481934" ty="1054.750610" tz="79.701149" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.141957" sy="0.141957" sz="0.111128"/>
+					</ActorMesh>
+					<ActorMesh name="Steering_wheel" layer="Collection.003">
+						<mesh name="Steering_wheel__Circle_017"/>
+						<Transform tx="1212.911865" ty="1114.254395" tz="127.114594" qw="0.977058" qx="-0.212975" qy="0.000000" qz="-0.000000" sx="1.015518" sy="1.015518" sz="1.015518"/>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+			<ActorMesh name="Outside_Accessories_" layer="Collection.003">
+				<mesh name="Outside_Accessories___Plane_024"/>
+				<Transform tx="1161.760254" ty="1048.202271" tz="159.929840" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.772016" sy="0.739577" sz="0.739577"/>
+			</ActorMesh>
+			<ActorMesh name="Rear_Light_Grills" layer="Collection.003">
+				<mesh name="Rear_Light_Grills__Plane_017"/>
+				<Transform tx="1161.760254" ty="1050.978394" tz="159.929840" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.772016" sy="0.739577" sz="0.739577"/>
+			</ActorMesh>
+			<ActorMesh name="Rear_Light_Lamps" layer="Collection.003">
+				<mesh name="Rear_Light_Lamps__Plane_023"/>
+				<Transform tx="1161.760254" ty="630.240173" tz="159.929840" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.772016" sy="0.739577" sz="0.739577"/>
+			</ActorMesh>
+			<ActorMesh name="Top_Left_Tire_" layer="Collection.003">
+				<mesh name="Top_Left_Tire___Circle_006"/>
+				<Transform tx="1282.276367" ty="1229.588623" tz="49.981903" qw="0.707107" qx="0.000000" qy="0.707107" qz="0.000000" sx="0.355681" sy="0.355681" sz="0.285271"/>
+			</ActorMesh>
+			<ActorMesh name="Top_Left_Wheel" layer="Collection.003">
+				<mesh name="Top_Left_Wheel__Plane_026"/>
+				<Transform tx="1272.625244" ty="1229.501587" tz="50.125141" qw="0.282715" qx="-0.648132" qy="-0.282705" qz="0.648132" sx="0.015991" sy="0.015991" sz="0.015991"/>
+			</ActorMesh>
+			<ActorMesh name="Top_Right_Tire_" layer="Collection.003">
+				<mesh name="Top_Right_Tire___Circle_009"/>
+				<Transform tx="1041.104858" ty="1229.501587" tz="49.981903" qw="0.000000" qx="0.707107" qy="0.000000" qz="-0.707107" sx="0.355681" sy="0.355681" sz="0.285271"/>
+			</ActorMesh>
+			<ActorMesh name="Top_Right_Wheel" layer="Collection.003">
+				<mesh name="Top_Right_Wheel__Plane_032"/>
+				<Transform tx="1050.755981" ty="1229.588623" tz="50.125141" qw="0.653787" qx="0.269374" qy="0.653791" qz="0.269366" sx="0.015991" sy="0.015991" sz="0.015991"/>
+			</ActorMesh>
+			<ActorMesh name="Wheel_ends_" layer="Collection.003">
+				<mesh name="Wheel_ends___Plane_025"/>
+				<Transform tx="1161.760254" ty="1048.202271" tz="159.929840" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.772016" sy="0.739577" sz="0.739577"/>
+			</ActorMesh>
+		</children>
+	</ActorMesh>
+	<ActorMesh name="CHARGER_COVER" layer="Collection.003">
+		<mesh name="CHARGER_COVER__Plane_039"/>
+		<Transform tx="1248.412720" ty="868.800476" tz="79.877625" qw="0.820195" qx="-0.387880" qy="0.000283" qz="-0.420511" sx="0.772016" sy="0.739577" sz="0.739577"/>
+	</ActorMesh>
+	<ActorMesh name="CHARGER_COVER_001" layer="Collection.003">
+		<mesh name="CHARGER_COVER_001__Plane_040"/>
+		<Transform tx="1248.412720" ty="868.800476" tz="79.877625" qw="0.820195" qx="-0.387880" qy="0.000283" qz="-0.420511" sx="0.772016" sy="0.739577" sz="0.739577"/>
+	</ActorMesh>
+	<Environment name="world_environment_background" label="world_environment_background">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="0"/>
+	</Environment>
+	<Environment name="world_environment_lighting" label="world_environment_lighting">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="1"/>
+	</Environment>
+	<StaticMesh label="charger_001__Cylinder_032" name="charger_001__Cylinder_032">
+		<Material id="0" name="body"/>
+		<Material id="1" name="steel"/>
+		<file path="ELECTRIC_CHARGER_Assets/charger_001__Cylinder_032.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="927e10d7036ef773fb1ab0ce1977a8b3"/>
+	</StaticMesh>
+	<StaticMesh label="EVD200SK_LG_EVCharger__Circle_005" name="EVD200SK_LG_EVCharger__Circle_005">
+		<Material id="0" name="body"/>
+		<Material id="1" name="steel"/>
+		<Material id="2" name="screen"/>
+		<Material id="3" name="led"/>
+		<file path="ELECTRIC_CHARGER_Assets/EVD200SK_LG_EVCharger__Circle_005.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="161456f73d0dac75a30fb3f34ac049bc"/>
+	</StaticMesh>
+	<StaticMesh label="Bottom_Left_Tire___Circle_008" name="Bottom_Left_Tire___Circle_008">
+		<Material id="0" name="Tire"/>
+		<Material id="1" name="Metal_finish_"/>
+		<file path="ELECTRIC_CHARGER_Assets/Bottom_Left_Tire___Circle_008.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b58fdc1ad269d838cf74fac9654c5cfb"/>
+	</StaticMesh>
+	<StaticMesh label="Bottom_Left_Wheel__Plane_028" name="Bottom_Left_Wheel__Plane_028">
+		<Material id="0" name="Plastic_finish_"/>
+		<Material id="1" name="Metal_finish_"/>
+		<file path="ELECTRIC_CHARGER_Assets/Bottom_Left_Wheel__Plane_028.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e8be617dedd9fb456f6d5d23197c236b"/>
+	</StaticMesh>
+	<StaticMesh label="Bottom_Right_Tire___Circle_010" name="Bottom_Right_Tire___Circle_010">
+		<Material id="0" name="Tire"/>
+		<Material id="1" name="Metal_finish_"/>
+		<file path="ELECTRIC_CHARGER_Assets/Bottom_Right_Tire___Circle_010.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="10473efd8a4cf5faf770cb40bfe9c286"/>
+	</StaticMesh>
+	<StaticMesh label="Bottom_Right_Wheel__Plane_034" name="Bottom_Right_Wheel__Plane_034">
+		<Material id="0" name="Plastic_finish_"/>
+		<Material id="1" name="Metal_finish_"/>
+		<file path="ELECTRIC_CHARGER_Assets/Bottom_Right_Wheel__Plane_034.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="79aad27a4a8aa3b287e7b63e61b2d04b"/>
+	</StaticMesh>
+	<StaticMesh label="Front_Headlight_Grills___Plane_019" name="Front_Headlight_Grills___Plane_019">
+		<Material id="0" name="Grill_Colour"/>
+		<file path="ELECTRIC_CHARGER_Assets/Front_Headlight_Grills___Plane_019.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7f31dba4cabc4da778022c8fc95d933d"/>
+	</StaticMesh>
+	<StaticMesh label="Grill__Plane_022" name="Grill__Plane_022">
+		<Material id="0" name="Grill_Colour"/>
+		<file path="ELECTRIC_CHARGER_Assets/Grill__Plane_022.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6d7b89485e555c192af1cf30c05f6005"/>
+	</StaticMesh>
+	<StaticMesh label="Head_Lights___Plane_021" name="Head_Lights___Plane_021">
+		<Material id="0" name="Light_Covers_"/>
+		<Material id="1" name="Head_light"/>
+		<Material id="2" name="Material_065"/>
+		<Material id="3" name="DRLs"/>
+		<file path="ELECTRIC_CHARGER_Assets/Head_Lights___Plane_021.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3f5ba1a0c843eecceae4587e9a523390"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_059" name="Cube_059">
+		<Material id="0" name="Interior_Colour"/>
+		<Material id="1" name="Screen_001"/>
+		<file path="ELECTRIC_CHARGER_Assets/Cube_059.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ee4660c351590a7caaf9579da502f386"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_060" name="Cube_060">
+		<Material id="0" name="Interior_Colour"/>
+		<Material id="1" name="Screen_001"/>
+		<file path="ELECTRIC_CHARGER_Assets/Cube_060.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1de7fc85c2305d45999080fd02f7e677"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_038" name="Plane_038">
+		<Material id="0" name="Interior_Colour"/>
+		<file path="ELECTRIC_CHARGER_Assets/Plane_038.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d523da7eff75f05b79e8118b07ac2691"/>
+	</StaticMesh>
+	<StaticMesh label="seat__Cube_032" name="seat__Cube_032">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="ELECTRIC_CHARGER_Assets/seat__Cube_032.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="162f04485e3aad61822f3b44bf582bf4"/>
+	</StaticMesh>
+	<StaticMesh label="seat_2__Cube_056" name="seat_2__Cube_056">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="ELECTRIC_CHARGER_Assets/seat_2__Cube_056.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="428c3f61c86a52e0b030ffebcf86ec9f"/>
+	</StaticMesh>
+	<StaticMesh label="seat_3__Cube_057" name="seat_3__Cube_057">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="ELECTRIC_CHARGER_Assets/seat_3__Cube_057.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6bd5effa61990990b8d8ebc8d71f2e94"/>
+	</StaticMesh>
+	<StaticMesh label="seat_4__Cube_058" name="seat_4__Cube_058">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="ELECTRIC_CHARGER_Assets/seat_4__Cube_058.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0020dcd95fd79c075e0fbf51670afa38"/>
+	</StaticMesh>
+	<StaticMesh label="Steering_wheel__Circle_017" name="Steering_wheel__Circle_017">
+		<Material id="0" name="Interior_Colour"/>
+		<Material id="1" name="Metal_finish_"/>
+		<file path="ELECTRIC_CHARGER_Assets/Steering_wheel__Circle_017.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="087e45138c80ea919f396dde7a43c738"/>
+	</StaticMesh>
+	<StaticMesh label="INTERIOR__Plane_035" name="INTERIOR__Plane_035">
+		<Material id="0" name="Interior_Colour"/>
+		<file path="ELECTRIC_CHARGER_Assets/INTERIOR__Plane_035.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="44e702c334ece5cde6fb1f6a8aa9b877"/>
+	</StaticMesh>
+	<StaticMesh label="Outside_Accessories___Plane_024" name="Outside_Accessories___Plane_024">
+		<Material id="0" name="Paint_Colour_"/>
+		<Material id="1" name="Cladding_"/>
+		<Material id="2" name="Cladding_2"/>
+		<Material id="3" name="Tail_Light_Assembly_"/>
+		<Material id="4" name="Glass_"/>
+		<Material id="5" name="Headlight_Cover_"/>
+		<Material id="6" name="A_Pillar_Frame"/>
+		<Material id="7" name="Camera_Module_"/>
+		<file path="ELECTRIC_CHARGER_Assets/Outside_Accessories___Plane_024.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6e0d73c1225721d3e561f0fc98bb7c4c"/>
+	</StaticMesh>
+	<StaticMesh label="Rear_Light_Grills__Plane_017" name="Rear_Light_Grills__Plane_017">
+		<Material id="0" name="Cladding_"/>
+		<Material id="1" name="Grill_Colour"/>
+		<file path="ELECTRIC_CHARGER_Assets/Rear_Light_Grills__Plane_017.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="40fc6ecab8873242fc52faa4d675a06e"/>
+	</StaticMesh>
+	<StaticMesh label="Rear_Light_Lamps__Plane_023" name="Rear_Light_Lamps__Plane_023">
+		<Material id="0" name="Material_066"/>
+		<file path="ELECTRIC_CHARGER_Assets/Rear_Light_Lamps__Plane_023.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8ec061e51838984b41a6a73b85025ca5"/>
+	</StaticMesh>
+	<StaticMesh label="Top_Left_Tire___Circle_006" name="Top_Left_Tire___Circle_006">
+		<Material id="0" name="Tire"/>
+		<Material id="1" name="Metal_finish_"/>
+		<file path="ELECTRIC_CHARGER_Assets/Top_Left_Tire___Circle_006.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e233e2eaa76493a63d0ed0e3066ffb9f"/>
+	</StaticMesh>
+	<StaticMesh label="Top_Left_Wheel__Plane_026" name="Top_Left_Wheel__Plane_026">
+		<Material id="0" name="Plastic_finish_"/>
+		<Material id="1" name="Metal_finish_"/>
+		<file path="ELECTRIC_CHARGER_Assets/Top_Left_Wheel__Plane_026.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b46904c0458df558d0027ba3c5822ce5"/>
+	</StaticMesh>
+	<StaticMesh label="Top_Right_Tire___Circle_009" name="Top_Right_Tire___Circle_009">
+		<Material id="0" name="Tire"/>
+		<Material id="1" name="Metal_finish_"/>
+		<file path="ELECTRIC_CHARGER_Assets/Top_Right_Tire___Circle_009.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="30b22c6e7bf4ea5398c635caf26417bf"/>
+	</StaticMesh>
+	<StaticMesh label="Top_Right_Wheel__Plane_032" name="Top_Right_Wheel__Plane_032">
+		<Material id="0" name="Plastic_finish_"/>
+		<Material id="1" name="Metal_finish_"/>
+		<file path="ELECTRIC_CHARGER_Assets/Top_Right_Wheel__Plane_032.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ed781869b7b846e36b2987d3d48d3166"/>
+	</StaticMesh>
+	<StaticMesh label="Wheel_ends___Plane_025" name="Wheel_ends___Plane_025">
+		<Material id="0" name="Paint_Colour_"/>
+		<Material id="1" name="Cladding_"/>
+		<Material id="2" name="Cladding_2"/>
+		<Material id="3" name="Tail_Light_Assembly_"/>
+		<Material id="4" name="Glass_"/>
+		<Material id="5" name="Headlight_Cover_"/>
+		<Material id="6" name="A_Pillar_Frame"/>
+		<file path="ELECTRIC_CHARGER_Assets/Wheel_ends___Plane_025.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="af97580edb41b9360e3a6d21d58cd1ac"/>
+	</StaticMesh>
+	<StaticMesh label="PoleStar_Suv_Concept___Plane_015" name="PoleStar_Suv_Concept___Plane_015">
+		<Material id="0" name="Paint_Colour_"/>
+		<Material id="1" name="Cladding_"/>
+		<Material id="2" name="Cladding_2"/>
+		<Material id="3" name="Tail_Light_Assembly_"/>
+		<Material id="4" name="Glass_"/>
+		<Material id="5" name="Headlight_Cover_"/>
+		<Material id="6" name="A_Pillar_Frame"/>
+		<file path="ELECTRIC_CHARGER_Assets/PoleStar_Suv_Concept___Plane_015.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="19c68069fbeb8e978a5b40d53afa13a6"/>
+	</StaticMesh>
+	<StaticMesh label="CHARGER_COVER__Plane_039" name="CHARGER_COVER__Plane_039">
+		<Material id="0" name="Paint_Colour_"/>
+		<Material id="1" name="Cladding_"/>
+		<Material id="2" name="Cladding_2"/>
+		<Material id="3" name="Tail_Light_Assembly_"/>
+		<Material id="4" name="Glass_"/>
+		<Material id="5" name="Headlight_Cover_"/>
+		<Material id="6" name="A_Pillar_Frame"/>
+		<file path="ELECTRIC_CHARGER_Assets/CHARGER_COVER__Plane_039.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c85dc0cffa536be2d0419366079403ef"/>
+	</StaticMesh>
+	<StaticMesh label="CHARGER_COVER_001__Plane_040" name="CHARGER_COVER_001__Plane_040">
+		<Material id="0" name="Paint_Colour_"/>
+		<Material id="1" name="Cladding_"/>
+		<Material id="2" name="Cladding_2"/>
+		<Material id="3" name="Tail_Light_Assembly_"/>
+		<Material id="4" name="Glass_"/>
+		<Material id="5" name="Headlight_Cover_"/>
+		<Material id="6" name="A_Pillar_Frame"/>
+		<file path="ELECTRIC_CHARGER_Assets/CHARGER_COVER_001__Plane_040.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bf3d29a2100f3a3a2b08d049ed4e82cf"/>
+	</StaticMesh>
+	<UEPbrMaterial name="body">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.543092"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="steel">
+		<Expressions>
+			<Color constant="(R=0.051920,G=0.051920,B=0.051920,A=1.000000)"/>
+			<Scalar constant="0.421818"/>
+			<Scalar constant="0.585039"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="screen">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=-0.030000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="ELECTRIC_CAR_ANIME_mp4">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.165354"/>
+			<Scalar constant="0.074803"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="12" OutputIndex="0"/>
+				<1 expression="13" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+		<Normal expression="14"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="led">
+		<Expressions>
+			<Color constant="(R=0.023120,G=0.048726,B=0.050874,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Tire">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Metal_finish_">
+		<Expressions>
+			<Color constant="(R=0.761273,G=0.761273,B=0.761273,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.444444"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Plastic_finish_">
+		<Expressions>
+			<Color constant="(R=0.008076,G=0.008076,B=0.008076,A=1.000000)"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.305556"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Grill_Colour">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Light_Covers_">
+		<Expressions>
+			<Color constant="(R=0.023651,G=0.023651,B=0.023651,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Roughness expression="1"/>
+		<Metallic expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Head_light">
+		<Expressions>
+			<Color constant="(R=0.772659,G=0.971206,B=1.000000,A=1.000000)"/>
+			<Scalar constant="4.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_065">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.444444"/>
+			<Scalar constant="3.800000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Refraction expression="3" OutputIndex="0"/>
+		<Opacity expression="4"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="DRLs">
+		<Expressions>
+			<Color constant="(R=0.854993,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.500000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Interior_Colour">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.852113"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Screen_001">
+		<Expressions>
+			<Color constant="(R=0.226584,G=0.226584,B=0.226584,A=1.000000)"/>
+			<Scalar constant="8.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="DefaultMaterial">
+		<Expressions>
+			<Color constant="(R=0.906332,G=0.906332,B=0.906332,A=1.000000)"/>
+			<Scalar constant="0.400000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Roughness expression="1" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Paint_Colour_">
+		<Expressions>
+			<Color constant="(R=0.015571,G=0.219948,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.964593"/>
+			<Scalar constant="0.183099"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Cladding_">
+		<Expressions>
+			<Color constant="(R=0.005216,G=0.005605,B=0.005605,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.736111"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Cladding_2">
+		<Expressions>
+			<Color constant="(R=0.095804,G=0.098504,B=0.093152,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.861111"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Tail_Light_Assembly_">
+		<Expressions>
+			<Color constant="(R=0.476990,G=0.476990,B=0.476990,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.361111"/>
+			<Scalar constant="1.450000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Refraction expression="3" OutputIndex="0"/>
+		<Opacity expression="4"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Glass_">
+		<Expressions>
+			<Color constant="(R=0.303198,G=0.303198,B=0.303198,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Refraction expression="3" OutputIndex="0"/>
+		<Opacity expression="4"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Headlight_Cover_">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Refraction expression="3" OutputIndex="0"/>
+		<Opacity expression="4"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="A_Pillar_Frame">
+		<Expressions>
+			<Color constant="(R=0.015995,G=0.015995,B=0.015995,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.680556"/>
+			<Scalar constant="1.450000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Refraction expression="3" OutputIndex="0"/>
+		<Opacity expression="4"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Camera_Module_">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.847222"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_066">
+		<Expressions>
+			<Color constant="(R=1.000000,G=0.033105,B=0.033105,A=1.000000)"/>
+			<Scalar constant="2.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<Texture name="meadow_2_8k_exr" file="ELECTRIC_CHARGER_Assets\meadow_2_8k_exr.exr" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="1ade9928b0b0252505dfb8f7631e4ed2"/>
+	</Texture>
+	<Texture name="ELECTRIC_CAR_ANIME_mp4" file="ELECTRIC_CHARGER_Assets\ELECTRIC_CAR_ANIME_mp4.tga" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3"/>
+	<MetaData name="Actor_Empty_001" reference="Actor.Empty_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Empty_001@1040', 'object_ptr': '2074579610400'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_charger_001" reference="Actor.charger_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'charger_001@301', 'object_ptr': '2074581228832', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_EVD200SK_LG_EVCharger" reference="Actor.EVD200SK_LG_EVCharger">
+		<KeyValueProperty name="vray" val="{'unique_id': 'EVD200SK_LG_EVCharger@1042', 'object_ptr': '2074579606816', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Bottom_Left_Tire_" reference="Actor.Bottom_Left_Tire_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Bottom_Left_Tire_@178', 'object_ptr': '2074581552928', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Bottom_Left_Wheel" reference="Actor.Bottom_Left_Wheel">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Bottom_Left_Wheel@180', 'object_ptr': '2074581551136', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Bottom_Right_Tire_" reference="Actor.Bottom_Right_Tire_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Bottom_Right_Tire_@182', 'object_ptr': '2074581549344', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Bottom_Right_Wheel" reference="Actor.Bottom_Right_Wheel">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Bottom_Right_Wheel@184', 'object_ptr': '2074581530912', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Front_Headlight_Grills_" reference="Actor.Front_Headlight_Grills_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Front_Headlight_Grills_@1099', 'object_ptr': '2074579426592', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Grill" reference="Actor.Grill">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Grill@1155', 'object_ptr': '2074579324704', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Head_Lights_" reference="Actor.Head_Lights_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Head_Lights_@1197', 'object_ptr': '2074579233568', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Center_tablet_" reference="StaticMesh.Center_tablet_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_059@286', 'object_ptr': '2074604838176'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Center_tablet_" reference="Actor.Center_tablet_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Center_tablet_@285', 'object_ptr': '2074581372704', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Driver_Display_" reference="StaticMesh.Driver_Display_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_060@1034', 'object_ptr': '2074604834592'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Driver_Display_" reference="Actor.Driver_Display_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Driver_Display_@1033', 'object_ptr': '2074579617824', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Front_Dash" reference="StaticMesh.Front_Dash">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_038@1097', 'object_ptr': '2075205814304'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Front_Dash" reference="Actor.Front_Dash">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Front_Dash@1096', 'object_ptr': '2074579430176', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_seat" reference="Actor.seat">
+		<KeyValueProperty name="vray" val="{'unique_id': 'seat@1696', 'object_ptr': '2074594530848', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_seat_2" reference="Actor.seat_2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'seat_2@1698', 'object_ptr': '2074594529056', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_seat_3" reference="Actor.seat_3">
+		<KeyValueProperty name="vray" val="{'unique_id': 'seat_3@1700', 'object_ptr': '2074594527264', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_seat_4" reference="Actor.seat_4">
+		<KeyValueProperty name="vray" val="{'unique_id': 'seat_4@1702', 'object_ptr': '2074594525472', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Steering_wheel" reference="Actor.Steering_wheel">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Steering_wheel@1833', 'object_ptr': '2074594219552', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_INTERIOR" reference="Actor.INTERIOR">
+		<KeyValueProperty name="vray" val="{'unique_id': 'INTERIOR@1229', 'object_ptr': '2074579188000', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Outside_Accessories_" reference="Actor.Outside_Accessories_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Outside_Accessories_@1481', 'object_ptr': '2074578252320', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Rear_Light_Grills" reference="Actor.Rear_Light_Grills">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Rear_Light_Grills@1648', 'object_ptr': '2074594632736', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Rear_Light_Lamps" reference="Actor.Rear_Light_Lamps">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Rear_Light_Lamps@1650', 'object_ptr': '2074594630944', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Top_Left_Tire_" reference="Actor.Top_Left_Tire_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Top_Left_Tire_@1858', 'object_ptr': '2074594161184', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Top_Left_Wheel" reference="Actor.Top_Left_Wheel">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Top_Left_Wheel@1860', 'object_ptr': '2074594159392', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Top_Right_Tire_" reference="Actor.Top_Right_Tire_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Top_Right_Tire_@1862', 'object_ptr': '2074594157600', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Top_Right_Wheel" reference="Actor.Top_Right_Wheel">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Top_Right_Wheel@1864', 'object_ptr': '2074594155808', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Wheel_ends_" reference="Actor.Wheel_ends_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Wheel_ends_@3016', 'object_ptr': '2074591963936', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_PoleStar_Suv_Concept_" reference="Actor.PoleStar_Suv_Concept_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'PoleStar_Suv_Concept_@1628', 'object_ptr': '2074594720032', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CHARGER_COVER" reference="Actor.CHARGER_COVER">
+		<KeyValueProperty name="vray" val="{'unique_id': 'CHARGER_COVER@297', 'object_ptr': '2074581232416', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CHARGER_COVER_001" reference="Actor.CHARGER_COVER_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'CHARGER_COVER_001@299', 'object_ptr': '2074581230624', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<Export Duration="14.656000000002678"/>
+</DatasmithUnrealScene>

@@ -1,0 +1,1017 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.18"/>
+	<User ID="USER" OS="Windows 10"/>
+	<LevelSequence name="anim_new">
+		<File path="INTERIOR DOORS & WINDOWS_Assets/anim_new.json"/>
+	</LevelSequence>
+	<Actor name="Door_Group" layer="INTERIOR DOORS AND WINDOWS">
+		<Transform tx="859.196655" ty="-156.368622" tz="2.063870" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.619273" sy="1.172619" sz="1.172619"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Baseboard" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="CTRL_Baseboard"/>
+				<Transform tx="859.196655" ty="-135.652359" tz="-9.662316" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.619273" sy="1.172619" sz="1.172619"/>
+			</ActorMesh>
+			<ActorMesh name="CTRL_Hole_015" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="CTRL_Hole_019"/>
+				<Transform tx="859.196655" ty="-142.297195" tz="1.829347" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.619273" sy="1.172619" sz="1.172619"/>
+			</ActorMesh>
+			<ActorMesh name="DoorFrame" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="DoorFrane"/>
+				<Transform tx="859.196655" ty="-156.368622" tz="2.063870" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.619273" sy="1.172619" sz="1.172619"/>
+				<children visible="True">
+					<ActorMesh name="Door" layer="INTERIOR DOORS AND WINDOWS">
+						<mesh name="Door"/>
+						<Transform tx="926.882263" ty="-153.777130" tz="125.188812" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.619273" sy="1.172619" sz="1.172619"/>
+						<children visible="True">
+							<ActorMesh name="Handle_Back" layer="INTERIOR DOORS AND WINDOWS">
+								<mesh name="Handle_Back__Handle_Back"/>
+								<Transform tx="803.169800" ty="-154.363434" tz="125.188812" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.619273" sy="1.172619" sz="1.172619"/>
+							</ActorMesh>
+							<ActorMesh name="Handle_Front" layer="INTERIOR DOORS AND WINDOWS">
+								<mesh name="Handle_Front__Handle_Front"/>
+								<Transform tx="803.169800" ty="-157.177734" tz="125.188812" qw="0.000000" qx="1.000000" qy="0.000000" qz="0.000000" sx="1.619273" sy="1.172619" sz="1.172619"/>
+							</ActorMesh>
+						</children>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Door_Group_002" layer="INTERIOR DOORS AND WINDOWS">
+		<Transform tx="-893.088745" ty="449.789673" tz="-0.071436" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.525284" sy="1.167683" sz="1.167683"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Baseboard_002" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="CTRL_Baseboard_004"/>
+				<Transform tx="-893.088745" ty="470.418732" tz="-11.748264" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.525284" sy="1.167683" sz="1.167683"/>
+			</ActorMesh>
+			<ActorMesh name="CTRL_Hole_017" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="CTRL_Hole_023"/>
+				<Transform tx="-893.088745" ty="463.801849" tz="-0.304973" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.525284" sy="1.167683" sz="1.167683"/>
+			</ActorMesh>
+			<ActorMesh name="DoorFrame_002" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="DoorFrane_004"/>
+				<Transform tx="-893.088745" ty="449.789673" tz="-0.071436" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.525284" sy="1.167683" sz="1.167683"/>
+				<children visible="True">
+					<ActorMesh name="door" layer="INTERIOR DOORS AND WINDOWS">
+						<mesh name="Door_002"/>
+						<Transform tx="-829.331848" ty="452.370270" tz="122.535255" qw="0.665054" qx="-0.000000" qy="-0.000000" qz="-0.746530" sx="1.172738" sy="1.521401" sz="1.167683"/>
+						<children visible="True">
+							<ActorMesh name="Handle_Back_002" layer="INTERIOR DOORS AND WINDOWS">
+								<mesh name="Handle_Back_002__Handle_Back_002"/>
+								<Transform tx="-817.173645" ty="541.096252" tz="122.535255" qw="0.665054" qx="-0.000000" qy="-0.000000" qz="-0.746530" sx="1.172738" sy="1.521401" sz="1.167683"/>
+							</ActorMesh>
+							<ActorMesh name="Handle_Front_002" layer="INTERIOR DOORS AND WINDOWS">
+								<mesh name="Handle_Front_002__Handle_Front_002"/>
+								<Transform tx="-820.811768" ty="541.406860" tz="122.535255" qw="0.000000" qx="0.665054" qy="-0.746530" qz="-0.000000" sx="1.172738" sy="1.521401" sz="1.167683"/>
+							</ActorMesh>
+						</children>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Door_Group_003" layer="INTERIOR DOORS AND WINDOWS">
+		<Transform tx="-891.372681" ty="-438.084351" tz="-2.138083" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.605266" sy="1.161952" sz="1.161952"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Baseboard_003" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="CTRL_Baseboard_005"/>
+				<Transform tx="-891.372681" ty="-417.556519" tz="-13.757607" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.605266" sy="1.161952" sz="1.161952"/>
+			</ActorMesh>
+			<ActorMesh name="CTRL_Hole_018" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="CTRL_Hole_024"/>
+				<Transform tx="-891.372681" ty="-424.140930" tz="-2.370474" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.605266" sy="1.161952" sz="1.161952"/>
+			</ActorMesh>
+			<ActorMesh name="DoorFrame_003" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="DoorFrane_005"/>
+				<Transform tx="-891.372681" ty="-438.084351" tz="-2.138084" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.605266" sy="1.161952" sz="1.161952"/>
+				<children visible="True">
+					<ActorMesh name="Door_003" layer="INTERIOR DOORS AND WINDOWS">
+						<mesh name="Door_003"/>
+						<Transform tx="-824.272522" ty="-435.516449" tz="119.866920" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.605266" sy="1.161952" sz="1.161952"/>
+						<children visible="True">
+							<ActorMesh name="Handle_Back_003" layer="INTERIOR DOORS AND WINDOWS">
+								<mesh name="Handle_Back_003__Handle_Back_003"/>
+								<Transform tx="-946.914856" ty="-436.097443" tz="119.866920" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.605266" sy="1.161952" sz="1.161952"/>
+							</ActorMesh>
+							<ActorMesh name="Handle_Front_003" layer="INTERIOR DOORS AND WINDOWS">
+								<mesh name="Handle_Front_003__Handle_Front_003"/>
+								<Transform tx="-946.914856" ty="-438.886108" tz="119.866920" qw="0.000000" qx="1.000000" qy="0.000000" qz="0.000000" sx="1.605266" sy="1.161952" sz="1.161952"/>
+							</ActorMesh>
+						</children>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Door_Group_005" layer="INTERIOR DOORS AND WINDOWS">
+		<Transform tx="-399.486847" ty="-634.259949" tz="-0.662172" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.492646" sy="1.163440" sz="1.163440"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Baseboard_005" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="CTRL_Baseboard_007"/>
+				<Transform tx="-378.932739" ty="-634.259949" tz="-12.296573" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.492646" sy="1.163440" sz="1.163440"/>
+			</ActorMesh>
+			<ActorMesh name="CTRL_Hole_020" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="CTRL_Hole_026"/>
+				<Transform tx="-385.525574" ty="-634.259949" tz="-0.894860" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.492646" sy="1.163440" sz="1.163440"/>
+			</ActorMesh>
+			<ActorMesh name="DoorFrame_005" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="DoorFrane_007"/>
+				<Transform tx="-399.486847" ty="-634.259888" tz="-0.662172" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.492646" sy="1.163440" sz="1.163440"/>
+				<children visible="True">
+					<ActorMesh name="Door_005" layer="INTERIOR DOORS AND WINDOWS">
+						<mesh name="Door_005"/>
+						<Transform tx="-396.915649" ty="-696.652527" tz="121.499039" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.492646" sy="1.163440" sz="1.163440"/>
+						<children visible="True">
+							<ActorMesh name="Handle_Back_005" layer="INTERIOR DOORS AND WINDOWS">
+								<mesh name="Handle_Back_005__Handle_Back_005"/>
+								<Transform tx="-397.497375" ty="-582.614319" tz="121.499039" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.492646" sy="1.163440" sz="1.163440"/>
+							</ActorMesh>
+							<ActorMesh name="Handle_Front_005" layer="INTERIOR DOORS AND WINDOWS">
+								<mesh name="Handle_Front_005__Handle_Front_005"/>
+								<Transform tx="-400.289642" ty="-582.614319" tz="121.499039" qw="0.000000" qx="0.707107" qy="-0.707107" qz="-0.000000" sx="1.492646" sy="1.163440" sz="1.163440"/>
+							</ActorMesh>
+						</children>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Door_Group_006" layer="INTERIOR DOORS AND WINDOWS">
+		<Transform tx="-131.498901" ty="-259.840790" tz="2.384448" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.833084" sy="1.168772" sz="1.136499"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Baseboard_006" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="CTRL_Baseboard_008"/>
+				<Transform tx="-110.850609" ty="-259.840790" tz="-8.980538" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.833084" sy="1.168772" sz="1.136499"/>
+			</ActorMesh>
+			<ActorMesh name="CTRL_Hole_021" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="CTRL_Hole_027"/>
+				<Transform tx="-117.473648" ty="-259.840790" tz="2.157148" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.833084" sy="1.168772" sz="1.136499"/>
+			</ActorMesh>
+			<ActorMesh name="DoorFrame_006" layer="INTERIOR DOORS AND WINDOWS">
+				<mesh name="DoorFrane_008"/>
+				<Transform tx="-131.498901" ty="-259.840759" tz="2.384448" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.833084" sy="1.168772" sz="1.136499"/>
+				<children visible="True">
+					<ActorMesh name="Door_006" layer="INTERIOR DOORS AND WINDOWS">
+						<mesh name="Door_006"/>
+						<Transform tx="-128.915924" ty="-336.463654" tz="121.716797" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.833084" sy="1.168772" sz="1.136499"/>
+						<children visible="True">
+							<ActorMesh name="Handle_Back_006" layer="INTERIOR DOORS AND WINDOWS">
+								<mesh name="Handle_Back_006__Handle_Back_006"/>
+								<Transform tx="-129.500305" ty="-196.416092" tz="121.716797" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.833084" sy="1.168772" sz="1.136499"/>
+							</ActorMesh>
+							<ActorMesh name="Handle_Front_006" layer="INTERIOR DOORS AND WINDOWS">
+								<mesh name="Handle_Front_006__Handle_Front_006"/>
+								<Transform tx="-132.305359" ty="-196.416092" tz="121.716797" qw="0.000000" qx="0.707107" qy="-0.707107" qz="-0.000000" sx="1.833084" sy="1.168772" sz="1.136499"/>
+							</ActorMesh>
+						</children>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Door_Group_007" layer="GLASS DOOR">
+		<Transform tx="-502.292786" ty="447.307190" tz="5.727863" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.585742" sy="1.130977" sz="1.130977"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Baseboard_007" layer="GLASS DOOR">
+				<mesh name="CTRL_Baseboard_009"/>
+				<Transform tx="-502.292786" ty="467.287781" tz="-5.581905" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.585742" sy="1.130977" sz="1.130977"/>
+			</ActorMesh>
+			<ActorMesh name="CTRL_Hole_022" layer="GLASS DOOR">
+				<mesh name="CTRL_Hole_028"/>
+				<Transform tx="-502.292786" ty="460.878937" tz="5.501668" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.585742" sy="1.130977" sz="1.130977"/>
+			</ActorMesh>
+			<ActorMesh name="DoorFrame_007" layer="GLASS DOOR">
+				<mesh name="DoorFrane_009"/>
+				<Transform tx="-502.292786" ty="447.307190" tz="5.727863" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.585742" sy="1.130977" sz="1.130977"/>
+				<children visible="True">
+					<ActorMesh name="Door_007" layer="GLASS DOOR">
+						<mesh name="Door_007"/>
+						<Transform tx="-436.008728" ty="449.806641" tz="124.480423" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.585742" sy="1.130977" sz="1.130977"/>
+						<children visible="True">
+							<ActorMesh name="Handle_Back_007" layer="GLASS DOOR">
+								<mesh name="Handle_Back_007__Handle_Back_007"/>
+								<Transform tx="-557.159485" ty="449.241150" tz="124.480423" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.585742" sy="1.130977" sz="1.130977"/>
+							</ActorMesh>
+							<ActorMesh name="Handle_Front_007" layer="GLASS DOOR">
+								<mesh name="Handle_Front_007__Handle_Front_007"/>
+								<Transform tx="-557.159485" ty="446.526825" tz="124.480423" qw="0.000000" qx="1.000000" qy="0.000000" qz="0.000000" sx="1.585742" sy="1.130977" sz="1.130977"/>
+							</ActorMesh>
+						</children>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Door_Group_008" layer="GLASS DOOR">
+		<Transform tx="-499.886658" ty="184.477051" tz="3.498650" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.411290" sy="1.143711" sz="1.143711"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Baseboard_008" layer="GLASS DOOR">
+				<mesh name="CTRL_Baseboard_010"/>
+				<Transform tx="-499.886658" ty="204.682617" tz="-7.938460" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.411290" sy="1.143711" sz="1.143711"/>
+			</ActorMesh>
+			<ActorMesh name="CTRL_Hole_023" layer="GLASS DOOR">
+				<mesh name="CTRL_Hole_029"/>
+				<Transform tx="-499.886658" ty="198.201569" tz="3.269907" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.411290" sy="1.143711" sz="1.143711"/>
+			</ActorMesh>
+			<ActorMesh name="DoorFrame_008" layer="GLASS DOOR">
+				<mesh name="DoorFrane_010"/>
+				<Transform tx="-499.886658" ty="184.477051" tz="3.498650" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.411290" sy="1.143711" sz="1.143711"/>
+				<children visible="True">
+					<ActorMesh name="Door_008" layer="GLASS DOOR">
+						<mesh name="Door_008"/>
+						<Transform tx="-440.894745" ty="187.004654" tz="123.588303" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.411290" sy="1.143711" sz="1.143711"/>
+						<children visible="True">
+							<ActorMesh name="Handle_Back_008" layer="GLASS DOOR">
+								<mesh name="Handle_Back_008__Handle_Back_008"/>
+								<Transform tx="-548.717285" ty="186.432785" tz="123.588303" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.411290" sy="1.143711" sz="1.143711"/>
+							</ActorMesh>
+							<ActorMesh name="Handle_Front_008" layer="GLASS DOOR">
+								<mesh name="Handle_Front_008__Handle_Front_008"/>
+								<Transform tx="-548.717285" ty="183.687897" tz="123.588303" qw="0.000000" qx="1.000000" qy="0.000000" qz="0.000000" sx="1.411290" sy="1.143711" sz="1.143711"/>
+							</ActorMesh>
+						</children>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Door_Group_009" layer="GLASS DOOR">
+		<Transform tx="-228.193542" ty="-725.605286" tz="-1.406067" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.714861" sy="1.208019" sz="1.208019"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Baseboard_009" layer="GLASS DOOR">
+				<mesh name="CTRL_Baseboard_011"/>
+				<Transform tx="-228.193542" ty="-704.263611" tz="-13.486259" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.714861" sy="1.208019" sz="1.208019"/>
+			</ActorMesh>
+			<ActorMesh name="CTRL_Hole_024" layer="GLASS DOOR">
+				<mesh name="CTRL_Hole_030"/>
+				<Transform tx="-228.193542" ty="-711.109070" tz="-1.647671" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.714861" sy="1.208019" sz="1.208019"/>
+			</ActorMesh>
+			<ActorMesh name="DoorFrame_009" layer="GLASS DOOR">
+				<mesh name="DoorFrane_011"/>
+				<Transform tx="-228.193542" ty="-725.605286" tz="-1.406074" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.714861" sy="1.208019" sz="1.208019"/>
+				<children visible="True">
+					<ActorMesh name="Door_009" layer="GLASS DOOR">
+						<mesh name="Door_009"/>
+						<Transform tx="-156.512375" ty="-722.935608" tz="125.435928" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.714861" sy="1.208019" sz="1.208019"/>
+						<children visible="True">
+							<ActorMesh name="Handle_Back_009" layer="GLASS DOOR">
+								<mesh name="Handle_Back_009__Handle_Back_009"/>
+								<Transform tx="-287.527740" ty="-723.539612" tz="125.435928" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.714861" sy="1.208019" sz="1.208019"/>
+							</ActorMesh>
+							<ActorMesh name="Handle_Front_009" layer="GLASS DOOR">
+								<mesh name="Handle_Front_009__Handle_Front_009"/>
+								<Transform tx="-287.527740" ty="-726.438843" tz="125.435928" qw="0.000000" qx="1.000000" qy="0.000000" qz="0.000000" sx="1.714861" sy="1.208019" sz="1.208019"/>
+							</ActorMesh>
+						</children>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Environment name="world_environment_background" label="world_environment_background">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="0"/>
+	</Environment>
+	<Environment name="world_environment_lighting" label="world_environment_lighting">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="1"/>
+	</Environment>
+	<StaticMesh label="CTRL_Baseboard" name="CTRL_Baseboard">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Baseboard.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f8673bbe3e34eae3ac36e5f910a738bc"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_019" name="CTRL_Hole_019">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_019.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="02827dc4107bcf9f6748e19a9c677790"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Back__Handle_Back" name="Handle_Back__Handle_Back">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Back__Handle_Back.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8f802cd46f6634ba31dadf93adac1eac"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Front__Handle_Front" name="Handle_Front__Handle_Front">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Front__Handle_Front.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9cd253595d98ccf141cf6f3f94d96bc2"/>
+	</StaticMesh>
+	<StaticMesh label="Door" name="Door">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Door.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d487ae64537711b48042b3d61de36de4"/>
+	</StaticMesh>
+	<StaticMesh label="DoorFrane" name="DoorFrane">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/DoorFrane.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a9ff899b33fe50d677e15f76ca840b10"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Baseboard_004" name="CTRL_Baseboard_004">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Baseboard_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="aba2ad5b54a89e63390afa60d54546dc"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_023" name="CTRL_Hole_023">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_023.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="20b3d47f9be758cde62919786592bb4b"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Back_002__Handle_Back_002" name="Handle_Back_002__Handle_Back_002">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Back_002__Handle_Back_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="891df8c66b6e2aad42acdd1a72d221e4"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Front_002__Handle_Front_002" name="Handle_Front_002__Handle_Front_002">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Front_002__Handle_Front_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7320115e4d4232576c84d71dcde56921"/>
+	</StaticMesh>
+	<StaticMesh label="Door_002" name="Door_002">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Door_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e6b8e4cea56052a037262c9ccef133c6"/>
+	</StaticMesh>
+	<StaticMesh label="DoorFrane_004" name="DoorFrane_004">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/DoorFrane_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="797765a34e39468e9bdc0b16895e96db"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Baseboard_005" name="CTRL_Baseboard_005">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Baseboard_005.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="867a5f3f2107e10b1a7a3a1cfa47ae71"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_024" name="CTRL_Hole_024">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_024.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e977606369ca88065030d5ec29351f02"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Back_003__Handle_Back_003" name="Handle_Back_003__Handle_Back_003">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Back_003__Handle_Back_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f9636e8fb7cfd5a161eceb42afb62474"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Front_003__Handle_Front_003" name="Handle_Front_003__Handle_Front_003">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Front_003__Handle_Front_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4f7b184b2880b6641e435bb05b9dc466"/>
+	</StaticMesh>
+	<StaticMesh label="Door_003" name="Door_003">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Door_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cac6ad383e9c58ca33cd6c556a2b428e"/>
+	</StaticMesh>
+	<StaticMesh label="DoorFrane_005" name="DoorFrane_005">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/DoorFrane_005.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cadc0c8417541f479349c4d56b67fb15"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Baseboard_007" name="CTRL_Baseboard_007">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Baseboard_007.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="042e648d09b017b6954f7b0317034194"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_026" name="CTRL_Hole_026">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_026.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7844176b8f81e8d60eab834aeb79fbcc"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Back_005__Handle_Back_005" name="Handle_Back_005__Handle_Back_005">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Back_005__Handle_Back_005.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a45c847abd74b6ab4364d7dec5098ec0"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Front_005__Handle_Front_005" name="Handle_Front_005__Handle_Front_005">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Front_005__Handle_Front_005.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="45948ff489c7f3b3ebc158d9742f27ee"/>
+	</StaticMesh>
+	<StaticMesh label="Door_005" name="Door_005">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Door_005.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a41bdeaed0dc1e4f09c7a138b3b800ae"/>
+	</StaticMesh>
+	<StaticMesh label="DoorFrane_007" name="DoorFrane_007">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/DoorFrane_007.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="48eb8cf7ea4d23c8feb545a4576cfe9d"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Baseboard_008" name="CTRL_Baseboard_008">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Baseboard_008.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b573805d7874ca6b31b8cabd1f291adf"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_027" name="CTRL_Hole_027">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_027.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d6ca4e040407c4933f5df23870be5e88"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Back_006__Handle_Back_006" name="Handle_Back_006__Handle_Back_006">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Back_006__Handle_Back_006.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="433ebc73c5cba7553defff08dc4d52af"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Front_006__Handle_Front_006" name="Handle_Front_006__Handle_Front_006">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Front_006__Handle_Front_006.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6c41a74b4cc8ff7a6e2cacfc33566db9"/>
+	</StaticMesh>
+	<StaticMesh label="Door_006" name="Door_006">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Door_006.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="76d23fb856cdfc17a0ce8f0f8778967d"/>
+	</StaticMesh>
+	<StaticMesh label="DoorFrane_008" name="DoorFrane_008">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/DoorFrane_008.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5d8d671691acff5a54641b69216ffad1"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Baseboard_009" name="CTRL_Baseboard_009">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Baseboard_009.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b9a632b2c556a055d9ac5833edceb527"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_028" name="CTRL_Hole_028">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_028.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9bd52526f6cf72764552f9a79ee2346a"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Back_007__Handle_Back_007" name="Handle_Back_007__Handle_Back_007">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Back_007__Handle_Back_007.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d2aa5bea72bcddbeea0f85438bf1a77c"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Front_007__Handle_Front_007" name="Handle_Front_007__Handle_Front_007">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Front_007__Handle_Front_007.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="81af7058465e815dfe67b4e5ffc976d9"/>
+	</StaticMesh>
+	<StaticMesh label="Door_007" name="Door_007">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Door_007.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6ef50e7e4dedf47f352f30fe06f50244"/>
+	</StaticMesh>
+	<StaticMesh label="DoorFrane_009" name="DoorFrane_009">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/DoorFrane_009.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6c5c7f56f64ebb6cd431747969a66c18"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Baseboard_010" name="CTRL_Baseboard_010">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Baseboard_010.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="364ef4a9dba6025a1fcb712a79763e1f"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_029" name="CTRL_Hole_029">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_029.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ae25985b876443e9eb9b6547ef17c2c2"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Back_008__Handle_Back_008" name="Handle_Back_008__Handle_Back_008">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Back_008__Handle_Back_008.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4dd6ed4bfd37c7dba2c6484b6c0980c2"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Front_008__Handle_Front_008" name="Handle_Front_008__Handle_Front_008">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Front_008__Handle_Front_008.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9bd2f28c878d6d049ffc8f407e225e46"/>
+	</StaticMesh>
+	<StaticMesh label="Door_008" name="Door_008">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Door_008.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9ef2b4c65f60973c0f91efe1cdc01ada"/>
+	</StaticMesh>
+	<StaticMesh label="DoorFrane_010" name="DoorFrane_010">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/DoorFrane_010.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="12508f492f9bc221f47b853a05239551"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Baseboard_011" name="CTRL_Baseboard_011">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Baseboard_011.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="48f221117c87d9a6036ee17cd88f15a4"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_030" name="CTRL_Hole_030">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_030.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9ee47fb2702b56c3fd60ac9841fcdbe3"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Back_009__Handle_Back_009" name="Handle_Back_009__Handle_Back_009">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Back_009__Handle_Back_009.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="989345edea6dbd108f3151cc626575ef"/>
+	</StaticMesh>
+	<StaticMesh label="Handle_Front_009__Handle_Front_009" name="Handle_Front_009__Handle_Front_009">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Handle_Front_009__Handle_Front_009.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c3fb97271ea72b8b9df3d04578292c5a"/>
+	</StaticMesh>
+	<StaticMesh label="Door_009" name="Door_009">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/Door_009.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="280ad6c43e70ee41eb354e891cfe6891"/>
+	</StaticMesh>
+	<StaticMesh label="DoorFrane_011" name="DoorFrane_011">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="INTERIOR DOORS & WINDOWS_Assets/DoorFrane_011.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="79b1f0c3103eaf83bc1f88ceae12eb71"/>
+	</StaticMesh>
+	<UEPbrMaterial name="DefaultMaterial">
+		<Expressions>
+			<Color constant="(R=0.906332,G=0.906332,B=0.906332,A=1.000000)"/>
+			<Scalar constant="0.400000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Roughness expression="1" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Poliigon_MetalSteelBrushed_7174_4K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalSteelBrushed_7174_Metallic_4K_jpg">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalSteelBrushed_7174_Roughness_4K_jpg">
+				<Coordinates expression="14"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalSteelBrushed_7174_Normal_4K_jpg">
+				<Coordinates expression="19"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="13"/>
+		<Roughness expression="17"/>
+		<Specular expression="18" OutputIndex="0"/>
+		<Normal expression="20" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Poliigon_WoodFloorAsh_4186_4K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</DotProduct>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1024.000000"/>
+			<TextureObject>
+				<0 name="Texture" type="Texture" val="datasmith_curves"/>
+			</TextureObject>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/ColorRamp">
+				<0 expression="2"/>
+				<1 expression="3"/>
+				<2 expression="4"/>
+				<3 expression="5"/>
+			</FunctionCall>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="7"/>
+				<1 expression="8"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="15"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_WoodFloorAsh_4186_Metallic_4K_jpg">
+				<Coordinates expression="16"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="17" OutputIndex="0"/>
+				<1 expression="18"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="15"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_WoodFloorAsh_4186_Roughness_4K_jpg">
+				<Coordinates expression="20"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="21" OutputIndex="0"/>
+				<1 expression="22"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="15"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_WoodFloorAsh_4186_Normal_4K_jpg">
+				<Coordinates expression="25"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="6" OutputIndex="0"/>
+		<Metallic expression="19"/>
+		<Roughness expression="23"/>
+		<Specular expression="24" OutputIndex="0"/>
+		<Normal expression="26" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<Texture name="meadow_2_8k_exr" file="INTERIOR DOORS & WINDOWS_Assets\meadow_2_8k_exr.exr" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="1ade9928b0b0252505dfb8f7631e4ed2"/>
+	</Texture>
+	<Texture name="Poliigon_MetalSteelBrushed_7174_Metallic_4K_jpg" file="INTERIOR DOORS & WINDOWS_Assets\Poliigon_MetalSteelBrushed_7174_Metallic_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="d2dedb9192d7feff4ba41f14efa20d50"/>
+	</Texture>
+	<Texture name="Poliigon_MetalSteelBrushed_7174_Roughness_4K_jpg" file="INTERIOR DOORS & WINDOWS_Assets\Poliigon_MetalSteelBrushed_7174_Roughness_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="32649e5a30a9062f80a35d856f068e59"/>
+	</Texture>
+	<Texture name="Poliigon_MetalSteelBrushed_7174_Normal_4K_jpg" file="INTERIOR DOORS & WINDOWS_Assets\Poliigon_MetalSteelBrushed_7174_Normal_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="859b6072a556606ebed2fd9956aea9e1"/>
+	</Texture>
+	<Texture name="Poliigon_WoodFloorAsh_4186_Metallic_4K_jpg" file="INTERIOR DOORS & WINDOWS_Assets\Poliigon_WoodFloorAsh_4186_Metallic_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="5be60768beb3f4c7695ef1bc24433ea6"/>
+	</Texture>
+	<Texture name="Poliigon_WoodFloorAsh_4186_Roughness_4K_jpg" file="INTERIOR DOORS & WINDOWS_Assets\Poliigon_WoodFloorAsh_4186_Roughness_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="bd7370d892657d444f157976a34f718c"/>
+	</Texture>
+	<Texture name="Poliigon_WoodFloorAsh_4186_Normal_4K_jpg" file="INTERIOR DOORS & WINDOWS_Assets\Poliigon_WoodFloorAsh_4186_Normal_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="eb293a7ac182c29fc391a8c36edbb5db"/>
+	</Texture>
+	<Texture name="datasmith_curves" file="INTERIOR DOORS & WINDOWS_Assets\datasmith_curves.exr" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="73e33a245cf853dc83de93393ac3bb92"/>
+	</Texture>
+	<MetaData name="StaticMesh_CTRL_Baseboard" reference="StaticMesh.CTRL_Baseboard">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Baseboard@674', 'object_ptr': '2074605997856'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Baseboard" reference="Actor.CTRL_Baseboard">
+		<KeyValueProperty name="archimesh.ctrl_base" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Baseboard@673', 'object_ptr': '2074580418848', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_015" reference="StaticMesh.CTRL_Hole_015">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_019@710', 'object_ptr': '2074605866784'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_015" reference="Actor.CTRL_Hole_015">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_015@709', 'object_ptr': '2074580336928', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Back" reference="Actor.Handle_Back">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Back@1165', 'object_ptr': '2074579311904', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Front" reference="Actor.Handle_Front">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Front@1181', 'object_ptr': '2074579264544', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Door" reference="StaticMesh.Door">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Door@994', 'object_ptr': '2074603248928'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door" reference="Actor.Door">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door@993', 'object_ptr': '2074579694112', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_DoorFrame" reference="StaticMesh.DoorFrame">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_DoorFrane@1018', 'object_ptr': '2074603168800'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_DoorFrame" reference="Actor.DoorFrame">
+		<KeyValueProperty name="DoorObjectGenerator" val="[&lt;bpy id prop: owner=&quot;OBDoorFrame&quot;, name=&quot;&quot;, address=0x000001E58FFF1A88&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'DoorFrame@1017', 'object_ptr': '2074579648800', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_Group" reference="Actor.Door_Group">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_Group@1009', 'object_ptr': '2074579663136'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Baseboard_002" reference="StaticMesh.CTRL_Baseboard_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Baseboard_004@676', 'object_ptr': '2074605996064'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Baseboard_002" reference="Actor.CTRL_Baseboard_002">
+		<KeyValueProperty name="archimesh.ctrl_base" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Baseboard_002@675', 'object_ptr': '2074580400416', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_017" reference="StaticMesh.CTRL_Hole_017">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_023@712', 'object_ptr': '2074605864992'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_017" reference="Actor.CTRL_Hole_017">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_017@711', 'object_ptr': '2074580334880', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Back_002" reference="Actor.Handle_Back_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Back_002@1167', 'object_ptr': '2074579310112', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Front_002" reference="Actor.Handle_Front_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Front_002@1183', 'object_ptr': '2074579262752', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_door" reference="StaticMesh.door">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Door_002@996', 'object_ptr': '2074603247136'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_door" reference="Actor.door">
+		<KeyValueProperty name="vray" val="{'unique_id': 'door@995', 'object_ptr': '2074579692320', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_DoorFrame_002" reference="StaticMesh.DoorFrame_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_DoorFrane_004@1020', 'object_ptr': '2074603167008'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_DoorFrame_002" reference="Actor.DoorFrame_002">
+		<KeyValueProperty name="DoorObjectGenerator" val="[&lt;bpy id prop: owner=&quot;OBDoorFrame.002&quot;, name=&quot;&quot;, address=0x000001E58FFDF7E8&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'DoorFrame_002@1019', 'object_ptr': '2074579630368', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_Group_002" reference="Actor.Door_Group_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_Group_002@1010', 'object_ptr': '2074579661344'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Baseboard_003" reference="StaticMesh.CTRL_Baseboard_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Baseboard_005@678', 'object_ptr': '2074605994272'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Baseboard_003" reference="Actor.CTRL_Baseboard_003">
+		<KeyValueProperty name="archimesh.ctrl_base" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Baseboard_003@677', 'object_ptr': '2074580398624', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_018" reference="StaticMesh.CTRL_Hole_018">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_024@714', 'object_ptr': '2074605863200'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_018" reference="Actor.CTRL_Hole_018">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_018@713', 'object_ptr': '2074580333088', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Back_003" reference="Actor.Handle_Back_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Back_003@1169', 'object_ptr': '2074579308320', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Front_003" reference="Actor.Handle_Front_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Front_003@1185', 'object_ptr': '2074579260960', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Door_003" reference="StaticMesh.Door_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Door_003@998', 'object_ptr': '2074603245344'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_003" reference="Actor.Door_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_003@997', 'object_ptr': '2074579690528', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_DoorFrame_003" reference="StaticMesh.DoorFrame_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_DoorFrane_005@1022', 'object_ptr': '2074603165216'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_DoorFrame_003" reference="Actor.DoorFrame_003">
+		<KeyValueProperty name="DoorObjectGenerator" val="[&lt;bpy id prop: owner=&quot;OBDoorFrame.003&quot;, name=&quot;&quot;, address=0x000001E58FFDD4E8&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'DoorFrame_003@1021', 'object_ptr': '2074579628576', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_Group_003" reference="Actor.Door_Group_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_Group_003@1011', 'object_ptr': '2074579659552'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Baseboard_005" reference="StaticMesh.CTRL_Baseboard_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Baseboard_007@680', 'object_ptr': '2074605943072'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Baseboard_005" reference="Actor.CTRL_Baseboard_005">
+		<KeyValueProperty name="archimesh.ctrl_base" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Baseboard_005@679', 'object_ptr': '2074580396832', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_020" reference="StaticMesh.CTRL_Hole_020">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_026@716', 'object_ptr': '2074605828384'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_020" reference="Actor.CTRL_Hole_020">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_020@715', 'object_ptr': '2074580331296', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Back_005" reference="Actor.Handle_Back_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Back_005@1171', 'object_ptr': '2074579306528', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Front_005" reference="Actor.Handle_Front_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Front_005@1187', 'object_ptr': '2074579259168', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Door_005" reference="StaticMesh.Door_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Door_005@1000', 'object_ptr': '2074603243552'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_005" reference="Actor.Door_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_005@999', 'object_ptr': '2074579688736', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_DoorFrame_005" reference="StaticMesh.DoorFrame_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_DoorFrane_007@1024', 'object_ptr': '2074603163424'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_DoorFrame_005" reference="Actor.DoorFrame_005">
+		<KeyValueProperty name="DoorObjectGenerator" val="[&lt;bpy id prop: owner=&quot;OBDoorFrame.005&quot;, name=&quot;&quot;, address=0x000001E58FFDAF28&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'DoorFrame_005@1023', 'object_ptr': '2074579626784', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_Group_005" reference="Actor.Door_Group_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_Group_005@1012', 'object_ptr': '2074579657760'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Baseboard_006" reference="StaticMesh.CTRL_Baseboard_006">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Baseboard_008@682', 'object_ptr': '2074605941280'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Baseboard_006" reference="Actor.CTRL_Baseboard_006">
+		<KeyValueProperty name="archimesh.ctrl_base" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Baseboard_006@681', 'object_ptr': '2074580395040', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_021" reference="StaticMesh.CTRL_Hole_021">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_027@718', 'object_ptr': '2074605826592'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_021" reference="Actor.CTRL_Hole_021">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_021@717', 'object_ptr': '2074580329504', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Back_006" reference="Actor.Handle_Back_006">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Back_006@1173', 'object_ptr': '2074579304736', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Front_006" reference="Actor.Handle_Front_006">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Front_006@1189', 'object_ptr': '2074579257376', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Door_006" reference="StaticMesh.Door_006">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Door_006@1002', 'object_ptr': '2074603241760'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_006" reference="Actor.Door_006">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_006@1001', 'object_ptr': '2074579686944', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_DoorFrame_006" reference="StaticMesh.DoorFrame_006">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_DoorFrane_008@1026', 'object_ptr': '2074603161632'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_DoorFrame_006" reference="Actor.DoorFrame_006">
+		<KeyValueProperty name="DoorObjectGenerator" val="[&lt;bpy id prop: owner=&quot;OBDoorFrame.006&quot;, name=&quot;&quot;, address=0x000001E58FFD8AE8&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'DoorFrame_006@1025', 'object_ptr': '2074579624992', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_Group_006" reference="Actor.Door_Group_006">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_Group_006@1013', 'object_ptr': '2074579655968'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Baseboard_007" reference="StaticMesh.CTRL_Baseboard_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Baseboard_009@684', 'object_ptr': '2074605939488'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Baseboard_007" reference="Actor.CTRL_Baseboard_007">
+		<KeyValueProperty name="archimesh.ctrl_base" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Baseboard_007@683', 'object_ptr': '2074580393248', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_022" reference="StaticMesh.CTRL_Hole_022">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_028@720', 'object_ptr': '2074605824800'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_022" reference="Actor.CTRL_Hole_022">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_022@719', 'object_ptr': '2074580327712', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Back_007" reference="Actor.Handle_Back_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Back_007@1175', 'object_ptr': '2074579269920', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Front_007" reference="Actor.Handle_Front_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Front_007@1191', 'object_ptr': '2074579255584', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Door_007" reference="StaticMesh.Door_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Door_007@1004', 'object_ptr': '2074603174176'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_007" reference="Actor.Door_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_007@1003', 'object_ptr': '2074579685152', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_DoorFrame_007" reference="StaticMesh.DoorFrame_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_DoorFrane_009@1028', 'object_ptr': '2074603159840'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_DoorFrame_007" reference="Actor.DoorFrame_007">
+		<KeyValueProperty name="DoorObjectGenerator" val="[&lt;bpy id prop: owner=&quot;OBDoorFrame.007&quot;, name=&quot;&quot;, address=0x000001E5C061DC68&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'DoorFrame_007@1027', 'object_ptr': '2074579623200', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_Group_007" reference="Actor.Door_Group_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_Group_007@1014', 'object_ptr': '2074579654176'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Baseboard_008" reference="StaticMesh.CTRL_Baseboard_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Baseboard_010@686', 'object_ptr': '2074605937696'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Baseboard_008" reference="Actor.CTRL_Baseboard_008">
+		<KeyValueProperty name="archimesh.ctrl_base" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Baseboard_008@685', 'object_ptr': '2074580391456', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_023" reference="StaticMesh.CTRL_Hole_023">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_029@722', 'object_ptr': '2074605823008'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_023" reference="Actor.CTRL_Hole_023">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_023@721', 'object_ptr': '2074580325920', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Back_008" reference="Actor.Handle_Back_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Back_008@1177', 'object_ptr': '2074579268128', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Front_008" reference="Actor.Handle_Front_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Front_008@1193', 'object_ptr': '2074579237152', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Door_008" reference="StaticMesh.Door_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Door_008@1006', 'object_ptr': '2074603172384'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_008" reference="Actor.Door_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_008@1005', 'object_ptr': '2074579683360', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_DoorFrame_008" reference="StaticMesh.DoorFrame_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_DoorFrane_010@1030', 'object_ptr': '2074603075872'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_DoorFrame_008" reference="Actor.DoorFrame_008">
+		<KeyValueProperty name="DoorObjectGenerator" val="[&lt;bpy id prop: owner=&quot;OBDoorFrame.008&quot;, name=&quot;&quot;, address=0x000001E5C061B748&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'DoorFrame_008@1029', 'object_ptr': '2074579621408', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_Group_008" reference="Actor.Door_Group_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_Group_008@1015', 'object_ptr': '2074579652384'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Baseboard_009" reference="StaticMesh.CTRL_Baseboard_009">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Baseboard_011@688', 'object_ptr': '2074605935904'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Baseboard_009" reference="Actor.CTRL_Baseboard_009">
+		<KeyValueProperty name="archimesh.ctrl_base" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Baseboard_009@687', 'object_ptr': '2074580389664', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_024" reference="StaticMesh.CTRL_Hole_024">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_030@724', 'object_ptr': '2074605821216'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_024" reference="Actor.CTRL_Hole_024">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_024@723', 'object_ptr': '2074580324128', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Back_009" reference="Actor.Handle_Back_009">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Back_009@1179', 'object_ptr': '2074579266336', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Handle_Front_009" reference="Actor.Handle_Front_009">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Handle_Front_009@1195', 'object_ptr': '2074579235360', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Door_009" reference="StaticMesh.Door_009">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Door_009@1008', 'object_ptr': '2074603170592'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_009" reference="Actor.Door_009">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_009@1007', 'object_ptr': '2074579681568', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_DoorFrame_009" reference="StaticMesh.DoorFrame_009">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_DoorFrane_011@1032', 'object_ptr': '2074603074080'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_DoorFrame_009" reference="Actor.DoorFrame_009">
+		<KeyValueProperty name="DoorObjectGenerator" val="[&lt;bpy id prop: owner=&quot;OBDoorFrame.009&quot;, name=&quot;&quot;, address=0x000001E5C0619308&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'DoorFrame_009@1031', 'object_ptr': '2074579619616', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Door_Group_009" reference="Actor.Door_Group_009">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Door_Group_009@1016', 'object_ptr': '2074579650592'}" type="String"/>
+	</MetaData>
+	<Export Duration="7.235000000000582"/>
+</DatasmithUnrealScene>

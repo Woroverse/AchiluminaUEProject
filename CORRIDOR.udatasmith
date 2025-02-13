@@ -1,0 +1,798 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.18"/>
+	<User ID="USER" OS="Windows 10"/>
+	<Actor name="Group043" layer="LIGHT.002">
+		<Transform tx="-260.504364" ty="447.256104" tz="-69.659615" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.024203" sy="0.024203" sz="0.024203"/>
+		<children visible="True">
+			<ActorMesh name="Cylinder001_005" layer="LIGHT.002">
+				<mesh name="Mesh_082"/>
+				<Transform tx="-260.504364" ty="447.256104" tz="256.055176" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.025604" sy="0.025604" sz="0.025604"/>
+			</ActorMesh>
+			<Actor name="VRayIES001" layer="LIGHT.002">
+				<Transform tx="-260.504364" ty="447.256104" tz="281.356445" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.024203" sy="0.024203" sz="0.024203"/>
+			</Actor>
+			<Actor name="VRayIES001_Target" layer="LIGHT.002">
+				<Transform tx="-260.504364" ty="432.525024" tz="-427.947296" qw="0.707107" qx="-0.707107" qy="-0.000000" qz="-0.000000" sx="0.024203" sy="0.024203" sz="0.024203"/>
+			</Actor>
+		</children>
+	</Actor>
+	<Actor name="Group043_001" layer="LIGHT.002">
+		<Transform tx="-260.504364" ty="162.006454" tz="-84.390694" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.024203" sy="0.024203" sz="0.024203"/>
+		<children visible="True">
+			<ActorMesh name="Cylinder001_006" layer="LIGHT.002">
+				<mesh name="Mesh_082"/>
+				<Transform tx="-260.504364" ty="162.006439" tz="256.055176" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.025604" sy="0.025604" sz="0.025604"/>
+			</ActorMesh>
+			<Actor name="VRayIES001_001" layer="LIGHT.002">
+				<Transform tx="-260.504364" ty="162.006439" tz="281.356445" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.024203" sy="0.024203" sz="0.024203"/>
+			</Actor>
+			<Actor name="VRayIES001_Target_001" layer="LIGHT.002">
+				<Transform tx="-260.504364" ty="162.006454" tz="-442.678345" qw="0.707107" qx="-0.707107" qy="-0.000000" qz="-0.000000" sx="0.024203" sy="0.024203" sz="0.024203"/>
+			</Actor>
+		</children>
+	</Actor>
+	<Actor name="Group043_002" layer="LIGHT.002">
+		<Transform tx="-260.504364" ty="-291.001007" tz="-84.390709" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.024203" sy="0.024203" sz="0.024203"/>
+		<children visible="True">
+			<ActorMesh name="Cylinder001_007" layer="LIGHT.002">
+				<mesh name="Mesh_082"/>
+				<Transform tx="-260.504364" ty="-291.001038" tz="256.055145" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.025604" sy="0.025604" sz="0.025604"/>
+			</ActorMesh>
+			<Actor name="VRayIES001_002" layer="LIGHT.002">
+				<Transform tx="-260.504364" ty="-291.001038" tz="281.356445" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.024203" sy="0.024203" sz="0.024203"/>
+			</Actor>
+			<Actor name="VRayIES001_Target_002" layer="LIGHT.002">
+				<Transform tx="-260.504364" ty="-291.000977" tz="-442.678345" qw="0.707107" qx="-0.707107" qy="-0.000000" qz="-0.000000" sx="0.024203" sy="0.024203" sz="0.024203"/>
+			</Actor>
+		</children>
+	</Actor>
+	<Actor name="Group043_003" layer="LIGHT.002">
+		<Transform tx="-457.964264" ty="341.538971" tz="-69.659615" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.024203" sy="0.024203" sz="0.024203"/>
+		<children visible="True">
+			<ActorMesh name="Cylinder001_008" layer="LIGHT.002">
+				<mesh name="Mesh_082"/>
+				<Transform tx="-457.964264" ty="341.538940" tz="270.786224" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.025604" sy="0.025604" sz="0.025604"/>
+			</ActorMesh>
+			<Actor name="VRayIES001_003" layer="LIGHT.002">
+				<Transform tx="-457.964264" ty="341.538940" tz="296.087524" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.024203" sy="0.024203" sz="0.024203"/>
+			</Actor>
+			<Actor name="VRayIES001_Target_003" layer="LIGHT.002">
+				<Transform tx="-457.964264" ty="341.539001" tz="-427.947296" qw="0.707107" qx="-0.707107" qy="-0.000000" qz="-0.000000" sx="0.024203" sy="0.024203" sz="0.024203"/>
+			</Actor>
+		</children>
+	</Actor>
+	<ActorMesh name="Cube_001" layer="WALL FRAMES">
+		<mesh name="Cube_038"/>
+		<Transform tx="-388.610138" ty="-115.904144" tz="163.182480" qw="0.000000" qx="1.000000" qy="-0.000000" qz="-0.000000" sx="-0.012539" sy="-0.690867" sz="-0.581709"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_003" layer="WALL FRAMES">
+		<mesh name="Cube_041"/>
+		<Transform tx="-388.835846" ty="-292.096313" tz="163.519043" qw="0.000000" qx="1.000000" qy="-0.000000" qz="-0.000000" sx="-0.012539" sy="-0.690867" sz="-0.581709"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_004" layer="WALL FRAMES">
+		<mesh name="Cube_042"/>
+		<Transform tx="-388.610138" ty="56.841553" tz="163.182480" qw="0.000000" qx="1.000000" qy="-0.000000" qz="-0.000000" sx="-0.012539" sy="-0.690867" sz="-0.581709"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_005" layer="WALL FRAMES">
+		<mesh name="Cube_043"/>
+		<Transform tx="-143.457718" ty="52.283310" tz="163.182480" qw="0.000000" qx="1.000000" qy="-0.000000" qz="-0.000000" sx="-0.012539" sy="-1.597143" sz="-0.703236"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_006" layer="TABLE AND RUG">
+		<mesh name="Cube_044"/>
+		<Transform tx="-359.182037" ty="-135.083572" tz="89.752800" qw="0.000000" qx="1.000000" qy="-0.000000" qz="-0.000000" sx="-0.309038" sy="-2.274230" sz="-0.105178"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_007" layer="TABLE AND RUG">
+		<mesh name="Cube_046"/>
+		<Transform tx="0.000000" ty="0.000000" tz="24.705046" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_008" layer="TABLE AND RUG">
+		<mesh name="Cube_047"/>
+		<Transform tx="-266.593353" ty="-135.083572" tz="1.143730" qw="0.000000" qx="1.000000" qy="-0.000000" qz="-0.000000" sx="-1.050516" sy="-5.145001" sz="-0.006787"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_009" layer="WALL LIGHT">
+		<mesh name="Cube_009__Cube_049"/>
+		<Transform tx="-388.810120" ty="134.484818" tz="163.182480" qw="0.000000" qx="1.000000" qy="-0.000000" qz="-0.000000" sx="-0.003410" sy="-0.063846" sz="-0.088301"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_010" layer="WALL LIGHT">
+		<mesh name="Cube_049"/>
+		<Transform tx="-388.810120" ty="-28.513968" tz="163.182480" qw="0.000000" qx="1.000000" qy="-0.000000" qz="-0.000000" sx="-0.003410" sy="-0.063846" sz="-0.088301"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_011" layer="WALL LIGHT">
+		<mesh name="Cube_049"/>
+		<Transform tx="-388.810120" ty="-206.162338" tz="163.182480" qw="0.000000" qx="1.000000" qy="-0.000000" qz="-0.000000" sx="-0.003410" sy="-0.063846" sz="-0.088301"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_012" layer="WALL LIGHT">
+		<mesh name="Cube_049"/>
+		<Transform tx="-388.810120" ty="-381.283722" tz="163.182480" qw="0.000000" qx="1.000000" qy="-0.000000" qz="-0.000000" sx="-0.003410" sy="-0.063846" sz="-0.088301"/>
+	</ActorMesh>
+	<StaticMesh label="Mesh_082" name="Mesh_082">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<Material id="1" name="4"/>
+		<file path="CORRIDOR_Assets/Mesh_082.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b630128978efce730f2f98b1417aeb4d"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_038" name="Cube_038">
+		<Material id="0" name="Material_043"/>
+		<Material id="1" name="Material_062"/>
+		<file path="CORRIDOR_Assets/Cube_038.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7c23986a47f3ff9084e88d9199e647dd"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_041" name="Cube_041">
+		<Material id="0" name="Material_046"/>
+		<Material id="1" name="Material_063"/>
+		<file path="CORRIDOR_Assets/Cube_041.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e05c11f3da759148c4288fe3acd13cb3"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_042" name="Cube_042">
+		<Material id="0" name="Material_042"/>
+		<Material id="1" name="Material_058"/>
+		<file path="CORRIDOR_Assets/Cube_042.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2b1b620f65a09bf2fbf1bc5b4a75c9df"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_043" name="Cube_043">
+		<Material id="0" name="Material_047"/>
+		<Material id="1" name="Material_004"/>
+		<file path="CORRIDOR_Assets/Cube_043.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="32eb4f7c56bb573bb4123244c77c5642"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_044" name="Cube_044">
+		<Material id="0" name="marble_wall"/>
+		<file path="CORRIDOR_Assets/Cube_044.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="88e0f9c24b124ac68c2188d7ff2e5e8e"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_046" name="Cube_046">
+		<Material id="0" name="Material_041"/>
+		<file path="CORRIDOR_Assets/Cube_046.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7910e983bb49bd79fa6300018389f071"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_047" name="Cube_047">
+		<Material id="0" name="Material_039"/>
+		<file path="CORRIDOR_Assets/Cube_047.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a93f84949dc3dd568792da548bf8eaf3"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_009__Cube_049" name="Cube_009__Cube_049">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<Material id="1" name="Material_040"/>
+		<file path="CORRIDOR_Assets/Cube_009__Cube_049.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="aa3aa128a9cc85c35c41965d83157dd7"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_049" name="Cube_049">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<Material id="1" name="Material_040"/>
+		<file path="CORRIDOR_Assets/Cube_049.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8975d5201a65dc640651071a945a42f8"/>
+	</StaticMesh>
+	<UEPbrMaterial name="Poliigon_WoodFloorAsh_4186_4K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</DotProduct>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1024.000000"/>
+			<TextureObject>
+				<0 name="Texture" type="Texture" val="datasmith_curves"/>
+			</TextureObject>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/ColorRamp">
+				<0 expression="2"/>
+				<1 expression="3"/>
+				<2 expression="4"/>
+				<3 expression="5"/>
+			</FunctionCall>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="7"/>
+				<1 expression="8"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="15"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_WoodFloorAsh_4186_Metallic_4K_jpg">
+				<Coordinates expression="16"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="17" OutputIndex="0"/>
+				<1 expression="18"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="15"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_WoodFloorAsh_4186_Roughness_4K_jpg">
+				<Coordinates expression="20"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="21" OutputIndex="0"/>
+				<1 expression="22"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="15"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_WoodFloorAsh_4186_Normal_4K_jpg">
+				<Coordinates expression="25"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="6" OutputIndex="0"/>
+		<Metallic expression="19"/>
+		<Roughness expression="23"/>
+		<Specular expression="24" OutputIndex="0"/>
+		<Normal expression="26" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="4">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_043">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_062">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="watercolor_dahlias_bloom_vibrant_autumn_colors_generated_by_ai_">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_046">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_063">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.010000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=3.141593,B=0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint3D">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="painting_bird_with_flowers_bird_it_jpg">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_042">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_058">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.810000,G=3.280000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=3.141593,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.650000,G=0.650000,B=0.650000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint3D">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="bird_with_red_head_sits_decorative_frame_jpg">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_047">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_004">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="colorful_display_leaves_with_word_bottom_jpg">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="marble_wall">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="4.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="8"/>
+			</ComponentMask>
+			<Texture PathName="Marble012_4K_Color_jpg">
+				<Coordinates expression="9"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="10" OutputIndex="0"/>
+				<1 expression="11"/>
+			</DotProduct>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1024.000000"/>
+			<TextureObject>
+				<0 name="Texture" type="Texture" val="datasmith_curves"/>
+			</TextureObject>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/ColorRamp">
+				<0 expression="12"/>
+				<1 expression="13"/>
+				<2 expression="14"/>
+				<3 expression="15"/>
+			</FunctionCall>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="8"/>
+			</ComponentMask>
+			<Texture PathName="Marble012_4K_Roughness_jpg">
+				<Coordinates expression="18"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="19" OutputIndex="0"/>
+				<1 expression="20"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="8"/>
+			</ComponentMask>
+			<Texture PathName="Marble012_4K_Normal_jpg">
+				<Coordinates expression="23"/>
+			</Texture>
+			<Scalar constant="2.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="24" OutputIndex="0"/>
+				<1 expression="25" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="16" OutputIndex="0"/>
+		<Metallic expression="17" OutputIndex="0"/>
+		<Roughness expression="21"/>
+		<Specular expression="22" OutputIndex="0"/>
+		<Normal expression="26"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_041">
+		<Expressions>
+			<Color constant="(R=0.000777,G=0.000777,B=0.000777,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_039">
+		<Expressions>
+			<Texture PathName="Map__18"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1"/>
+			</DotProduct>
+			<Scalar constant="2.000000"/>
+			<Scalar constant="1024.000000"/>
+			<TextureObject>
+				<0 name="Texture" type="Texture" val="datasmith_curves"/>
+			</TextureObject>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/ColorRamp">
+				<0 expression="2"/>
+				<1 expression="3"/>
+				<2 expression="4"/>
+				<3 expression="5"/>
+			</FunctionCall>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.858579"/>
+			<Scalar constant="0.000000"/>
+		</Expressions>
+		<BaseColor expression="6" OutputIndex="0"/>
+		<Metallic expression="7" OutputIndex="0"/>
+		<Roughness expression="8" OutputIndex="0"/>
+		<Specular expression="9" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_040">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="30.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<Texture name="Poliigon_WoodFloorAsh_4186_Metallic_4K_jpg" file="CORRIDOR_Assets\Poliigon_WoodFloorAsh_4186_Metallic_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="5be60768beb3f4c7695ef1bc24433ea6"/>
+	</Texture>
+	<Texture name="Poliigon_WoodFloorAsh_4186_Roughness_4K_jpg" file="CORRIDOR_Assets\Poliigon_WoodFloorAsh_4186_Roughness_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="bd7370d892657d444f157976a34f718c"/>
+	</Texture>
+	<Texture name="Poliigon_WoodFloorAsh_4186_Normal_4K_jpg" file="CORRIDOR_Assets\Poliigon_WoodFloorAsh_4186_Normal_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="eb293a7ac182c29fc391a8c36edbb5db"/>
+	</Texture>
+	<Texture name="watercolor_dahlias_bloom_vibrant_autumn_colors_generated_by_ai_" file="CORRIDOR_Assets\watercolor_dahlias_bloom_vibrant_autumn_colors_generated_by_ai_.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="19d0dd6dde719ca0b22a788456eb4807"/>
+	</Texture>
+	<Texture name="painting_bird_with_flowers_bird_it_jpg" file="CORRIDOR_Assets\painting_bird_with_flowers_bird_it_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="60f71de78345d0d1aefc4e957de8529f"/>
+	</Texture>
+	<Texture name="bird_with_red_head_sits_decorative_frame_jpg" file="CORRIDOR_Assets\bird_with_red_head_sits_decorative_frame_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="e4aa6bcb98df9c3464f4617cf303b73c"/>
+	</Texture>
+	<Texture name="colorful_display_leaves_with_word_bottom_jpg" file="CORRIDOR_Assets\colorful_display_leaves_with_word_bottom_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="d9acb03f771755ddafe22745233ec554"/>
+	</Texture>
+	<Texture name="Marble012_4K_Color_jpg" file="CORRIDOR_Assets\Marble012_4K_Color_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="2cc49fdaaa7df0959d7b6d3cd78efb1b"/>
+	</Texture>
+	<Texture name="Marble012_4K_Roughness_jpg" file="CORRIDOR_Assets\Marble012_4K_Roughness_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="a8a16ad9dd0b9b251f6bae5282538ccc"/>
+	</Texture>
+	<Texture name="Marble012_4K_Normal_jpg" file="CORRIDOR_Assets\Marble012_4K_Normal_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="3174f1f81ad48339ec95f29c0f7ec52d"/>
+	</Texture>
+	<Texture name="Map__18" file="CORRIDOR_Assets\Map__18.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="6f8d8122b17f296a3cd37d862713228c"/>
+	</Texture>
+	<Texture name="datasmith_curves" file="CORRIDOR_Assets\datasmith_curves.exr" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="59764d40721af9d4a514f58edd4d1bc4"/>
+	</Texture>
+	<MetaData name="StaticMesh_Cylinder001_005" reference="StaticMesh.Cylinder001_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_082@944', 'object_ptr': '2074600445472'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder001_005" reference="Actor.Cylinder001_005">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="8393.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder001_005@937', 'object_ptr': '2074579867168', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_VRayIES001" reference="Actor.VRayIES001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="8395.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'VRayIES001@2983', 'object_ptr': '2074592038688'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_VRayIES001_Target" reference="Actor.VRayIES001_Target">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="8396.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'VRayIES001_Target@2987', 'object_ptr': '2074592014880'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Group043" reference="Actor.Group043">
+		<KeyValueProperty name="MaxHandle" val="8397.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Group043@1157', 'object_ptr': '2074579322912'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder001_006" reference="Actor.Cylinder001_006">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="8393.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder001_006@939', 'object_ptr': '2074579865376', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_VRayIES001_001" reference="Actor.VRayIES001_001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="8395.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'VRayIES001_001@2984', 'object_ptr': '2074592036896'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_VRayIES001_Target_001" reference="Actor.VRayIES001_Target_001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="8396.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'VRayIES001_Target_001@2988', 'object_ptr': '2074592013088'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Group043_001" reference="Actor.Group043_001">
+		<KeyValueProperty name="MaxHandle" val="8397.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Group043_001@1158', 'object_ptr': '2074579321120'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder001_007" reference="Actor.Cylinder001_007">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="8393.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder001_007@941', 'object_ptr': '2074579863584', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_VRayIES001_002" reference="Actor.VRayIES001_002">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="8395.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'VRayIES001_002@2985', 'object_ptr': '2074592035104'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_VRayIES001_Target_002" reference="Actor.VRayIES001_Target_002">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="8396.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'VRayIES001_Target_002@2989', 'object_ptr': '2074592011296'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Group043_002" reference="Actor.Group043_002">
+		<KeyValueProperty name="MaxHandle" val="8397.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Group043_002@1159', 'object_ptr': '2074579319072'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder001_008" reference="Actor.Cylinder001_008">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="8393.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder001_008@943', 'object_ptr': '2074579861792', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_VRayIES001_003" reference="Actor.VRayIES001_003">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="8395.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'VRayIES001_003@2986', 'object_ptr': '2074592016672'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_VRayIES001_Target_003" reference="Actor.VRayIES001_Target_003">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="8396.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'VRayIES001_Target_003@2990', 'object_ptr': '2074592009504'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Group043_003" reference="Actor.Group043_003">
+		<KeyValueProperty name="MaxHandle" val="8397.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Group043_003@1160', 'object_ptr': '2074579317280'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_001" reference="StaticMesh.Cube_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_038@728', 'object_ptr': '2074605256992'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_001" reference="Actor.Cube_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_001@727', 'object_ptr': '2074580320544', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_003" reference="StaticMesh.Cube_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_041@732', 'object_ptr': '2074605120288'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_003" reference="Actor.Cube_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_003@731', 'object_ptr': '2074580300320', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_004" reference="StaticMesh.Cube_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_042@734', 'object_ptr': '2074605118496'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_004" reference="Actor.Cube_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_004@733', 'object_ptr': '2074580298528', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_005" reference="StaticMesh.Cube_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_043@736', 'object_ptr': '2074605116704'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_005" reference="Actor.Cube_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_005@735', 'object_ptr': '2074580296736', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_006" reference="StaticMesh.Cube_006">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_044@738', 'object_ptr': '2074605114912'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_006" reference="Actor.Cube_006">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_006@737', 'object_ptr': '2074580294944', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_007" reference="StaticMesh.Cube_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_046@740', 'object_ptr': '2074605074720'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_007" reference="Actor.Cube_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_007@739', 'object_ptr': '2074580293152', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_008" reference="StaticMesh.Cube_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_047@742', 'object_ptr': '2074605067552'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_008" reference="Actor.Cube_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_008@741', 'object_ptr': '2074580291360', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_009" reference="Actor.Cube_009">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_009@743', 'object_ptr': '2074580289568', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_010" reference="StaticMesh.Cube_010">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_049@750', 'object_ptr': '2074605063968'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_010" reference="Actor.Cube_010">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_010@745', 'object_ptr': '2074580287776', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_011" reference="Actor.Cube_011">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_011@747', 'object_ptr': '2074580269344', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_012" reference="Actor.Cube_012">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_012@749', 'object_ptr': '2074580267552', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<Export Duration="5.51500000001397"/>
+</DatasmithUnrealScene>

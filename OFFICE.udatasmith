@@ -1,0 +1,2979 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.18"/>
+	<User ID="USER" OS="Windows 10"/>
+	<Actor name="Water_Dispenser" layer="OFFICE">
+		<Transform tx="-1139.527466" ty="-128.536102" tz="-0.109822" qw="0.707106" qx="0.000000" qy="-0.000000" qz="-0.707107" sx="0.464565" sy="0.464565" sz="0.464565"/>
+		<children visible="True">
+			<ActorMesh name="Water_Dispenser_001" layer="OFFICE">
+				<mesh name="Water_Dispenser"/>
+				<Transform tx="-533.576721" ty="-411.115173" tz="-0.109823" qw="1.000000" qx="0.000000" qy="-0.000000" qz="-0.000001" sx="1.000000" sy="1.000000" sz="1.000000"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<ActorMesh name="Executive_office_chair" layer="OFFICE">
+		<mesh name="Cube_075"/>
+		<Transform tx="-846.490112" ty="106.130600" tz="0.000000" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</ActorMesh>
+	<ActorMesh name="Black_leather_chair" layer="OFFICE">
+		<mesh name="Black_leather_chair__Black_leather_chair"/>
+		<Transform tx="-779.440186" ty="-69.919624" tz="0.000000" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</ActorMesh>
+	<ActorMesh name="Desk" layer="OFFICE">
+		<mesh name="Cube_007"/>
+		<Transform tx="-877.109741" ty="42.581375" tz="0.000000" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.500000" sy="0.450000" sz="0.500000"/>
+	</ActorMesh>
+	<ActorMesh name="Table" layer="OFFICE">
+		<mesh name="Cube_016"/>
+		<Transform tx="-444.968353" ty="-221.308487" tz="0.000000" qw="1.000000" qx="0.000000" qy="-0.000000" qz="-0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</ActorMesh>
+	<ActorMesh name="Clay_Bottles" layer="OFFICE">
+		<mesh name="Cylinder"/>
+		<Transform tx="-443.745239" ty="-210.480911" tz="100.050400" qw="1.000000" qx="0.000000" qy="-0.000000" qz="-0.000000" sx="0.054145" sy="0.054145" sz="0.135670"/>
+	</ActorMesh>
+	<ActorMesh name="Leather_Sofa_Geo" layer="OFFICE">
+		<mesh name="Mesh_095"/>
+		<Transform tx="-682.192139" ty="-371.786011" tz="0.000000" qw="0.500000" qx="-0.500000" qy="-0.500000" qz="0.500000" sx="0.326953" sy="0.326953" sz="0.326953"/>
+	</ActorMesh>
+	<Actor name="Desk_002" layer="OFFICE">
+		<Transform tx="-877.109741" ty="-52.410286" tz="0.000000" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.500000" sy="0.450000" sz="0.500000"/>
+	</Actor>
+	<Actor name="TOP_DESK" layer="OFFICE">
+		<Transform tx="-877.109741" ty="42.581375" tz="0.797880" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="-4.252933" sy="-4.252933" sz="-4.252933"/>
+		<children visible="True">
+			<ActorMesh name="Desk_001" layer="OFFICE">
+				<mesh name="Cube_008"/>
+				<Transform tx="-877.109741" ty="42.581375" tz="0.797880" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.500000" sy="0.450000" sz="0.500000"/>
+			</ActorMesh>
+			<Actor name="Empty_011" layer="OFFICE">
+				<Transform tx="-977.479248" ty="52.341728" tz="90.797897" qw="1.000000" qx="-0.000000" qy="0.000000" qz="-0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+				<children visible="True">
+					<ActorMesh name="Cube_014" layer="OFFICE">
+						<mesh name="Cube_218"/>
+						<Transform tx="-977.617371" ty="51.666050" tz="94.226379" qw="0.988843" qx="-0.013014" qy="-0.009390" qz="-0.148093" sx="1.000000" sy="1.000000" sz="1.000000"/>
+					</ActorMesh>
+					<ActorMesh name="Cube_015" layer="OFFICE">
+						<mesh name="Cube_217"/>
+						<Transform tx="-976.211548" ty="51.005642" tz="91.719162" qw="0.999555" qx="-0.004260" qy="-0.001819" qz="-0.029458" sx="1.000000" sy="1.000000" sz="1.000000"/>
+					</ActorMesh>
+					<ActorMesh name="Cube_017" layer="OFFICE">
+						<mesh name="Cube_216"/>
+						<Transform tx="-979.022339" ty="52.549892" tz="98.488480" qw="0.992668" qx="-0.014044" qy="-0.012295" qz="-0.119421" sx="1.000000" sy="1.000000" sz="1.000000"/>
+					</ActorMesh>
+					<ActorMesh name="Cube_020" layer="OFFICE">
+						<mesh name="Cube_215"/>
+						<Transform tx="-975.809204" ty="50.653534" tz="90.826607" qw="0.997295" qx="-0.004723" qy="-0.015161" qz="-0.071766" sx="1.000000" sy="1.000000" sz="1.000000"/>
+					</ActorMesh>
+					<ActorMesh name="Cube_021" layer="OFFICE">
+						<mesh name="Cube_214"/>
+						<Transform tx="-978.627197" ty="52.293236" tz="96.313698" qw="0.998741" qx="-0.014800" qy="-0.009487" qz="-0.046989" sx="1.000000" sy="1.000000" sz="1.000000"/>
+					</ActorMesh>
+					<ActorMesh name="Cube_022" layer="OFFICE">
+						<mesh name="Cube_213"/>
+						<Transform tx="-976.706970" ty="49.551994" tz="93.007050" qw="0.999200" qx="-0.011476" qy="-0.004458" qz="0.038043" sx="1.000000" sy="1.000000" sz="1.000000"/>
+					</ActorMesh>
+					<ActorMesh name="Cube_025" layer="OFFICE">
+						<mesh name="Cube_219"/>
+						<Transform tx="-979.548157" ty="53.074223" tz="100.599442" qw="0.999830" qx="-0.015226" qy="-0.010214" qz="-0.001959" sx="1.000000" sy="1.000000" sz="1.000000"/>
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Fountain_Pen" layer="OFFICE">
+				<Transform tx="-812.856934" ty="61.694580" tz="90.797874" qw="1.000000" qx="-0.000000" qy="0.000000" qz="-0.000000" sx="-0.037216" sy="-0.037216" sz="-0.037216"/>
+				<children visible="True">
+					<ActorMesh name="Plume_Final" layer="OFFICE">
+						<mesh name="Circle_007"/>
+						<Transform tx="-812.856934" ty="61.694592" tz="91.636673" qw="0.489346" qx="0.696871" qy="-0.002036" qz="-0.524317" sx="0.007603" sy="0.007603" sz="0.007603"/>
+					</ActorMesh>
+				</children>
+			</Actor>
+			<ActorMesh name="Lenovo_laptop" layer="OFFICE">
+				<mesh name="Mesh_061"/>
+				<Transform tx="-849.102295" ty="56.953793" tz="90.797874" qw="1.000000" qx="-0.000000" qy="0.000000" qz="-0.000000" sx="0.001000" sy="0.001000" sz="0.001000"/>
+			</ActorMesh>
+			<Actor name="Pen_holder" layer="OFFICE">
+				<Transform tx="-745.004517" ty="25.058752" tz="90.797874" qw="1.000000" qx="-0.000000" qy="0.000000" qz="-0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+				<children visible="True">
+					<ActorMesh name="BLACK_PEN" layer="OFFICE">
+						<mesh name="Cylinder_003"/>
+						<Transform tx="-742.559387" ty="22.722179" tz="90.933136" qw="0.850111" qx="-0.298273" qy="-0.128484" qz="0.414532" sx="0.010213" sy="0.010213" sz="0.010213"/>
+					</ActorMesh>
+					<ActorMesh name="BLUE_PEN" layer="OFFICE">
+						<mesh name="Cylinder_002"/>
+						<Transform tx="-744.071899" ty="27.927071" tz="98.373032" qw="0.996350" qx="-0.081153" qy="-0.013138" qz="-0.022998" sx="0.010213" sy="0.010213" sz="0.010213"/>
+					</ActorMesh>
+					<ActorMesh name="marker" layer="OFFICE">
+						<mesh name="Cube_061"/>
+						<Transform tx="-743.217834" ty="26.454168" tz="97.006737" qw="0.114811" qx="0.944522" qy="-0.293146" qz="-0.093603" sx="0.135050" sy="0.135050" sz="0.135050"/>
+					</ActorMesh>
+					<ActorMesh name="marker_yelow" layer="OFFICE">
+						<mesh name="Cube_062"/>
+						<Transform tx="-742.481262" ty="24.785358" tz="95.118431" qw="0.736023" qx="0.064769" qy="0.049909" qz="0.672000" sx="0.135050" sy="0.135050" sz="0.135050"/>
+					</ActorMesh>
+					<ActorMesh name="PENCIL" layer="OFFICE">
+						<mesh name="Cone_003"/>
+						<Transform tx="-746.147278" ty="26.204235" tz="91.337090" qw="0.990220" qx="-0.131876" qy="0.034475" qz="-0.029755" sx="0.003604" sy="0.003604" sz="0.003604"/>
+					</ActorMesh>
+					<ActorMesh name="PENCIL2" layer="OFFICE">
+						<mesh name="Cone_001"/>
+						<Transform tx="-747.328247" ty="26.147587" tz="91.192795" qw="0.944652" qx="0.243408" qy="0.174260" qz="0.134231" sx="0.003604" sy="0.003604" sz="0.003604"/>
+					</ActorMesh>
+					<ActorMesh name="pengolder" layer="OFFICE">
+						<mesh name="Icosphere"/>
+						<Transform tx="-745.004517" ty="25.058752" tz="90.797874" qw="1.000000" qx="-0.000000" qy="0.000000" qz="-0.000000" sx="0.038335" sy="0.038335" sz="0.038335"/>
+					</ActorMesh>
+					<ActorMesh name="ruler" layer="OFFICE">
+						<mesh name="Plane_033"/>
+						<Transform tx="-748.424072" ty="20.306522" tz="106.211235" qw="0.510259" qx="0.374521" qy="-0.724363" qz="0.273256" sx="0.156464" sy="0.156464" sz="0.156464"/>
+					</ActorMesh>
+					<ActorMesh name="scisors" layer="OFFICE">
+						<mesh name="Circle_001"/>
+						<Transform tx="-745.017517" ty="27.417665" tz="97.215179" qw="0.045869" qx="-0.041853" qy="-0.676045" qz="0.734239" sx="0.020368" sy="0.020368" sz="0.020368"/>
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="Pen_Organizer" layer="OFFICE">
+				<Transform tx="-777.206360" ty="12.940508" tz="90.797874" qw="1.000000" qx="-0.000000" qy="0.000000" qz="-0.000000" sx="0.242304" sy="0.242304" sz="0.242304"/>
+				<children visible="True">
+					<ActorMesh name="Cylinder" layer="OFFICE">
+						<mesh name="Cylinder_004"/>
+						<Transform tx="-777.206360" ty="12.940508" tz="90.797874" qw="1.000000" qx="-0.000000" qy="0.000000" qz="-0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+					</ActorMesh>
+				</children>
+			</Actor>
+			<ActorMesh name="Table_lamp" layer="OFFICE">
+				<mesh name="Cube_263"/>
+				<Transform tx="-964.405273" ty="7.260567" tz="90.797874" qw="0.982834" qx="-0.000000" qy="0.000000" qz="-0.184494" sx="1.000000" sy="1.000000" sz="1.000000"/>
+			</ActorMesh>
+			<Actor name="Tablet_with_Pen" layer="OFFICE">
+				<Transform tx="-763.845703" ty="57.392746" tz="90.797874" qw="0.826804" qx="-0.000000" qy="0.000000" qz="-0.562490" sx="1.000000" sy="1.000000" sz="1.000000"/>
+				<children visible="True">
+					<ActorMesh name="KickstandSupport_3" layer="OFFICE">
+						<mesh name="Plane_030"/>
+						<Transform tx="-756.703735" ty="62.110210" tz="93.216873" qw="0.106350" qx="-0.838236" qy="-0.530584" qz="0.067317" sx="1.000000" sy="1.000000" sz="1.000000"/>
+					</ActorMesh>
+					<ActorMesh name="SurfacePen_2" layer="OFFICE">
+						<mesh name="Cylinder_001"/>
+						<Transform tx="-757.628052" ty="82.484261" tz="91.025414" qw="0.584639" qx="-0.584639" qy="0.397740" qz="-0.397740" sx="0.362157" sy="0.385030" sz="0.896290"/>
+					</ActorMesh>
+					<ActorMesh name="SurfaceTablet_3" layer="OFFICE">
+						<mesh name="Plane_029"/>
+						<Transform tx="-756.913452" ty="62.209469" tz="94.035118" qw="0.836906" qx="-0.116347" qy="-0.073645" qz="0.529743" sx="1.000000" sy="1.000000" sz="1.000000"/>
+					</ActorMesh>
+				</children>
+			</Actor>
+		</children>
+	</Actor>
+	<ActorMesh name="Desk_Switch" layer="OFFICE">
+		<mesh name="Desk_Switch__Cube_031"/>
+		<Transform tx="-747.270752" ty="79.827187" tz="59.313137" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.006661" sy="0.059968" sz="0.059968"/>
+	</ActorMesh>
+	<ActorMesh name="Black_leather_chair_001" layer="OFFICE">
+		<mesh name="Black_leather_chair"/>
+		<Transform tx="-966.916870" ty="-69.919624" tz="0.000000" qw="0.535435" qx="0.000000" qy="-0.000000" qz="-0.844577" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</ActorMesh>
+	<ActorMesh name="wall_design" layer="OFFICE">
+		<mesh name="wall_design__Cube_012"/>
+		<Transform tx="-582.468933" ty="166.783722" tz="149.784775" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.031072" sy="0.010995" sz="1.480784"/>
+	</ActorMesh>
+	<ActorMesh name="wall_design_001" layer="OFFICE">
+		<mesh name="wall_design_001__Cube_012"/>
+		<Transform tx="-994.561951" ty="166.783722" tz="149.784775" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.031072" sy="0.010995" sz="1.480784"/>
+	</ActorMesh>
+	<ActorMesh name="wall_frame" layer="OFFICE">
+		<mesh name="Cube_014"/>
+		<Transform tx="-874.239929" ty="166.783722" tz="149.784775" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.123891" sy="0.010995" sz="0.969522"/>
+	</ActorMesh>
+	<ActorMesh name="wall_emmision" layer="OFFICE">
+		<mesh name="wall_emmision__Cube_039"/>
+		<Transform tx="-994.561951" ty="166.783722" tz="149.784775" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.031072" sy="0.010995" sz="1.480784"/>
+	</ActorMesh>
+	<ActorMesh name="wall_emmision_001" layer="OFFICE">
+		<mesh name="wall_emmision_001__Cube_039"/>
+		<Transform tx="-758.782532" ty="166.783722" tz="149.784775" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.031072" sy="0.010995" sz="1.480784"/>
+	</ActorMesh>
+	<ActorMesh name="WALL_FRAME_2" layer="OFFICE">
+		<mesh name="Cube_040"/>
+		<Transform tx="-428.394714" ty="-23.599989" tz="174.283737" qw="0.000000" qx="1.000000" qy="-0.000000" qz="-0.000000" sx="-0.014055" sy="-0.789003" sz="-0.789003"/>
+	</ActorMesh>
+	<Actor name="DS______" layer="OFFICE WALL LIGHT">
+		<Transform tx="-870.202454" ty="157.105499" tz="268.913879" qw="0.003844" qx="0.000000" qy="-0.000000" qz="-0.999993" sx="0.002606" sy="0.002606" sz="0.002606"/>
+		<children visible="True">
+			<ActorMesh name="Box001" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_024"/>
+				<Transform tx="-870.490051" ty="167.393311" tz="267.450226" qw="0.002718" qx="-0.002718" qy="0.707102" qz="-0.707101" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+			<Actor name="Circle001" layer="OFFICE WALL LIGHT">
+				<Transform tx="-870.759033" ty="155.164841" tz="283.268585" qw="0.003551" qx="-0.001471" qy="0.382681" qz="-0.923873" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</Actor>
+			<Actor name="Circle002" layer="OFFICE WALL LIGHT">
+				<Transform tx="-870.769897" ty="156.569473" tz="281.950775" qw="0.003410" qx="-0.001775" qy="0.461745" qz="-0.887004" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</Actor>
+			<Actor name="Circle003" layer="OFFICE WALL LIGHT">
+				<Transform tx="-870.782166" ty="158.172028" tz="280.844360" qw="0.003329" qx="-0.001922" qy="0.499996" qz="-0.866019" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</Actor>
+			<ActorMesh name="Cylinder001" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_025"/>
+				<Transform tx="-870.490051" ty="167.393311" tz="278.568298" qw="0.002718" qx="-0.002718" qy="0.707102" qz="-0.707101" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+			<ActorMesh name="Plane001" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_026"/>
+				<Transform tx="-870.198608" ty="156.603622" tz="281.657928" qw="0.342018" qx="0.939686" qy="0.003612" qz="0.001315" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+			<ActorMesh name="Sphere001" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_027"/>
+				<Transform tx="-870.321350" ty="153.566055" tz="277.889526" qw="0.501918" qx="-0.501918" qy="0.498074" qz="-0.498074" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="DS_______001" layer="OFFICE WALL LIGHT">
+		<Transform tx="-870.202454" ty="-425.035919" tz="268.913879" qw="0.998446" qx="0.000000" qy="0.000000" qz="0.055731" sx="0.002606" sy="0.002606" sz="0.002606"/>
+		<children visible="True">
+			<ActorMesh name="Box001_001" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_024"/>
+				<Transform tx="-868.850159" ty="-435.238495" tz="267.450226" qw="0.706008" qx="-0.706008" qy="-0.039408" qz="0.039408" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+			<Actor name="Circle001_001" layer="OFFICE WALL LIGHT">
+				<Transform tx="-869.849976" ty="-423.048035" tz="283.268585" qw="0.922444" qx="-0.382089" qy="-0.021327" qz="0.051489" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</Actor>
+			<Actor name="Circle002_001" layer="OFFICE WALL LIGHT">
+				<Transform tx="-869.693665" ty="-424.443970" tz="281.950775" qw="0.885632" qx="-0.461031" qy="-0.025734" qz="0.049434" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</Actor>
+			<Actor name="Circle003_001" layer="OFFICE WALL LIGHT">
+				<Transform tx="-869.515320" ty="-426.036591" tz="280.844360" qw="0.864679" qx="-0.499223" qy="-0.027865" qz="0.048264" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</Actor>
+			<ActorMesh name="Cylinder001_002" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_025"/>
+				<Transform tx="-868.850159" ty="-435.238495" tz="278.568298" qw="0.706008" qx="-0.706008" qy="-0.039408" qz="0.039408" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+			<ActorMesh name="Plane001_001" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_026"/>
+				<Transform tx="-870.258301" ty="-424.537140" tz="281.657928" qw="0.019061" qx="0.052370" qy="-0.938232" qz="-0.341489" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+			<ActorMesh name="Sphere001_001" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_027"/>
+				<Transform tx="-870.450989" ty="-421.503204" tz="277.889526" qw="0.471357" qx="-0.471357" qy="-0.527088" qz="0.527088" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="DS_______002" layer="OFFICE WALL LIGHT">
+		<Transform tx="-438.848969" ty="-211.131409" tz="268.913879" qw="0.764139" qx="0.000000" qy="0.000000" qz="0.645051" sx="0.002606" sy="0.002606" sz="0.002606"/>
+		<children visible="True">
+			<ActorMesh name="Box001_002" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_024"/>
+				<Transform tx="-428.670166" ty="-212.652664" tz="267.450226" qw="0.540328" qx="-0.540328" qy="-0.456120" qz="0.456120" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+			<Actor name="Circle001_002" layer="OFFICE WALL LIGHT">
+				<Transform tx="-440.661896" ty="-210.243057" tz="283.268585" qw="0.705972" qx="-0.292423" qy="-0.246851" qz="0.595950" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</Actor>
+			<Actor name="Circle002_002" layer="OFFICE WALL LIGHT">
+				<Transform tx="-439.277161" ty="-210.478790" tz="281.950775" qw="0.677800" qx="-0.352840" qy="-0.297852" qz="0.572168" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</Actor>
+			<Actor name="Circle003_002" layer="OFFICE WALL LIGHT">
+				<Transform tx="-437.697327" ty="-210.747742" tz="280.844360" qw="0.661764" qx="-0.382070" qy="-0.322526" qz="0.558631" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</Actor>
+			<ActorMesh name="Cylinder001_003" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_025"/>
+				<Transform tx="-428.670166" ty="-212.652664" tz="278.568298" qw="0.540328" qx="-0.540328" qy="-0.456120" qz="0.456120" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+			<ActorMesh name="Plane001_002" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_026"/>
+				<Transform tx="-439.343750" ty="-211.047180" tz="281.657928" qw="0.220621" qx="0.606150" qy="-0.718056" qz="-0.261351" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+			<ActorMesh name="Sphere001_002" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_027"/>
+				<Transform tx="-442.312683" ty="-210.393524" tz="277.889526" qw="0.059544" qx="-0.059544" qy="-0.704595" qz="0.704595" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="DS_______003" layer="OFFICE WALL LIGHT">
+		<Transform tx="-1159.041626" ty="-211.131409" tz="268.913879" qw="0.711076" qx="0.000000" qy="-0.000000" qz="-0.703115" sx="0.002606" sy="0.002606" sz="0.002606"/>
+		<children visible="True">
+			<ActorMesh name="Box001_003" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_024"/>
+				<Transform tx="-1169.328369" ty="-211.455719" tz="267.450226" qw="0.502807" qx="-0.502807" qy="0.497177" qz="-0.497177" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+			<Actor name="Circle001_003" layer="OFFICE WALL LIGHT">
+				<Transform tx="-1157.098999" ty="-211.681061" tz="283.268585" qw="0.656949" qx="-0.272117" qy="0.269070" qz="-0.649594" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</Actor>
+			<Actor name="Circle002_003" layer="OFFICE WALL LIGHT">
+				<Transform tx="-1158.503540" ty="-211.696884" tz="281.950775" qw="0.630732" qx="-0.328338" qy="0.324662" qz="-0.623671" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</Actor>
+			<Actor name="Circle003_003" layer="OFFICE WALL LIGHT">
+				<Transform tx="-1160.106079" ty="-211.714935" tz="280.844360" qw="0.615810" qx="-0.355538" qy="0.351558" qz="-0.608915" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</Actor>
+			<ActorMesh name="Cylinder001_004" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_025"/>
+				<Transform tx="-1169.328369" ty="-211.455719" tz="278.568298" qw="0.502807" qx="-0.502807" qy="0.497177" qz="-0.497177" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+			<ActorMesh name="Plane001_003" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_026"/>
+				<Transform tx="-1158.539795" ty="-211.125763" tz="281.657928" qw="0.240479" qx="0.660712" qy="0.668193" qz="0.243202" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+			<ActorMesh name="Sphere001_003" layer="OFFICE WALL LIGHT">
+				<mesh name="Mesh_027"/>
+				<Transform tx="-1155.501709" ty="-211.237686" tz="277.889526" qw="0.707096" qx="-0.707096" qy="-0.003981" qz="0.003981" sx="0.002606" sy="0.002606" sz="0.002606"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="pendantlight" layer="CEILING LIGHT">
+		<Transform tx="-792.634399" ty="-91.821144" tz="219.441299" qw="0.988379" qx="0.000000" qy="-0.000000" qz="0.152007" sx="0.008266" sy="0.008266" sz="0.008266"/>
+		<children visible="True">
+			<ActorMesh name="Cylinder057" layer="CEILING LIGHT">
+				<mesh name="Mesh_028"/>
+				<Transform tx="-796.721741" ty="-79.580078" tz="295.907898" qw="0.988379" qx="0.000000" qy="-0.000000" qz="0.152007" sx="0.008266" sy="0.008266" sz="0.008266"/>
+			</ActorMesh>
+			<ActorMesh name="Cylinder058" layer="CEILING LIGHT">
+				<mesh name="Mesh_053"/>
+				<Transform tx="-796.721741" ty="-79.580078" tz="229.649567" qw="0.988379" qx="0.000000" qy="-0.000000" qz="0.152007" sx="0.008266" sy="0.008266" sz="0.008266"/>
+			</ActorMesh>
+			<ActorMesh name="Cylinder059" layer="CEILING LIGHT">
+				<mesh name="Mesh_034"/>
+				<Transform tx="-788.978333" ty="-104.159180" tz="295.907898" qw="0.988379" qx="0.000000" qy="-0.000000" qz="0.152007" sx="0.008266" sy="0.008266" sz="0.008266"/>
+			</ActorMesh>
+			<ActorMesh name="Cylinder060" layer="CEILING LIGHT">
+				<mesh name="Mesh_036"/>
+				<Transform tx="-788.978333" ty="-104.159164" tz="229.649567" qw="0.988379" qx="0.000000" qy="-0.000000" qz="0.152007" sx="0.008266" sy="0.008266" sz="0.008266"/>
+			</ActorMesh>
+			<ActorMesh name="Cylinder061" layer="CEILING LIGHT">
+				<mesh name="Mesh_076"/>
+				<Transform tx="-796.721741" ty="-79.580078" tz="230.634018" qw="0.988379" qx="0.000000" qy="-0.000000" qz="0.152007" sx="0.008266" sy="0.008266" sz="0.008266"/>
+			</ActorMesh>
+			<ActorMesh name="Cylinder062" layer="CEILING LIGHT">
+				<mesh name="Mesh_080"/>
+				<Transform tx="-788.978333" ty="-104.159164" tz="230.634018" qw="0.988379" qx="0.000000" qy="-0.000000" qz="0.152007" sx="0.008266" sy="0.008266" sz="0.008266"/>
+			</ActorMesh>
+			<ActorMesh name="light" layer="CEILING LIGHT">
+				<mesh name="Mesh_081"/>
+				<Transform tx="-792.547791" ty="-91.793915" tz="220.497971" qw="0.988379" qx="0.000000" qy="-0.000000" qz="0.152007" sx="0.008266" sy="0.008266" sz="0.008266"/>
+			</ActorMesh>
+			<Actor name="pendant_light" layer="CEILING LIGHT">
+				<Transform tx="-792.851562" ty="-91.097206" tz="224.456070" qw="0.988383" qx="-0.000413" qy="-0.000063" qz="0.151986" sx="0.008266" sy="0.008266" sz="0.008266"/>
+			</Actor>
+			<Actor name="pendant_light_Target" layer="CEILING LIGHT">
+				<Transform tx="-792.743774" ty="-91.439209" tz="-204.721481" qw="0.988379" qx="0.000000" qy="-0.000000" qz="0.152007" sx="0.008266" sy="0.008266" sz="0.008266"/>
+			</Actor>
+			<ActorMesh name="Rectangle068" layer="CEILING LIGHT">
+				<mesh name="Mesh_035"/>
+				<Transform tx="-792.607544" ty="-91.906219" tz="297.439056" qw="0.988379" qx="0.000000" qy="-0.000000" qz="0.152007" sx="0.008266" sy="0.008266" sz="0.008266"/>
+			</ActorMesh>
+			<ActorMesh name="Rectangle071" layer="CEILING LIGHT">
+				<mesh name="Mesh_075"/>
+				<Transform tx="-792.547852" ty="-91.793884" tz="224.035385" qw="0.988379" qx="0.000000" qy="-0.000000" qz="0.152007" sx="0.008266" sy="0.008266" sz="0.008266"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<ActorMesh name="UE65HU9000T" layer="SMART BOARD">
+		<mesh name="UE65HU9000T"/>
+		<Transform tx="-1079.360718" ty="-368.311371" tz="145.706421" qw="0.661794" qx="-0.661793" qy="0.249057" qz="-0.249057" sx="0.000970" sy="0.000970" sz="0.000970"/>
+	</ActorMesh>
+	<Environment name="world_environment_background" label="world_environment_background">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="0"/>
+	</Environment>
+	<Environment name="world_environment_lighting" label="world_environment_lighting">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="1"/>
+	</Environment>
+	<StaticMesh label="Water_Dispenser" name="Water_Dispenser">
+		<Material id="0" name="Material_045"/>
+		<file path="OFFICE_Assets/Water_Dispenser.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="67d311cce1e2a17f99eda77377e100a2"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_075" name="Cube_075">
+		<Material id="0" name="FabricLeatherCowhide001_4K"/>
+		<file path="OFFICE_Assets/Cube_075.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="78ffa85fd4b930ca9847055813e2b5e2"/>
+	</StaticMesh>
+	<StaticMesh label="Black_leather_chair__Black_leather_chair" name="Black_leather_chair__Black_leather_chair">
+		<Material id="0" name="Chair_seam_"/>
+		<Material id="1" name="Chair_black_plastic_"/>
+		<Material id="2" name="FabricLeatherCowhide001_4K"/>
+		<Material id="3" name="Chair_chrome_metal"/>
+		<file path="OFFICE_Assets/Black_leather_chair__Black_leather_chair.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0bc3d3ab943c11932a944f1d9f11d537"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_007" name="Cube_007">
+		<Material id="0" name="Black_Wood"/>
+		<Material id="1" name="Wood_003"/>
+		<Material id="2" name="Procedual_Marble_Granite_Black_Galaxy"/>
+		<Material id="3" name="chrome_001"/>
+		<file path="OFFICE_Assets/Cube_007.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ebbf206a8301a0fff95f6ffc457a4d3f"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_016" name="Cube_016">
+		<Material id="0" name="Wood_003"/>
+		<Material id="1" name="chrome_001"/>
+		<Material id="2" name="Black_Edge"/>
+		<file path="OFFICE_Assets/Cube_016.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4553918327082104e756a4d30d9c99bb"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder" name="Cylinder">
+		<Material id="0" name="Procedural_Clay"/>
+		<Material id="1" name="Red"/>
+		<Material id="2" name="CloudWhiet"/>
+		<Material id="3" name="Meroon"/>
+		<file path="OFFICE_Assets/Cylinder.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="86c65213a78f49f82db4e41fd3e27148"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_095" name="Mesh_095">
+		<Material id="0" name="Leather_Sofa_Mat_001"/>
+		<file path="OFFICE_Assets/Mesh_095.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8186f1a9e5442e9b884e1c4a666e827a"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_008" name="Cube_008">
+		<Material id="0" name="Black_Wood"/>
+		<Material id="1" name="Wood_003"/>
+		<Material id="2" name="Procedual_Marble_Granite_Black_Galaxy"/>
+		<Material id="3" name="chrome_001"/>
+		<file path="OFFICE_Assets/Cube_008.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5c984c0001b1a446c056a71269b8bd8a"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_218" name="Cube_218">
+		<Material id="0" name="book_cover_005"/>
+		<Material id="1" name="stacked_paper_005"/>
+		<file path="OFFICE_Assets/Cube_218.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b6bd3b355320586dba762cf845bbbb1b"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_217" name="Cube_217">
+		<Material id="0" name="book_cover_005"/>
+		<Material id="1" name="stacked_paper_005"/>
+		<file path="OFFICE_Assets/Cube_217.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="598daaba22d12d40d035a9fe8b4e8f68"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_216" name="Cube_216">
+		<Material id="0" name="book_cover_005"/>
+		<Material id="1" name="stacked_paper_005"/>
+		<file path="OFFICE_Assets/Cube_216.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a73be9d444749295cd264f0420007223"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_215" name="Cube_215">
+		<Material id="0" name="book_cover_005"/>
+		<Material id="1" name="stacked_paper_005"/>
+		<file path="OFFICE_Assets/Cube_215.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="55b48092154a96bd4c00ad202f21fcce"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_214" name="Cube_214">
+		<Material id="0" name="book_cover_005"/>
+		<Material id="1" name="stacked_paper_005"/>
+		<file path="OFFICE_Assets/Cube_214.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ea3b441a0bd7dff4dd9571bb140b0378"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_213" name="Cube_213">
+		<Material id="0" name="book_cover_005"/>
+		<Material id="1" name="stacked_paper_005"/>
+		<file path="OFFICE_Assets/Cube_213.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d675d89766f7108e1170f755a5c12a2b"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_219" name="Cube_219">
+		<Material id="0" name="book_cover_005"/>
+		<Material id="1" name="stacked_paper_005"/>
+		<file path="OFFICE_Assets/Cube_219.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6c9266facdb399c4cc59a3ddbf2e7c9a"/>
+	</StaticMesh>
+	<StaticMesh label="Circle_007" name="Circle_007">
+		<Material id="0" name="Black"/>
+		<Material id="1" name="Gold_Plume_001"/>
+		<Material id="2" name="Blanc_Plume_001"/>
+		<Material id="3" name="Gols_Plume_001"/>
+		<file path="OFFICE_Assets/Circle_007.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d67e53657af698486920f4d104a6b2bc"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_061" name="Mesh_061">
+		<Material id="0" name="prop_laptop_lenovo_body"/>
+		<Material id="1" name="prop_laptop_lenovo_screen"/>
+		<file path="OFFICE_Assets/Mesh_061.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="65d41523d25547a8aa5078d3274effbc"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_003" name="Cylinder_003">
+		<Material id="0" name="metal"/>
+		<Material id="1" name="PLASTIC_BLACK"/>
+		<file path="OFFICE_Assets/Cylinder_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7c474a108ac310190e50972fa1db8a15"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_002" name="Cylinder_002">
+		<Material id="0" name="METAL_CHROME"/>
+		<Material id="1" name="metalic_blue_001"/>
+		<file path="OFFICE_Assets/Cylinder_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ed8bb6501b2ad6d419bc96456be7fcae"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_061" name="Cube_061">
+		<Material id="0" name="PLASTIC_BLACK"/>
+		<Material id="1" name="GREEN_MARKER"/>
+		<file path="OFFICE_Assets/Cube_061.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0e0851b0eadde083e16635d5a99249a4"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_062" name="Cube_062">
+		<Material id="0" name="PLASTIC_BLACK"/>
+		<Material id="1" name="yelow_marker"/>
+		<file path="OFFICE_Assets/Cube_062.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9256ea10a1df923ee3502d4c8f258c0f"/>
+	</StaticMesh>
+	<StaticMesh label="Cone_003" name="Cone_003">
+		<Material id="0" name="wood_pencil"/>
+		<Material id="1" name="granite"/>
+		<Material id="2" name="pencil_paint"/>
+		<file path="OFFICE_Assets/Cone_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dbabc6a73e1012d07904988a8ef590d0"/>
+	</StaticMesh>
+	<StaticMesh label="Cone_001" name="Cone_001">
+		<Material id="0" name="wood_pencil"/>
+		<Material id="1" name="granite"/>
+		<Material id="2" name="pencil_paint"/>
+		<file path="OFFICE_Assets/Cone_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eef6303013444df51ce5b80fe8dd32a8"/>
+	</StaticMesh>
+	<StaticMesh label="Icosphere" name="Icosphere">
+		<Material id="0" name="metalic_blue"/>
+		<file path="OFFICE_Assets/Icosphere.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c9bb17281121c6563f8057ac2a17cfab"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_033" name="Plane_033">
+		<Material id="0" name="Material_044"/>
+		<Material id="1" name="plastic_yelow"/>
+		<file path="OFFICE_Assets/Plane_033.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="16efdc022ca79f57744b161b060905fe"/>
+	</StaticMesh>
+	<StaticMesh label="Circle_001" name="Circle_001">
+		<Material id="0" name="metal"/>
+		<Material id="1" name="plastic_grey"/>
+		<Material id="2" name="PLASTIC_BLACK"/>
+		<file path="OFFICE_Assets/Circle_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="332a07da889c329e71122c469a50c1d8"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_004" name="Cylinder_004">
+		<Material id="0" name="pen_glass_01"/>
+		<Material id="1" name="pen_glass_02"/>
+		<Material id="2" name="pen_metal"/>
+		<Material id="3" name="pen_yellow_plastic"/>
+		<Material id="4" name="pen_green_plastic"/>
+		<Material id="5" name="pen_pencil_body"/>
+		<Material id="6" name="pen_pencil_eraser"/>
+		<Material id="7" name="pen_pencil_metal"/>
+		<Material id="8" name="pen_wood"/>
+		<Material id="9" name="pen_pencil_and_marker_body"/>
+		<Material id="10" name="pen_marker_cup"/>
+		<Material id="11" name="pen_blue_plastic"/>
+		<Material id="12" name="pen_white_eraser"/>
+		<Material id="13" name="pen_protractor"/>
+		<Material id="14" name="pen_eraser_green\"/>
+		<Material id="15" name="pen_note"/>
+		<file path="OFFICE_Assets/Cylinder_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="482676e5094349a302e0711829d6c917"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_263" name="Cube_263">
+		<Material id="0" name="black_plastic"/>
+		<Material id="1" name="silver_plastic"/>
+		<Material id="2" name="silver_metal"/>
+		<Material id="3" name="emision"/>
+		<file path="OFFICE_Assets/Cube_263.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="939cd67f04839f951672c2f472f2b829"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_030" name="Plane_030">
+		<Material id="0" name="BlackMatteColor"/>
+		<Material id="1" name="MirrorShader"/>
+		<file path="OFFICE_Assets/Plane_030.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c02ff4707501e596a0da36b53df63d70"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_001" name="Cylinder_001">
+		<Material id="0" name="PenColor01"/>
+		<Material id="1" name="PenColor02"/>
+		<file path="OFFICE_Assets/Cylinder_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5f5465501ba67cbafda07439cf01b473"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_029" name="Plane_029">
+		<Material id="0" name="BlackMatteColor"/>
+		<Material id="1" name="MirrorShader"/>
+		<Material id="2" name="PhotoDisplay"/>
+		<file path="OFFICE_Assets/Plane_029.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4fa0daeb6825cba7e1bc72e2175026b9"/>
+	</StaticMesh>
+	<StaticMesh label="Desk_Switch__Cube_031" name="Desk_Switch__Cube_031">
+		<Material id="0" name="Material_005"/>
+		<Material id="1" name="Material_006"/>
+		<file path="OFFICE_Assets/Desk_Switch__Cube_031.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="234726e0c60c3e212ba042a121fdc17a"/>
+	</StaticMesh>
+	<StaticMesh label="Black_leather_chair" name="Black_leather_chair">
+		<Material id="0" name="Chair_seam_"/>
+		<Material id="1" name="Chair_black_plastic_"/>
+		<Material id="2" name="FabricLeatherCowhide001_4K"/>
+		<Material id="3" name="Chair_chrome_metal"/>
+		<file path="OFFICE_Assets/Black_leather_chair.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0799c17e56ea89f9ee664df5b663a400"/>
+	</StaticMesh>
+	<StaticMesh label="wall_design__Cube_012" name="wall_design__Cube_012">
+		<Material id="0" name="Poliigon_MetalBronzeWorn_7248_4K"/>
+		<file path="OFFICE_Assets/wall_design__Cube_012.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c670fdf7ce51c1db2bc2c738eb1ca535"/>
+	</StaticMesh>
+	<StaticMesh label="wall_design_001__Cube_012" name="wall_design_001__Cube_012">
+		<Material id="0" name="Poliigon_MetalBronzeWorn_7248_4K"/>
+		<file path="OFFICE_Assets/wall_design_001__Cube_012.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7f96a24c904ed05a605cf6712f2b27f7"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_014" name="Cube_014">
+		<Material id="0" name="Material_055"/>
+		<Material id="1" name="Material_056"/>
+		<file path="OFFICE_Assets/Cube_014.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="73071d88f3ecb3f423dac907579815d4"/>
+	</StaticMesh>
+	<StaticMesh label="wall_emmision__Cube_039" name="wall_emmision__Cube_039">
+		<Material id="0" name="Material_057"/>
+		<file path="OFFICE_Assets/wall_emmision__Cube_039.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4e2a6e54b770b7d6c353af24129a736b"/>
+	</StaticMesh>
+	<StaticMesh label="wall_emmision_001__Cube_039" name="wall_emmision_001__Cube_039">
+		<Material id="0" name="Material_057"/>
+		<file path="OFFICE_Assets/wall_emmision_001__Cube_039.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6c46f51f0eb10bb43302bdf731f359f3"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_040" name="Cube_040">
+		<Material id="0" name="Material_060"/>
+		<Material id="1" name="Material_061"/>
+		<file path="OFFICE_Assets/Cube_040.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="761667cf76eac7a1a9fbfd0896ed04f2"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_024" name="Mesh_024">
+		<Material id="0" name="01___Default"/>
+		<file path="OFFICE_Assets/Mesh_024.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a6d072ace6a65ae1f358c840c95d1fd1"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_025" name="Mesh_025">
+		<Material id="0" name="01___Default"/>
+		<file path="OFFICE_Assets/Mesh_025.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="55f3078689b85967a5917c8b0e97a3e7"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_026" name="Mesh_026">
+		<Material id="0" name="02___Default"/>
+		<file path="OFFICE_Assets/Mesh_026.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="024be7d79f40e7ac6ec9abd1140b4716"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_027" name="Mesh_027">
+		<Material id="0" name="03___Default"/>
+		<file path="OFFICE_Assets/Mesh_027.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6aa7a35d261c4cbc4639829c9ca8c284"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_028" name="Mesh_028">
+		<Material id="0" name="Aluminum_Anodized_Clear__1"/>
+		<file path="OFFICE_Assets/Mesh_028.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0b2e2dbcb41a2cc4ebd655d1cb29f348"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_053" name="Mesh_053">
+		<Material id="0" name="Aluminum_Anodized_Clear__1"/>
+		<file path="OFFICE_Assets/Mesh_053.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d883c84c9f3605fbc8fba43149acd445"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_034" name="Mesh_034">
+		<Material id="0" name="Aluminum_Anodized_Clear__1"/>
+		<file path="OFFICE_Assets/Mesh_034.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="44070c28e28564cf9ba5e3e7e92d0b19"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_036" name="Mesh_036">
+		<Material id="0" name="Aluminum_Anodized_Clear__1"/>
+		<file path="OFFICE_Assets/Mesh_036.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="65b9b23c3825b70e6d2d97e6ad51b642"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_076" name="Mesh_076">
+		<Material id="0" name="Aluminum_Anodized_Clear__1"/>
+		<file path="OFFICE_Assets/Mesh_076.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a0c8590ab747ff8340a7d82d7dc11d18"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_080" name="Mesh_080">
+		<Material id="0" name="Aluminum_Anodized_Clear__1"/>
+		<file path="OFFICE_Assets/Mesh_080.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e207fdfed0199e79fb4dc0ad28888752"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_081" name="Mesh_081">
+		<Material id="0" name="LED_5500K__0"/>
+		<file path="OFFICE_Assets/Mesh_081.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4e77f9445cb4ce2a65b12d071fd93383"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_035" name="Mesh_035">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<file path="OFFICE_Assets/Mesh_035.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ce95e8dc43634424117152b141c220e9"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_075" name="Mesh_075">
+		<Material id="0" name="Poliigon_WoodFloorAsh_4186_4K"/>
+		<file path="OFFICE_Assets/Mesh_075.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="654c816a7353518ae344f75eaeb87525"/>
+	</StaticMesh>
+	<StaticMesh label="UE65HU9000T" name="UE65HU9000T">
+		<Material id="0" name="wire_000000000"/>
+		<Material id="1" name="Material_059"/>
+		<file path="OFFICE_Assets/UE65HU9000T.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c9c05574ab2bdb168ebf0f7402983b31"/>
+	</StaticMesh>
+	<UEPbrMaterial name="Material_045">
+		<Expressions>
+			<Color constant="(R=0.317946,G=0.317946,B=0.317946,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.490909"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="FabricLeatherCowhide001_4K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="FabricLeatherCowhide001_REFL_4K_jpg">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="FabricLeatherCowhide001_GLOSS_4K_jpg">
+				<Coordinates expression="14"/>
+			</Texture>
+			<OneMinus>
+				<0 expression="15" OutputIndex="0"/>
+			</OneMinus>
+			<Scalar constant="1.000000"/>
+			<LinearInterpolate>
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16"/>
+				<2 expression="17" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="18"/>
+				<1 expression="19"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="FabricLeatherCowhide001_NRM_4K_jpg">
+				<Coordinates expression="22"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="13"/>
+		<Roughness expression="20"/>
+		<Specular expression="21" OutputIndex="0"/>
+		<Normal expression="23" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Chair_seam_">
+		<Expressions>
+			<Color constant="(R=0.008485,G=0.008485,B=0.008485,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.650000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Chair_black_plastic_">
+		<Expressions>
+			<Color constant="(R=0.008485,G=0.008485,B=0.008485,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Chair_chrome_metal">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.100000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Black_Wood">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.680000"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Wood_003">
+		<Expressions>
+			<Color constant="(R=0.068802,G=0.068802,B=0.068802,A=1.000000)"/>
+			<Scalar constant="0.570909"/>
+			<Scalar constant="0.962727"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Procedual_Marble_Granite_Black_Galaxy">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.400000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="chrome_001">
+		<Expressions>
+			<Color constant="(R=0.638271,G=0.638271,B=0.638271,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.010000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Black_Edge">
+		<Expressions>
+			<Color constant="(R=0.013408,G=0.013408,B=0.013408,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Procedural_Clay">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.291249,B=0.107790,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.540909"/>
+			<Scalar constant="0.072727"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Red">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.291249,B=0.107790,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.540909"/>
+			<Scalar constant="0.072727"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CloudWhiet">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.291249,B=0.107790,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.540909"/>
+			<Scalar constant="0.072727"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Meroon">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.291249,B=0.107790,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.540909"/>
+			<Scalar constant="0.072727"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Leather_Sofa_Mat_001">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.748767"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="book_cover_005">
+		<Expressions>
+			<Color constant="(R=0.401989,G=0.355776,B=0.390127,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="stacked_paper_005">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.758333"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Black">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.300000"/>
+			<Scalar constant="0.200000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Gold_Plume_001">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Blanc_Plume_001">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Gols_Plume_001">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="prop_laptop_lenovo_body">
+		<Expressions>
+			<Color constant="(R=0.057102,G=0.057102,B=0.057102,A=1.000000)"/>
+			<Scalar constant="0.381818"/>
+			<Scalar constant="0.810968"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="prop_laptop_lenovo_screen">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="metal">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.145299"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="PLASTIC_BLACK">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.482906"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="METAL_CHROME">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.150000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="metalic_blue_001">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.017088,B=0.645726,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.482906"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="GREEN_MARKER">
+		<Expressions>
+			<Color constant="(R=0.006503,G=1.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="yelow_marker">
+		<Expressions>
+			<Color constant="(R=1.000000,G=0.875627,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="wood_pencil">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="granite">
+		<Expressions>
+			<Color constant="(R=0.052712,G=0.052712,B=0.052712,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.320513"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pencil_paint">
+		<Expressions>
+			<Color constant="(R=0.563541,G=0.378081,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="metalic_blue">
+		<Expressions>
+			<Color constant="(R=0.205431,G=0.593597,B=0.010613,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.311966"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_044">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="plastic_yelow">
+		<Expressions>
+			<Color constant="(R=0.771657,G=0.448081,B=0.044796,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.200000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="plastic_grey">
+		<Expressions>
+			<Color constant="(R=0.179368,G=0.179368,B=0.179368,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_glass_01">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="4.500000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_glass_02">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.631818"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="4.500000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_metal">
+		<Expressions>
+			<Color constant="(R=0.393115,G=0.393115,B=0.393115,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.400000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="2.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_yellow_plastic">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.397796,B=0.000031,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.300000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_green_plastic">
+		<Expressions>
+			<Color constant="(R=0.219209,G=0.800000,B=0.002748,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.300000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_pencil_body">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.600000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_pencil_eraser">
+		<Expressions>
+			<Color constant="(R=0.685956,G=0.154706,B=0.072777,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.827273"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_pencil_metal">
+		<Expressions>
+			<Color constant="(R=0.403738,G=0.403738,B=0.403738,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_wood">
+		<Expressions>
+			<Color constant="(R=1.000000,G=0.506522,B=0.155178,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_pencil_and_marker_body">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.300000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_marker_cup">
+		<Expressions>
+			<Color constant="(R=1.000000,G=0.977402,B=0.977402,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_blue_plastic">
+		<Expressions>
+			<Color constant="(R=0.059494,G=0.627229,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.300000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_white_eraser">
+		<Expressions>
+			<Color constant="(R=0.751468,G=0.858583,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_protractor">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.400000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_eraser_green\">
+		<Expressions>
+			<Color constant="(R=0.148510,G=1.000000,B=0.366499,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="pen_note">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="black_plastic">
+		<Expressions>
+			<Color constant="(R=0.009579,G=0.009579,B=0.009579,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="silver_plastic">
+		<Expressions>
+			<Color constant="(R=0.778459,G=0.778459,B=0.778459,A=1.000000)"/>
+			<Scalar constant="0.786364"/>
+			<Scalar constant="0.595455"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="silver_metal">
+		<Expressions>
+			<Color constant="(R=0.534001,G=0.534001,B=0.534001,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.250000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="emision">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.400000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="BlackMatteColor">
+		<Expressions>
+			<Color constant="(R=0.021975,G=0.021975,B=0.021975,A=1.000000)"/>
+			<Scalar constant="0.722222"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.140017"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="MirrorShader">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.250000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.140017"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="PenColor01">
+		<Expressions>
+			<Color constant="(R=0.119273,G=0.119273,B=0.119273,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.100000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.140017"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="PenColor02">
+		<Expressions>
+			<Color constant="(R=0.326372,G=0.326372,B=0.326372,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.140017"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="PhotoDisplay">
+		<Expressions>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=1.070000,G=1.070000,B=1.070000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint2D_2">
+				<0 expression="0"/>
+				<1 expression="1" OutputIndex="0"/>
+				<2 expression="2" OutputIndex="0"/>
+				<3 expression="3" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="4"/>
+			</ComponentMask>
+			<Texture PathName="samsung_galaxy_s4_android_4_4_kitkat_firmware_test_3_jpg_001">
+				<Coordinates expression="5"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.200000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.140017"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="10" OutputIndex="0"/>
+				<1 expression="11" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="6" OutputIndex="0"/>
+		<Metallic expression="7" OutputIndex="0"/>
+		<Roughness expression="8" OutputIndex="0"/>
+		<Specular expression="9" OutputIndex="0"/>
+		<Normal expression="12"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_005">
+		<Expressions>
+			<Color constant="(R=0.371222,G=0.371222,B=0.371222,A=1.000000)"/>
+			<Scalar constant="0.629091"/>
+			<Scalar constant="0.620000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_006">
+		<Expressions>
+			<Color constant="(R=0.004171,G=0.481323,B=0.475128,A=1.000000)"/>
+			<Scalar constant="25.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Poliigon_MetalBronzeWorn_7248_4K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalBronzeWorn_7248_Metallic_4K_jpg">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalBronzeWorn_7248_Roughness_4K_jpg">
+				<Coordinates expression="14"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalBronzeWorn_7248_Normal_4K_jpg">
+				<Coordinates expression="19"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="13"/>
+		<Roughness expression="17"/>
+		<Specular expression="18" OutputIndex="0"/>
+		<Normal expression="20" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_055">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_056">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.900000,G=0.100000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=-1.570796,A=1.0)"/>
+			<Color constant="(R=1.200000,G=1.200000,B=1.200000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="DEl_YORK_ACADEMY_jpg">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_057">
+		<Expressions>
+			<Color constant="(R=0.952138,G=1.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="50.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_060">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_061">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.200000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=3.321361,B=3.150319,A=1.0)"/>
+			<Color constant="(R=0.700000,G=0.950000,B=0.700000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint3D">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="representation_collective_mind_process_concept_digital_art_styl">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="01___Default">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="02___Default">
+		<Expressions>
+			<Texture PathName="Map__18_001"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="03___Default">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="35.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Aluminum_Anodized_Clear__1">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="LED_5500K__0">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="40.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Poliigon_WoodFloorAsh_4186_4K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</DotProduct>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1024.000000"/>
+			<TextureObject>
+				<0 name="Texture" type="Texture" val="datasmith_curves"/>
+			</TextureObject>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/ColorRamp">
+				<0 expression="2"/>
+				<1 expression="3"/>
+				<2 expression="4"/>
+				<3 expression="5"/>
+			</FunctionCall>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="7"/>
+				<1 expression="8"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="15"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_WoodFloorAsh_4186_Metallic_4K_jpg">
+				<Coordinates expression="16"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="17" OutputIndex="0"/>
+				<1 expression="18"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="15"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_WoodFloorAsh_4186_Roughness_4K_jpg">
+				<Coordinates expression="20"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="21" OutputIndex="0"/>
+				<1 expression="22"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="15"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_WoodFloorAsh_4186_Normal_4K_jpg">
+				<Coordinates expression="25"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="6" OutputIndex="0"/>
+		<Metallic expression="19"/>
+		<Roughness expression="23"/>
+		<Specular expression="24" OutputIndex="0"/>
+		<Normal expression="26" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="wire_000000000">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.527273"/>
+			<Scalar constant="0.821115"/>
+			<Scalar constant="0.350000"/>
+			<Scalar constant="1.000000"/>
+			<OneMinus>
+				<0 expression="4" OutputIndex="0"/>
+			</OneMinus>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Opacity expression="5"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_059">
+		<Expressions>
+			<Texture PathName="SCREEN_1_mp4"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<Texture name="meadow_2_8k_exr" file="OFFICE_Assets\meadow_2_8k_exr.exr" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="1ade9928b0b0252505dfb8f7631e4ed2"/>
+	</Texture>
+	<Texture name="FabricLeatherCowhide001_REFL_4K_jpg" file="OFFICE_Assets\FabricLeatherCowhide001_REFL_4K_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="d5531f9bb2417a28d65533546af76530"/>
+	</Texture>
+	<Texture name="FabricLeatherCowhide001_GLOSS_4K_jpg" file="OFFICE_Assets\FabricLeatherCowhide001_GLOSS_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="2964e8a3a99629cb9e71a021928339d6"/>
+	</Texture>
+	<Texture name="FabricLeatherCowhide001_NRM_4K_jpg" file="OFFICE_Assets\FabricLeatherCowhide001_NRM_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="f6d4936be4481b6c02d102d5ae6db48e"/>
+	</Texture>
+	<Texture name="samsung_galaxy_s4_android_4_4_kitkat_firmware_test_3_jpg_001" file="OFFICE_Assets\samsung_galaxy_s4_android_4_4_kitkat_firmware_test_3_jpg_001.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="ab461b09ba8a30a6cffbc6f5b7fe06a8"/>
+	</Texture>
+	<Texture name="Poliigon_MetalBronzeWorn_7248_Metallic_4K_jpg" file="OFFICE_Assets\Poliigon_MetalBronzeWorn_7248_Metallic_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="3f5d245296f101e26dca4da408c357be"/>
+	</Texture>
+	<Texture name="Poliigon_MetalBronzeWorn_7248_Roughness_4K_jpg" file="OFFICE_Assets\Poliigon_MetalBronzeWorn_7248_Roughness_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="e4ee73a236247fd65f1325eb5c357923"/>
+	</Texture>
+	<Texture name="Poliigon_MetalBronzeWorn_7248_Normal_4K_jpg" file="OFFICE_Assets\Poliigon_MetalBronzeWorn_7248_Normal_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="e3783804ca3415ec5afad9c9765ac521"/>
+	</Texture>
+	<Texture name="DEl_YORK_ACADEMY_jpg" file="OFFICE_Assets\DEl_YORK_ACADEMY_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="58843a9ef30afbac1755e0a859ca7dc6"/>
+	</Texture>
+	<Texture name="representation_collective_mind_process_concept_digital_art_styl" file="OFFICE_Assets\representation_collective_mind_process_concept_digital_art_styl.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="5a12c4af253632022a27a9ca9830be65"/>
+	</Texture>
+	<Texture name="Map__18_001" file="OFFICE_Assets\Map__18_001.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="ff2bc9e1ec2de1fe7a7277bb5b379be8"/>
+	</Texture>
+	<Texture name="Poliigon_WoodFloorAsh_4186_Metallic_4K_jpg" file="OFFICE_Assets\Poliigon_WoodFloorAsh_4186_Metallic_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="5be60768beb3f4c7695ef1bc24433ea6"/>
+	</Texture>
+	<Texture name="Poliigon_WoodFloorAsh_4186_Roughness_4K_jpg" file="OFFICE_Assets\Poliigon_WoodFloorAsh_4186_Roughness_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="bd7370d892657d444f157976a34f718c"/>
+	</Texture>
+	<Texture name="Poliigon_WoodFloorAsh_4186_Normal_4K_jpg" file="OFFICE_Assets\Poliigon_WoodFloorAsh_4186_Normal_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="eb293a7ac182c29fc391a8c36edbb5db"/>
+	</Texture>
+	<Texture name="SCREEN_1_mp4" file="OFFICE_Assets\SCREEN_1_mp4.tga" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3"/>
+	<Texture name="datasmith_curves" file="OFFICE_Assets\datasmith_curves.exr" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="73e33a245cf853dc83de93393ac3bb92"/>
+	</Texture>
+	<MetaData name="StaticMesh_Water_Dispenser_001" reference="StaticMesh.Water_Dispenser_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Water_Dispenser@3015', 'object_ptr': '2075204507168'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Water_Dispenser_001" reference="Actor.Water_Dispenser_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Water_Dispenser_001@3014', 'object_ptr': '2074591965728', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Water_Dispenser" reference="Actor.Water_Dispenser">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Water_Dispenser@3013', 'object_ptr': '2074591967520'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Executive_office_chair" reference="StaticMesh.Executive_office_chair">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_075@1053', 'object_ptr': '2074604687136'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Executive_office_chair" reference="Actor.Executive_office_chair">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Executive_office_chair@1052', 'object_ptr': '2074579574048', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Black_leather_chair" reference="Actor.Black_leather_chair">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Black_leather_chair@132', 'object_ptr': '2074581689376', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Desk" reference="StaticMesh.Desk">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_007@970', 'object_ptr': '2074605635616'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Desk" reference="Actor.Desk">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Desk@969', 'object_ptr': '2074579756064', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Table" reference="StaticMesh.Table">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_016@1853', 'object_ptr': '2074605386016'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Table" reference="Actor.Table">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Table@1852', 'object_ptr': '2074594184992', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Clay_Bottles" reference="StaticMesh.Clay_Bottles">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder@380', 'object_ptr': '2074604009760'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Clay_Bottles" reference="Actor.Clay_Bottles">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Clay_Bottles@379', 'object_ptr': '2074581032224', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Leather_Sofa_Geo" reference="StaticMesh.Leather_Sofa_Geo">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_095@1277', 'object_ptr': '2074600172320'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Leather_Sofa_Geo" reference="Actor.Leather_Sofa_Geo">
+		<KeyValueProperty name="currentUVSet" val="map1" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Leather_Sofa_Geo@1276', 'object_ptr': '2074579060768', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Desk_002" reference="Actor.Desk_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Desk_002@977', 'object_ptr': '2074579748896', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Desk_001" reference="StaticMesh.Desk_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_008@976', 'object_ptr': '2074605546272'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Desk_001" reference="Actor.Desk_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Desk_001@975', 'object_ptr': '2074579750688', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_014" reference="StaticMesh.Cube_014">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_218@754', 'object_ptr': '2074604410400'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_014" reference="Actor.Cube_014">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_014@753', 'object_ptr': '2074580263968', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_015" reference="StaticMesh.Cube_015">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_217@756', 'object_ptr': '2074604415776'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_015" reference="Actor.Cube_015">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_015@755', 'object_ptr': '2074580262176', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_017" reference="StaticMesh.Cube_017">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_216@760', 'object_ptr': '2074604585248'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_017" reference="Actor.Cube_017">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_017@759', 'object_ptr': '2074580258592', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_020" reference="StaticMesh.Cube_020">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_215@766', 'object_ptr': '2074604590624'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_020" reference="Actor.Cube_020">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_020@765', 'object_ptr': '2074580220192', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_021" reference="StaticMesh.Cube_021">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_214@768', 'object_ptr': '2074604597792'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_021" reference="Actor.Cube_021">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_021@767', 'object_ptr': '2074580218400', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_022" reference="StaticMesh.Cube_022">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_213@770', 'object_ptr': '2074604599584'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_022" reference="Actor.Cube_022">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_022@769', 'object_ptr': '2074580216608', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_025" reference="StaticMesh.Cube_025">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_219@776', 'object_ptr': '2074604405024'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_025" reference="Actor.Cube_025">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_025@775', 'object_ptr': '2074580211232', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Empty_011" reference="Actor.Empty_011">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Empty_011@1041', 'object_ptr': '2074579608608'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Plume_Final" reference="StaticMesh.Plume_Final">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Circle_007@1609', 'object_ptr': '2074591013664'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Plume_Final" reference="Actor.Plume_Final">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Plume_Final@1608', 'object_ptr': '2074594722080', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Fountain_Pen" reference="Actor.Fountain_Pen">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Fountain_Pen@1085', 'object_ptr': '2074579506720'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Lenovo_laptop" reference="StaticMesh.Lenovo_laptop">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_061@1281', 'object_ptr': '2074601080864'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Lenovo_laptop" reference="Actor.Lenovo_laptop">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Lenovo_laptop@1280', 'object_ptr': '2074579089696', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_BLACK_PEN" reference="StaticMesh.BLACK_PEN">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_003@137', 'object_ptr': '2074603999008'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_BLACK_PEN" reference="Actor.BLACK_PEN">
+		<KeyValueProperty name="vray" val="{'unique_id': 'BLACK_PEN@136', 'object_ptr': '2074581685792', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_BLUE_PEN" reference="StaticMesh.BLUE_PEN">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_002@175', 'object_ptr': '2074604004384'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_BLUE_PEN" reference="Actor.BLUE_PEN">
+		<KeyValueProperty name="vray" val="{'unique_id': 'BLUE_PEN@174', 'object_ptr': '2074581556512', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_marker" reference="StaticMesh.marker">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_061@1319', 'object_ptr': '2074604831008'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_marker" reference="Actor.marker">
+		<KeyValueProperty name="vray" val="{'unique_id': 'marker@1318', 'object_ptr': '2074578971424', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_marker_yelow" reference="StaticMesh.marker_yelow">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_062@1321', 'object_ptr': '2074604810784'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_marker_yelow" reference="Actor.marker_yelow">
+		<KeyValueProperty name="vray" val="{'unique_id': 'marker_yelow@1320', 'object_ptr': '2074578969632', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_PENCIL" reference="StaticMesh.PENCIL">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cone_003@1521', 'object_ptr': '2074607443232'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_PENCIL" reference="Actor.PENCIL">
+		<KeyValueProperty name="vray" val="{'unique_id': 'PENCIL@1520', 'object_ptr': '2074578197792', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_PENCIL2" reference="StaticMesh.PENCIL2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cone_001@1523', 'object_ptr': '2074607445024'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_PENCIL2" reference="Actor.PENCIL2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'PENCIL2@1522', 'object_ptr': '2074578196000', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_pengolder" reference="StaticMesh.pengolder">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Icosphere@1528', 'object_ptr': '2074602733856'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_pengolder" reference="Actor.pengolder">
+		<KeyValueProperty name="vray" val="{'unique_id': 'pengolder@1527', 'object_ptr': '2074578172192', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_ruler" reference="StaticMesh.ruler">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_033@1683', 'object_ptr': '2075205852448'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_ruler" reference="Actor.ruler">
+		<KeyValueProperty name="vray" val="{'unique_id': 'ruler@1682', 'object_ptr': '2074594561824', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_scisors" reference="StaticMesh.scisors">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Circle_001@1689', 'object_ptr': '2074591215904'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_scisors" reference="Actor.scisors">
+		<KeyValueProperty name="vray" val="{'unique_id': 'scisors@1688', 'object_ptr': '2074594538016', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Pen_holder" reference="Actor.Pen_holder">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Pen_holder@1518', 'object_ptr': '2074578201376'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder" reference="StaticMesh.Cylinder">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_004@902', 'object_ptr': '2074603895072'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder" reference="Actor.Cylinder">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder@901', 'object_ptr': '2074579916320', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Pen_Organizer" reference="Actor.Pen_Organizer">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Pen_Organizer@1519', 'object_ptr': '2074578199584'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Table_lamp" reference="StaticMesh.Table_lamp">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_263@1855', 'object_ptr': '2074604251936'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Table_lamp" reference="Actor.Table_lamp">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Table_lamp@1854', 'object_ptr': '2074594183200', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_KickstandSupport_3" reference="StaticMesh.KickstandSupport_3">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_030@1233', 'object_ptr': '2074594945824'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_KickstandSupport_3" reference="Actor.KickstandSupport_3">
+		<KeyValueProperty name="vray" val="{'unique_id': 'KickstandSupport_3@1232', 'object_ptr': '2074579184416', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_SurfacePen_2" reference="StaticMesh.SurfacePen_2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_001@1849', 'object_ptr': '2074604007968'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_SurfacePen_2" reference="Actor.SurfacePen_2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'SurfacePen_2@1848', 'object_ptr': '2074594188576', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_SurfaceTablet_3" reference="StaticMesh.SurfaceTablet_3">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_029@1851', 'object_ptr': '2074595016992'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_SurfaceTablet_3" reference="Actor.SurfaceTablet_3">
+		<KeyValueProperty name="vray" val="{'unique_id': 'SurfaceTablet_3@1850', 'object_ptr': '2074594186784', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tablet_with_Pen" reference="Actor.Tablet_with_Pen">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tablet_with_Pen@1856', 'object_ptr': '2074594181408'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_TOP_DESK" reference="Actor.TOP_DESK">
+		<KeyValueProperty name="vray" val="{'unique_id': 'TOP_DESK@1857', 'object_ptr': '2074594162976'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Desk_Switch" reference="Actor.Desk_Switch">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Desk_Switch@973', 'object_ptr': '2074579752480', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Black_leather_chair_001" reference="StaticMesh.Black_leather_chair_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Black_leather_chair@135', 'object_ptr': '2074591410464'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Black_leather_chair_001" reference="Actor.Black_leather_chair_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Black_leather_chair_001@134', 'object_ptr': '2074581687584', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_wall_design" reference="Actor.wall_design">
+		<KeyValueProperty name="vray" val="{'unique_id': 'wall_design@2991', 'object_ptr': '2074592007712', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_wall_design_001" reference="Actor.wall_design_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'wall_design_001@2993', 'object_ptr': '2074592005920', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_wall_frame" reference="StaticMesh.wall_frame">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_014@3002', 'object_ptr': '2074605471776'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_wall_frame" reference="Actor.wall_frame">
+		<KeyValueProperty name="vray" val="{'unique_id': 'wall_frame@3001', 'object_ptr': '2074591982112', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_wall_emmision" reference="Actor.wall_emmision">
+		<KeyValueProperty name="vray" val="{'unique_id': 'wall_emmision@2995', 'object_ptr': '2074592004128', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_wall_emmision_001" reference="Actor.wall_emmision_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'wall_emmision_001@2997', 'object_ptr': '2074592002336', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_WALL_FRAME_2" reference="StaticMesh.WALL_FRAME_2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_040@3004', 'object_ptr': '2074605122080'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_WALL_FRAME_2" reference="Actor.WALL_FRAME_2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'WALL_FRAME_2@3003', 'object_ptr': '2074591980320', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Box001" reference="StaticMesh.Box001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_024@223', 'object_ptr': '2074602307872'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Box001" reference="Actor.Box001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="1.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Box001@216', 'object_ptr': '2074581501984', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle001" reference="Actor.Circle001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="37.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle001@367', 'object_ptr': '2074581070368'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle002" reference="Actor.Circle002">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="38.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle002@371', 'object_ptr': '2074581063200'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle003" reference="Actor.Circle003">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="39.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle003@375', 'object_ptr': '2074581039392'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder001" reference="StaticMesh.Cylinder001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_025@936', 'object_ptr': '2074602125600'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder001" reference="Actor.Cylinder001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="2.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder001@929', 'object_ptr': '2074579874336', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Plane001" reference="StaticMesh.Plane001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_026@1565', 'object_ptr': '2074602122016'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Plane001" reference="Actor.Plane001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="4.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Plane001@1558', 'object_ptr': '2074594854944', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Sphere001" reference="StaticMesh.Sphere001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_027@1822', 'object_ptr': '2074602116640'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Sphere001" reference="Actor.Sphere001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="19.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Sphere001@1815', 'object_ptr': '2074594254112', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_DS______" reference="Actor.DS______">
+		<KeyValueProperty name="MaxHandle" val="40.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': '______@3074', 'object_ptr': '2074591801888'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Box001_001" reference="Actor.Box001_001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="1.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Box001_001@218', 'object_ptr': '2074581500192', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle001_001" reference="Actor.Circle001_001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="37.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle001_001@368', 'object_ptr': '2074581068576'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle002_001" reference="Actor.Circle002_001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="38.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle002_001@372', 'object_ptr': '2074581061408'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle003_001" reference="Actor.Circle003_001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="39.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle003_001@376', 'object_ptr': '2074581037600'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder001_002" reference="Actor.Cylinder001_002">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="2.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder001_002@931', 'object_ptr': '2074579872544', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Plane001_001" reference="Actor.Plane001_001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="4.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Plane001_001@1560', 'object_ptr': '2074594853152', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Sphere001_001" reference="Actor.Sphere001_001">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="19.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Sphere001_001@1817', 'object_ptr': '2074594252320', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_DS_______001" reference="Actor.DS_______001">
+		<KeyValueProperty name="MaxHandle" val="40.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': '_______001@3075', 'object_ptr': '2074591800096'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Box001_002" reference="Actor.Box001_002">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="1.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Box001_002@220', 'object_ptr': '2074581432608', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle001_002" reference="Actor.Circle001_002">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="37.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle001_002@369', 'object_ptr': '2074581066784'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle002_002" reference="Actor.Circle002_002">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="38.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle002_002@373', 'object_ptr': '2074581059616'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle003_002" reference="Actor.Circle003_002">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="39.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle003_002@377', 'object_ptr': '2074581035808'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder001_003" reference="Actor.Cylinder001_003">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="2.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder001_003@933', 'object_ptr': '2074579870752', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Plane001_002" reference="Actor.Plane001_002">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="4.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Plane001_002@1562', 'object_ptr': '2074594851104', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Sphere001_002" reference="Actor.Sphere001_002">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="19.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Sphere001_002@1819', 'object_ptr': '2074594250528', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_DS_______002" reference="Actor.DS_______002">
+		<KeyValueProperty name="MaxHandle" val="40.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': '_______002@3076', 'object_ptr': '2074591798304'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Box001_003" reference="Actor.Box001_003">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="1.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Box001_003@222', 'object_ptr': '2074581430816', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle001_003" reference="Actor.Circle001_003">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="37.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle001_003@370', 'object_ptr': '2074581064992'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle002_003" reference="Actor.Circle002_003">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="38.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle002_003@374', 'object_ptr': '2074581057824'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle003_003" reference="Actor.Circle003_003">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="39.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle003_003@378', 'object_ptr': '2074581034016'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder001_004" reference="Actor.Cylinder001_004">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="2.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder001_004@935', 'object_ptr': '2074579868960', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Plane001_003" reference="Actor.Plane001_003">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="4.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Plane001_003@1564', 'object_ptr': '2074594849312', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Sphere001_003" reference="Actor.Sphere001_003">
+		<KeyValueProperty name="mr displacement use global settings" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement view dependent" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement method" val="6.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement smoothing on" val="True" type="String"/>
+		<KeyValueProperty name="mr displacement edge length" val="2.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement max displace" val="20.000000" type="Float"/>
+		<KeyValueProperty name="mr displacement parametric subdivision level" val="5.000000" type="Float"/>
+		<KeyValueProperty name="MaxHandle" val="19.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Sphere001_003@1821', 'object_ptr': '2074594248736', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_DS_______003" reference="Actor.DS_______003">
+		<KeyValueProperty name="MaxHandle" val="40.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': '_______003@3077', 'object_ptr': '2074591796512'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder057" reference="StaticMesh.Cylinder057">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_028@958', 'object_ptr': '2074602114848'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder057" reference="Actor.Cylinder057">
+		<KeyValueProperty name="MaxHandle" val="95.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder057@957', 'object_ptr': '2074579783456', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder058" reference="StaticMesh.Cylinder058">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_053@960', 'object_ptr': '2074601117216'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder058" reference="Actor.Cylinder058">
+		<KeyValueProperty name="MaxHandle" val="99.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder058@959', 'object_ptr': '2074579781664', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder059" reference="StaticMesh.Cylinder059">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_034@962', 'object_ptr': '2074601881888'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder059" reference="Actor.Cylinder059">
+		<KeyValueProperty name="MaxHandle" val="96.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder059@961', 'object_ptr': '2074579779872', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder060" reference="StaticMesh.Cylinder060">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_036@964', 'object_ptr': '2074601794336'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder060" reference="Actor.Cylinder060">
+		<KeyValueProperty name="MaxHandle" val="98.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder060@963', 'object_ptr': '2074579761440', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder061" reference="StaticMesh.Cylinder061">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_076@966', 'object_ptr': '2074600530976'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder061" reference="Actor.Cylinder061">
+		<KeyValueProperty name="MaxHandle" val="109.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder061@965', 'object_ptr': '2074579759648', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder062" reference="StaticMesh.Cylinder062">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_080@968', 'object_ptr': '2074600452640'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder062" reference="Actor.Cylinder062">
+		<KeyValueProperty name="MaxHandle" val="110.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder062@967', 'object_ptr': '2074579757856', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_light" reference="StaticMesh.light">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_081@1283', 'object_ptr': '2074600450848'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_light" reference="Actor.light">
+		<KeyValueProperty name="MaxHandle" val="107.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'light@1282', 'object_ptr': '2074579087904', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_pendant_light" reference="Actor.pendant_light">
+		<KeyValueProperty name="MaxHandle" val="101.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'pendant_light@1524', 'object_ptr': '2074578194208'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_pendant_light_Target" reference="Actor.pendant_light_Target">
+		<KeyValueProperty name="MaxHandle" val="102.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'pendant_light_Target@1525', 'object_ptr': '2074578192416'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Rectangle068" reference="StaticMesh.Rectangle068">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_035@1657', 'object_ptr': '2074601797920'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Rectangle068" reference="Actor.Rectangle068">
+		<KeyValueProperty name="MaxHandle" val="97.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Rectangle068@1656', 'object_ptr': '2074594625568', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Rectangle071" reference="StaticMesh.Rectangle071">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_075@1659', 'object_ptr': '2074600534560'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Rectangle071" reference="Actor.Rectangle071">
+		<KeyValueProperty name="MaxHandle" val="100.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Rectangle071@1658', 'object_ptr': '2074594623776', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_pendantlight" reference="Actor.pendantlight">
+		<KeyValueProperty name="MaxHandle" val="94.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'pendantlight@1526', 'object_ptr': '2074578190624'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_UE65HU9000T" reference="StaticMesh.UE65HU9000T">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_UE65HU9000T@2961', 'object_ptr': '2075204512544'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_UE65HU9000T" reference="Actor.UE65HU9000T">
+		<KeyValueProperty name="vray" val="{'unique_id': 'UE65HU9000T@2960', 'object_ptr': '2074592125984', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<Export Duration="26.281999999999243"/>
+</DatasmithUnrealScene>

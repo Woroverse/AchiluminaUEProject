@@ -1,0 +1,3737 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.18"/>
+	<User ID="USER" OS="Windows 10"/>
+	<Actor name="KITCHEN_STOOL" layer="KITCHEN.001">
+		<Transform tx="257.683807" ty="-284.808289" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.013751" sy="0.013751" sz="0.013751"/>
+		<children visible="True">
+			<ActorMesh name="Object_1" layer="KITCHEN.001">
+				<mesh name="Object_1"/>
+				<Transform tx="260.949463" ty="-380.426331" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.013751" sy="0.013751" sz="0.013751"/>
+			</ActorMesh>
+			<ActorMesh name="Object_1_001" layer="KITCHEN.001">
+				<mesh name="Object_1"/>
+				<Transform tx="265.498688" ty="-438.089264" tz="0.000000" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="0.013751" sy="0.013751" sz="0.013751"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<ActorMesh name="SMART_COOKER" layer="Kitchen">
+		<mesh name="SMART_COOKER__Plane"/>
+		<Transform tx="286.639709" ty="-735.332092" tz="90.370895" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</ActorMesh>
+	<ActorMesh name="KITCHEN_TABLE_CABINET" layer="Kitchen">
+		<mesh name="KITCHEN_TABLE_CABINET__Cube_002"/>
+		<Transform tx="419.613739" ty="-638.398438" tz="97.270409" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</ActorMesh>
+	<ActorMesh name="marble_countertop_1" layer="KITCHEN 2">
+		<mesh name="Mesh_003"/>
+		<Transform tx="699.416138" ty="-602.189514" tz="83.500000" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="kitchen_sink" layer="KITCHEN 2">
+		<mesh name="Mesh_004"/>
+		<Transform tx="700.419067" ty="-489.689545" tz="83.300003" qw="0.000000" qx="-0.707107" qy="-0.707107" qz="0.000000" sx="-0.001000" sy="-0.001000" sz="-0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="kitchen_hood" layer="KITCHEN 2">
+		<mesh name="Mesh_006"/>
+		<Transform tx="700.419067" ty="-602.189514" tz="39.921146" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="kitchen_hood3" layer="KITCHEN 2">
+		<mesh name="Mesh_007"/>
+		<Transform tx="677.169250" ty="-602.189514" tz="165.750000" qw="0.000000" qx="-0.000000" qy="0.707107" qz="-0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="kitchen_hood2" layer="KITCHEN 2">
+		<mesh name="Mesh_011"/>
+		<Transform tx="703.418945" ty="-602.189514" tz="166.500015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="hob" layer="KITCHEN 2">
+		<mesh name="hob__Mesh_012"/>
+		<Transform tx="723.668884" ty="-600.689575" tz="88.000015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="hob_lattice" layer="KITCHEN 2">
+		<mesh name="Mesh_013"/>
+		<Transform tx="687.582214" ty="-601.689575" tz="88.000015" qw="0.000000" qx="-0.707107" qy="-0.707107" qz="0.000000" sx="-0.001000" sy="-0.001000" sz="-0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="burner_3" layer="KITCHEN 2">
+		<mesh name="Mesh_014"/>
+		<Transform tx="704.290588" ty="-602.189514" tz="89.900002" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="burner_2" layer="KITCHEN 2">
+		<mesh name="Mesh_015"/>
+		<Transform tx="700.419067" ty="-602.189514" tz="86.038818" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="burner_1" layer="KITCHEN 2">
+		<mesh name="Mesh_016"/>
+		<Transform tx="700.419067" ty="-602.189514" tz="85.928307" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="hob_hable" layer="KITCHEN 2">
+		<mesh name="Mesh_017"/>
+		<Transform tx="675.419067" ty="-602.189514" tz="88.500008" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="mixer_1" layer="KITCHEN 2">
+		<mesh name="Mesh_018"/>
+		<Transform tx="725.419067" ty="-476.189575" tz="87.500015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="mixer_3" layer="KITCHEN 2">
+		<mesh name="Mesh_019"/>
+		<Transform tx="716.919128" ty="-457.189575" tz="100.000000" qw="0.707107" qx="0.000000" qy="0.707107" qz="0.000000" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="mixer_3_plastic" layer="KITCHEN 2">
+		<mesh name="Mesh_020"/>
+		<Transform tx="720.893677" ty="-457.189575" tz="100.000000" qw="0.500000" qx="-0.500000" qy="-0.500000" qz="0.500000" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="mixer_2" layer="KITCHEN 2">
+		<mesh name="Mesh_021"/>
+		<Transform tx="725.419067" ty="-485.689545" tz="87.500015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="KITCHEN_LAMP_HOLDER" layer="KITCHEN 2">
+		<mesh name="Mesh_022"/>
+		<Transform tx="727.919189" ty="-547.189575" tz="143.750000" qw="0.000000" qx="-0.000000" qy="-0.707107" qz="0.707107" sx="-0.001000" sy="-0.001000" sz="-0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="vase_1" layer="KITCHEN 2">
+		<mesh name="Mesh_023"/>
+		<Transform tx="715.685059" ty="-752.189514" tz="87.500015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="bank_1" layer="KITCHEN 2">
+		<mesh name="Mesh_135"/>
+		<Transform tx="715.419189" ty="-444.407745" tz="185.000015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="shaker_3" layer="KITCHEN 2">
+		<mesh name="Mesh_031"/>
+		<Transform tx="715.419189" ty="-659.164490" tz="87.500015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.000353" sy="0.000353" sz="0.000353"/>
+	</ActorMesh>
+	<ActorMesh name="shaker_2" layer="KITCHEN 2">
+		<mesh name="Mesh_032"/>
+		<Transform tx="715.419189" ty="-652.963379" tz="87.500015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.000353" sy="0.000353" sz="0.000353"/>
+	</ActorMesh>
+	<ActorMesh name="shaker_1" layer="KITCHEN 2">
+		<mesh name="Mesh_033"/>
+		<Transform tx="715.419189" ty="-646.762329" tz="87.500015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.000353" sy="0.000353" sz="0.000353"/>
+	</ActorMesh>
+	<ActorMesh name="bank_3" layer="KITCHEN 2">
+		<mesh name="Mesh_146"/>
+		<Transform tx="715.419189" ty="-483.189575" tz="185.000015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="bank_6_001" layer="KITCHEN 2">
+		<mesh name="Mesh_038"/>
+		<Transform tx="715.419189" ty="-674.189575" tz="87.500015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="kofe" layer="KITCHEN 2">
+		<mesh name="Mesh_039"/>
+		<Transform tx="715.419189" ty="-687.189575" tz="87.520004" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.000995" sy="0.000995" sz="0.000995"/>
+	</ActorMesh>
+	<ActorMesh name="beans" layer="KITCHEN 2">
+		<mesh name="Mesh_040"/>
+		<Transform tx="715.419189" ty="-674.189575" tz="87.520004" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.000995" sy="0.000995" sz="0.000995"/>
+	</ActorMesh>
+	<ActorMesh name="hob_handle_4" layer="KITCHEN 2">
+		<mesh name="Mesh_041"/>
+		<Transform tx="675.419067" ty="-611.689575" tz="87.100006" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="hob_handle_3" layer="KITCHEN 2">
+		<mesh name="Mesh_042"/>
+		<Transform tx="675.419067" ty="-602.189514" tz="88.375793" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="hob_handle_2" layer="KITCHEN 2">
+		<mesh name="Mesh_043"/>
+		<Transform tx="676.593994" ty="-602.189514" tz="88.530006" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="main_kitchen" layer="KITCHEN 2">
+		<mesh name="Mesh_050"/>
+		<Transform tx="670.419128" ty="-602.189575" tz="137.500107" qw="0.500000" qx="-0.500000" qy="-0.500000" qz="0.500000" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="kitchen_hood4" layer="KITCHEN 2">
+		<mesh name="kitchen_hood4__Mesh_051"/>
+		<Transform tx="712.769165" ty="-467.351379" tz="222.431854" qw="0.707107" qx="0.707107" qy="0.000000" qz="0.000000" sx="-0.001000" sy="-0.001000" sz="-0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="left_fasade" layer="KITCHEN 2">
+		<mesh name="Mesh_052"/>
+		<Transform tx="670.419128" ty="-800.739563" tz="47.750057" qw="0.500000" qx="0.500000" qy="0.500000" qz="0.500000" sx="-0.001000" sy="-0.001000" sz="-0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="lower_fasade" layer="KITCHEN 2">
+		<mesh name="Mesh_054"/>
+		<Transform tx="670.419128" ty="-741.439514" tz="47.750057" qw="0.500000" qx="0.500000" qy="0.500000" qz="0.500000" sx="-0.001000" sy="-0.001000" sz="-0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="glass" layer="KITCHEN 2">
+		<mesh name="Mesh_055"/>
+		<Transform tx="700.416382" ty="-602.189514" tz="6.815565" qw="0.000000" qx="-0.707107" qy="-0.707107" qz="0.000000" sx="-0.001000" sy="-0.001000" sz="-0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="wood" layer="KITCHEN 2">
+		<mesh name="Mesh_056"/>
+		<Transform tx="700.416382" ty="-602.189514" tz="46.815556" qw="0.000000" qx="-0.707107" qy="-0.707107" qz="0.000000" sx="-0.001000" sy="-0.001000" sz="-0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="marble_wall" layer="KITCHEN 2">
+		<mesh name="Mesh_057"/>
+		<Transform tx="730.419373" ty="-602.189514" tz="136.875031" qw="0.500000" qx="-0.500000" qy="-0.500000" qz="0.500000" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="fasade_with_glass" layer="KITCHEN 2">
+		<mesh name="fasade_with_glass__Mesh_058"/>
+		<Transform tx="700.419067" ty="-708.939575" tz="179.949997" qw="0.500000" qx="0.500000" qy="0.500000" qz="0.500000" sx="-0.001000" sy="-0.001000" sz="-0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="upper_fasade" layer="KITCHEN 2">
+		<mesh name="Mesh_059"/>
+		<Transform tx="700.419067" ty="-713.739563" tz="235.750107" qw="0.500000" qx="0.500000" qy="0.500000" qz="0.500000" sx="-0.001000" sy="-0.001000" sz="-0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="oven_handle_2" layer="KITCHEN 2">
+		<mesh name="Mesh_062"/>
+		<Transform tx="671.363647" ty="-816.189575" tz="118.000008" qw="0.500000" qx="-0.500000" qy="-0.500000" qz="0.500000" sx="0.001270" sy="0.001270" sz="0.001270"/>
+	</ActorMesh>
+	<ActorMesh name="oven_glass" layer="KITCHEN 2">
+		<mesh name="Mesh_063"/>
+		<Transform tx="670.440125" ty="-801.189514" tz="118.000008" qw="0.500000" qx="-0.500000" qy="-0.500000" qz="0.500000" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="oven" layer="KITCHEN 2">
+		<mesh name="Mesh_064"/>
+		<Transform tx="723.940491" ty="-801.189514" tz="87.500015" qw="0.500000" qx="0.500000" qy="-0.500000" qz="-0.500000" sx="-0.001000" sy="-0.001000" sz="-0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="oven_inside" layer="KITCHEN 2">
+		<mesh name="Mesh_065"/>
+		<Transform tx="701.210571" ty="-824.097656" tz="75.000015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="oven_inside2" layer="KITCHEN 2">
+		<mesh name="Mesh_066"/>
+		<Transform tx="698.140137" ty="-801.189514" tz="85.275009" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="oven_fasade_2" layer="KITCHEN 2">
+		<mesh name="Mesh_067"/>
+		<Transform tx="670.440125" ty="-801.189514" tz="118.000008" qw="0.500000" qx="-0.500000" qy="-0.500000" qz="0.500000" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="oven_handle" layer="KITCHEN 2">
+		<mesh name="Mesh_068"/>
+		<Transform tx="668.940186" ty="-779.189575" tz="108.000008" qw="0.000000" qx="-0.000000" qy="0.707107" qz="-0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="oven_fasade_1" layer="KITCHEN 2">
+		<mesh name="Mesh_069"/>
+		<Transform tx="670.440125" ty="-801.189514" tz="94.000008" qw="0.500000" qx="-0.500000" qy="-0.500000" qz="0.500000" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="hob_clock" layer="KITCHEN 2">
+		<mesh name="Mesh_070"/>
+		<Transform tx="670.488953" ty="-801.189453" tz="120.000008" qw="0.500000" qx="-0.500000" qy="-0.500000" qz="0.500000" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="hobe_control" layer="KITCHEN 2">
+		<mesh name="Mesh_071"/>
+		<Transform tx="670.488525" ty="-804.189575" tz="115.500008" qw="0.270598" qx="-0.653281" qy="-0.270598" qz="0.653282" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="oven_11" layer="KITCHEN 2">
+		<mesh name="Mesh_072"/>
+		<Transform tx="670.419128" ty="-786.189575" tz="121.658600" qw="0.500000" qx="-0.500000" qy="-0.500000" qz="0.500000" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="bowl" layer="KITCHEN 2">
+		<mesh name="Mesh_149"/>
+		<Transform tx="716.419006" ty="-751.189575" tz="148.999985" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="plate_11" layer="KITCHEN 2">
+		<mesh name="Mesh_074"/>
+		<Transform tx="715.419189" ty="-714.451599" tz="149.000015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="plate" layer="KITCHEN 2">
+		<mesh name="Mesh_077"/>
+		<Transform tx="718.419067" ty="-752.189514" tz="185.000015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="plate018" layer="KITCHEN 2">
+		<mesh name="Mesh_078"/>
+		<Transform tx="716.811157" ty="-718.547424" tz="185.000015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="plate029" layer="KITCHEN 2">
+		<mesh name="Mesh_079"/>
+		<Transform tx="716.811157" ty="-718.547424" tz="194.989944" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.000764" sy="0.000764" sz="0.000764"/>
+	</ActorMesh>
+	<ActorMesh name="plate053" layer="KITCHEN 2">
+		<mesh name="Mesh_083"/>
+		<Transform tx="715.419189" ty="-484.654663" tz="149.000015" qw="0.999990" qx="-0.000000" qy="0.000000" qz="-0.004363" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="KITCHEN_LAMP_" layer="KITCHEN 2">
+		<mesh name="Mesh_060"/>
+		<Transform tx="727.919189" ty="-547.189575" tz="141.750000" qw="0.000000" qx="-0.000000" qy="-0.707107" qz="0.707107" sx="-0.001000" sy="-0.001000" sz="-0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="bank_1_001" layer="KITCHEN 2">
+		<mesh name="Mesh_029"/>
+		<Transform tx="715.419189" ty="-457.452545" tz="185.000015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="bank_3_001" layer="KITCHEN 2">
+		<mesh name="Mesh_147"/>
+		<Transform tx="715.419189" ty="-496.683899" tz="185.000015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="bank_3_002" layer="KITCHEN 2">
+		<mesh name="Mesh_148"/>
+		<Transform tx="715.419189" ty="-515.354126" tz="185.000015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="bank_3_003" layer="KITCHEN 2">
+		<mesh name="Mesh_037"/>
+		<Transform tx="715.419189" ty="-528.891174" tz="185.000015" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="bowl_001" layer="KITCHEN 2">
+		<mesh name="Mesh_150"/>
+		<Transform tx="716.419006" ty="-675.544434" tz="148.999985" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="bowl_002" layer="KITCHEN 2">
+		<mesh name="Mesh_151"/>
+		<Transform tx="716.419006" ty="-447.727020" tz="148.999985" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="bowl_003" layer="KITCHEN 2">
+		<mesh name="Mesh_073"/>
+		<Transform tx="716.419006" ty="-505.753662" tz="148.999985" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="Windows_004" layer="KITCHEN WINDOW AND DOOR">
+		<mesh name="Plane_003"/>
+		<Transform tx="240.315414" ty="-957.317261" tz="120.266106" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.429944" sy="1.383984" sz="1.354314"/>
+		<children visible="True">
+			<ActorMesh name="Window_Frame_003" layer="KITCHEN WINDOW AND DOOR">
+				<mesh name="Plane_037"/>
+				<Transform tx="240.315414" ty="-954.326538" tz="119.833908" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.199845" sy="1.161281" sz="1.136385"/>
+			</ActorMesh>
+		</children>
+	</ActorMesh>
+	<ActorMesh name="Sliding_Door" layer="KITCHEN WINDOW AND DOOR">
+		<mesh name="Plane_031"/>
+		<Transform tx="284.650513" ty="-954.250916" tz="102.031616" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="2.279705" sy="2.206434" sz="2.159132"/>
+		<children visible="True">
+			<ActorMesh name="BILLSBRO_HANDLE_120MM_002" layer="KITCHEN WINDOW AND DOOR">
+				<mesh name="Plane_020"/>
+				<Transform tx="242.898895" ty="-951.527283" tz="96.755562" qw="0.500000" qx="-0.500000" qy="0.500000" qz="0.500000" sx="1.477301" sy="1.559798" sz="1.056766"/>
+			</ActorMesh>
+			<ActorMesh name="Sliding_Door_Frame" layer="KITCHEN WINDOW AND DOOR">
+				<mesh name="Plane_027"/>
+				<Transform tx="284.650543" ty="-954.250977" tz="102.027420" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="2.279705" sy="2.206434" sz="2.159132"/>
+			</ActorMesh>
+		</children>
+	</ActorMesh>
+	<ActorMesh name="Sliding_Door_001" layer="KITCHEN WINDOW AND DOOR">
+		<mesh name="Plane_006"/>
+		<Transform tx="196.212311" ty="-954.250916" tz="102.031616" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="2.279705" sy="2.206434" sz="2.159132"/>
+		<children visible="True">
+			<ActorMesh name="BILLSBRO_HANDLE_120MM_001" layer="KITCHEN WINDOW AND DOOR">
+				<mesh name="Plane_011"/>
+				<Transform tx="237.963959" ty="-951.548889" tz="96.755562" qw="0.500000" qx="-0.500000" qy="0.500000" qz="0.500000" sx="1.477301" sy="1.559798" sz="1.056766"/>
+			</ActorMesh>
+			<ActorMesh name="Sliding_Door_Frame_001" layer="KITCHEN WINDOW AND DOOR">
+				<mesh name="Plane_009"/>
+				<Transform tx="196.212341" ty="-954.250977" tz="102.027420" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="2.279705" sy="2.206434" sz="2.159132"/>
+			</ActorMesh>
+		</children>
+	</ActorMesh>
+	<Actor name="Wooden_pendant_light" layer="KITCHEN LIGHTS">
+		<Transform tx="272.916748" ty="-603.390381" tz="291.424042" qw="0.000000" qx="0.000000" qy="-1.000000" qz="0.000000" sx="0.845000" sy="0.845000" sz="0.845000"/>
+		<children visible="True">
+			<ActorMesh name="BezierCurve_002" layer="KITCHEN LIGHTS">
+				<mesh name="Mesh_048"/>
+				<Transform tx="269.916748" ty="-603.390442" tz="218.158005" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="-1.000000" sx="1.098500" sy="1.098500" sz="1.098500"/>
+			</ActorMesh>
+			<ActorMesh name="BezierCurve_003" layer="KITCHEN LIGHTS">
+				<mesh name="Mesh_047"/>
+				<Transform tx="332.916748" ty="-603.390442" tz="218.158005" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="-1.000000" sx="1.098500" sy="1.098500" sz="1.098500"/>
+			</ActorMesh>
+			<ActorMesh name="BezierCurve_004" layer="KITCHEN LIGHTS">
+				<mesh name="Mesh_049"/>
+				<Transform tx="206.916763" ty="-603.390442" tz="218.157990" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="-1.000000" sx="1.098500" sy="1.098500" sz="1.098500"/>
+			</ActorMesh>
+			<ActorMesh name="cable_002" layer="KITCHEN LIGHTS">
+				<mesh name="Cylinder_006"/>
+				<Transform tx="332.917267" ty="-603.390930" tz="260.197815" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="-1.000000" sx="0.845000" sy="0.845000" sz="0.845000"/>
+			</ActorMesh>
+			<ActorMesh name="cable_003" layer="KITCHEN LIGHTS">
+				<mesh name="Cylinder_007"/>
+				<Transform tx="269.917267" ty="-603.390930" tz="260.197784" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="-1.000000" sx="0.845000" sy="0.845000" sz="0.845000"/>
+			</ActorMesh>
+			<ActorMesh name="cable_004" layer="KITCHEN LIGHTS">
+				<mesh name="Cylinder_012"/>
+				<Transform tx="206.917282" ty="-603.390930" tz="260.197754" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="-1.000000" sx="0.845000" sy="0.845000" sz="0.845000"/>
+			</ActorMesh>
+			<ActorMesh name="Circle_020" layer="KITCHEN LIGHTS">
+				<mesh name="Circle_025"/>
+				<Transform tx="332.916748" ty="-603.390442" tz="229.141266" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="-1.000000" sx="0.988650" sy="0.988650" sz="1.098500"/>
+			</ActorMesh>
+			<ActorMesh name="Circle_021" layer="KITCHEN LIGHTS">
+				<mesh name="Circle_012"/>
+				<Transform tx="332.916718" ty="-603.390442" tz="207.265503" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="-1.000000" sx="1.052631" sy="1.052631" sz="1.098500"/>
+			</ActorMesh>
+			<ActorMesh name="Circle_022" layer="KITCHEN LIGHTS">
+				<mesh name="Circle_016"/>
+				<Transform tx="269.916748" ty="-603.390442" tz="229.141235" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="-1.000000" sx="0.988650" sy="0.988650" sz="1.098500"/>
+			</ActorMesh>
+			<ActorMesh name="Circle_023" layer="KITCHEN LIGHTS">
+				<mesh name="Circle_015"/>
+				<Transform tx="269.916687" ty="-603.390442" tz="207.265503" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="-1.000000" sx="1.052631" sy="1.052631" sz="1.098500"/>
+			</ActorMesh>
+			<ActorMesh name="Circle_024" layer="KITCHEN LIGHTS">
+				<mesh name="Circle_018"/>
+				<Transform tx="206.916763" ty="-603.390442" tz="229.141190" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="-1.000000" sx="0.988650" sy="0.988650" sz="1.098500"/>
+			</ActorMesh>
+			<ActorMesh name="Circle_025" layer="KITCHEN LIGHTS">
+				<mesh name="Circle_027"/>
+				<Transform tx="206.916718" ty="-603.390442" tz="207.265472" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="-1.000000" sx="1.052631" sy="1.052631" sz="1.098500"/>
+			</ActorMesh>
+			<ActorMesh name="Light_bulb_001" layer="KITCHEN LIGHTS">
+				<mesh name="Cylinder_008"/>
+				<Transform tx="269.914886" ty="-603.390442" tz="254.677246" qw="0.000000" qx="0.000000" qy="-1.000000" qz="0.000000" sx="1.098500" sy="1.098500" sz="1.098500"/>
+			</ActorMesh>
+			<ActorMesh name="Light_bulb_003" layer="KITCHEN LIGHTS">
+				<mesh name="Cylinder_024"/>
+				<Transform tx="332.914886" ty="-603.390442" tz="254.677292" qw="0.000000" qx="0.000000" qy="-1.000000" qz="0.000000" sx="1.098500" sy="1.098500" sz="1.098500"/>
+			</ActorMesh>
+			<ActorMesh name="Light_bulb_004" layer="KITCHEN LIGHTS">
+				<mesh name="Cylinder_010"/>
+				<Transform tx="206.914902" ty="-603.390442" tz="254.677246" qw="0.000000" qx="0.000000" qy="-1.000000" qz="0.000000" sx="1.098500" sy="1.098500" sz="1.098500"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<ActorMesh name="Lights_Surface_Mounted_LED_005" layer="KITCHEN LIGHTS">
+		<mesh name="Cube_010"/>
+		<Transform tx="227.438736" ty="-535.596741" tz="296.043762" qw="0.000000" qx="-0.707107" qy="-0.707107" qz="0.000000" sx="1.100000" sy="1.100000" sz="1.000000"/>
+	</ActorMesh>
+	<ActorMesh name="pedant_light_1" layer="PENDANT">
+		<mesh name="Mesh_044"/>
+		<Transform tx="269.880615" ty="-652.189514" tz="290.000000" qw="0.923880" qx="0.000000" qy="0.000000" qz="0.382683" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<ActorMesh name="pedant_light_002" layer="PENDANT">
+		<mesh name="Mesh_045"/>
+		<Transform tx="269.880615" ty="-552.189514" tz="290.000000" qw="0.923880" qx="0.000000" qy="0.000000" qz="0.382683" sx="0.001000" sy="0.001000" sz="0.001000"/>
+	</ActorMesh>
+	<Actor name="Square_bowl_gold_stripe" layer="FRUIT BOWL">
+		<Transform tx="277.705902" ty="-646.695679" tz="91.520844" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="1.000000" sx="1.260000" sy="1.260000" sz="1.260000"/>
+		<children visible="True">
+			<ActorMesh name="Bowl" layer="FRUIT BOWL">
+				<mesh name="Cube_001"/>
+				<Transform tx="277.705902" ty="-646.695679" tz="96.047325" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="1.000000" sx="1.260000" sy="1.260000" sz="1.260000"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Fuji_Apple" layer="FRUIT BOWL">
+		<Transform tx="271.167694" ty="-644.233521" tz="93.041977" qw="0.598221" qx="-0.378593" qy="0.377685" qz="-0.596786" sx="1.000000" sy="1.000000" sz="1.000000"/>
+		<children visible="True">
+			<ActorMesh name="Apple" layer="FRUIT BOWL">
+				<mesh name="Mesh_030"/>
+				<Transform tx="274.528870" ty="-644.248779" tz="96.068863" qw="0.598221" qx="-0.378593" qy="0.377685" qz="-0.596786" sx="1.000000" sy="1.000000" sz="1.000000"/>
+			</ActorMesh>
+			<ActorMesh name="Apple_003" layer="FRUIT BOWL">
+				<mesh name="Mesh_046"/>
+				<Transform tx="278.326050" ty="-647.975769" tz="101.289978" qw="0.702229" qx="-0.087391" qy="0.085956" qz="-0.701319" sx="0.720000" sy="0.720000" sz="0.720000"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Food_Pomegranate_01" layer="FRUIT BOWL">
+		<Transform tx="272.469269" ty="-654.001282" tz="98.640083" qw="0.972550" qx="-0.232694" qy="-0.000002" qz="0.000001" sx="0.770000" sy="0.770000" sz="0.770000"/>
+		<children visible="True">
+			<ActorMesh name="food_pomegranate_01" layer="FRUIT BOWL">
+				<mesh name="pomegranate_50k_uv_001"/>
+				<Transform tx="272.268921" ty="-651.983093" tz="101.396706" qw="0.972550" qx="-0.232694" qy="-0.000002" qz="0.000001" sx="0.770000" sy="0.770000" sz="0.770000"/>
+			</ActorMesh>
+			<ActorMesh name="food_pomegranate_01_001" layer="FRUIT BOWL">
+				<mesh name="pomegranate_50k_uv_002"/>
+				<Transform tx="281.798737" ty="-642.704895" tz="97.727348" qw="0.849565" qx="0.390649" qy="-0.148080" qz="-0.322034" sx="0.745360" sy="0.745360" sz="0.745360"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Orange_set" layer="FRUIT BOWL">
+		<Transform tx="274.587952" ty="-638.746643" tz="98.450783" qw="0.498942" qx="-0.000000" qy="0.000000" qz="-0.866636" sx="0.100699" sy="0.100699" sz="0.100699"/>
+		<children visible="True">
+			<ActorMesh name="orange_001" layer="FRUIT BOWL">
+				<mesh name="Cube_009"/>
+				<Transform tx="283.679108" ty="-652.568176" tz="100.630173" qw="0.224964" qx="-0.445347" qy="-0.773545" qz="-0.390750" sx="1.056000" sy="1.056000" sz="1.056000"/>
+			</ActorMesh>
+			<ActorMesh name="orange_002" layer="FRUIT BOWL">
+				<mesh name="Cube_110"/>
+				<Transform tx="271.035675" ty="-639.797607" tz="102.163605" qw="0.498942" qx="-0.000000" qy="0.000000" qz="-0.866636" sx="0.960000" sy="0.960000" sz="0.960000"/>
+				<children visible="True">
+					<ActorMesh name="leaf_1_001" layer="FRUIT BOWL">
+						<mesh name="Plane_018"/>
+						<Transform tx="273.521820" ty="-640.291992" tz="105.331169" qw="0.498942" qx="-0.000000" qy="0.000000" qz="-0.866636" sx="0.960000" sy="0.960000" sz="0.960001"/>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<ActorMesh name="Lamed_Chair_" layer="Lamed Chair">
+		<mesh name="Lamed_Chair_"/>
+		<Transform tx="146.921295" ty="-470.713715" tz="0.000000" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.237718" sy="1.237718" sz="1.237718"/>
+	</ActorMesh>
+	<ActorMesh name="Lamed_Chair__001" layer="Lamed Chair">
+		<mesh name="Lamed_Chair_"/>
+		<Transform tx="146.921295" ty="-606.033691" tz="0.000000" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.237718" sy="1.237718" sz="1.237718"/>
+	</ActorMesh>
+	<ActorMesh name="Lamed_Chair__002" layer="Lamed Chair">
+		<mesh name="Lamed_Chair_"/>
+		<Transform tx="146.921295" ty="-740.607422" tz="0.000000" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.237718" sy="1.237718" sz="1.237718"/>
+	</ActorMesh>
+	<Actor name="Simple_Mug" layer="CUTLERRY SETS">
+		<Transform tx="281.044678" ty="-615.533691" tz="90.386726" qw="0.130526" qx="0.000000" qy="0.000000" qz="0.991445" sx="1.126442" sy="1.126442" sz="1.126442"/>
+		<children visible="True">
+			<ActorMesh name="Cylinder_001" layer="CUTLERRY SETS">
+				<mesh name="Cylinder_001__Cylinder_005"/>
+				<Transform tx="279.870697" ty="-615.219177" tz="97.194328" qw="0.130526" qx="0.000000" qy="0.000000" qz="0.991445" sx="1.126442" sy="1.126442" sz="1.126442"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Napkin_Holder" layer="CUTLERRY SETS">
+		<Transform tx="716.046753" ty="-712.319275" tz="85.990265" qw="1.000000" qx="0.000000" qy="-0.000000" qz="-0.000000" sx="1.457955" sy="1.457955" sz="1.457955"/>
+		<children visible="True">
+			<ActorMesh name="HAND_KERCHIEF" layer="CUTLERRY SETS">
+				<mesh name="DS__________002"/>
+				<Transform tx="716.179688" ty="-707.580872" tz="87.341797" qw="1.000000" qx="0.000000" qy="-0.000000" qz="-0.000000" sx="1.457955" sy="1.457955" sz="1.457955"/>
+			</ActorMesh>
+			<ActorMesh name="HANDKERCHIEF_HOLDER" layer="CUTLERRY SETS">
+				<mesh name="DS__________004"/>
+				<Transform tx="716.046753" ty="-712.319275" tz="89.270660" qw="1.000000" qx="0.000000" qy="-0.000000" qz="-0.000000" sx="1.457955" sy="1.457955" sz="1.457955"/>
+			</ActorMesh>
+			<ActorMesh name="Pepper" layer="CUTLERRY SETS">
+				<mesh name="Mesh_329"/>
+				<Transform tx="720.785156" ty="-721.795959" tz="91.740097" qw="0.000000" qx="0.216440" qy="-0.976296" qz="-0.000000" sx="0.000573" sy="0.000573" sz="0.000573"/>
+				<children visible="True">
+					<ActorMesh name="Object016" layer="CUTLERRY SETS">
+						<mesh name="Mesh_327"/>
+						<Transform tx="720.785034" ty="-721.796082" tz="98.635193" qw="0.000000" qx="0.537299" qy="0.843392" qz="0.000000" sx="3.061706" sy="3.061706" sz="3.061706"/>
+					</ActorMesh>
+					<ActorMesh name="pepper" layer="CUTLERRY SETS">
+						<mesh name="Mesh_328"/>
+						<Transform tx="720.785034" ty="-721.796082" tz="90.141754" qw="0.000000" qx="0.216440" qy="-0.976296" qz="-0.000000" sx="0.000573" sy="0.000573" sz="0.000573"/>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+			<ActorMesh name="Salt" layer="CUTLERRY SETS">
+				<mesh name="Mesh_324"/>
+				<Transform tx="711.308411" ty="-721.795959" tz="91.740097" qw="0.000000" qx="0.216440" qy="-0.976296" qz="-0.000000" sx="0.000573" sy="0.000573" sz="0.000573"/>
+				<children visible="True">
+					<ActorMesh name="Object013" layer="CUTLERRY SETS">
+						<mesh name="Mesh_323"/>
+						<Transform tx="711.308411" ty="-721.796021" tz="98.635193" qw="0.000000" qx="0.537299" qy="0.843392" qz="0.000000" sx="3.061706" sy="3.061706" sz="3.061706"/>
+					</ActorMesh>
+					<ActorMesh name="Object014" layer="CUTLERRY SETS">
+						<mesh name="Mesh_325"/>
+						<Transform tx="711.308350" ty="-721.795959" tz="90.497353" qw="0.000000" qx="0.216440" qy="-0.976296" qz="-0.000000" sx="0.000573" sy="0.000573" sz="0.000573"/>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<ActorMesh name="Vase" layer="PLANT">
+		<mesh name="BezierCurve_001"/>
+		<Transform tx="263.976776" ty="-536.790649" tz="103.598213" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="1.000000" sx="0.540000" sy="0.540000" sz="0.540000"/>
+		<children visible="True">
+			<ActorMesh name="twig_fluffy" layer="PLANT">
+				<mesh name="twig_fluffy__twig_fluffy_002"/>
+				<Transform tx="269.735596" ty="-533.805542" tz="115.894547" qw="0.964972" qx="-0.084424" qy="0.021649" qz="0.247451" sx="1.000000" sy="1.000000" sz="1.000000"/>
+			</ActorMesh>
+			<ActorMesh name="twig_fluffy_001" layer="PLANT">
+				<mesh name="twig_fluffy_001__twig_fluffy_003"/>
+				<Transform tx="260.981018" ty="-538.528503" tz="110.709633" qw="0.226382" qx="-0.058878" qy="0.064261" qz="-0.970132" sx="0.700000" sy="0.700000" sz="0.700000"/>
+			</ActorMesh>
+		</children>
+	</ActorMesh>
+	<Actor name="Succulent_Plant" layer="PLANT">
+		<Transform tx="681.964050" ty="-763.113953" tz="88.810661" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.100000" sy="1.100000" sz="1.100000"/>
+		<children visible="True">
+			<ActorMesh name="G_cactus_gasteria_1" layer="PLANT">
+				<mesh name="G_cactus_gasteria_1_001"/>
+				<Transform tx="682.180115" ty="-763.102844" tz="97.082664" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="1.100000" sy="1.100000" sz="1.100000"/>
+			</ActorMesh>
+			<ActorMesh name="G_cactus_gasteria_1_001" layer="PLANT">
+				<mesh name="G_cactus_gasteria_1_001__G_cactus_gasteria_1"/>
+				<Transform tx="-377.635803" ty="-24.492073" tz="118.232170" qw="0.000000" qx="0.000000" qy="0.000000" qz="1.000000" sx="2.262602" sy="2.262602" sz="2.262602"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<ActorMesh name="Vase_001" layer="PLANT">
+		<mesh name="BezierCurve_003"/>
+		<Transform tx="-372.434479" ty="-190.957504" tz="112.286819" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="1.000000" sx="0.540000" sy="0.540000" sz="0.540000"/>
+		<children visible="True">
+			<ActorMesh name="twig_fluffy_002" layer="PLANT">
+				<mesh name="twig_fluffy_002__twig_fluffy_002"/>
+				<Transform tx="-366.675659" ty="-187.972366" tz="124.583145" qw="0.964972" qx="-0.084424" qy="0.021649" qz="0.247451" sx="1.000000" sy="1.000000" sz="1.000000"/>
+			</ActorMesh>
+			<ActorMesh name="twig_fluffy_003" layer="PLANT">
+				<mesh name="twig_fluffy_003__twig_fluffy_003"/>
+				<Transform tx="-375.430237" ty="-192.695312" tz="119.398239" qw="0.226382" qx="-0.058878" qy="0.064261" qz="-0.970132" sx="0.700000" sy="0.700000" sz="0.700000"/>
+			</ActorMesh>
+		</children>
+	</ActorMesh>
+	<ActorMesh name="_Screen_panel" layer="FRIDGE">
+		<mesh name="Mesh_443"/>
+		<Transform tx="631.536682" ty="-337.975677" tz="167.493484" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001385" sy="0.001385" sz="0.001385"/>
+	</ActorMesh>
+	<ActorMesh name="_Glass_panel" layer="FRIDGE">
+		<mesh name="Mesh_444"/>
+		<Transform tx="631.266235" ty="-337.975677" tz="167.493484" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001385" sy="0.001385" sz="0.001385"/>
+	</ActorMesh>
+	<ActorMesh name="Box2131637688" layer="FRIDGE">
+		<mesh name="Mesh_445"/>
+		<Transform tx="685.846130" ty="-367.967010" tz="0.081229" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001385" sy="0.001385" sz="0.001385"/>
+	</ActorMesh>
+	<ActorMesh name="Box2131637685" layer="FRIDGE">
+		<mesh name="Mesh_446"/>
+		<Transform tx="634.223755" ty="-306.045135" tz="126.141296" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="0.001385" sy="0.001385" sz="0.001385"/>
+	</ActorMesh>
+	<Environment name="world_environment_background" label="world_environment_background">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="0"/>
+	</Environment>
+	<Environment name="world_environment_lighting" label="world_environment_lighting">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="1"/>
+	</Environment>
+	<StaticMesh label="Object_1" name="Object_1">
+		<Material id="0" name="Chestnut_[imported]"/>
+		<file path="KITCHEN_Assets/Object_1.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4532b683e88e52d6fcd543a36c309a2c"/>
+	</StaticMesh>
+	<StaticMesh label="SMART_COOKER__Plane" name="SMART_COOKER__Plane">
+		<Material id="0" name="Hobs"/>
+		<file path="KITCHEN_Assets/SMART_COOKER__Plane.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="605503727044ce0e34a9ee3825dfe043"/>
+	</StaticMesh>
+	<StaticMesh label="KITCHEN_TABLE_CABINET__Cube_002" name="KITCHEN_TABLE_CABINET__Cube_002">
+		<Material id="0" name="Steel"/>
+		<Material id="1" name="Metal2"/>
+		<Material id="2" name="Wood"/>
+		<file path="KITCHEN_Assets/KITCHEN_TABLE_CABINET__Cube_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d5d42d6e386c48c058c6e48f027da521"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_003" name="Mesh_003">
+		<Material id="0" name="marble_wall"/>
+		<file path="KITCHEN_Assets/Mesh_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="65291a91f20861024de15d806485a6a2"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_004" name="Mesh_004">
+		<Material id="0" name="metall"/>
+		<file path="KITCHEN_Assets/Mesh_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="01c71e85b31da2a7cd8f1bff3cc81cad"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_006" name="Mesh_006">
+		<Material id="0" name="Metall"/>
+		<Material id="1" name="lattice"/>
+		<Material id="2" name="lamp"/>
+		<file path="KITCHEN_Assets/Mesh_006.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="516ff169fd8f909ca2bdcc03eae96f0b"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_007" name="Mesh_007">
+		<Material id="0" name="metall_2"/>
+		<file path="KITCHEN_Assets/Mesh_007.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2c7a8ec6e60cedb0fe9adf187ce93989"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_011" name="Mesh_011">
+		<Material id="0" name="metall_1"/>
+		<file path="KITCHEN_Assets/Mesh_011.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="079a426910672860f6b4f99d23b8c354"/>
+	</StaticMesh>
+	<StaticMesh label="hob__Mesh_012" name="hob__Mesh_012">
+		<Material id="0" name="hob"/>
+		<file path="KITCHEN_Assets/hob__Mesh_012.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9edc8a8c9d1c82d6f7b3f1ac1f3b981b"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_013" name="Mesh_013">
+		<Material id="0" name="burner"/>
+		<file path="KITCHEN_Assets/Mesh_013.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ad3d87a4ff9124bf3d9c8bb64f05d500"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_014" name="Mesh_014">
+		<Material id="0" name="burner"/>
+		<file path="KITCHEN_Assets/Mesh_014.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="562f84a0314fe8fc496f47602398f034"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_015" name="Mesh_015">
+		<Material id="0" name="burner"/>
+		<file path="KITCHEN_Assets/Mesh_015.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a72bb01dc1a07f667ffc0a531b81dbf8"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_016" name="Mesh_016">
+		<Material id="0" name="hob"/>
+		<file path="KITCHEN_Assets/Mesh_016.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="424c7c104b771d2f6004b6a2c9570d86"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_017" name="Mesh_017">
+		<Material id="0" name="hob_handle"/>
+		<file path="KITCHEN_Assets/Mesh_017.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="488bef5b65bba9ce141d8372de202cf3"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_018" name="Mesh_018">
+		<Material id="0" name="mixer"/>
+		<file path="KITCHEN_Assets/Mesh_018.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dc5ef31ef5bd26c569d66457ea07b3be"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_019" name="Mesh_019">
+		<Material id="0" name="mixer"/>
+		<file path="KITCHEN_Assets/Mesh_019.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="60f24845ac1646827c661cd96988e3be"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_020" name="Mesh_020">
+		<Material id="0" name="mixer_3_pla"/>
+		<file path="KITCHEN_Assets/Mesh_020.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3839a48d6b572f41f040f5fded681d9f"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_021" name="Mesh_021">
+		<Material id="0" name="mixer"/>
+		<file path="KITCHEN_Assets/Mesh_021.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5d204d838c1e11fd25d3d7cef7dd65c5"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_022" name="Mesh_022">
+		<Material id="0" name="metall_1"/>
+		<file path="KITCHEN_Assets/Mesh_022.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6b6c56c43b95f855434e43b214652c5d"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_023" name="Mesh_023">
+		<Material id="0" name="ceramics_glossy_1"/>
+		<Material id="1" name="ceramics_glossy_2"/>
+		<file path="KITCHEN_Assets/Mesh_023.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bc40ac92ba3380edadc43d71a0a09fa7"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_135" name="Mesh_135">
+		<Material id="0" name="ceramics_matte_3"/>
+		<Material id="1" name="ceramics_matte_5"/>
+		<file path="KITCHEN_Assets/Mesh_135.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="add933ec0625a049336a9efcc03948a1"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_031" name="Mesh_031">
+		<Material id="0" name="ceramics_glossy_3"/>
+		<Material id="1" name="ceramics_glossy_1"/>
+		<file path="KITCHEN_Assets/Mesh_031.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="18bfe56074bdc98364439a5342a99cbf"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_032" name="Mesh_032">
+		<Material id="0" name="ceramics_glossy_4"/>
+		<Material id="1" name="ceramics_glossy_1"/>
+		<file path="KITCHEN_Assets/Mesh_032.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="57b0731ab00fdf1e03a4f6322d698afa"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_033" name="Mesh_033">
+		<Material id="0" name="ceramics_glossy_5"/>
+		<Material id="1" name="ceramics_glossy_1"/>
+		<file path="KITCHEN_Assets/Mesh_033.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eb4ea1719c75243bec28abbfaeca4ca2"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_146" name="Mesh_146">
+		<Material id="0" name="ceramics_matte_1"/>
+		<Material id="1" name="ceramics_matte_5"/>
+		<file path="KITCHEN_Assets/Mesh_146.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6953c330af93d9e411468e447dcee50d"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_038" name="Mesh_038">
+		<Material id="0" name="Glass_001"/>
+		<Material id="1" name="ceramics_matte_5"/>
+		<file path="KITCHEN_Assets/Mesh_038.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d8b39b9289dc8b0b12ab15d33cf238db"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_039" name="Mesh_039">
+		<Material id="0" name="kofe"/>
+		<file path="KITCHEN_Assets/Mesh_039.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="77f6789f8321feba33ced92379bbfbf3"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_040" name="Mesh_040">
+		<Material id="0" name="beans"/>
+		<file path="KITCHEN_Assets/Mesh_040.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bd9b8d87405e18b3c54a0cce5843bfca"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_041" name="Mesh_041">
+		<Material id="0" name="hob_handle"/>
+		<file path="KITCHEN_Assets/Mesh_041.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bfce649158ff4e6e6bbf229d0e0731fb"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_042" name="Mesh_042">
+		<Material id="0" name="hob_handle"/>
+		<file path="KITCHEN_Assets/Mesh_042.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8f30bc052ce594ededcfa7e28f1f88db"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_043" name="Mesh_043">
+		<Material id="0" name="mixer_3_pla"/>
+		<file path="KITCHEN_Assets/Mesh_043.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0f6f20d5cb1676785a3c70efddd6014c"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_050" name="Mesh_050">
+		<Material id="0" name="Cabinet_Wood"/>
+		<file path="KITCHEN_Assets/Mesh_050.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3510c0453a918b6c8f8b16d6e47b00a0"/>
+	</StaticMesh>
+	<StaticMesh label="kitchen_hood4__Mesh_051" name="kitchen_hood4__Mesh_051">
+		<Material id="0" name="metall_1"/>
+		<Material id="1" name="metall_2"/>
+		<file path="KITCHEN_Assets/kitchen_hood4__Mesh_051.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="13909aa21b0de300d9ab7ad1c21b71d3"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_052" name="Mesh_052">
+		<Material id="0" name="Cabinet_Wood"/>
+		<file path="KITCHEN_Assets/Mesh_052.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5bae37e695e1d471fc82ff6f45f1e1ca"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_054" name="Mesh_054">
+		<Material id="0" name="Cabinet_Wood"/>
+		<file path="KITCHEN_Assets/Mesh_054.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fa33389bd542167511a7762a5ac7ea74"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_055" name="Mesh_055">
+		<Material id="0" name="Glass_001"/>
+		<file path="KITCHEN_Assets/Mesh_055.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0b37a9fa23d738a9c967bd272061bc87"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_056" name="Mesh_056">
+		<Material id="0" name="kitchen_fasade"/>
+		<file path="KITCHEN_Assets/Mesh_056.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d0b4434ef0c11f4318b808e2a8e9ea4c"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_057" name="Mesh_057">
+		<Material id="0" name="marble_wall"/>
+		<file path="KITCHEN_Assets/Mesh_057.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="41f16f3d53bec78ab1762d25bfd8dd44"/>
+	</StaticMesh>
+	<StaticMesh label="fasade_with_glass__Mesh_058" name="fasade_with_glass__Mesh_058">
+		<Material id="0" name="Cabinet_Wood"/>
+		<Material id="1" name="Glass_001"/>
+		<file path="KITCHEN_Assets/fasade_with_glass__Mesh_058.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a8c2876ad2358bd2991f76d1ec84116c"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_059" name="Mesh_059">
+		<Material id="0" name="Cabinet_Wood"/>
+		<file path="KITCHEN_Assets/Mesh_059.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="83434d75fdae6bb24286d6ee54074fb8"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_062" name="Mesh_062">
+		<Material id="0" name="hob_handle"/>
+		<file path="KITCHEN_Assets/Mesh_062.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="06959868dfab65c8109f0b5aff6c7bf9"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_063" name="Mesh_063">
+		<Material id="0" name="hob"/>
+		<file path="KITCHEN_Assets/Mesh_063.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="818f2290b2cc6d47007839954f3307a2"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_064" name="Mesh_064">
+		<Material id="0" name="burner"/>
+		<file path="KITCHEN_Assets/Mesh_064.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="33620fc29a09fb7e75c8f236a224526b"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_065" name="Mesh_065">
+		<Material id="0" name="Metall_001"/>
+		<file path="KITCHEN_Assets/Mesh_065.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2947197f97e47d4473750c2606191f4c"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_066" name="Mesh_066">
+		<Material id="0" name="burner"/>
+		<file path="KITCHEN_Assets/Mesh_066.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cf0ab2164fd0484c8ee64ec11c52bccd"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_067" name="Mesh_067">
+		<Material id="0" name="mixer_3_pla"/>
+		<file path="KITCHEN_Assets/Mesh_067.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fc7d2cc0fe594dbc6c2eefe944a1003a"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_068" name="Mesh_068">
+		<Material id="0" name="hob_2"/>
+		<file path="KITCHEN_Assets/Mesh_068.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d5547662e20d341367b5e22b0a6bcbce"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_069" name="Mesh_069">
+		<Material id="0" name="hob_2"/>
+		<Material id="1" name="mixer_3_pla"/>
+		<Material id="2" name="Glass_002"/>
+		<Material id="3" name="burner"/>
+		<file path="KITCHEN_Assets/Mesh_069.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b6b9f216547856161091f7852c452a22"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_070" name="Mesh_070">
+		<Material id="0" name="hob_clock"/>
+		<file path="KITCHEN_Assets/Mesh_070.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="437c532d623276fd2d0d7cd246c22ef5"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_071" name="Mesh_071">
+		<Material id="0" name="hob_handle"/>
+		<file path="KITCHEN_Assets/Mesh_071.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9250a790bbbd36770637ad36f43bfb6f"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_072" name="Mesh_072">
+		<Material id="0" name="hob_handle"/>
+		<file path="KITCHEN_Assets/Mesh_072.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="754b3bb23e14bb9fc7703d971da16ad4"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_149" name="Mesh_149">
+		<Material id="0" name="ceramics_matte_1"/>
+		<file path="KITCHEN_Assets/Mesh_149.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ba848781db403862d34fdcecfb6e3e63"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_074" name="Mesh_074">
+		<Material id="0" name="ceramics_glossy_2_001"/>
+		<file path="KITCHEN_Assets/Mesh_074.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d57cc2e7d8fab90a1470ee5735111070"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_077" name="Mesh_077">
+		<Material id="0" name="ceramics_matte_1"/>
+		<file path="KITCHEN_Assets/Mesh_077.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f8127691ee0a78c9da3fd68eaa39c535"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_078" name="Mesh_078">
+		<Material id="0" name="ceramics_glossy_1"/>
+		<file path="KITCHEN_Assets/Mesh_078.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="83b2babbffd174b40765a54fcd0a190a"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_079" name="Mesh_079">
+		<Material id="0" name="ceramics_glossy_2"/>
+		<file path="KITCHEN_Assets/Mesh_079.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f7513c200587cb26b0c20ae4904cd5ea"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_083" name="Mesh_083">
+		<Material id="0" name="ceramics_matte_2"/>
+		<file path="KITCHEN_Assets/Mesh_083.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9bc7640a384b1773edb4d2fb1f21f19f"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_060" name="Mesh_060">
+		<Material id="0" name="metall_1"/>
+		<file path="KITCHEN_Assets/Mesh_060.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5343801e6ea1960259f29455c29faf3d"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_029" name="Mesh_029">
+		<Material id="0" name="ceramics_matte_3"/>
+		<Material id="1" name="ceramics_matte_5"/>
+		<file path="KITCHEN_Assets/Mesh_029.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="406f972dc38890edd1feafb6926ceb84"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_147" name="Mesh_147">
+		<Material id="0" name="ceramics_matte_1"/>
+		<Material id="1" name="ceramics_matte_5"/>
+		<file path="KITCHEN_Assets/Mesh_147.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="63f9bc552cdb0e969c14d6e412953d6a"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_148" name="Mesh_148">
+		<Material id="0" name="ceramics_matte_1"/>
+		<Material id="1" name="ceramics_matte_5"/>
+		<file path="KITCHEN_Assets/Mesh_148.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f8092d927b8ac6e410eb29aa83ce4bba"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_037" name="Mesh_037">
+		<Material id="0" name="ceramics_matte_1"/>
+		<Material id="1" name="ceramics_matte_5"/>
+		<file path="KITCHEN_Assets/Mesh_037.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a321e40d918fccc0ef682722440b3e67"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_150" name="Mesh_150">
+		<Material id="0" name="ceramics_matte_1"/>
+		<file path="KITCHEN_Assets/Mesh_150.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="92d5b806fb532c15d4c1350c940c9fce"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_151" name="Mesh_151">
+		<Material id="0" name="ceramics_matte_1"/>
+		<file path="KITCHEN_Assets/Mesh_151.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c54dc2c53c21f9905e1140a37c682082"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_073" name="Mesh_073">
+		<Material id="0" name="ceramics_matte_1"/>
+		<file path="KITCHEN_Assets/Mesh_073.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cd32523471bf0a8b4a1d2ed9f565a8c7"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_037" name="Plane_037">
+		<Material id="0" name="Black_Paint"/>
+		<file path="KITCHEN_Assets/Plane_037.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6dd3b7b9e91cea26d54462a5ba843455"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_003" name="Plane_003">
+		<Material id="0" name="Glass__Alpha_"/>
+		<file path="KITCHEN_Assets/Plane_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ef9dab0287466ae114c436be4dd61ec2"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_020" name="Plane_020">
+		<Material id="0" name="Black_Paint"/>
+		<Material id="1" name="Titanium"/>
+		<file path="KITCHEN_Assets/Plane_020.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2fa63a49c7cdfce4d8595fb8c1a0f66e"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_027" name="Plane_027">
+		<Material id="0" name="Black_Paint"/>
+		<file path="KITCHEN_Assets/Plane_027.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ae10f842bddab0702bd18e288f46bd8c"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_031" name="Plane_031">
+		<Material id="0" name="Glass__Alpha_"/>
+		<file path="KITCHEN_Assets/Plane_031.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f6e1130b3e759c259918b570dd0798e3"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_011" name="Plane_011">
+		<Material id="0" name="Black_Paint"/>
+		<Material id="1" name="Titanium"/>
+		<file path="KITCHEN_Assets/Plane_011.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e5f079d4462d2f3be81a4978f9d41840"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_009" name="Plane_009">
+		<Material id="0" name="Black_Paint"/>
+		<file path="KITCHEN_Assets/Plane_009.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="17bd67a68c752b9ec9d8ba22d135127b"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_006" name="Plane_006">
+		<Material id="0" name="Glass__Alpha_"/>
+		<file path="KITCHEN_Assets/Plane_006.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eeb000a1d9e7da0ee1e815fdf8e68a33"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_048" name="Mesh_048">
+		<Material id="0" name="Glass__Alpha_"/>
+		<file path="KITCHEN_Assets/Mesh_048.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e3aea177ba8505bfc2121232c6d19082"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_047" name="Mesh_047">
+		<Material id="0" name="Glass__Alpha_"/>
+		<file path="KITCHEN_Assets/Mesh_047.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="18edbf1e292a5ca74fa4794e149fbb67"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_049" name="Mesh_049">
+		<Material id="0" name="Glass__Alpha_"/>
+		<file path="KITCHEN_Assets/Mesh_049.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="096e1faafadf94effe9fba3089567df2"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_006" name="Cylinder_006">
+		<Material id="0" name="Rubber"/>
+		<file path="KITCHEN_Assets/Cylinder_006.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="daa0bf1190bc673cd76944d7ca152304"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_007" name="Cylinder_007">
+		<Material id="0" name="Rubber"/>
+		<file path="KITCHEN_Assets/Cylinder_007.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b81ec3bf270da5fe79714459045e9ffa"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_012" name="Cylinder_012">
+		<Material id="0" name="Rubber"/>
+		<file path="KITCHEN_Assets/Cylinder_012.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fbc5398fca060a522357f701d500ee53"/>
+	</StaticMesh>
+	<StaticMesh label="Circle_025" name="Circle_025">
+		<Material id="0" name="Gold"/>
+		<file path="KITCHEN_Assets/Circle_025.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="99672871975aa3507a9f52a24d678aed"/>
+	</StaticMesh>
+	<StaticMesh label="Circle_012" name="Circle_012">
+		<Material id="0" name="Gold"/>
+		<file path="KITCHEN_Assets/Circle_012.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d5945c92fcb04e0114181a4e1980d53b"/>
+	</StaticMesh>
+	<StaticMesh label="Circle_016" name="Circle_016">
+		<Material id="0" name="Gold"/>
+		<file path="KITCHEN_Assets/Circle_016.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="62a8edeefa4cb28babba797ba7939aa8"/>
+	</StaticMesh>
+	<StaticMesh label="Circle_015" name="Circle_015">
+		<Material id="0" name="Gold"/>
+		<file path="KITCHEN_Assets/Circle_015.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="65d7ae830d35bc54560fc5fb99f491cd"/>
+	</StaticMesh>
+	<StaticMesh label="Circle_018" name="Circle_018">
+		<Material id="0" name="Gold"/>
+		<file path="KITCHEN_Assets/Circle_018.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="05160bdb927d2986296b90f13b2d9fe8"/>
+	</StaticMesh>
+	<StaticMesh label="Circle_027" name="Circle_027">
+		<Material id="0" name="Gold"/>
+		<file path="KITCHEN_Assets/Circle_027.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c826635e784e7ec7581e746117cf3d66"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_008" name="Cylinder_008">
+		<Material id="0" name="Chrome"/>
+		<Material id="1" name="Glass__Alpha_"/>
+		<Material id="2" name="Gold"/>
+		<file path="KITCHEN_Assets/Cylinder_008.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="62b672faf40d4c4e3912fa7c2cf9f1ee"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_024" name="Cylinder_024">
+		<Material id="0" name="Chrome"/>
+		<Material id="1" name="Glass__Alpha_"/>
+		<Material id="2" name="Gold"/>
+		<file path="KITCHEN_Assets/Cylinder_024.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8bd939f914a5207ebb5f337fa3b8207e"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_010" name="Cylinder_010">
+		<Material id="0" name="Chrome"/>
+		<Material id="1" name="Glass__Alpha_"/>
+		<Material id="2" name="Gold"/>
+		<file path="KITCHEN_Assets/Cylinder_010.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="30bbf13524eddc6c5b38cb6d0c3f91ae"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_010" name="Cube_010">
+		<Material id="0" name="Chrome"/>
+		<Material id="1" name="Mate_Black_Paint"/>
+		<Material id="2" name="Emission_001"/>
+		<file path="KITCHEN_Assets/Cube_010.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="87ec975d5a0067ae8f04456a8dce5eab"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_044" name="Mesh_044">
+		<Material id="0" name="Aluminium_Black"/>
+		<Material id="1" name="wire"/>
+		<Material id="2" name="Material__2143561951"/>
+		<Material id="3" name="Material__47"/>
+		<file path="KITCHEN_Assets/Mesh_044.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d513818bc0ddaf8d4ce369746e49d613"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_045" name="Mesh_045">
+		<Material id="0" name="Aluminium_Black"/>
+		<Material id="1" name="wire"/>
+		<Material id="2" name="Material__2143561951"/>
+		<Material id="3" name="Material__47"/>
+		<file path="KITCHEN_Assets/Mesh_045.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e45aaca3e921a5d1a1fce26988a5e32d"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_001" name="Cube_001">
+		<Material id="0" name="Gold"/>
+		<Material id="1" name="Ceramic"/>
+		<file path="KITCHEN_Assets/Cube_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="008088a86e6fb1a5ade59f4f59ea1eb4"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_030" name="Mesh_030">
+		<Material id="0" name="Material_028"/>
+		<file path="KITCHEN_Assets/Mesh_030.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="40d1be893077e1ab415ad25ddd9b39ec"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_046" name="Mesh_046">
+		<Material id="0" name="Material_028"/>
+		<file path="KITCHEN_Assets/Mesh_046.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7ed6cf810a46c0b17aaf466807bb6415"/>
+	</StaticMesh>
+	<StaticMesh label="pomegranate_50k_uv_001" name="pomegranate_50k_uv_001">
+		<Material id="0" name="Material_028"/>
+		<file path="KITCHEN_Assets/pomegranate_50k_uv_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6980aba7333b8650e0f614be9d61f25e"/>
+	</StaticMesh>
+	<StaticMesh label="pomegranate_50k_uv_002" name="pomegranate_50k_uv_002">
+		<Material id="0" name="Material_028"/>
+		<file path="KITCHEN_Assets/pomegranate_50k_uv_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="da02d9bac67167d6475295bcec1eb98a"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_009" name="Cube_009">
+		<Material id="0" name="Material_028"/>
+		<file path="KITCHEN_Assets/Cube_009.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="34cced9816a2a52bf62460c387342fdd"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_018" name="Plane_018">
+		<Material id="0" name="orange_texture_002"/>
+		<file path="KITCHEN_Assets/Plane_018.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="65e0043b9050a21c8722450b24676bb8"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_110" name="Cube_110">
+		<Material id="0" name="Material_028"/>
+		<file path="KITCHEN_Assets/Cube_110.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3f9b07f73edcfd4843fc832d77af35e3"/>
+	</StaticMesh>
+	<StaticMesh label="Lamed_Chair_" name="Lamed_Chair_">
+		<Material id="0" name="Lamed_chair"/>
+		<file path="KITCHEN_Assets/Lamed_Chair_.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="78a6b4f98c0be9d59c32cd3f61067417"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_001__Cylinder_005" name="Cylinder_001__Cylinder_005">
+		<Material id="0" name="Gold"/>
+		<Material id="1" name="Ceramic"/>
+		<file path="KITCHEN_Assets/Cylinder_001__Cylinder_005.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b30a9989c1e6239d415a575bea2c4ceb"/>
+	</StaticMesh>
+	<StaticMesh label="DS__________002" name="DS__________002">
+		<Material id="0" name="TowelCotton001_1K"/>
+		<file path="KITCHEN_Assets/DS__________002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1bf7f5fb11585c74eaf6db2a9ce41dac"/>
+	</StaticMesh>
+	<StaticMesh label="DS__________004" name="DS__________004">
+		<Material id="0" name="Poliigon_WoodVeneerOak_7760_4K"/>
+		<file path="KITCHEN_Assets/DS__________004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9c8cd84fd20954ed5a6ffa5d41b3e551"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_327" name="Mesh_327">
+		<Material id="0" name="Material_027"/>
+		<file path="KITCHEN_Assets/Mesh_327.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="50278c130f125da0d75a1ccada0ecc5b"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_328" name="Mesh_328">
+		<Material id="0" name="Salt"/>
+		<file path="KITCHEN_Assets/Mesh_328.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a405e9ac7f48674e615c5b8a4f307343"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_329" name="Mesh_329">
+		<Material id="0" name="Glass__Alpha_"/>
+		<file path="KITCHEN_Assets/Mesh_329.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b80690b17c10402c99f934478da21cc2"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_323" name="Mesh_323">
+		<Material id="0" name="Material_018"/>
+		<file path="KITCHEN_Assets/Mesh_323.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ea01cf129e5a0e02a5b0eb07cdd97f14"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_325" name="Mesh_325">
+		<Material id="0" name="Salt"/>
+		<file path="KITCHEN_Assets/Mesh_325.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a229c521068277efb6e4b76fe1ac0df4"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_324" name="Mesh_324">
+		<Material id="0" name="Glass__Alpha_"/>
+		<file path="KITCHEN_Assets/Mesh_324.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d1737227d2bf42cac2ae4c7fda0bed4f"/>
+	</StaticMesh>
+	<StaticMesh label="twig_fluffy__twig_fluffy_002" name="twig_fluffy__twig_fluffy_002">
+		<Material id="0" name="flower_001"/>
+		<Material id="1" name="Branch"/>
+		<file path="KITCHEN_Assets/twig_fluffy__twig_fluffy_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="088c22fba423dfc63e8aaf1815be1406"/>
+	</StaticMesh>
+	<StaticMesh label="twig_fluffy_001__twig_fluffy_003" name="twig_fluffy_001__twig_fluffy_003">
+		<Material id="0" name="flower_001"/>
+		<Material id="1" name="Branch"/>
+		<file path="KITCHEN_Assets/twig_fluffy_001__twig_fluffy_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="50257f2106ab8f8e61bd557279577cb3"/>
+	</StaticMesh>
+	<StaticMesh label="BezierCurve_001" name="BezierCurve_001">
+		<Material id="0" name="Glass_2"/>
+		<file path="KITCHEN_Assets/BezierCurve_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0b2d0e1ed3a35fc7df9973e0b2186c96"/>
+	</StaticMesh>
+	<StaticMesh label="G_cactus_gasteria_1_001" name="G_cactus_gasteria_1_001">
+		<Material id="0" name="Pots"/>
+		<Material id="1" name="cactus_gasteria_cactus_gasteria"/>
+		<Material id="2" name="cactus_gasteria_stones"/>
+		<file path="KITCHEN_Assets/G_cactus_gasteria_1_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9544f61de61a235d7709b3340b3b197e"/>
+	</StaticMesh>
+	<StaticMesh label="G_cactus_gasteria_1_001__G_cactus_gasteria_1" name="G_cactus_gasteria_1_001__G_cactus_gasteria_1">
+		<Material id="0" name="Pots"/>
+		<Material id="1" name="cactus_gasteria_cactus_gasteria"/>
+		<Material id="2" name="cactus_gasteria_stones"/>
+		<file path="KITCHEN_Assets/G_cactus_gasteria_1_001__G_cactus_gasteria_1.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b6caef53aa80b0f14809fcf90c5196e0"/>
+	</StaticMesh>
+	<StaticMesh label="twig_fluffy_002__twig_fluffy_002" name="twig_fluffy_002__twig_fluffy_002">
+		<Material id="0" name="flower_001"/>
+		<Material id="1" name="Branch"/>
+		<file path="KITCHEN_Assets/twig_fluffy_002__twig_fluffy_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="076411386ca3b3f3308eaf37b7426a33"/>
+	</StaticMesh>
+	<StaticMesh label="twig_fluffy_003__twig_fluffy_003" name="twig_fluffy_003__twig_fluffy_003">
+		<Material id="0" name="flower_001"/>
+		<Material id="1" name="Branch"/>
+		<file path="KITCHEN_Assets/twig_fluffy_003__twig_fluffy_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5b3cee86c0433fc89e62a4d273abd05a"/>
+	</StaticMesh>
+	<StaticMesh label="BezierCurve_003" name="BezierCurve_003">
+		<Material id="0" name="Glass_2"/>
+		<file path="KITCHEN_Assets/BezierCurve_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3db12bc1dcd4e7509506e334c5078260"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_443" name="Mesh_443">
+		<Material id="0" name="PhysicalMaterial"/>
+		<file path="KITCHEN_Assets/Mesh_443.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8a4a20d0a832bff9c06c11e5ad9164b7"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_444" name="Mesh_444">
+		<Material id="0" name="glass_bsdf"/>
+		<file path="KITCHEN_Assets/Mesh_444.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="996908566e8531f9d178475231a4cd30"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_445" name="Mesh_445">
+		<Material id="0" name="fridge"/>
+		<file path="KITCHEN_Assets/Mesh_445.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="547786cffa85148e6b7f1af03e9e9642"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_446" name="Mesh_446">
+		<Material id="0" name="fridge"/>
+		<file path="KITCHEN_Assets/Mesh_446.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e4dd495ff00ca5536992ca2b653bb6c7"/>
+	</StaticMesh>
+	<UEPbrMaterial name="Chestnut_[imported]">
+		<Expressions>
+			<Texture PathName="1__Produkty__projekty_i_gotowe_plik_0f83657"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Texture PathName="1__Produkty__projekty_i_gotowe_plik_03cbded"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Hobs">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="Hobs_Hobs_BaseColor_png_001">
+				<Coordinates expression="7"/>
+			</Texture>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="Hobs_Hobs_Metallic_png_001">
+				<Coordinates expression="9"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="10" OutputIndex="0"/>
+				<1 expression="11"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="Hobs_Hobs_Roughness_png_001">
+				<Coordinates expression="13"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="14" OutputIndex="0"/>
+				<1 expression="15"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="Hobs_Hobs_Normal_png_001">
+				<Coordinates expression="18"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="12"/>
+		<Roughness expression="16"/>
+		<Specular expression="17" OutputIndex="0"/>
+		<Normal expression="19" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Steel">
+		<Expressions>
+			<Texture PathName="Steel_Glossy_BaseColor_jpg"/>
+			<Texture PathName="Steel_Glossy_Metallic_jpg"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="1" OutputIndex="0"/>
+				<1 expression="2"/>
+			</DotProduct>
+			<Texture PathName="Steel_Glossy_Roughness_jpg"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5"/>
+			</DotProduct>
+			<Texture PathName="Steel_Glossy_SpecularLevel_jpg"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="7" OutputIndex="0"/>
+				<1 expression="8"/>
+			</DotProduct>
+			<Texture PathName="Steel_Glossy_Normal_jpg"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="3"/>
+		<Roughness expression="6"/>
+		<Specular expression="9"/>
+		<Normal expression="10" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Metal2">
+		<Expressions>
+			<Texture PathName="Metal2_BaseColor"/>
+			<Texture PathName="Metal2_Metalic"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="1" OutputIndex="0"/>
+				<1 expression="2"/>
+			</DotProduct>
+			<Texture PathName="Metal2_Roughness_jpg"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="3"/>
+		<Roughness expression="6"/>
+		<Specular expression="7" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Wood">
+		<Expressions>
+			<Texture PathName="woodcreator_1_basecolor_jpg"/>
+			<Texture PathName="woodcreator_1_metallic_jpg"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="1" OutputIndex="0"/>
+				<1 expression="2"/>
+			</DotProduct>
+			<Texture PathName="woodcreator_1_roughness_jpg"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<Texture PathName="woodcreator_1_normal_jpg"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1024.000000"/>
+			<TextureObject>
+				<0 name="Texture" type="Texture" val="datasmith_curves"/>
+			</TextureObject>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/RGBCurveLookup2">
+				<0 expression="9" OutputIndex="0"/>
+				<1 expression="10"/>
+				<2 expression="11"/>
+				<3 expression="12"/>
+			</FunctionCall>
+			<LinearInterpolate>
+				<0 expression="9" OutputIndex="0"/>
+				<1 expression="13"/>
+				<2 expression="8" OutputIndex="0"/>
+			</LinearInterpolate>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="3"/>
+		<Roughness expression="6"/>
+		<Specular expression="7" OutputIndex="0"/>
+		<Normal expression="14" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="marble_wall">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="4.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="8"/>
+			</ComponentMask>
+			<Texture PathName="Marble012_4K_Color_jpg">
+				<Coordinates expression="9"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="10" OutputIndex="0"/>
+				<1 expression="11"/>
+			</DotProduct>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1024.000000"/>
+			<TextureObject>
+				<0 name="Texture" type="Texture" val="datasmith_curves"/>
+			</TextureObject>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/ColorRamp">
+				<0 expression="12"/>
+				<1 expression="13"/>
+				<2 expression="14"/>
+				<3 expression="15"/>
+			</FunctionCall>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="8"/>
+			</ComponentMask>
+			<Texture PathName="Marble012_4K_Roughness_jpg">
+				<Coordinates expression="18"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="19" OutputIndex="0"/>
+				<1 expression="20"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="8"/>
+			</ComponentMask>
+			<Texture PathName="Marble012_4K_Normal_jpg">
+				<Coordinates expression="23"/>
+			</Texture>
+			<Scalar constant="2.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="24" OutputIndex="0"/>
+				<1 expression="25" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="16" OutputIndex="0"/>
+		<Metallic expression="17" OutputIndex="0"/>
+		<Roughness expression="21"/>
+		<Specular expression="22" OutputIndex="0"/>
+		<Normal expression="26"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="metall">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Metall">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="lattice">
+		<Expressions>
+			<Color constant="(R=0.500000,G=0.500000,B=0.500000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="lamp">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="metall_2">
+		<Expressions>
+			<Color constant="(R=0.042311,G=0.042311,B=0.042311,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.232786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="metall_1">
+		<Expressions>
+			<Color constant="(R=0.042578,G=0.042578,B=0.042578,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.201818"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="hob">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="burner">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="hob_handle">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="mixer">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="mixer_3_pla">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="ceramics_glossy_1">
+		<Expressions>
+			<Color constant="(R=0.752941,G=0.709804,B=0.619608,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="ceramics_glossy_2">
+		<Expressions>
+			<Color constant="(R=0.752941,G=0.709804,B=0.619608,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="ceramics_matte_3">
+		<Expressions>
+			<Color constant="(R=0.752941,G=0.709804,B=0.619608,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="0.950000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="ceramics_matte_5">
+		<Expressions>
+			<Color constant="(R=0.752941,G=0.709804,B=0.619608,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="0.950000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="ceramics_glossy_3">
+		<Expressions>
+			<Color constant="(R=0.752941,G=0.709804,B=0.619608,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="ceramics_glossy_4">
+		<Expressions>
+			<Color constant="(R=0.752941,G=0.709804,B=0.619608,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="ceramics_glossy_5">
+		<Expressions>
+			<Color constant="(R=0.752941,G=0.709804,B=0.619608,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="ceramics_matte_1">
+		<Expressions>
+			<Color constant="(R=0.752941,G=0.709804,B=0.619608,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="0.950000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Glass_001">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="kofe">
+		<Expressions>
+			<Color constant="(R=0.500000,G=0.500000,B=0.500000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="beans">
+		<Expressions>
+			<Color constant="(R=0.500000,G=0.500000,B=0.500000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Cabinet_Wood">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=1.570796,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="VeneerWhiteOakRandomMatched001_COL_2K_SPECULAR_png">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="8" OutputIndex="0"/>
+				<1 expression="9"/>
+			</DotProduct>
+			<Scalar constant="2.000000"/>
+			<Scalar constant="1024.000000"/>
+			<TextureObject>
+				<0 name="Texture" type="Texture" val="datasmith_curves"/>
+			</TextureObject>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/ColorRamp">
+				<0 expression="10"/>
+				<1 expression="11"/>
+				<2 expression="12"/>
+				<3 expression="13"/>
+			</FunctionCall>
+			<Scalar constant="0.060000"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=1.570796,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="16" OutputIndex="0"/>
+				<2 expression="17" OutputIndex="0"/>
+				<3 expression="18" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="19"/>
+			</ComponentMask>
+			<Texture PathName="VeneerWhiteOakRandomMatched001_REFL_2K_SPECULAR_png">
+				<Coordinates expression="20"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="21" OutputIndex="0"/>
+				<1 expression="22"/>
+			</DotProduct>
+			<Scalar constant="0.800000"/>
+			<ComponentMask>
+				<0 expression="19"/>
+			</ComponentMask>
+			<Texture PathName="VeneerWhiteOakRandomMatched001_NRM_2K_SPECULAR_png">
+				<Coordinates expression="25"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="26" OutputIndex="0"/>
+				<1 expression="27" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="14" OutputIndex="0"/>
+		<Metallic expression="15" OutputIndex="0"/>
+		<Roughness expression="23"/>
+		<Specular expression="24" OutputIndex="0"/>
+		<Normal expression="28"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="kitchen_fasade">
+		<Expressions>
+			<Color constant="(R=0.784314,G=0.784314,B=0.784314,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Metall_001">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="hob_2">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Glass_002">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="hob_clock">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="ceramics_glossy_2_001">
+		<Expressions>
+			<Color constant="(R=0.752941,G=0.709804,B=0.619608,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="ceramics_matte_2">
+		<Expressions>
+			<Color constant="(R=0.752941,G=0.709804,B=0.619608,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="0.950000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Black_Paint">
+		<Expressions>
+			<Color constant="(R=0.090000,G=0.090000,B=0.090000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.260000"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Glass__Alpha_">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Titanium">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=2.000000,G=2.000000,B=2.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="Titanium_Metal_jjjezfwar_4k_Albedo_jpg">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=2.000000,G=2.000000,B=2.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="9" OutputIndex="0"/>
+				<2 expression="10" OutputIndex="0"/>
+				<3 expression="11" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="12"/>
+			</ComponentMask>
+			<Texture PathName="Titanium_Metal_jjjezfwar_4k_Metallic_jpg">
+				<Coordinates expression="13"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="14" OutputIndex="0"/>
+				<1 expression="15"/>
+			</DotProduct>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=2.000000,G=2.000000,B=2.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="17" OutputIndex="0"/>
+				<2 expression="18" OutputIndex="0"/>
+				<3 expression="19" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="20"/>
+			</ComponentMask>
+			<Texture PathName="Titanium_Metal_jjjezfwar_4k_Roughness_jpg">
+				<Coordinates expression="21"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="22" OutputIndex="0"/>
+				<1 expression="23"/>
+			</DotProduct>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=2.000000,G=2.000000,B=2.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="25" OutputIndex="0"/>
+				<2 expression="26" OutputIndex="0"/>
+				<3 expression="27" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="28"/>
+			</ComponentMask>
+			<Texture PathName="Titanium_Metal_jjjezfwar_4k_Specular_jpg">
+				<Coordinates expression="29"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="30" OutputIndex="0"/>
+				<1 expression="31"/>
+			</DotProduct>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="33" OutputIndex="0"/>
+				<1 expression="34" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="16"/>
+		<Roughness expression="24"/>
+		<Specular expression="32"/>
+		<Normal expression="35"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Rubber">
+		<Expressions>
+			<Color constant="(R=0.010198,G=0.010198,B=0.010198,A=1.000000)"/>
+			<Scalar constant="0.600000"/>
+			<Scalar constant="0.600000"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Gold">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=4.600000,G=4.600000,B=4.600000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="3"/>
+				<1 expression="4" OutputIndex="0"/>
+				<2 expression="5" OutputIndex="0"/>
+				<3 expression="6" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="7"/>
+			</ComponentMask>
+			<Texture PathName="Aluminium_Industrial_Metal_zbcdlcecf_4k_Metallic_jpg">
+				<Coordinates expression="8"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="9" OutputIndex="0"/>
+				<1 expression="10"/>
+			</DotProduct>
+			<Scalar constant="0.160000"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=4.600000,G=4.600000,B=4.600000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="3"/>
+				<1 expression="13" OutputIndex="0"/>
+				<2 expression="14" OutputIndex="0"/>
+				<3 expression="15" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="16"/>
+			</ComponentMask>
+			<Texture PathName="Aluminium_Industrial_Metal_zbcdlcecf_4k_Specular_jpg">
+				<Coordinates expression="17"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="18" OutputIndex="0"/>
+				<1 expression="19"/>
+			</DotProduct>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="21" OutputIndex="0"/>
+				<1 expression="22" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="11"/>
+		<Roughness expression="12" OutputIndex="0"/>
+		<Specular expression="20"/>
+		<Normal expression="23"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Chrome">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="30.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Mate_Black_Paint">
+		<Expressions>
+			<Color constant="(R=0.031262,G=0.031262,B=0.031262,A=1.000000)"/>
+			<Scalar constant="0.660000"/>
+			<Scalar constant="0.360000"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Emission_001">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="50.000000"/>
+			<Multiply>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<EmissiveColor expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Aluminium_Black">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="wire">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material__2143561951">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material__47">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Ceramic">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_028">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.214659,B=0.003703,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.645455"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="orange_texture_002">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.400000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Lamed_chair">
+		<Expressions>
+			<Texture PathName="Lamed_chair_basecolor"/>
+			<Scalar constant="0.000000"/>
+			<Texture PathName="Lamed_chair_roughness"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="2" OutputIndex="0"/>
+				<1 expression="3"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="Lamed_chair_normal"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="4"/>
+		<Specular expression="5" OutputIndex="0"/>
+		<Normal expression="6" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="TowelCotton001_1K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="TowelCotton001_METALNESS_1K_METALNESS_png">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="TowelCotton001_ROUGHNESS_1K_METALNESS_png">
+				<Coordinates expression="14"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="TowelCotton001_NRM16_1K_METALNESS_png">
+				<Coordinates expression="19"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="13"/>
+		<Roughness expression="17"/>
+		<Specular expression="18" OutputIndex="0"/>
+		<Normal expression="20" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Poliigon_WoodVeneerOak_7760_4K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_WoodVeneerOak_7760_Metallic_4K_jpg">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_WoodVeneerOak_7760_Roughness_4K_jpg">
+				<Coordinates expression="14"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_WoodVeneerOak_7760_Normal_4K_jpg">
+				<Coordinates expression="19"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="13"/>
+		<Roughness expression="17"/>
+		<Specular expression="18" OutputIndex="0"/>
+		<Normal expression="20" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_027">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.059633"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Salt">
+		<Expressions>
+			<Color constant="(R=0.500000,G=0.500000,B=0.500000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_018">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.151376"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="flower_001">
+		<Expressions>
+			<Color constant="(R=0.500000,G=0.500000,B=0.500000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Branch">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.400000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Glass_2">
+		<Expressions>
+			<Color constant="(R=0.172549,G=0.101961,B=0.047059,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Pots">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=-4.400000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=-0.000000,G=-0.000000,B=-0.000000,A=1.0)"/>
+			<Color constant="(R=3.000000,G=3.000000,B=3.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingTexture2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="wfnhfaq_2K_AO_jpg">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.160000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="12" OutputIndex="0"/>
+				<1 expression="13" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="10" OutputIndex="0"/>
+		<Specular expression="11" OutputIndex="0"/>
+		<Normal expression="14"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="cactus_gasteria_cactus_gasteria">
+		<Expressions>
+			<Color constant="(R=0.790261,G=0.796107,B=0.783717,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Texture PathName="cactus_gasteria_Roughness_1k_jpg"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="2" OutputIndex="0"/>
+				<1 expression="3"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="cactus_gasteria_normal_1k_jpg"/>
+			<Scalar constant="2.000000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="6" OutputIndex="0"/>
+				<1 expression="7" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="4"/>
+		<Specular expression="5" OutputIndex="0"/>
+		<Normal expression="8"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="cactus_gasteria_stones">
+		<Expressions>
+			<Texture PathName="wfnhfaq_2K_Albedo_jpg"/>
+			<Scalar constant="0.000000"/>
+			<Texture PathName="Stone_rough_jpg"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="2" OutputIndex="0"/>
+				<1 expression="3"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<Texture PathName="stone_normalMap_jpg"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="4"/>
+		<Specular expression="5" OutputIndex="0"/>
+		<Normal expression="6" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="PhysicalMaterial">
+		<Expressions>
+			<Texture PathName="3faf014fbc1a130ab1c32ffa5fa5b1e3_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="glass_bsdf">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.450000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Add>
+				<0 expression="8"/>
+				<1 expression="9"/>
+			</Add>
+			<LinearInterpolate>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+				<2 expression="10"/>
+			</LinearInterpolate>
+			<LinearInterpolate>
+				<0 expression="3" OutputIndex="0"/>
+				<1 expression="6"/>
+				<2 expression="10"/>
+			</LinearInterpolate>
+			<LinearInterpolate>
+				<0 expression="4"/>
+				<1 expression="7"/>
+				<2 expression="10"/>
+			</LinearInterpolate>
+		</Expressions>
+		<BaseColor expression="11"/>
+		<Metallic expression="1"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Refraction expression="12"/>
+		<Opacity expression="13"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="fridge">
+		<Expressions>
+			<Color constant="(R=0.082135,G=0.082135,B=0.082135,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.430909"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<Texture name="meadow_2_8k_exr" file="KITCHEN_Assets\meadow_2_8k_exr.exr" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="1ade9928b0b0252505dfb8f7631e4ed2"/>
+	</Texture>
+	<Texture name="1__Produkty__projekty_i_gotowe_plik_0f83657" file="KITCHEN_Assets\1__Produkty__projekty_i_gotowe_plik_0f83657.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="d266a00a9f3f7614f62bc0ac60e04a7c"/>
+	</Texture>
+	<Texture name="1__Produkty__projekty_i_gotowe_plik_03cbded" file="KITCHEN_Assets\1__Produkty__projekty_i_gotowe_plik_03cbded.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="4eacd4ab71d52f6f208802159ceaef69"/>
+	</Texture>
+	<Texture name="Hobs_Hobs_BaseColor_png_001" file="KITCHEN_Assets\Hobs_Hobs_BaseColor_png_001.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="07c4fc3686aa3b033ffbb4ffb9ec9d9f"/>
+	</Texture>
+	<Texture name="Hobs_Hobs_Metallic_png_001" file="KITCHEN_Assets\Hobs_Hobs_Metallic_png_001.png" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="af5c156ddb02cca339356a1832da177b"/>
+	</Texture>
+	<Texture name="Hobs_Hobs_Roughness_png_001" file="KITCHEN_Assets\Hobs_Hobs_Roughness_png_001.png" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="1bf72abab6c125814bcbdcfddb3b2b6c"/>
+	</Texture>
+	<Texture name="Hobs_Hobs_Normal_png_001" file="KITCHEN_Assets\Hobs_Hobs_Normal_png_001.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="9c013fc47986156a27c1e8a4f66297e6"/>
+	</Texture>
+	<Texture name="Steel_Glossy_BaseColor_jpg" file="KITCHEN_Assets\Steel_Glossy_BaseColor_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="635fb70941ae45235cbab1fdb850c17d"/>
+	</Texture>
+	<Texture name="Steel_Glossy_Metallic_jpg" file="KITCHEN_Assets\Steel_Glossy_Metallic_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="96bee5a25002872e23bb2d1048499d77"/>
+	</Texture>
+	<Texture name="Steel_Glossy_Roughness_jpg" file="KITCHEN_Assets\Steel_Glossy_Roughness_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="c048a2387520dc78dcee94434fefb0b2"/>
+	</Texture>
+	<Texture name="Steel_Glossy_SpecularLevel_jpg" file="KITCHEN_Assets\Steel_Glossy_SpecularLevel_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="8cf9fa3ec129960fe28fb34479f24fcd"/>
+	</Texture>
+	<Texture name="Steel_Glossy_Normal_jpg" file="KITCHEN_Assets\Steel_Glossy_Normal_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="2e88f20176d75e255d551e8f9cd0873f"/>
+	</Texture>
+	<Texture name="Metal2_BaseColor" file="KITCHEN_Assets\Metal2_BaseColor.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="9e91361d9c7ca9efdf43b40633cc39bf"/>
+	</Texture>
+	<Texture name="Metal2_Metalic" file="KITCHEN_Assets\Metal2_Metalic.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="d0e379743a7c19db6baa1999dfbf0fac"/>
+	</Texture>
+	<Texture name="Metal2_Roughness_jpg" file="KITCHEN_Assets\Metal2_Roughness_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="b754935806c3ecd22fea37107df1a691"/>
+	</Texture>
+	<Texture name="woodcreator_1_basecolor_jpg" file="KITCHEN_Assets\woodcreator_1_basecolor_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="2678f3aa8fda7c27e964ac6a9be74fda"/>
+	</Texture>
+	<Texture name="woodcreator_1_metallic_jpg" file="KITCHEN_Assets\woodcreator_1_metallic_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="af1043cb074dfd1c68e376c5d6ea028a"/>
+	</Texture>
+	<Texture name="woodcreator_1_roughness_jpg" file="KITCHEN_Assets\woodcreator_1_roughness_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="7522273a2cb7f42d3ab3ffa4b112f15d"/>
+	</Texture>
+	<Texture name="woodcreator_1_normal_jpg" file="KITCHEN_Assets\woodcreator_1_normal_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="81566c1df2d16d9d788f39de2c3db6c2"/>
+	</Texture>
+	<Texture name="Marble012_4K_Color_jpg" file="KITCHEN_Assets\Marble012_4K_Color_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="2cc49fdaaa7df0959d7b6d3cd78efb1b"/>
+	</Texture>
+	<Texture name="Marble012_4K_Roughness_jpg" file="KITCHEN_Assets\Marble012_4K_Roughness_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="a8a16ad9dd0b9b251f6bae5282538ccc"/>
+	</Texture>
+	<Texture name="Marble012_4K_Normal_jpg" file="KITCHEN_Assets\Marble012_4K_Normal_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="3174f1f81ad48339ec95f29c0f7ec52d"/>
+	</Texture>
+	<Texture name="VeneerWhiteOakRandomMatched001_COL_2K_SPECULAR_png" file="KITCHEN_Assets\VeneerWhiteOakRandomMatched001_COL_2K_SPECULAR_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="83316881b754588c977ca4788617f452"/>
+	</Texture>
+	<Texture name="VeneerWhiteOakRandomMatched001_REFL_2K_SPECULAR_png" file="KITCHEN_Assets\VeneerWhiteOakRandomMatched001_REFL_2K_SPECULAR_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="17f4bb3505aec22d36517f0ca78fa5fd"/>
+	</Texture>
+	<Texture name="VeneerWhiteOakRandomMatched001_NRM_2K_SPECULAR_png" file="KITCHEN_Assets\VeneerWhiteOakRandomMatched001_NRM_2K_SPECULAR_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="3da8438a6d0ea68e3125575368777bce"/>
+	</Texture>
+	<Texture name="Titanium_Metal_jjjezfwar_4k_Albedo_jpg" file="KITCHEN_Assets\Titanium_Metal_jjjezfwar_4k_Albedo_jpg.tga" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3"/>
+	<Texture name="Titanium_Metal_jjjezfwar_4k_Metallic_jpg" file="KITCHEN_Assets\Titanium_Metal_jjjezfwar_4k_Metallic_jpg.tga" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3"/>
+	<Texture name="Titanium_Metal_jjjezfwar_4k_Roughness_jpg" file="KITCHEN_Assets\Titanium_Metal_jjjezfwar_4k_Roughness_jpg.tga" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3"/>
+	<Texture name="Titanium_Metal_jjjezfwar_4k_Specular_jpg" file="KITCHEN_Assets\Titanium_Metal_jjjezfwar_4k_Specular_jpg.tga" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3"/>
+	<Texture name="Aluminium_Industrial_Metal_zbcdlcecf_4k_Metallic_jpg" file="KITCHEN_Assets\Aluminium_Industrial_Metal_zbcdlcecf_4k_Metallic_jpg.tga" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3"/>
+	<Texture name="Aluminium_Industrial_Metal_zbcdlcecf_4k_Specular_jpg" file="KITCHEN_Assets\Aluminium_Industrial_Metal_zbcdlcecf_4k_Specular_jpg.tga" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3"/>
+	<Texture name="Lamed_chair_basecolor" file="KITCHEN_Assets\Lamed_chair_basecolor.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="ca18330f251e1e0fea95e0eac31b8207"/>
+	</Texture>
+	<Texture name="Lamed_chair_roughness" file="KITCHEN_Assets\Lamed_chair_roughness.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="9055ccc9cf9b801a68486b7943dbaf1f"/>
+	</Texture>
+	<Texture name="Lamed_chair_normal" file="KITCHEN_Assets\Lamed_chair_normal.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="2489bc453a9e0d5fea9c071ba9890eab"/>
+	</Texture>
+	<Texture name="TowelCotton001_METALNESS_1K_METALNESS_png" file="KITCHEN_Assets\TowelCotton001_METALNESS_1K_METALNESS_png.png" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="0d61926efee6c1b6b9ec8bd01b5ba299"/>
+	</Texture>
+	<Texture name="TowelCotton001_ROUGHNESS_1K_METALNESS_png" file="KITCHEN_Assets\TowelCotton001_ROUGHNESS_1K_METALNESS_png.png" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="7f3ebb6fe2ff58cfcd132b408da4fd20"/>
+	</Texture>
+	<Texture name="TowelCotton001_NRM16_1K_METALNESS_png" file="KITCHEN_Assets\TowelCotton001_NRM16_1K_METALNESS_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="9e23dc82297694113e50c5f9dd96101b"/>
+	</Texture>
+	<Texture name="Poliigon_WoodVeneerOak_7760_Metallic_4K_jpg" file="KITCHEN_Assets\Poliigon_WoodVeneerOak_7760_Metallic_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="a1c87dae5d8c59014cbece2ae342f13d"/>
+	</Texture>
+	<Texture name="Poliigon_WoodVeneerOak_7760_Roughness_4K_jpg" file="KITCHEN_Assets\Poliigon_WoodVeneerOak_7760_Roughness_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="302dc01d75b81784857743f389c6bbc3"/>
+	</Texture>
+	<Texture name="Poliigon_WoodVeneerOak_7760_Normal_4K_jpg" file="KITCHEN_Assets\Poliigon_WoodVeneerOak_7760_Normal_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="e0be61b2ba2bf732be544da77828ea61"/>
+	</Texture>
+	<Texture name="wfnhfaq_2K_AO_jpg" file="KITCHEN_Assets\wfnhfaq_2K_AO_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="a766e701023418bd63a47f4d8e2884a1"/>
+	</Texture>
+	<Texture name="cactus_gasteria_Roughness_1k_jpg" file="KITCHEN_Assets\cactus_gasteria_Roughness_1k_jpg.tga" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3"/>
+	<Texture name="cactus_gasteria_normal_1k_jpg" file="KITCHEN_Assets\cactus_gasteria_normal_1k_jpg.tga" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3"/>
+	<Texture name="wfnhfaq_2K_Albedo_jpg" file="KITCHEN_Assets\wfnhfaq_2K_Albedo_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="fa68860b6fe76c8edad51edc381fe3ee"/>
+	</Texture>
+	<Texture name="Stone_rough_jpg" file="KITCHEN_Assets\Stone_rough_jpg.tga" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3"/>
+	<Texture name="stone_normalMap_jpg" file="KITCHEN_Assets\stone_normalMap_jpg.tga" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3"/>
+	<Texture name="3faf014fbc1a130ab1c32ffa5fa5b1e3_png" file="KITCHEN_Assets\3faf014fbc1a130ab1c32ffa5fa5b1e3_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="95eac7ff63ab7eb392939eac6aeb7e44"/>
+	</Texture>
+	<Texture name="datasmith_curves" file="KITCHEN_Assets\datasmith_curves.exr" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="73e33a245cf853dc83de93393ac3bb92"/>
+	</Texture>
+	<MetaData name="StaticMesh_Object_1" reference="StaticMesh.Object_1">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Object_1@1475', 'object_ptr': '2074596187424'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object_1" reference="Actor.Object_1">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object_1@1472', 'object_ptr': '2074578294304', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object_1_001" reference="Actor.Object_1_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object_1_001@1474', 'object_ptr': '2074578292512', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_KITCHEN_STOOL" reference="Actor.KITCHEN_STOOL">
+		<KeyValueProperty name="vray" val="{'unique_id': 'KITCHEN_STOOL@1252', 'object_ptr': '2074579100704'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_SMART_COOKER" reference="StaticMesh.SMART_COOKER">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane@1756', 'object_ptr': '2074596063520'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_SMART_COOKER" reference="Actor.SMART_COOKER">
+		<KeyValueProperty name="selcolor" val="0.000000,0.005051,1.000000" type="Vector"/>
+		<KeyValueProperty name="objinstedofsel" val="0.000000" type="Float"/>
+		<KeyValueProperty name="comingfrommode" val="EDIT" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'SMART_COOKER@1755', 'object_ptr': '2074594390560', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_KITCHEN_TABLE_CABINET" reference="StaticMesh.KITCHEN_TABLE_CABINET">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_002@1254', 'object_ptr': '2074605815840'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_KITCHEN_TABLE_CABINET" reference="Actor.KITCHEN_TABLE_CABINET">
+		<KeyValueProperty name="SB_uv_used_for_bake" val="automap" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'KITCHEN_TABLE_CABINET@1253', 'object_ptr': '2074579098912', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_marble_countertop_1" reference="StaticMesh.marble_countertop_1">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_003@1315', 'object_ptr': '2074602566176'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_marble_countertop_1" reference="Actor.marble_countertop_1">
+		<KeyValueProperty name="MaxHandle" val="18117.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'marble_countertop_1@1314', 'object_ptr': '2074578975008', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_kitchen_sink" reference="StaticMesh.kitchen_sink">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_004@1251', 'object_ptr': '2074602562592'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_kitchen_sink" reference="Actor.kitchen_sink">
+		<KeyValueProperty name="MaxHandle" val="18118.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'kitchen_sink@1250', 'object_ptr': '2074579102496', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_kitchen_hood" reference="StaticMesh.kitchen_hood">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_006@1237', 'object_ptr': '2074602555424'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_kitchen_hood" reference="Actor.kitchen_hood">
+		<KeyValueProperty name="MaxHandle" val="18212.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'kitchen_hood@1236', 'object_ptr': '2074579180832', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_kitchen_hood3" reference="StaticMesh.kitchen_hood3">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_007@1241', 'object_ptr': '2074602433312'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_kitchen_hood3" reference="Actor.kitchen_hood3">
+		<KeyValueProperty name="MaxHandle" val="18312.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'kitchen_hood3@1240', 'object_ptr': '2074579177248', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_kitchen_hood2" reference="StaticMesh.kitchen_hood2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_011@1239', 'object_ptr': '2074602426144'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_kitchen_hood2" reference="Actor.kitchen_hood2">
+		<KeyValueProperty name="MaxHandle" val="18313.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'kitchen_hood2@1238', 'object_ptr': '2074579179040', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_hob" reference="Actor.hob">
+		<KeyValueProperty name="MaxHandle" val="18349.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'hob@1211', 'object_ptr': '2074579204384', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_hob_lattice" reference="StaticMesh.hob_lattice">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_013@1224', 'object_ptr': '2074602422560'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_hob_lattice" reference="Actor.hob_lattice">
+		<KeyValueProperty name="MaxHandle" val="18347.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'hob_lattice@1223', 'object_ptr': '2074579193632', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_burner_3" reference="StaticMesh.burner_3">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_014@239', 'object_ptr': '2074602369568'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_burner_3" reference="Actor.burner_3">
+		<KeyValueProperty name="MaxHandle" val="18337.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'burner_3@238', 'object_ptr': '2074581399840', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_burner_2" reference="StaticMesh.burner_2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_015@237', 'object_ptr': '2074602364192'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_burner_2" reference="Actor.burner_2">
+		<KeyValueProperty name="MaxHandle" val="18333.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'burner_2@236', 'object_ptr': '2074581418272', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_burner_1" reference="StaticMesh.burner_1">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_016@235', 'object_ptr': '2074602360608'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_burner_1" reference="Actor.burner_1">
+		<KeyValueProperty name="MaxHandle" val="18329.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'burner_1@234', 'object_ptr': '2074581420064', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_hob_hable" reference="StaticMesh.hob_hable">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_017@1216', 'object_ptr': '2074602358816'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_hob_hable" reference="Actor.hob_hable">
+		<KeyValueProperty name="MaxHandle" val="18121.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'hob_hable@1215', 'object_ptr': '2074579200800', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_mixer_1" reference="StaticMesh.mixer_1">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_018@1370', 'object_ptr': '2074602322208'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_mixer_1" reference="Actor.mixer_1">
+		<KeyValueProperty name="MaxHandle" val="18400.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'mixer_1@1369', 'object_ptr': '2074578520096', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_mixer_3" reference="StaticMesh.mixer_3">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_019@1374', 'object_ptr': '2074602318624'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_mixer_3" reference="Actor.mixer_3">
+		<KeyValueProperty name="MaxHandle" val="18404.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'mixer_3@1373', 'object_ptr': '2074578450720', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_mixer_3_plastic" reference="StaticMesh.mixer_3_plastic">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_020@1376', 'object_ptr': '2074602315040'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_mixer_3_plastic" reference="Actor.mixer_3_plastic">
+		<KeyValueProperty name="MaxHandle" val="18405.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'mixer_3_plastic@1375', 'object_ptr': '2074578448928', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_mixer_2" reference="StaticMesh.mixer_2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_021@1372', 'object_ptr': '2074602313248'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_mixer_2" reference="Actor.mixer_2">
+		<KeyValueProperty name="MaxHandle" val="18782.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'mixer_2@1371', 'object_ptr': '2074578518304', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_KITCHEN_LAMP_HOLDER" reference="StaticMesh.KITCHEN_LAMP_HOLDER">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_022@1247', 'object_ptr': '2074602311456'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_KITCHEN_LAMP_HOLDER" reference="Actor.KITCHEN_LAMP_HOLDER">
+		<KeyValueProperty name="MaxHandle" val="18865.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'KITCHEN_LAMP_HOLDER@1246', 'object_ptr': '2074579106080', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_vase_1" reference="StaticMesh.vase_1">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_023@2979', 'object_ptr': '2074602309664'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_vase_1" reference="Actor.vase_1">
+		<KeyValueProperty name="MaxHandle" val="19274.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'vase_1@2978', 'object_ptr': '2074592044064', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bank_1" reference="StaticMesh.bank_1">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_135@101', 'object_ptr': '2074599513376'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bank_1" reference="Actor.bank_1">
+		<KeyValueProperty name="MaxHandle" val="19409.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bank_1@100', 'object_ptr': '2074581784096', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_shaker_3" reference="StaticMesh.shaker_3">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_031@1713', 'object_ptr': '2074601890848'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_shaker_3" reference="Actor.shaker_3">
+		<KeyValueProperty name="MaxHandle" val="19583.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'shaker_3@1712', 'object_ptr': '2074594516256', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_shaker_2" reference="StaticMesh.shaker_2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_032@1711', 'object_ptr': '2074601887264'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_shaker_2" reference="Actor.shaker_2">
+		<KeyValueProperty name="MaxHandle" val="19584.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'shaker_2@1710', 'object_ptr': '2074594518048', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_shaker_1" reference="StaticMesh.shaker_1">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_033@1709', 'object_ptr': '2074601883680'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_shaker_1" reference="Actor.shaker_1">
+		<KeyValueProperty name="MaxHandle" val="19585.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'shaker_1@1708', 'object_ptr': '2074594519840', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bank_3" reference="StaticMesh.bank_3">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_146@105', 'object_ptr': '2074599251232'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bank_3" reference="Actor.bank_3">
+		<KeyValueProperty name="MaxHandle" val="19590.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bank_3@104', 'object_ptr': '2074581780512', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bank_6_001" reference="StaticMesh.bank_6_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_038@113', 'object_ptr': '2074601787168'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bank_6_001" reference="Actor.bank_6_001">
+		<KeyValueProperty name="MaxHandle" val="19592.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bank_6_001@112', 'object_ptr': '2074581723936', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_kofe" reference="StaticMesh.kofe">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_039@1256', 'object_ptr': '2074601634080'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_kofe" reference="Actor.kofe">
+		<KeyValueProperty name="MaxHandle" val="19593.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'kofe@1255', 'object_ptr': '2074579097120', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_beans" reference="StaticMesh.beans">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_040@121', 'object_ptr': '2074601632288'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_beans" reference="Actor.beans">
+		<KeyValueProperty name="MaxHandle" val="19594.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'beans@120', 'object_ptr': '2074581716768', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_hob_handle_4" reference="StaticMesh.hob_handle_4">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_041@1222', 'object_ptr': '2074601628704'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_hob_handle_4" reference="Actor.hob_handle_4">
+		<KeyValueProperty name="MaxHandle" val="19606.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'hob_handle_4@1221', 'object_ptr': '2074579195424', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_hob_handle_3" reference="StaticMesh.hob_handle_3">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_042@1220', 'object_ptr': '2074601626912'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_hob_handle_3" reference="Actor.hob_handle_3">
+		<KeyValueProperty name="MaxHandle" val="19610.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'hob_handle_3@1219', 'object_ptr': '2074579197216', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_hob_handle_2" reference="StaticMesh.hob_handle_2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_043@1218', 'object_ptr': '2074601621536'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_hob_handle_2" reference="Actor.hob_handle_2">
+		<KeyValueProperty name="MaxHandle" val="19615.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'hob_handle_2@1217', 'object_ptr': '2074579199008', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_main_kitchen" reference="StaticMesh.main_kitchen">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_050@1309', 'object_ptr': '2074601393952'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_main_kitchen" reference="Actor.main_kitchen">
+		<KeyValueProperty name="MaxHandle" val="6886.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'main_kitchen@1308', 'object_ptr': '2074578997024', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_kitchen_hood4" reference="Actor.kitchen_hood4">
+		<KeyValueProperty name="MaxHandle" val="6844.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'kitchen_hood4@1242', 'object_ptr': '2074579175456', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_left_fasade" reference="StaticMesh.left_fasade">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_052@1279', 'object_ptr': '2074601126176'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_left_fasade" reference="Actor.left_fasade">
+		<KeyValueProperty name="MaxHandle" val="6856.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'left_fasade@1278', 'object_ptr': '2074579058976', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_lower_fasade" reference="StaticMesh.lower_fasade">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_054@1307', 'object_ptr': '2074601113632'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_lower_fasade" reference="Actor.lower_fasade">
+		<KeyValueProperty name="MaxHandle" val="6876.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'lower_fasade@1306', 'object_ptr': '2074578998816', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_glass" reference="StaticMesh.glass">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_055@1139', 'object_ptr': '2074601093408'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_glass" reference="Actor.glass">
+		<KeyValueProperty name="MaxHandle" val="6883.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'glass@1138', 'object_ptr': '2074579357472', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_wood" reference="StaticMesh.wood">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_056@3058', 'object_ptr': '2074601091616'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_wood" reference="Actor.wood">
+		<KeyValueProperty name="MaxHandle" val="6884.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'wood@3057', 'object_ptr': '2074591834656', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_marble_wall" reference="StaticMesh.marble_wall">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_057@1317', 'object_ptr': '2074601089824'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_marble_wall" reference="Actor.marble_wall">
+		<KeyValueProperty name="MaxHandle" val="6988.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'marble_wall@1316', 'object_ptr': '2074578973216', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_fasade_with_glass" reference="StaticMesh.fasade_with_glass">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_058@1075', 'object_ptr': '2074601088032'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_fasade_with_glass" reference="Actor.fasade_with_glass">
+		<KeyValueProperty name="MaxHandle" val="6933.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'fasade_with_glass@1074', 'object_ptr': '2074579488544', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_upper_fasade" reference="StaticMesh.upper_fasade">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_059@2963', 'object_ptr': '2074601084448'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_upper_fasade" reference="Actor.upper_fasade">
+		<KeyValueProperty name="MaxHandle" val="6935.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'upper_fasade@2962', 'object_ptr': '2074592124192', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_oven_handle_2" reference="StaticMesh.oven_handle_2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_062@1496', 'object_ptr': '2074600893216'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_oven_handle_2" reference="Actor.oven_handle_2">
+		<KeyValueProperty name="MaxHandle" val="18863.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'oven_handle_2@1495', 'object_ptr': '2074578239776', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_oven_glass" reference="StaticMesh.oven_glass">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_063@1492', 'object_ptr': '2074600891424'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_oven_glass" reference="Actor.oven_glass">
+		<KeyValueProperty name="MaxHandle" val="19621.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'oven_glass@1491', 'object_ptr': '2074578243360', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_oven" reference="StaticMesh.oven">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_064@1484', 'object_ptr': '2074600887840'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_oven" reference="Actor.oven">
+		<KeyValueProperty name="MaxHandle" val="18146.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'oven@1483', 'object_ptr': '2074578250528', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_oven_inside" reference="StaticMesh.oven_inside">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_065@1498', 'object_ptr': '2074600882464'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_oven_inside" reference="Actor.oven_inside">
+		<KeyValueProperty name="MaxHandle" val="18153.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'oven_inside@1497', 'object_ptr': '2074578221344', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_oven_inside2" reference="StaticMesh.oven_inside2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_066@1500', 'object_ptr': '2074600845856'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_oven_inside2" reference="Actor.oven_inside2">
+		<KeyValueProperty name="MaxHandle" val="18160.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'oven_inside2@1499', 'object_ptr': '2074578219552', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_oven_fasade_2" reference="StaticMesh.oven_fasade_2">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_067@1490', 'object_ptr': '2074600844064'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_oven_fasade_2" reference="Actor.oven_fasade_2">
+		<KeyValueProperty name="MaxHandle" val="18161.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'oven_fasade_2@1489', 'object_ptr': '2074578245152', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_oven_handle" reference="StaticMesh.oven_handle">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_068@1494', 'object_ptr': '2074600838688'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_oven_handle" reference="Actor.oven_handle">
+		<KeyValueProperty name="MaxHandle" val="18162.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'oven_handle@1493', 'object_ptr': '2074578241568', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_oven_fasade_1" reference="StaticMesh.oven_fasade_1">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_069@1488', 'object_ptr': '2074600836896'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_oven_fasade_1" reference="Actor.oven_fasade_1">
+		<KeyValueProperty name="MaxHandle" val="18163.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'oven_fasade_1@1487', 'object_ptr': '2074578246944', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_hob_clock" reference="StaticMesh.hob_clock">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_070@1214', 'object_ptr': '2074600833312'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_hob_clock" reference="Actor.hob_clock">
+		<KeyValueProperty name="MaxHandle" val="19653.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'hob_clock@1213', 'object_ptr': '2074579202592', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_hobe_control" reference="StaticMesh.hobe_control">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_071@1226', 'object_ptr': '2074600601888'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_hobe_control" reference="Actor.hobe_control">
+		<KeyValueProperty name="MaxHandle" val="19668.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'hobe_control@1225', 'object_ptr': '2074579191840', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_oven_11" reference="StaticMesh.oven_11">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_072@1486', 'object_ptr': '2074600600096'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_oven_11" reference="Actor.oven_11">
+		<KeyValueProperty name="MaxHandle" val="19675.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'oven_11@1485', 'object_ptr': '2074578248736', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bowl" reference="StaticMesh.bowl">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_149@207', 'object_ptr': '2074599123744'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bowl" reference="Actor.bowl">
+		<KeyValueProperty name="MaxHandle" val="19263.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bowl@206', 'object_ptr': '2074581510944', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_plate_11" reference="StaticMesh.plate_11">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_074@1601', 'object_ptr': '2074600587552'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_plate_11" reference="Actor.plate_11">
+		<KeyValueProperty name="MaxHandle" val="19291.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'plate_11@1600', 'object_ptr': '2074594729248', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_plate" reference="StaticMesh.plate">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_077@1599', 'object_ptr': '2074600529184'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_plate" reference="Actor.plate">
+		<KeyValueProperty name="MaxHandle" val="18936.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'plate@1598', 'object_ptr': '2074594731040', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_plate018" reference="StaticMesh.plate018">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_078@1603', 'object_ptr': '2074600525600'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_plate018" reference="Actor.plate018">
+		<KeyValueProperty name="MaxHandle" val="19311.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'plate018@1602', 'object_ptr': '2074594727456', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_plate029" reference="StaticMesh.plate029">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_079@1605', 'object_ptr': '2074600523808'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_plate029" reference="Actor.plate029">
+		<KeyValueProperty name="MaxHandle" val="19343.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'plate029@1604', 'object_ptr': '2074594725664', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_plate053" reference="StaticMesh.plate053">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_083@1607', 'object_ptr': '2074600419872'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_plate053" reference="Actor.plate053">
+		<KeyValueProperty name="MaxHandle" val="19381.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'plate053@1606', 'object_ptr': '2074594723872', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_KITCHEN_LAMP_" reference="StaticMesh.KITCHEN_LAMP_">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_060@1245', 'object_ptr': '2074601082656'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_KITCHEN_LAMP_" reference="Actor.KITCHEN_LAMP_">
+		<KeyValueProperty name="MaxHandle" val="18865.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'KITCHEN_LAMP_@1244', 'object_ptr': '2074579173664', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bank_1_001" reference="StaticMesh.bank_1_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_029@103', 'object_ptr': '2074602113056'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bank_1_001" reference="Actor.bank_1_001">
+		<KeyValueProperty name="MaxHandle" val="19409.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bank_1_001@102', 'object_ptr': '2074581782304', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bank_3_001" reference="StaticMesh.bank_3_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_147@107', 'object_ptr': '2074599249440'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bank_3_001" reference="Actor.bank_3_001">
+		<KeyValueProperty name="MaxHandle" val="19590.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bank_3_001@106', 'object_ptr': '2074581778720', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bank_3_002" reference="StaticMesh.bank_3_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_148@109', 'object_ptr': '2074599127328'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bank_3_002" reference="Actor.bank_3_002">
+		<KeyValueProperty name="MaxHandle" val="19590.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bank_3_002@108', 'object_ptr': '2074581727520', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bank_3_003" reference="StaticMesh.bank_3_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_037@111', 'object_ptr': '2074601792544'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bank_3_003" reference="Actor.bank_3_003">
+		<KeyValueProperty name="MaxHandle" val="19590.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bank_3_003@110', 'object_ptr': '2074581725728', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bowl_001" reference="StaticMesh.bowl_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_150@211', 'object_ptr': '2074599118368'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bowl_001" reference="Actor.bowl_001">
+		<KeyValueProperty name="MaxHandle" val="19263.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bowl_001@210', 'object_ptr': '2074581507360', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bowl_002" reference="StaticMesh.bowl_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_151@213', 'object_ptr': '2074599114784'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bowl_002" reference="Actor.bowl_002">
+		<KeyValueProperty name="MaxHandle" val="19263.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bowl_002@212', 'object_ptr': '2074581505568', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_bowl_003" reference="StaticMesh.bowl_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_073@215', 'object_ptr': '2074600592928'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_bowl_003" reference="Actor.bowl_003">
+		<KeyValueProperty name="MaxHandle" val="19263.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'bowl_003@214', 'object_ptr': '2074581503776', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Window_Frame_003" reference="StaticMesh.Window_Frame_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_037@3025', 'object_ptr': '2075205816096'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_Frame_003" reference="Actor.Window_Frame_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_Frame_003@3024', 'object_ptr': '2074591956768', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Windows_004" reference="StaticMesh.Windows_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_003@3056', 'object_ptr': '2074596054560'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Windows_004" reference="Actor.Windows_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Windows_004@3055', 'object_ptr': '2074591836448', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_BILLSBRO_HANDLE_120MM_002" reference="StaticMesh.BILLSBRO_HANDLE_120MM_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_020@131', 'object_ptr': '2074595240736'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_BILLSBRO_HANDLE_120MM_002" reference="Actor.BILLSBRO_HANDLE_120MM_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'BILLSBRO_HANDLE_120MM_002@130', 'object_ptr': '2074581691168', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Sliding_Door_Frame" reference="StaticMesh.Sliding_Door_Frame">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_027@1746', 'object_ptr': '2074595031328'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Sliding_Door_Frame" reference="Actor.Sliding_Door_Frame">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Sliding_Door_Frame@1745', 'object_ptr': '2074594399776', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Sliding_Door" reference="StaticMesh.Sliding_Door">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_031@1744', 'object_ptr': '2074594944032'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Sliding_Door" reference="Actor.Sliding_Door">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Sliding_Door@1743', 'object_ptr': '2074594401568', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_BILLSBRO_HANDLE_120MM_001" reference="StaticMesh.BILLSBRO_HANDLE_120MM_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_011@129', 'object_ptr': '2074595386400'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_BILLSBRO_HANDLE_120MM_001" reference="Actor.BILLSBRO_HANDLE_120MM_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'BILLSBRO_HANDLE_120MM_001@128', 'object_ptr': '2074581692960', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Sliding_Door_Frame_001" reference="StaticMesh.Sliding_Door_Frame_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_009@1748', 'object_ptr': '2074595901728'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Sliding_Door_Frame_001" reference="Actor.Sliding_Door_Frame_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Sliding_Door_Frame_001@1747', 'object_ptr': '2074594397984', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Sliding_Door_001" reference="StaticMesh.Sliding_Door_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_006@1750', 'object_ptr': '2074595916064'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Sliding_Door_001" reference="Actor.Sliding_Door_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Sliding_Door_001@1749', 'object_ptr': '2074594396192', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_BezierCurve_002" reference="StaticMesh.BezierCurve_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_048@123', 'object_ptr': '2074601397536'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_BezierCurve_002" reference="Actor.BezierCurve_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'BezierCurve_002@122', 'object_ptr': '2074581714976', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_BezierCurve_003" reference="StaticMesh.BezierCurve_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_047@125', 'object_ptr': '2074601399328'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_BezierCurve_003" reference="Actor.BezierCurve_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'BezierCurve_003@124', 'object_ptr': '2074581713184', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_BezierCurve_004" reference="StaticMesh.BezierCurve_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_049@127', 'object_ptr': '2074601395744'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_BezierCurve_004" reference="Actor.BezierCurve_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'BezierCurve_004@126', 'object_ptr': '2074581694752', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_cable_002" reference="StaticMesh.cable_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_006@245', 'object_ptr': '2074603889696'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_cable_002" reference="Actor.cable_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'cable_002@244', 'object_ptr': '2074581394464', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_cable_003" reference="StaticMesh.cable_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_007@247', 'object_ptr': '2074603887904'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_cable_003" reference="Actor.cable_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'cable_003@246', 'object_ptr': '2074581392672', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_cable_004" reference="StaticMesh.cable_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_012@249', 'object_ptr': '2074603724064'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_cable_004" reference="Actor.cable_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'cable_004@248', 'object_ptr': '2074581390880', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Circle_020" reference="StaticMesh.Circle_020">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Circle_025@348', 'object_ptr': '2074607450400'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle_020" reference="Actor.Circle_020">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle_020@347', 'object_ptr': '2074581154080', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Circle_021" reference="StaticMesh.Circle_021">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Circle_012@350', 'object_ptr': '2074590904608'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle_021" reference="Actor.Circle_021">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle_021@349', 'object_ptr': '2074581152288', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Circle_022" reference="StaticMesh.Circle_022">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Circle_016@352', 'object_ptr': '2074590877216'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle_022" reference="Actor.Circle_022">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle_022@351', 'object_ptr': '2074581150496', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Circle_023" reference="StaticMesh.Circle_023">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Circle_015@354', 'object_ptr': '2074590879008'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle_023" reference="Actor.Circle_023">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle_023@353', 'object_ptr': '2074581148704', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Circle_024" reference="StaticMesh.Circle_024">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Circle_018@356', 'object_ptr': '2074590871840'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle_024" reference="Actor.Circle_024">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle_024@355', 'object_ptr': '2074581146912', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Circle_025" reference="StaticMesh.Circle_025">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Circle_027@358', 'object_ptr': '2074607448608'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Circle_025" reference="Actor.Circle_025">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Circle_025@357', 'object_ptr': '2074581145120', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Light_bulb_001" reference="StaticMesh.Light_bulb_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_008@1285', 'object_ptr': '2074603886112'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Light_bulb_001" reference="Actor.Light_bulb_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Light_bulb_001@1284', 'object_ptr': '2074579086112', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Light_bulb_003" reference="StaticMesh.Light_bulb_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_024@1287', 'object_ptr': '2074603412768'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Light_bulb_003" reference="Actor.Light_bulb_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Light_bulb_003@1286', 'object_ptr': '2074579084320', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Light_bulb_004" reference="StaticMesh.Light_bulb_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_010@1289', 'object_ptr': '2074603727648'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Light_bulb_004" reference="Actor.Light_bulb_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Light_bulb_004@1288', 'object_ptr': '2074579082528', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Wooden_pendant_light" reference="Actor.Wooden_pendant_light">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Wooden_pendant_light@3059', 'object_ptr': '2074591832864'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Lights_Surface_Mounted_LED_005" reference="StaticMesh.Lights_Surface_Mounted_LED_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_010@1301', 'object_ptr': '2074605537312'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Lights_Surface_Mounted_LED_005" reference="Actor.Lights_Surface_Mounted_LED_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Lights_Surface_Mounted_LED_005@1300', 'object_ptr': '2074579004192', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_pedant_light_1" reference="StaticMesh.pedant_light_1">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_044@1517', 'object_ptr': '2074601619744'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_pedant_light_1" reference="Actor.pedant_light_1">
+		<KeyValueProperty name="MaxHandle" val="18908.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'pedant_light_1@1516', 'object_ptr': '2074578203168', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_pedant_light_002" reference="StaticMesh.pedant_light_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_045@1515', 'object_ptr': '2074601404704'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_pedant_light_002" reference="Actor.pedant_light_002">
+		<KeyValueProperty name="MaxHandle" val="19682.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'pedant_light_002@1514', 'object_ptr': '2074578204960', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Bowl" reference="StaticMesh.Bowl">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube@209', 'object_ptr': '2074605819424'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Bowl" reference="Actor.Bowl">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Bowl@208', 'object_ptr': '2074581509152', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Square_bowl_gold_stripe" reference="Actor.Square_bowl_gold_stripe">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Square_bowl_gold_stripe@1832', 'object_ptr': '2074594221344'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Apple" reference="StaticMesh.Apple">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_030@14', 'object_ptr': '2074601894432'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Apple" reference="Actor.Apple">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Apple@13', 'object_ptr': '2074581998880', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Apple_003" reference="StaticMesh.Apple_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_046@16', 'object_ptr': '2074601402912'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Apple_003" reference="Actor.Apple_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Apple_003@15', 'object_ptr': '2074581997088', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Fuji_Apple" reference="Actor.Fuji_Apple">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Fuji_Apple@1133', 'object_ptr': '2074579362848'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_food_pomegranate_01" reference="StaticMesh.food_pomegranate_01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_pomegranate_50k_uv_001@1078', 'object_ptr': '2075205617696'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_food_pomegranate_01" reference="Actor.food_pomegranate_01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'food_pomegranate_01@1077', 'object_ptr': '2074579484960', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_food_pomegranate_01_001" reference="StaticMesh.food_pomegranate_01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_pomegranate_50k_uv_002@1080', 'object_ptr': '2075205136928'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_food_pomegranate_01_001" reference="Actor.food_pomegranate_01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'food_pomegranate_01_001@1079', 'object_ptr': '2074579515680', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Food_Pomegranate_01" reference="Actor.Food_Pomegranate_01">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Food_Pomegranate_01@1076', 'object_ptr': '2074579486752'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_orange_001" reference="StaticMesh.orange_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_009@1478', 'object_ptr': '2074605542688'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_orange_001" reference="Actor.orange_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'orange_001@1477', 'object_ptr': '2074578288928', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_leaf_1_001" reference="StaticMesh.leaf_1_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_018@1273', 'object_ptr': '2074595258912'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_leaf_1_001" reference="Actor.leaf_1_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'leaf_1_001@1272', 'object_ptr': '2074579064352', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_orange_002" reference="StaticMesh.orange_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_110@1480', 'object_ptr': '2074604685344'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_orange_002" reference="Actor.orange_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'orange_002@1479', 'object_ptr': '2074578254112', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Orange_set" reference="Actor.Orange_set">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Orange_set@1476', 'object_ptr': '2074578290720'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Lamed_Chair_" reference="StaticMesh.Lamed_Chair_">
+		<KeyValueProperty name="auto_smooth_angle" val="1.047198" type="Float"/>
+		<KeyValueProperty name="use_auto_smooth" val="1.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Lamed_Chair_@1262', 'object_ptr': '2074602680864'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Lamed_Chair_" reference="Actor.Lamed_Chair_">
+		<KeyValueProperty name="auto_smooth_modifier" val="!!Auto Smooth" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Lamed_Chair_@1257', 'object_ptr': '2074579095328', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Lamed_Chair__001" reference="Actor.Lamed_Chair__001">
+		<KeyValueProperty name="auto_smooth_modifier" val="!!Auto Smooth" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Lamed_Chair__001@1259', 'object_ptr': '2074579093536', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Lamed_Chair__002" reference="Actor.Lamed_Chair__002">
+		<KeyValueProperty name="auto_smooth_modifier" val="!!Auto Smooth" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Lamed_Chair__002@1261', 'object_ptr': '2074579091744', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder_001" reference="Actor.Cylinder_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder_001@905', 'object_ptr': '2074579912736', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Simple_Mug" reference="Actor.Simple_Mug">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Simple_Mug@1742', 'object_ptr': '2074594403360'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_HAND_KERCHIEF" reference="StaticMesh.HAND_KERCHIEF">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh___________002@1162', 'object_ptr': '2075204276000'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_HAND_KERCHIEF" reference="Actor.HAND_KERCHIEF">
+		<KeyValueProperty name="vray" val="{'unique_id': 'HAND_KERCHIEF@1161', 'object_ptr': '2074579315488', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_HANDKERCHIEF_HOLDER" reference="StaticMesh.HANDKERCHIEF_HOLDER">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh___________004@1164', 'object_ptr': '2075204155680'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_HANDKERCHIEF_HOLDER" reference="Actor.HANDKERCHIEF_HOLDER">
+		<KeyValueProperty name="vray" val="{'unique_id': 'HANDKERCHIEF_HOLDER@1163', 'object_ptr': '2074579313696', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object016" reference="StaticMesh.Object016">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_327@1415', 'object_ptr': '2074598306336'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object016" reference="Actor.Object016">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object016@1414', 'object_ptr': '2074578379808', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_pepper" reference="StaticMesh.pepper">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_328@1532', 'object_ptr': '2074598304544'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_pepper" reference="Actor.pepper">
+		<KeyValueProperty name="vray" val="{'unique_id': 'pepper@1531', 'object_ptr': '2074578168608', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Pepper" reference="StaticMesh.Pepper">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_329@1530', 'object_ptr': '2074598300960'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Pepper" reference="Actor.Pepper">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Pepper@1529', 'object_ptr': '2074578170400', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object013" reference="StaticMesh.Object013">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_323@1409', 'object_ptr': '2074598382880'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object013" reference="Actor.Object013">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object013@1408', 'object_ptr': '2074578385184', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object014" reference="StaticMesh.Object014">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_325@1411', 'object_ptr': '2074598308128'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object014" reference="Actor.Object014">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object014@1410', 'object_ptr': '2074578383392', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Salt" reference="StaticMesh.Salt">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_324@1687', 'object_ptr': '2074598377504'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Salt" reference="Actor.Salt">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Salt@1686', 'object_ptr': '2074594539808', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Napkin_Holder" reference="Actor.Napkin_Holder">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Napkin_Holder@1381', 'object_ptr': '2074578443552'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_twig_fluffy" reference="Actor.twig_fluffy">
+		<KeyValueProperty name="vray" val="{'unique_id': 'twig_fluffy@2952', 'object_ptr': '2074592133408', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_twig_fluffy_001" reference="Actor.twig_fluffy_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'twig_fluffy_001@2954', 'object_ptr': '2074592131360', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Vase" reference="StaticMesh.Vase">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_BezierCurve_001@2977', 'object_ptr': '2074591498016'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Vase" reference="Actor.Vase">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Vase@2976', 'object_ptr': '2074592045856', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_G_cactus_gasteria_1" reference="StaticMesh.G_cactus_gasteria_1">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_G_cactus_gasteria_1_001@1135', 'object_ptr': '2074603066912'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_G_cactus_gasteria_1" reference="Actor.G_cactus_gasteria_1">
+		<KeyValueProperty name="vray" val="{'unique_id': 'G_cactus_gasteria_1@1134', 'object_ptr': '2074579361056', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_G_cactus_gasteria_1_001" reference="Actor.G_cactus_gasteria_1_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'G_cactus_gasteria_1_001@1136', 'object_ptr': '2074579359264', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Succulent_Plant" reference="Actor.Succulent_Plant">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Succulent_Plant@1839', 'object_ptr': '2074594214176'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_twig_fluffy_002" reference="Actor.twig_fluffy_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'twig_fluffy_002@2956', 'object_ptr': '2074592129568', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_twig_fluffy_003" reference="Actor.twig_fluffy_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'twig_fluffy_003@2958', 'object_ptr': '2074592127776', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Vase_001" reference="StaticMesh.Vase_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_BezierCurve_003@2981', 'object_ptr': '2074591494432'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Vase_001" reference="Actor.Vase_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Vase_001@2980', 'object_ptr': '2074592042272', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh__Screen_panel" reference="StaticMesh._Screen_panel">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_443@12', 'object_ptr': '2074596464160'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor__Screen_panel" reference="Actor._Screen_panel">
+		<KeyValueProperty name="xform" val="true" type="String"/>
+		<KeyValueProperty name="boxtrick" val="true" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="3.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': '_Screen_panel@11', 'object_ptr': '2074582000672', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh__Glass_panel" reference="StaticMesh._Glass_panel">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_444@10', 'object_ptr': '2074596462368'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor__Glass_panel" reference="Actor._Glass_panel">
+		<KeyValueProperty name="xform" val="true" type="String"/>
+		<KeyValueProperty name="boxtrick" val="true" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="2.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': '_Glass_panel@9', 'object_ptr': '2074582002464', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Box2131637688" reference="StaticMesh.Box2131637688">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_445@231', 'object_ptr': '2074596460576'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Box2131637688" reference="Actor.Box2131637688">
+		<KeyValueProperty name="xform" val="true" type="String"/>
+		<KeyValueProperty name="boxtrick" val="true" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="5.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Box2131637688@230', 'object_ptr': '2074581423648', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Box2131637685" reference="StaticMesh.Box2131637685">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_446@229', 'object_ptr': '2074596458784'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Box2131637685" reference="Actor.Box2131637685">
+		<KeyValueProperty name="xform" val="true" type="String"/>
+		<KeyValueProperty name="boxtrick" val="true" type="String"/>
+		<KeyValueProperty name="MaxHandle" val="6.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Box2131637685@228', 'object_ptr': '2074581425440', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<Export Duration="25.235000000000582"/>
+</DatasmithUnrealScene>

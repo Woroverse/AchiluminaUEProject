@@ -1,0 +1,1080 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.18"/>
+	<User ID="USER" OS="Windows 10"/>
+	<Actor name="FRONT_DOOR" layer="DOORS">
+		<Transform tx="-290.246521" ty="1080.972900" tz="119.366013" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="4.405645" sy="4.347003" sz="4.347003"/>
+		<children visible="True">
+			<Actor name="Block_0060360" layer="DOORS">
+				<Transform tx="-198.786194" ty="1085.908081" tz="1.018317" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+				<children visible="True">
+					<Actor name="Block_0060360b" layer="DOORS">
+						<Transform tx="-198.786194" ty="1085.908081" tz="1.018317" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="Block_0061300" layer="DOORS">
+				<Transform tx="-203.660416" ty="1074.880859" tz="5.620577" qw="0.000000" qx="0.000000" qy="0.000000" qz="-1.000000" sx="0.000582" sy="0.000500" sz="0.000711"/>
+				<children visible="True">
+					<Actor name="Block_0061300b" layer="DOORS">
+						<Transform tx="-203.660416" ty="1074.880859" tz="5.620577" qw="0.000000" qx="0.000000" qy="0.000000" qz="-1.000000" sx="0.000582" sy="0.000500" sz="0.000711"/>
+						<children visible="True">
+							<Actor name="Block_0i60300" layer="DOORS">
+								<Transform tx="-204.105667" ty="1079.630859" tz="5.620577" qw="0.000000" qx="0.000000" qy="0.000000" qz="-1.000000" sx="0.000582" sy="0.000500" sz="0.000711"/>
+							</Actor>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="Block_0061300_001" layer="DOORS">
+				<Transform tx="-198.786194" ty="1085.908081" tz="-1.257296" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+				<children visible="True">
+					<Actor name="Block_0061300b_001" layer="DOORS">
+						<Transform tx="-198.786194" ty="1085.908081" tz="-1.257296" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+						<children visible="True">
+							<Actor name="Block_0000865l" layer="DOORS">
+								<Transform tx="-198.786194" ty="1089.058105" tz="-0.720318" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+							</Actor>
+							<Actor name="Block_0000865r" layer="DOORS">
+								<Transform tx="-198.786194" ty="1089.058105" tz="0.324910" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+							</Actor>
+							<Actor name="Block_0e60300" layer="DOORS">
+								<Transform tx="-198.786194" ty="1085.908081" tz="-1.257296" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+							</Actor>
+							<Actor name="Block_0i60300_001" layer="DOORS">
+								<Transform tx="-198.786194" ty="1090.658081" tz="-0.713207" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+							</Actor>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="Block_0061301V" layer="DOORS">
+				<Transform tx="-198.786423" ty="1091.248169" tz="3.002888" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.000500" sy="0.000711" sz="0.000582"/>
+			</Actor>
+			<Actor name="Block_0062340" layer="DOORS">
+				<Transform tx="-198.786194" ty="1093.633179" tz="2.440503" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.000500" sy="0.000711" sz="0.000582"/>
+				<children visible="True">
+					<Actor name="Block_0062340B" layer="DOORS">
+						<Transform tx="-198.786194" ty="1093.633179" tz="2.440503" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.000500" sy="0.000711" sz="0.000582"/>
+						<children visible="True">
+							<Actor name="Block_0000840r" layer="DOORS">
+								<Transform tx="-198.786194" ty="1090.533203" tz="7.045070" qw="0.000000" qx="-0.707107" qy="0.000000" qz="-0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+							</Actor>
+							<Actor name="Block_0000843l" layer="DOORS">
+								<Transform tx="-198.786194" ty="1090.533203" tz="5.082358" qw="0.000000" qx="-0.707107" qy="0.000000" qz="-0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+							</Actor>
+							<Actor name="Block_0e60340" layer="DOORS">
+								<Transform tx="-198.786194" ty="1091.958130" tz="3.009443" qw="0.000000" qx="-0.707107" qy="0.000000" qz="-0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+							</Actor>
+							<Actor name="Block_0i60340" layer="DOORS">
+								<Transform tx="-198.786194" ty="1091.683228" tz="5.089455" qw="0.000000" qx="-0.707107" qy="0.000000" qz="-0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+							</Actor>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="Block_0114631" layer="DOORS">
+				<Transform tx="-198.786194" ty="1092.333130" tz="2.476142" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+			</Actor>
+			<Actor name="Block_0303614b" layer="DOORS">
+				<Transform tx="-198.786423" ty="1093.458130" tz="7.916125" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+			</Actor>
+			<Actor name="Block_0627867V1" layer="DOORS">
+				<Transform tx="-198.786194" ty="1092.883179" tz="6.351728" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.000500" sy="0.000711" sz="0.000582"/>
+			</Actor>
+			<Actor name="Block_0696830V2" layer="DOORS">
+				<Transform tx="-198.786194" ty="1085.908081" tz="-0.866153" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.000500" sy="0.000711" sz="0.000582"/>
+			</Actor>
+			<Actor name="Block_0698704V1cor" layer="DOORS">
+				<Transform tx="-198.786423" ty="1090.333130" tz="7.503790" qw="0.500000" qx="0.500000" qy="-0.500000" qz="-0.500000" sx="-0.000500" sy="-0.000711" sz="-0.000582"/>
+			</Actor>
+			<Actor name="Block_0809114V2" layer="DOORS">
+				<Transform tx="-198.786423" ty="1090.354492" tz="9.338482" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+			</Actor>
+			<Actor name="Block_0809124V2" layer="DOORS">
+				<Transform tx="-198.786423" ty="1092.068237" tz="9.693952" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+			</Actor>
+			<Actor name="Block_0809381v1" layer="DOORS">
+				<Transform tx="-198.786194" ty="1090.058716" tz="0.858978" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.000500" sy="0.000711" sz="0.000582"/>
+			</Actor>
+			<Actor name="Block_0809381v1_001" layer="DOORS">
+				<Transform tx="-198.786194" ty="1089.508789" tz="0.858978" qw="0.500000" qx="-0.500000" qy="0.500000" qz="-0.500000" sx="0.000500" sy="0.000711" sz="0.000582"/>
+			</Actor>
+			<Actor name="Block_0809424V1" layer="DOORS">
+				<Transform tx="-198.786423" ty="1090.408081" tz="2.525921" qw="0.000000" qx="-0.707107" qy="0.000000" qz="0.707107" sx="-0.000711" sy="-0.000500" sz="-0.000582"/>
+			</Actor>
+			<Actor name="Block_0809424V1_001" layer="DOORS">
+				<Transform tx="-198.786423" ty="1093.508179" tz="2.525887" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+			</Actor>
+			<Actor name="Block_0819240V1" layer="DOORS">
+				<Transform tx="-253.063492" ty="1089.742188" tz="5.932678" qw="0.000000" qx="0.000000" qy="0.000000" qz="-1.000000" sx="-0.000582" sy="-0.000500" sz="-0.000711"/>
+			</Actor>
+			<Actor name="Block_0819241V1" layer="DOORS">
+				<Transform tx="-198.786423" ty="1089.853149" tz="3.003905" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+			</Actor>
+			<Actor name="Block_GLAS_24" layer="DOORS">
+				<Transform tx="-198.786423" ty="1092.008179" tz="10.838998" qw="0.707107" qx="-0.000000" qy="0.707107" qz="0.000000" sx="0.000711" sy="0.000500" sz="0.000582"/>
+			</Actor>
+			<ActorMesh name="Object002" layer="DOORS">
+				<mesh name="Mesh_001"/>
+				<Transform tx="-232.330780" ty="1090.565430" tz="2.796551" qw="0.000000" qx="-0.707107" qy="0.000000" qz="0.707107" sx="-0.000711" sy="-0.000500" sz="-0.000582"/>
+			</ActorMesh>
+			<ActorMesh name="Object003" layer="DOORS">
+				<mesh name="Mesh"/>
+				<Transform tx="-353.847931" ty="1088.980347" tz="2.796551" qw="0.707107" qx="0.000000" qy="0.707107" qz="-0.000000" sx="-0.000711" sy="-0.000500" sz="-0.000582"/>
+			</ActorMesh>
+			<ActorMesh name="Object017" layer="DOORS">
+				<mesh name="Mesh_002"/>
+				<Transform tx="-202.058929" ty="1086.430420" tz="1.025024" qw="0.000000" qx="0.707107" qy="-0.000000" qz="0.707107" sx="0.000711" sy="0.000500" sz="0.000582"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Window_Group" layer="WINDOWS">
+		<Transform tx="-782.498718" ty="1081.606567" tz="0.780216" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.776618" sy="1.206763" sz="1.206763"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Hole" layer="WINDOWS">
+				<mesh name="CTRL_Hole_002"/>
+				<Transform tx="-782.498718" ty="1081.606567" tz="0.780216" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.776618" sy="1.206763" sz="1.206763"/>
+			</ActorMesh>
+			<ActorMesh name="Window" layer="WINDOWS">
+				<mesh name="Window_002"/>
+				<Transform tx="-782.498718" ty="1081.606567" tz="0.780213" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.776618" sy="1.206763" sz="1.206763"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Window_Group_001" layer="WINDOWS">
+		<Transform tx="-128.026672" ty="1228.473145" tz="0.780216" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="2.008512" sy="1.218489" sz="1.218489"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Hole_001" layer="WINDOWS">
+				<mesh name="CTRL_Hole_003"/>
+				<Transform tx="-128.026672" ty="1228.473145" tz="0.780216" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="2.008512" sy="1.218489" sz="1.218489"/>
+			</ActorMesh>
+			<ActorMesh name="Window_001" layer="WINDOWS">
+				<mesh name="Window_003"/>
+				<Transform tx="-128.026672" ty="1228.473145" tz="0.780216" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="2.008512" sy="1.218489" sz="1.218489"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Window_Group_002" layer="WINDOWS">
+		<Transform tx="354.830444" ty="1365.875488" tz="0.780216" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.776618" sy="1.206763" sz="1.206763"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Hole_002" layer="WINDOWS">
+				<mesh name="CTRL_Hole_004"/>
+				<Transform tx="354.830444" ty="1365.875488" tz="0.780216" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.776618" sy="1.206763" sz="1.206763"/>
+			</ActorMesh>
+			<ActorMesh name="Window_002" layer="WINDOWS">
+				<mesh name="Window_004"/>
+				<Transform tx="354.830353" ty="1365.875488" tz="0.780213" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.776618" sy="1.206763" sz="1.206763"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Window_Group_003" layer="WINDOWS">
+		<Transform tx="771.256287" ty="1253.494019" tz="-2.510530" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.636213" sy="1.218489" sz="1.218489"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Hole_003" layer="WINDOWS">
+				<mesh name="CTRL_Hole_005"/>
+				<Transform tx="771.256287" ty="1253.494019" tz="-2.510530" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.636213" sy="1.218489" sz="1.218489"/>
+			</ActorMesh>
+			<ActorMesh name="Window_003" layer="WINDOWS">
+				<mesh name="Window_005"/>
+				<Transform tx="771.256287" ty="1253.494019" tz="-2.510530" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.636213" sy="1.218489" sz="1.218489"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Window_Group_004" layer="WINDOWS">
+		<Transform tx="947.728943" ty="404.743958" tz="0.780216" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.719914" sy="0.031341" sz="1.202221"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Hole_004" layer="WINDOWS">
+				<mesh name="CTRL_Hole_006"/>
+				<Transform tx="947.728943" ty="404.743958" tz="0.780216" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.719914" sy="0.031341" sz="1.202221"/>
+			</ActorMesh>
+			<ActorMesh name="Window_004" layer="WINDOWS">
+				<mesh name="Window_006"/>
+				<Transform tx="947.728943" ty="404.743958" tz="0.780216" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.719914" sy="0.031341" sz="1.202221"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Window_Group_005" layer="WINDOWS">
+		<Transform tx="1141.324951" ty="246.598999" tz="-2.510530" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="2.057149" sy="1.218489" sz="1.218489"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Hole_005" layer="WINDOWS">
+				<mesh name="CTRL_Hole_007"/>
+				<Transform tx="1141.324951" ty="246.598999" tz="-2.510530" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="2.057149" sy="1.218489" sz="1.218489"/>
+			</ActorMesh>
+			<ActorMesh name="Window_005" layer="WINDOWS">
+				<mesh name="Window_007"/>
+				<Transform tx="1141.324951" ty="246.598999" tz="-2.510530" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="2.057149" sy="1.218489" sz="1.218489"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Window_Group_007" layer="WINDOWS">
+		<Transform tx="624.865906" ty="-944.869629" tz="140.913498" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.155167" sy="0.493116" sz="0.493116"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Hole_007" layer="WINDOWS">
+				<mesh name="CTRL_Hole_009"/>
+				<Transform tx="624.865906" ty="-944.869629" tz="140.913498" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.155167" sy="0.493116" sz="0.493116"/>
+			</ActorMesh>
+			<ActorMesh name="Window_007" layer="WINDOWS">
+				<mesh name="Window_010"/>
+				<Transform tx="624.865906" ty="-944.869629" tz="140.913498" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.155167" sy="0.493116" sz="0.493116"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Window_Group_012" layer="WINDOWS">
+		<Transform tx="-1191.795654" ty="318.072449" tz="125.219177" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.178984" sy="0.576568" sz="0.576568"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Hole_012" layer="WINDOWS">
+				<mesh name="CTRL_Hole_016"/>
+				<Transform tx="-1191.795654" ty="318.072449" tz="125.219177" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.178984" sy="0.576568" sz="0.576568"/>
+			</ActorMesh>
+			<ActorMesh name="Window_012" layer="WINDOWS">
+				<mesh name="Window_017"/>
+				<Transform tx="-1191.795654" ty="318.072418" tz="125.219177" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.178984" sy="0.576568" sz="0.576568"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Window_Group_013" layer="WINDOWS">
+		<Transform tx="-1177.584351" ty="774.430054" tz="0.780216" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.721127" sy="1.206763" sz="1.206763"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Hole_013" layer="WINDOWS">
+				<mesh name="CTRL_Hole_017"/>
+				<Transform tx="-1177.584351" ty="774.430054" tz="0.780216" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.721127" sy="1.206763" sz="1.206763"/>
+			</ActorMesh>
+			<ActorMesh name="Window_013" layer="WINDOWS">
+				<mesh name="Window_018"/>
+				<Transform tx="-1177.584351" ty="774.430054" tz="0.780213" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.721127" sy="1.206763" sz="1.206763"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Window_Group_014" layer="WINDOWS">
+		<Transform tx="-1177.584351" ty="-132.148865" tz="0.780216" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.721127" sy="1.206763" sz="1.206763"/>
+		<children visible="True">
+			<ActorMesh name="CTRL_Hole_014" layer="WINDOWS">
+				<mesh name="CTRL_Hole_018"/>
+				<Transform tx="-1177.584351" ty="-132.148865" tz="0.780216" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.721127" sy="1.206763" sz="1.206763"/>
+			</ActorMesh>
+			<ActorMesh name="Window_014" layer="WINDOWS">
+				<mesh name="Window_019"/>
+				<Transform tx="-1177.584351" ty="-132.148834" tz="0.780213" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.721127" sy="1.206763" sz="1.206763"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Window_Group_008" layer="WINDOWS">
+		<Transform tx="314.257172" ty="-952.972046" tz="-8.362558" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.257054" sy="1.257054" sz="1.257054"/>
+	</Actor>
+	<Environment name="world_environment_background" label="world_environment_background">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="0"/>
+	</Environment>
+	<Environment name="world_environment_lighting" label="world_environment_lighting">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="1"/>
+	</Environment>
+	<StaticMesh label="Mesh_001" name="Mesh_001">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<Material id="1" name="GLASS__Architectural__Plate_Glass"/>
+		<Material id="2" name="PLASTIC"/>
+		<Material id="3" name="METAL__Linear_Brushed__Steel"/>
+		<Material id="4" name="METAL__Linear_Brushed__Steel5"/>
+		<Material id="5" name="METAL2"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Mesh_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3603b3d4041605539a0d47a1c48ebc58"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh" name="Mesh">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<Material id="1" name="GLASS__Architectural__Plate_Glass"/>
+		<Material id="2" name="PLASTIC"/>
+		<Material id="3" name="METAL__Linear_Brushed__Steel"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Mesh.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eb9233381807687f6aebbbae55564f81"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_002" name="Mesh_002">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<Material id="1" name="PLASTIC"/>
+		<Material id="2" name="METAL2"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Mesh_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3d60730ee48310cc8891eff893a5af7f"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_002" name="CTRL_Hole_002">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="45f3a8e4a61fa60bc854ec49c769014b"/>
+	</StaticMesh>
+	<StaticMesh label="Window_002" name="Window_002">
+		<Material id="0" name="PVC"/>
+		<Material id="1" name="Plastic"/>
+		<Material id="2" name="Glass"/>
+		<Material id="3" name="Marble"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Window_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0d79dfb7f9682bb924d8ba283b5b15fd"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_003" name="CTRL_Hole_003">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bc65756c5345bbe37506a8a255e5548c"/>
+	</StaticMesh>
+	<StaticMesh label="Window_003" name="Window_003">
+		<Material id="0" name="PVC"/>
+		<Material id="1" name="Plastic"/>
+		<Material id="2" name="Glass"/>
+		<Material id="3" name="Marble"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Window_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="96a0b0d280efeb6b0a2c8b4edb0b59c0"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_004" name="CTRL_Hole_004">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="714a766e72277647315afae8cc40ce68"/>
+	</StaticMesh>
+	<StaticMesh label="Window_004" name="Window_004">
+		<Material id="0" name="PVC"/>
+		<Material id="1" name="Plastic"/>
+		<Material id="2" name="Glass"/>
+		<Material id="3" name="Marble"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Window_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="647176608c7ca78e7dfe045cc146c26e"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_005" name="CTRL_Hole_005">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_005.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1de4689a0e6a9fda80684cb81204fef2"/>
+	</StaticMesh>
+	<StaticMesh label="Window_005" name="Window_005">
+		<Material id="0" name="PVC"/>
+		<Material id="1" name="Plastic"/>
+		<Material id="2" name="Glass"/>
+		<Material id="3" name="Marble"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Window_005.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b6112dd2119c19772b7af0ca6415feec"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_006" name="CTRL_Hole_006">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_006.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="de3847e931e298fbd0f1cb4ab0f73933"/>
+	</StaticMesh>
+	<StaticMesh label="Window_006" name="Window_006">
+		<Material id="0" name="PVC"/>
+		<Material id="1" name="Plastic"/>
+		<Material id="2" name="Glass"/>
+		<Material id="3" name="Marble"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Window_006.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3540c8f407c20124046f6879de0a5f99"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_007" name="CTRL_Hole_007">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_007.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="20e5e82ea3087265fa408115ce496aa2"/>
+	</StaticMesh>
+	<StaticMesh label="Window_007" name="Window_007">
+		<Material id="0" name="PVC"/>
+		<Material id="1" name="Plastic"/>
+		<Material id="2" name="Glass"/>
+		<Material id="3" name="Marble"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Window_007.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d938704a533d7262933bc18214af57fa"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_009" name="CTRL_Hole_009">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_009.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2ce3f3f1bf6c6d335146677b0d90f04b"/>
+	</StaticMesh>
+	<StaticMesh label="Window_010" name="Window_010">
+		<Material id="0" name="PVC"/>
+		<Material id="1" name="Plastic"/>
+		<Material id="2" name="Glass"/>
+		<Material id="3" name="Marble"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Window_010.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c61d108cabde8a0abdccb8770b61a316"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_016" name="CTRL_Hole_016">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_016.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5bdc1fd10338ba607542275554253465"/>
+	</StaticMesh>
+	<StaticMesh label="Window_017" name="Window_017">
+		<Material id="0" name="PVC"/>
+		<Material id="1" name="Plastic"/>
+		<Material id="2" name="Glass"/>
+		<Material id="3" name="Marble"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Window_017.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="094f80aa66d33da77cf58dbf4abc91ca"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_017" name="CTRL_Hole_017">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_017.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4de6b2ca9688507621243676cd99ff19"/>
+	</StaticMesh>
+	<StaticMesh label="Window_018" name="Window_018">
+		<Material id="0" name="PVC"/>
+		<Material id="1" name="Plastic"/>
+		<Material id="2" name="Glass"/>
+		<Material id="3" name="Marble"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Window_018.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f7e86da6e0e95dabf8da05dc6214ea54"/>
+	</StaticMesh>
+	<StaticMesh label="CTRL_Hole_018" name="CTRL_Hole_018">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/CTRL_Hole_018.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9c1457e071d4cf22e68da074f3334467"/>
+	</StaticMesh>
+	<StaticMesh label="Window_019" name="Window_019">
+		<Material id="0" name="PVC"/>
+		<Material id="1" name="Plastic"/>
+		<Material id="2" name="Glass"/>
+		<Material id="3" name="Marble"/>
+		<file path="EXTERIOR DOORS & WINDOWS_Assets/Window_019.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5d0b1f00630e922aaf0ade569e8c6579"/>
+	</StaticMesh>
+	<UEPbrMaterial name="Poliigon_MetalSteelBrushed_7174_4K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalSteelBrushed_7174_Metallic_4K_jpg">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalSteelBrushed_7174_Roughness_4K_jpg">
+				<Coordinates expression="14"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalSteelBrushed_7174_Normal_4K_jpg">
+				<Coordinates expression="19"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="13"/>
+		<Roughness expression="17"/>
+		<Specular expression="18" OutputIndex="0"/>
+		<Normal expression="20" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="GLASS__Architectural__Plate_Glass">
+		<Expressions>
+			<Color constant="(R=0.514254,G=0.514254,B=0.514254,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.450000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=0.071089,G=0.071089,B=0.071089,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Add>
+				<0 expression="8"/>
+				<1 expression="9"/>
+			</Add>
+			<LinearInterpolate>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+				<2 expression="10"/>
+			</LinearInterpolate>
+			<LinearInterpolate>
+				<0 expression="3" OutputIndex="0"/>
+				<1 expression="6"/>
+				<2 expression="10"/>
+			</LinearInterpolate>
+			<LinearInterpolate>
+				<0 expression="4"/>
+				<1 expression="7"/>
+				<2 expression="10"/>
+			</LinearInterpolate>
+		</Expressions>
+		<BaseColor expression="11"/>
+		<Metallic expression="1"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Refraction expression="12"/>
+		<Opacity expression="13"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="PLASTIC">
+		<Expressions>
+			<Color constant="(R=0.003922,G=0.007843,B=0.003922,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Texture PathName="BM"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="METAL__Linear_Brushed__Steel">
+		<Expressions>
+			<Texture PathName="DM"/>
+			<Texture PathName="RM"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="1" OutputIndex="0"/>
+				<1 expression="2"/>
+			</DotProduct>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Texture PathName="150_150mm"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="3"/>
+		<Roughness expression="4" OutputIndex="0"/>
+		<Specular expression="5" OutputIndex="0"/>
+		<Normal expression="6" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="METAL__Linear_Brushed__Steel5">
+		<Expressions>
+			<Texture PathName="DM"/>
+			<Texture PathName="RM"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="1" OutputIndex="0"/>
+				<1 expression="2"/>
+			</DotProduct>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Texture PathName="150_150mm"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="3"/>
+		<Roughness expression="4" OutputIndex="0"/>
+		<Specular expression="5" OutputIndex="0"/>
+		<Normal expression="6" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="METAL2">
+		<Expressions>
+			<Texture PathName="DM"/>
+			<Texture PathName="RM"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="1" OutputIndex="0"/>
+				<1 expression="2"/>
+			</DotProduct>
+			<Scalar constant="0.552786"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="3"/>
+		<Roughness expression="4" OutputIndex="0"/>
+		<Specular expression="5" OutputIndex="0"/>
+		<Normal expression="6" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="DefaultMaterial">
+		<Expressions>
+			<Color constant="(R=0.906332,G=0.906332,B=0.906332,A=1.000000)"/>
+			<Scalar constant="0.400000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Roughness expression="1" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="PVC">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.100000"/>
+			<LinearInterpolate>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="5" OutputIndex="0"/>
+			</LinearInterpolate>
+			<LinearInterpolate>
+				<0 expression="1"/>
+				<1 expression="4" OutputIndex="0"/>
+				<2 expression="5" OutputIndex="0"/>
+			</LinearInterpolate>
+		</Expressions>
+		<BaseColor expression="6"/>
+		<Roughness expression="7"/>
+		<Metallic expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Plastic">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.100000"/>
+			<LinearInterpolate>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="5" OutputIndex="0"/>
+			</LinearInterpolate>
+			<LinearInterpolate>
+				<0 expression="1"/>
+				<1 expression="4" OutputIndex="0"/>
+				<2 expression="5" OutputIndex="0"/>
+			</LinearInterpolate>
+		</Expressions>
+		<BaseColor expression="6"/>
+		<Roughness expression="7"/>
+		<Metallic expression="2"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Glass">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.450000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Add>
+				<0 expression="8"/>
+				<1 expression="9"/>
+			</Add>
+			<LinearInterpolate>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+				<2 expression="10"/>
+			</LinearInterpolate>
+			<LinearInterpolate>
+				<0 expression="3" OutputIndex="0"/>
+				<1 expression="6"/>
+				<2 expression="10"/>
+			</LinearInterpolate>
+			<LinearInterpolate>
+				<0 expression="4"/>
+				<1 expression="7"/>
+				<2 expression="10"/>
+			</LinearInterpolate>
+		</Expressions>
+		<BaseColor expression="11"/>
+		<Metallic expression="1"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Refraction expression="12"/>
+		<Opacity expression="13"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Marble">
+		<Expressions>
+			<Color constant="(R=0.900000,G=0.800000,B=0.700000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.100000"/>
+			<LinearInterpolate>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="5" OutputIndex="0"/>
+			</LinearInterpolate>
+			<LinearInterpolate>
+				<0 expression="1"/>
+				<1 expression="4" OutputIndex="0"/>
+				<2 expression="5" OutputIndex="0"/>
+			</LinearInterpolate>
+		</Expressions>
+		<BaseColor expression="6"/>
+		<Roughness expression="7"/>
+		<Metallic expression="2"/>
+	</UEPbrMaterial>
+	<Texture name="meadow_2_8k_exr" file="EXTERIOR DOORS & WINDOWS_Assets\meadow_2_8k_exr.exr" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="1ade9928b0b0252505dfb8f7631e4ed2"/>
+	</Texture>
+	<Texture name="Poliigon_MetalSteelBrushed_7174_Metallic_4K_jpg" file="EXTERIOR DOORS & WINDOWS_Assets\Poliigon_MetalSteelBrushed_7174_Metallic_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="d2dedb9192d7feff4ba41f14efa20d50"/>
+	</Texture>
+	<Texture name="Poliigon_MetalSteelBrushed_7174_Roughness_4K_jpg" file="EXTERIOR DOORS & WINDOWS_Assets\Poliigon_MetalSteelBrushed_7174_Roughness_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="32649e5a30a9062f80a35d856f068e59"/>
+	</Texture>
+	<Texture name="Poliigon_MetalSteelBrushed_7174_Normal_4K_jpg" file="EXTERIOR DOORS & WINDOWS_Assets\Poliigon_MetalSteelBrushed_7174_Normal_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="859b6072a556606ebed2fd9956aea9e1"/>
+	</Texture>
+	<Texture name="BM" file="EXTERIOR DOORS & WINDOWS_Assets\BM.tga" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3"/>
+	<Texture name="DM" file="EXTERIOR DOORS & WINDOWS_Assets\DM.tga" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3"/>
+	<Texture name="RM" file="EXTERIOR DOORS & WINDOWS_Assets\RM.tga" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3"/>
+	<Texture name="150_150mm" file="EXTERIOR DOORS & WINDOWS_Assets\150_150mm.tga" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3"/>
+	<MetaData name="Actor_Block_0060360b" reference="Actor.Block_0060360b">
+		<KeyValueProperty name="MaxHandle" val="3951.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0060360b@147', 'object_ptr': '2074581703968'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0060360" reference="Actor.Block_0060360">
+		<KeyValueProperty name="MaxHandle" val="3950.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0060360@146', 'object_ptr': '2074581705760'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0i60300" reference="Actor.Block_0i60300">
+		<KeyValueProperty name="MaxHandle" val="3930.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0i60300@170', 'object_ptr': '2074581563680'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0061300b" reference="Actor.Block_0061300b">
+		<KeyValueProperty name="MaxHandle" val="3929.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0061300b@150', 'object_ptr': '2074581698592'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0061300" reference="Actor.Block_0061300">
+		<KeyValueProperty name="MaxHandle" val="3928.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0061300@148', 'object_ptr': '2074581702176'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0000865l" reference="Actor.Block_0000865l">
+		<KeyValueProperty name="MaxHandle" val="3940.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0000865l@144', 'object_ptr': '2074581709344'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0000865r" reference="Actor.Block_0000865r">
+		<KeyValueProperty name="MaxHandle" val="3939.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0000865r@145', 'object_ptr': '2074581707552'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0e60300" reference="Actor.Block_0e60300">
+		<KeyValueProperty name="MaxHandle" val="3941.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0e60300@168', 'object_ptr': '2074581600288'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0i60300_001" reference="Actor.Block_0i60300_001">
+		<KeyValueProperty name="MaxHandle" val="3943.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0i60300_001@171', 'object_ptr': '2074581561888'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0061300b_001" reference="Actor.Block_0061300b_001">
+		<KeyValueProperty name="MaxHandle" val="3938.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0061300b_001@151', 'object_ptr': '2074581696800'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0061300_001" reference="Actor.Block_0061300_001">
+		<KeyValueProperty name="MaxHandle" val="3937.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0061300_001@149', 'object_ptr': '2074581700384'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0061301V" reference="Actor.Block_0061301V">
+		<KeyValueProperty name="MaxHandle" val="3953.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0061301V@152', 'object_ptr': '2074581629216'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0000840r" reference="Actor.Block_0000840r">
+		<KeyValueProperty name="MaxHandle" val="3949.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0000840r@142', 'object_ptr': '2074581680416'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0000843l" reference="Actor.Block_0000843l">
+		<KeyValueProperty name="MaxHandle" val="3948.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0000843l@143', 'object_ptr': '2074581711136'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0e60340" reference="Actor.Block_0e60340">
+		<KeyValueProperty name="MaxHandle" val="3946.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0e60340@169', 'object_ptr': '2074581598496'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0i60340" reference="Actor.Block_0i60340">
+		<KeyValueProperty name="MaxHandle" val="3947.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0i60340@172', 'object_ptr': '2074581560096'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0062340B" reference="Actor.Block_0062340B">
+		<KeyValueProperty name="MaxHandle" val="3945.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0062340B@154', 'object_ptr': '2074581625632'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0062340" reference="Actor.Block_0062340">
+		<KeyValueProperty name="MaxHandle" val="3944.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0062340@153', 'object_ptr': '2074581627424'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0114631" reference="Actor.Block_0114631">
+		<KeyValueProperty name="MaxHandle" val="3954.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0114631@155', 'object_ptr': '2074581623840'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0303614b" reference="Actor.Block_0303614b">
+		<KeyValueProperty name="MaxHandle" val="3962.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0303614b@156', 'object_ptr': '2074581622048'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0627867V1" reference="Actor.Block_0627867V1">
+		<KeyValueProperty name="MaxHandle" val="3955.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0627867V1@157', 'object_ptr': '2074581620256'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0696830V2" reference="Actor.Block_0696830V2">
+		<KeyValueProperty name="MaxHandle" val="3936.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0696830V2@158', 'object_ptr': '2074581618464'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0698704V1cor" reference="Actor.Block_0698704V1cor">
+		<KeyValueProperty name="MaxHandle" val="3959.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0698704V1cor@159', 'object_ptr': '2074581616672'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0809114V2" reference="Actor.Block_0809114V2">
+		<KeyValueProperty name="MaxHandle" val="3960.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0809114V2@160', 'object_ptr': '2074581614880'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0809124V2" reference="Actor.Block_0809124V2">
+		<KeyValueProperty name="MaxHandle" val="3961.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0809124V2@161', 'object_ptr': '2074581612832'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0809381v1" reference="Actor.Block_0809381v1">
+		<KeyValueProperty name="MaxHandle" val="3934.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0809381v1@162', 'object_ptr': '2074581611040'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0809381v1_001" reference="Actor.Block_0809381v1_001">
+		<KeyValueProperty name="MaxHandle" val="3935.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0809381v1_001@163', 'object_ptr': '2074581609248'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0809424V1" reference="Actor.Block_0809424V1">
+		<KeyValueProperty name="MaxHandle" val="3956.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0809424V1@164', 'object_ptr': '2074581607456'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0809424V1_001" reference="Actor.Block_0809424V1_001">
+		<KeyValueProperty name="MaxHandle" val="3957.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0809424V1_001@165', 'object_ptr': '2074581605664'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0819240V1" reference="Actor.Block_0819240V1">
+		<KeyValueProperty name="MaxHandle" val="3931.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0819240V1@166', 'object_ptr': '2074581603872'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_0819241V1" reference="Actor.Block_0819241V1">
+		<KeyValueProperty name="MaxHandle" val="3958.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_0819241V1@167', 'object_ptr': '2074581602080'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Block_GLAS_24" reference="Actor.Block_GLAS_24">
+		<KeyValueProperty name="MaxHandle" val="3933.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Block_GLAS_24@173', 'object_ptr': '2074581558304'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object002" reference="StaticMesh.Object002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_001@1393', 'object_ptr': '2074602668320'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object002" reference="Actor.Object002">
+		<KeyValueProperty name="MaxHandle" val="3972.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object002@1392', 'object_ptr': '2074578416160', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object003" reference="StaticMesh.Object003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh@1397', 'object_ptr': '2074602670112'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object003" reference="Actor.Object003">
+		<KeyValueProperty name="MaxHandle" val="3964.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object003@1396', 'object_ptr': '2074578412576', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Object017" reference="StaticMesh.Object017">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_002@1419', 'object_ptr': '2074602567968'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Object017" reference="Actor.Object017">
+		<KeyValueProperty name="MaxHandle" val="4006.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Object017@1418', 'object_ptr': '2074578376224', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_FRONT_DOOR" reference="Actor.FRONT_DOOR">
+		<KeyValueProperty name="vray" val="{'unique_id': 'FRONT_DOOR@1098', 'object_ptr': '2074579428384'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole" reference="StaticMesh.CTRL_Hole">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_002@690', 'object_ptr': '2074605934112'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole" reference="Actor.CTRL_Hole">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole@689', 'object_ptr': '2074580387872', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Window" reference="StaticMesh.Window">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Window_002@3021', 'object_ptr': '2075204416032'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window" reference="Actor.Window">
+		<KeyValueProperty name="WindowPanelGenerator" val="[&lt;bpy id prop: owner=&quot;OBWindow&quot;, name=&quot;&quot;, address=0x000001E58FED7EC8&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window@3020', 'object_ptr': '2074591960352', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_Group" reference="Actor.Window_Group">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_Group@3044', 'object_ptr': '2074591922208'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_001" reference="StaticMesh.CTRL_Hole_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_003@692', 'object_ptr': '2074605932320'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_001" reference="Actor.CTRL_Hole_001">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_001@691', 'object_ptr': '2074580386080', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Window_001" reference="StaticMesh.Window_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Window_003@3027', 'object_ptr': '2075204414240'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_001" reference="Actor.Window_001">
+		<KeyValueProperty name="WindowPanelGenerator" val="[&lt;bpy id prop: owner=&quot;OBWindow.001&quot;, name=&quot;&quot;, address=0x000001E58FED6488&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_001@3026', 'object_ptr': '2074591954976', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_Group_001" reference="Actor.Window_Group_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_Group_001@3045', 'object_ptr': '2074591920416'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_002" reference="StaticMesh.CTRL_Hole_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_004@694', 'object_ptr': '2074605930528'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_002" reference="Actor.CTRL_Hole_002">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_002@693', 'object_ptr': '2074580351264', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Window_002" reference="StaticMesh.Window_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Window_004@3029', 'object_ptr': '2075204405280'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_002" reference="Actor.Window_002">
+		<KeyValueProperty name="WindowPanelGenerator" val="[&lt;bpy id prop: owner=&quot;OBWindow.002&quot;, name=&quot;&quot;, address=0x000001E58FED4A48&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_002@3028', 'object_ptr': '2074591953184', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_Group_002" reference="Actor.Window_Group_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_Group_002@3046', 'object_ptr': '2074591869216'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_003" reference="StaticMesh.CTRL_Hole_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_005@696', 'object_ptr': '2074605928736'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_003" reference="Actor.CTRL_Hole_003">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_003@695', 'object_ptr': '2074580349472', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Window_003" reference="StaticMesh.Window_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Window_005@3031', 'object_ptr': '2075204403488'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_003" reference="Actor.Window_003">
+		<KeyValueProperty name="WindowPanelGenerator" val="[&lt;bpy id prop: owner=&quot;OBWindow.003&quot;, name=&quot;&quot;, address=0x000001E58FEDAF28&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_003@3030', 'object_ptr': '2074591934752', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_Group_003" reference="Actor.Window_Group_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_Group_003@3047', 'object_ptr': '2074591867424'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_004" reference="StaticMesh.CTRL_Hole_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_006@698', 'object_ptr': '2074605877536'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_004" reference="Actor.CTRL_Hole_004">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_004@697', 'object_ptr': '2074580347680', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Window_004" reference="StaticMesh.Window_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Window_006@3033', 'object_ptr': '2075204377888'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_004" reference="Actor.Window_004">
+		<KeyValueProperty name="WindowPanelGenerator" val="[&lt;bpy id prop: owner=&quot;OBWindow.004&quot;, name=&quot;&quot;, address=0x000001E58FED9588&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_004@3032', 'object_ptr': '2074591932960', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_Group_004" reference="Actor.Window_Group_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_Group_004@3048', 'object_ptr': '2074591865632'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_005" reference="StaticMesh.CTRL_Hole_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_007@700', 'object_ptr': '2074605875744'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_005" reference="Actor.CTRL_Hole_005">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_005@699', 'object_ptr': '2074580345888', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Window_005" reference="StaticMesh.Window_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Window_007@3035', 'object_ptr': '2075204374304'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_005" reference="Actor.Window_005">
+		<KeyValueProperty name="WindowPanelGenerator" val="[&lt;bpy id prop: owner=&quot;OBWindow.005&quot;, name=&quot;&quot;, address=0x000001E58CFBBB08&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_005@3034', 'object_ptr': '2074591931168', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_Group_005" reference="Actor.Window_Group_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_Group_005@3049', 'object_ptr': '2074591863840'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_007" reference="StaticMesh.CTRL_Hole_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_009@702', 'object_ptr': '2074605873952'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_007" reference="Actor.CTRL_Hole_007">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_007@701', 'object_ptr': '2074580344096', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Window_007" reference="StaticMesh.Window_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Window_010@3037', 'object_ptr': '2075204315936'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_007" reference="Actor.Window_007">
+		<KeyValueProperty name="WindowPanelGenerator" val="[&lt;bpy id prop: owner=&quot;OBWindow.007&quot;, name=&quot;&quot;, address=0x000001E58CFBA168&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_007@3036', 'object_ptr': '2074591929376', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_Group_007" reference="Actor.Window_Group_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_Group_007@3050', 'object_ptr': '2074591862048'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_012" reference="StaticMesh.CTRL_Hole_012">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_016@704', 'object_ptr': '2074605872160'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_012" reference="Actor.CTRL_Hole_012">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_012@703', 'object_ptr': '2074580342304', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Window_012" reference="StaticMesh.Window_012">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Window_017@3039', 'object_ptr': '2075204312352'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_012" reference="Actor.Window_012">
+		<KeyValueProperty name="WindowPanelGenerator" val="[&lt;bpy id prop: owner=&quot;OBWindow.012&quot;, name=&quot;&quot;, address=0x000001E58CFB8728&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_012@3038', 'object_ptr': '2074591927584', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_Group_012" reference="Actor.Window_Group_012">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_Group_012@3052', 'object_ptr': '2074591858464'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_013" reference="StaticMesh.CTRL_Hole_013">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_017@706', 'object_ptr': '2074605870368'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_013" reference="Actor.CTRL_Hole_013">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_013@705', 'object_ptr': '2074580340512', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Window_013" reference="StaticMesh.Window_013">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Window_018@3041', 'object_ptr': '2075204286752'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_013" reference="Actor.Window_013">
+		<KeyValueProperty name="WindowPanelGenerator" val="[&lt;bpy id prop: owner=&quot;OBWindow.013&quot;, name=&quot;&quot;, address=0x000001E58CFB2CA8&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_013@3040', 'object_ptr': '2074591925792', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_Group_013" reference="Actor.Window_Group_013">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_Group_013@3053', 'object_ptr': '2074591856672'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_CTRL_Hole_014" reference="StaticMesh.CTRL_Hole_014">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_CTRL_Hole_018@708', 'object_ptr': '2074605868576'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_CTRL_Hole_014" reference="Actor.CTRL_Hole_014">
+		<KeyValueProperty name="archimesh.ctrl_hole" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'CTRL_Hole_014@707', 'object_ptr': '2074580338720', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Window_014" reference="StaticMesh.Window_014">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Window_019@3043', 'object_ptr': '2075204284960'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_014" reference="Actor.Window_014">
+		<KeyValueProperty name="WindowPanelGenerator" val="[&lt;bpy id prop: owner=&quot;OBWindow.014&quot;, name=&quot;&quot;, address=0x000001E58CFB1268&gt;]" type="String"/>
+		<KeyValueProperty name="archimesh.hole_enable" val="True" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_014@3042', 'object_ptr': '2074591924000', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_Group_014" reference="Actor.Window_Group_014">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_Group_014@3054', 'object_ptr': '2074591854880'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Window_Group_008" reference="Actor.Window_Group_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Window_Group_008@3051', 'object_ptr': '2074591860256'}" type="String"/>
+	</MetaData>
+	<Export Duration="6.375"/>
+</DatasmithUnrealScene>

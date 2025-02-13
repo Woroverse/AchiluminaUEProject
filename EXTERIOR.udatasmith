@@ -1,0 +1,1684 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.6.18"/>
+	<User ID="USER" OS="Windows 10"/>
+	<ActorMesh name="Cube_016" layer="EXTERIOR">
+		<mesh name="Cube_015"/>
+		<Transform tx="-1280.007202" ty="2277.938965" tz="100.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.901629" sy="0.901629" sz="0.901629"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_018" layer="EXTERIOR">
+		<mesh name="Cube_051"/>
+		<Transform tx="-1280.007202" ty="2570.510010" tz="100.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.901629" sy="0.901629" sz="0.901629"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_019" layer="EXTERIOR">
+		<mesh name="Cube_052"/>
+		<Transform tx="-2084.125732" ty="1840.229736" tz="100.000000" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="0.901629" sy="0.901629" sz="0.901629"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_023" layer="EXTERIOR">
+		<mesh name="Cube_053"/>
+		<Transform tx="-1791.554810" ty="1840.229736" tz="100.000000" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="0.901629" sy="0.901629" sz="0.901629"/>
+	</ActorMesh>
+	<Actor name="metarig" layer="EXTERIOR">
+		<Transform tx="943.287170" ty="1014.721802" tz="2.987111" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</Actor>
+	<ActorMesh name="NurbsPath" layer="EXTERIOR">
+		<mesh name="NurbsPath__NurbsPath"/>
+		<Transform tx="108.334312" ty="1867.452637" tz="3.782605" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</ActorMesh>
+	<Actor name="Parent_Everything_to_me" layer="EXTERIOR">
+		<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="30.288822" sy="30.288822" sz="30.288822"/>
+	</Actor>
+	<ActorMesh name="Plane_002" layer="EXTERIOR">
+		<mesh name="Plane_004"/>
+		<Transform tx="54.245567" ty="425.201843" tz="7.080078" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="14.983026" sy="14.532674" sz="10.480732"/>
+	</ActorMesh>
+	<ActorMesh name="Plane_003" layer="EXTERIOR">
+		<mesh name="Plane_003__Plane_012"/>
+		<Transform tx="-1964.989502" ty="2433.209961" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="-15.794584" sy="-3.095444" sz="-3.095444"/>
+	</ActorMesh>
+	<ActorMesh name="Plane_004" layer="EXTERIOR">
+		<mesh name="Plane_013"/>
+		<Transform tx="1221.832275" ty="1040.879639" tz="312.327423" qw="0.996647" qx="-0.081819" qy="0.000000" qz="0.000000" sx="3.788088" sy="2.693103" sz="2.693103"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_002" layer="EXTERIOR">
+		<mesh name="Cylinder_009"/>
+		<Transform tx="871.096985" ty="1414.225830" tz="131.570419" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.102342" sy="0.102342" sz="1.478533"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_005" layer="EXTERIOR">
+		<mesh name="Cylinder_009"/>
+		<Transform tx="1467.652222" ty="1414.225830" tz="131.570419" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.102342" sy="0.102342" sz="1.478533"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_006" layer="EXTERIOR">
+		<mesh name="Cylinder_009"/>
+		<Transform tx="871.096985" ty="507.528015" tz="171.921463" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.102342" sy="0.102342" sz="1.910833"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_007" layer="EXTERIOR">
+		<mesh name="Cylinder_009"/>
+		<Transform tx="1467.652222" ty="507.528015" tz="171.921463" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.102342" sy="0.102342" sz="1.910833"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_008" layer="EXTERIOR">
+		<mesh name="Cylinder_008__Cylinder_011"/>
+		<Transform tx="871.096985" ty="1414.225830" tz="10.235246" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.215519" sy="0.215519" sz="0.068443"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_009" layer="EXTERIOR">
+		<mesh name="Cylinder_009__Cylinder_011"/>
+		<Transform tx="1467.652222" ty="1414.225830" tz="-1.476502" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.215519" sy="0.215519" sz="0.068443"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_010" layer="EXTERIOR">
+		<mesh name="Cylinder_010__Cylinder_011"/>
+		<Transform tx="1467.652222" ty="507.528015" tz="-1.403189" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.215519" sy="0.215519" sz="0.068443"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_011" layer="EXTERIOR">
+		<mesh name="Cylinder_011__Cylinder_011"/>
+		<Transform tx="871.096985" ty="507.528015" tz="-2.358103" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.215519" sy="0.215519" sz="0.068443"/>
+	</ActorMesh>
+	<ActorMesh name="Plane_005" layer="EXTERIOR">
+		<mesh name="Plane_005__Plane_014"/>
+		<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="14.407396" sy="14.407396" sz="14.407396"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_024" layer="EXTERIOR">
+		<mesh name="Cube_054"/>
+		<Transform tx="-1130.225708" ty="1337.339844" tz="179.827118" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.430128" sy="0.202873" sz="1.920673"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_026" layer="EXTERIOR">
+		<mesh name="Cube_054"/>
+		<Transform tx="-1021.436523" ty="1337.339844" tz="179.827118" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.430128" sy="0.202873" sz="1.920673"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_027" layer="EXTERIOR">
+		<mesh name="Cube_054"/>
+		<Transform tx="-912.062744" ty="1337.339844" tz="179.827118" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.430128" sy="0.202873" sz="1.920673"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_028" layer="EXTERIOR">
+		<mesh name="Cube_055"/>
+		<Transform tx="-782.501709" ty="1337.339844" tz="51.091850" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="3.815406" sy="0.047802" sz="0.678943"/>
+	</ActorMesh>
+	<ActorMesh name="Cube_029" layer="EXTERIOR">
+		<mesh name="Cube_055"/>
+		<Transform tx="-1162.462402" ty="1204.776367" tz="48.256672" qw="0.707107" qx="-0.000000" qy="-0.000000" qz="-0.707107" sx="1.457884" sy="0.047802" sz="0.678943"/>
+	</ActorMesh>
+	<ActorMesh name="free_tree_01_031" layer="TREE ">
+		<mesh name="free_tree_01_031__free_tree_01"/>
+		<Transform tx="-1252.952148" ty="1679.406128" tz="-88.405228" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.730549" sy="1.730549" sz="1.730549"/>
+	</ActorMesh>
+	<ActorMesh name="free_tree_01_001" layer="TREE ">
+		<mesh name="free_tree_01_001__free_tree_01"/>
+		<Transform tx="-1289.950806" ty="1940.386353" tz="-4.533839" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.999847" sy="0.999847" sz="0.999847"/>
+	</ActorMesh>
+	<ActorMesh name="free_tree_01_002" layer="TREE ">
+		<mesh name="free_tree_01_002__free_tree_01"/>
+		<Transform tx="-21.880865" ty="-2634.846191" tz="-88.405228" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.730549" sy="1.730549" sz="1.730549"/>
+	</ActorMesh>
+	<ActorMesh name="free_tree_01_003" layer="TREE ">
+		<mesh name="free_tree_01_003__free_tree_01"/>
+		<Transform tx="510.548889" ty="1972.386597" tz="-88.405228" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.413533" sy="1.413533" sz="1.413533"/>
+	</ActorMesh>
+	<ActorMesh name="free_tree_01_004" layer="TREE ">
+		<mesh name="free_tree_01_004__free_tree_01"/>
+		<Transform tx="2165.004883" ty="-2626.175537" tz="-88.405228" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.730549" sy="1.730549" sz="1.730549"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Bark" layer="TREE ">
+		<mesh name="Branches_002"/>
+		<Transform tx="-183.406067" ty="3111.083984" tz="-89.093933" qw="0.664463" qx="-0.664463" qy="-0.241845" qz="0.241845" sx="0.173995" sy="0.173995" sz="0.173995"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Bark_001" layer="TREE ">
+		<mesh name="Branches_003"/>
+		<Transform tx="-2496.107910" ty="1751.815063" tz="-74.462532" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.193000" sy="0.193000" sz="0.193000"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Bark_002" layer="TREE ">
+		<mesh name="Branches_003"/>
+		<Transform tx="-2557.226562" ty="1364.889160" tz="-15.212554" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.196130" sy="0.196130" sz="0.196130"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Bark_005" layer="TREE ">
+		<mesh name="Branches_002"/>
+		<Transform tx="-2933.228516" ty="-3376.625000" tz="-56.097031" qw="0.664463" qx="-0.664463" qy="-0.241845" qz="0.241845" sx="0.279299" sy="0.279299" sz="0.279299"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Bark_006" layer="TREE ">
+		<mesh name="Branches_003"/>
+		<Transform tx="3839.629395" ty="-9508.022461" tz="-346.061707" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="1.051115" sy="1.051115" sz="1.051115"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Bark_007" layer="TREE ">
+		<mesh name="Branches_003"/>
+		<Transform tx="3578.490479" ty="-4279.721191" tz="-15.212554" qw="0.707107" qx="-0.707107" qy="0.000000" qz="0.000000" sx="0.594053" sy="0.594053" sz="0.594053"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Bark_008" layer="TREE ">
+		<mesh name="Branches_002"/>
+		<Transform tx="-2434.952637" ty="3387.697998" tz="-56.097031" qw="0.664463" qx="-0.664463" qy="-0.241845" qz="0.241845" sx="0.281393" sy="0.281393" sz="0.281393"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Bark_009" layer="TREE ">
+		<mesh name="Branches_002"/>
+		<Transform tx="411.711121" ty="3115.712646" tz="-56.097031" qw="0.664463" qx="-0.664463" qy="-0.241845" qz="0.241845" sx="0.171184" sy="0.171184" sz="0.171184"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Bark_010" layer="TREE ">
+		<mesh name="Branches_002"/>
+		<Transform tx="-937.926392" ty="-4919.583496" tz="-35.690300" qw="0.664463" qx="-0.664463" qy="-0.241845" qz="0.241845" sx="0.302839" sy="0.302839" sz="0.302839"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Bark_011" layer="TREE ">
+		<mesh name="Branches_002"/>
+		<Transform tx="-937.926392" ty="-7540.908203" tz="-35.690300" qw="0.664463" qx="-0.664463" qy="-0.241845" qz="0.241845" sx="0.302839" sy="0.302839" sz="0.302839"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Leaves" layer="TREE ">
+		<mesh name="Leaves_001"/>
+		<Transform tx="3207.345947" ty="-8157.613281" tz="290.523865" qw="0.664463" qx="-0.664463" qy="-0.241845" qz="0.241845" sx="0.485351" sy="0.485351" sz="0.485351"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Leaves_005" layer="TREE ">
+		<mesh name="Leaves_001"/>
+		<Transform tx="-152.148346" ty="3124.650391" tz="-89.093933" qw="0.664463" qx="-0.664463" qy="-0.241845" qz="0.241845" sx="0.173995" sy="0.173995" sz="0.173995"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Leaves_008" layer="TREE ">
+		<mesh name="Leaves_001"/>
+		<Transform tx="411.711121" ty="3165.738770" tz="-56.097031" qw="0.664463" qx="-0.664463" qy="-0.241845" qz="0.241845" sx="0.216415" sy="0.216415" sz="0.216415"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Leaves_010" layer="TREE ">
+		<mesh name="Leaves_001"/>
+		<Transform tx="-937.926392" ty="-4919.583496" tz="-35.690300" qw="0.664463" qx="-0.664463" qy="-0.241845" qz="0.241845" sx="0.302839" sy="0.302839" sz="0.302839"/>
+	</ActorMesh>
+	<ActorMesh name="Tree_Leaves_011" layer="TREE ">
+		<mesh name="Leaves_001"/>
+		<Transform tx="-937.926392" ty="-7540.908203" tz="-35.690300" qw="0.664463" qx="-0.664463" qy="-0.241845" qz="0.241845" sx="0.302839" sy="0.302839" sz="0.302839"/>
+	</ActorMesh>
+	<ActorMesh name="Shadow_Catcher_001" layer="Shadow Catcher.001">
+		<mesh name="Shadow_Catcher_001"/>
+		<Transform tx="6150.590332" ty="-2550.693848" tz="-959.304626" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="299.243530" sy="299.243530" sz="299.243530"/>
+	</ActorMesh>
+	<ActorMesh name="Shadow_Catcher" layer="Shadow Catcher">
+		<mesh name="Shadow_Catcher"/>
+		<Transform tx="4278.799805" ty="-1473.803711" tz="-44.841576" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="211.933273" sy="211.933273" sz="211.933273"/>
+	</ActorMesh>
+	<ActorMesh name="solar" layer="SOLAR PANELS">
+		<mesh name="Mesh_104"/>
+		<Transform tx="993.555054" ty="653.500366" tz="352.103668" qw="0.679511" qx="-0.733666" qy="-0.000299" qz="0.000277" sx="0.216452" sy="0.216452" sz="0.216452"/>
+	</ActorMesh>
+	<ActorMesh name="solar_001" layer="SOLAR PANELS">
+		<mesh name="Mesh_104"/>
+		<Transform tx="1175.716553" ty="653.365723" tz="352.103668" qw="0.679511" qx="-0.733666" qy="-0.000299" qz="0.000277" sx="0.216452" sy="0.216452" sz="0.216452"/>
+	</ActorMesh>
+	<ActorMesh name="solar_002" layer="SOLAR PANELS">
+		<mesh name="Mesh_104"/>
+		<Transform tx="1356.853638" ty="652.041748" tz="352.103668" qw="0.679511" qx="-0.733666" qy="-0.000299" qz="0.000277" sx="0.216452" sy="0.216452" sz="0.216452"/>
+	</ActorMesh>
+	<ActorMesh name="solar_003" layer="SOLAR PANELS">
+		<mesh name="Mesh_104"/>
+		<Transform tx="977.064514" ty="985.241516" tz="321.614349" qw="0.679511" qx="-0.733666" qy="-0.000299" qz="0.000277" sx="0.216452" sy="0.216452" sz="0.216452"/>
+	</ActorMesh>
+	<ActorMesh name="solar_004" layer="SOLAR PANELS">
+		<mesh name="Mesh_104"/>
+		<Transform tx="1159.225952" ty="985.106750" tz="321.614349" qw="0.679511" qx="-0.733666" qy="-0.000299" qz="0.000277" sx="0.216452" sy="0.216452" sz="0.216452"/>
+	</ActorMesh>
+	<ActorMesh name="solar_005" layer="SOLAR PANELS">
+		<mesh name="Mesh_104"/>
+		<Transform tx="1340.363037" ty="983.782776" tz="321.614349" qw="0.679511" qx="-0.733666" qy="-0.000299" qz="0.000277" sx="0.216452" sy="0.216452" sz="0.216452"/>
+	</ActorMesh>
+	<ActorMesh name="solar_006" layer="SOLAR PANELS">
+		<mesh name="Mesh_104"/>
+		<Transform tx="961.617493" ty="1295.990967" tz="293.071136" qw="0.679511" qx="-0.733666" qy="-0.000299" qz="0.000277" sx="0.216452" sy="0.216452" sz="0.216452"/>
+	</ActorMesh>
+	<ActorMesh name="solar_007" layer="SOLAR PANELS">
+		<mesh name="Mesh_104"/>
+		<Transform tx="1143.778931" ty="1295.856201" tz="293.071136" qw="0.679511" qx="-0.733666" qy="-0.000299" qz="0.000277" sx="0.216452" sy="0.216452" sz="0.216452"/>
+	</ActorMesh>
+	<ActorMesh name="solar_008" layer="SOLAR PANELS">
+		<mesh name="Mesh_104"/>
+		<Transform tx="1324.916016" ty="1294.532349" tz="293.071136" qw="0.679511" qx="-0.733666" qy="-0.000299" qz="0.000277" sx="0.216452" sy="0.216452" sz="0.216452"/>
+	</ActorMesh>
+	<Light name="Area" layer="LIGHT.003" type="AreaLight" enabled="1">
+		<SourceSize value="0.000000"/>
+		<Shape type="None" width="100.0" length="100.0" LightType="Rect"/>
+		<Intensity value="101.859161"/>
+		<AttenuationRadius value="1009.252998"/>
+		<IntensityUnits value="Lumens"/>
+		<Color usetemp="0" temperature="6500.0" R="1.000000" G="1.000000" B="1.000000"/>
+		<Transform tx="-425.527771" ty="1140.195435" tz="295.551910" qw="0.500000" qx="0.500000" qy="0.500000" qz="-0.500000" sx="1.000000" sy="6.556489" sz="1.000000"/>
+	</Light>
+	<Actor name="Wall_light" layer="Collection.002">
+		<Transform tx="-477.584656" ty="1099.525513" tz="200.275879" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="2.229136" sy="2.229136" sz="2.229136"/>
+		<children visible="True">
+			<ActorMesh name="chrome" layer="Collection.002">
+				<mesh name="chrome__Mesh_106"/>
+				<Transform tx="-477.584656" ty="1099.525513" tz="200.275879" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="2.229136" sy="2.229136" sz="2.229136"/>
+			</ActorMesh>
+			<ActorMesh name="light_001" layer="Collection.002">
+				<mesh name="Mesh_105"/>
+				<Transform tx="-477.584656" ty="1099.525513" tz="200.275879" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="2.229136" sy="2.229136" sz="2.229136"/>
+			</ActorMesh>
+			<ActorMesh name="matte_back" layer="Collection.002">
+				<mesh name="matte_back__Mesh_109"/>
+				<Transform tx="-477.584656" ty="1099.525513" tz="200.275879" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="2.229136" sy="2.229136" sz="2.229136"/>
+			</ActorMesh>
+			<ActorMesh name="metal" layer="Collection.002">
+				<mesh name="metal__Mesh_108"/>
+				<Transform tx="-477.584656" ty="1099.525513" tz="200.275879" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="2.229136" sy="2.229136" sz="2.229136"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Wall_light_001" layer="Collection.002">
+		<Transform tx="-87.710655" ty="1378.453491" tz="209.462021" qw="0.999620" qx="0.000000" qy="0.000000" qz="-0.027554" sx="2.229136" sy="2.229136" sz="2.229136"/>
+		<children visible="True">
+			<ActorMesh name="chrome_001" layer="Collection.002">
+				<mesh name="chrome_001__Mesh_106"/>
+				<Transform tx="-87.710655" ty="1378.453491" tz="209.462021" qw="0.999620" qx="0.000000" qy="0.000000" qz="-0.027554" sx="2.229136" sy="2.229136" sz="2.229136"/>
+			</ActorMesh>
+			<ActorMesh name="light_002" layer="Collection.002">
+				<mesh name="Mesh_105"/>
+				<Transform tx="-87.710655" ty="1378.453491" tz="209.462021" qw="0.999620" qx="0.000000" qy="0.000000" qz="-0.027554" sx="2.229136" sy="2.229136" sz="2.229136"/>
+			</ActorMesh>
+			<ActorMesh name="matte_back_001" layer="Collection.002">
+				<mesh name="matte_back_001__Mesh_109"/>
+				<Transform tx="-87.710655" ty="1378.453491" tz="209.462021" qw="0.999620" qx="0.000000" qy="0.000000" qz="-0.027554" sx="2.229136" sy="2.229136" sz="2.229136"/>
+			</ActorMesh>
+			<ActorMesh name="metal_001" layer="Collection.002">
+				<mesh name="metal_001__Mesh_108"/>
+				<Transform tx="-87.710655" ty="1378.453491" tz="209.462021" qw="0.999620" qx="0.000000" qy="0.000000" qz="-0.027554" sx="2.229136" sy="2.229136" sz="2.229136"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="Wall_light_002" layer="Collection.002">
+		<Transform tx="-158.579544" ty="1240.981201" tz="254.022125" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="2.229136" sy="2.229136" sz="2.229136"/>
+		<children visible="True">
+			<ActorMesh name="chrome_002" layer="Collection.002">
+				<mesh name="chrome_002__Mesh_106"/>
+				<Transform tx="-158.579544" ty="1240.981201" tz="254.022125" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="2.229136" sy="2.229136" sz="2.229136"/>
+			</ActorMesh>
+			<ActorMesh name="light_003" layer="Collection.002">
+				<mesh name="Mesh_105"/>
+				<Transform tx="-158.579544" ty="1240.981201" tz="254.022125" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="2.229136" sy="2.229136" sz="2.229136"/>
+			</ActorMesh>
+			<ActorMesh name="matte_back_002" layer="Collection.002">
+				<mesh name="matte_back_002__Mesh_109"/>
+				<Transform tx="-158.579544" ty="1240.981201" tz="254.022125" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="2.229136" sy="2.229136" sz="2.229136"/>
+			</ActorMesh>
+			<ActorMesh name="metal_002" layer="Collection.002">
+				<mesh name="metal_002__Mesh_108"/>
+				<Transform tx="-158.579544" ty="1240.981201" tz="254.022125" qw="0.707107" qx="0.000000" qy="0.000000" qz="0.707107" sx="2.229136" sy="2.229136" sz="2.229136"/>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<ActorMesh name="GRASS" layer="GRASS">
+		<mesh name="GRASS__yan_parsel_001"/>
+		<Transform tx="-13123.080078" ty="-10004.197266" tz="-19.642567" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="1.253523" sy="1.253523" sz="1.253523"/>
+	</ActorMesh>
+	<Environment name="world_environment_background" label="world_environment_background">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="0"/>
+	</Environment>
+	<Environment name="world_environment_lighting" label="world_environment_lighting">
+		<Texture tex="meadow_2_8k_exr"/>
+		<Illuminate enabled="1"/>
+	</Environment>
+	<StaticMesh label="Cube_015" name="Cube_015">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR_Assets/Cube_015.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c9b0aa8b54bd85ed5378de679812825e"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_051" name="Cube_051">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR_Assets/Cube_051.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="db95a09c2f443639cf315866bf2fc70e"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_052" name="Cube_052">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR_Assets/Cube_052.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="30e4924c9c2c95fc8d0e5a66f4c6a508"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_053" name="Cube_053">
+		<Material id="0" name="DefaultMaterial"/>
+		<file path="EXTERIOR_Assets/Cube_053.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b57046c8ed35c678bed7d55e5da89ab2"/>
+	</StaticMesh>
+	<StaticMesh label="NurbsPath__NurbsPath" name="NurbsPath__NurbsPath">
+		<Material id="0" name="asphalt_03"/>
+		<file path="EXTERIOR_Assets/NurbsPath__NurbsPath.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a49ff4b865c27adf45e6df8ecafdf538"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_004" name="Plane_004">
+		<Material id="0" name="concrete_bformed_04"/>
+		<file path="EXTERIOR_Assets/Plane_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6c2e6c8f70811a8389b8b5820cb445c4"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_003__Plane_012" name="Plane_003__Plane_012">
+		<Material id="0" name="asphalt_03"/>
+		<file path="EXTERIOR_Assets/Plane_003__Plane_012.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bf7cadff3219bbab1826d5d4bc1810b3"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_013" name="Plane_013">
+		<Material id="0" name="Poliigon_MetalGalvanizedZinc_7184_2K"/>
+		<file path="EXTERIOR_Assets/Plane_013.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7c87a83735fce998f0a31bc84585cc96"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_009" name="Cylinder_009">
+		<Material id="0" name="Poliigon_MetalSteelBrushed_7174_4K"/>
+		<file path="EXTERIOR_Assets/Cylinder_009.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3b97dc4b2e4738a03132a01334c9fc3d"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_008__Cylinder_011" name="Cylinder_008__Cylinder_011">
+		<Material id="0" name="concrete_04"/>
+		<file path="EXTERIOR_Assets/Cylinder_008__Cylinder_011.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="99fb1ad3e85132f46ae0d199d427bbdb"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_009__Cylinder_011" name="Cylinder_009__Cylinder_011">
+		<Material id="0" name="concrete_04"/>
+		<file path="EXTERIOR_Assets/Cylinder_009__Cylinder_011.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5eca97c23a44f9bd08e820c7cc3f1121"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_010__Cylinder_011" name="Cylinder_010__Cylinder_011">
+		<Material id="0" name="concrete_04"/>
+		<file path="EXTERIOR_Assets/Cylinder_010__Cylinder_011.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5b8c8ed545e783b6a66c776830a70ef6"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_011__Cylinder_011" name="Cylinder_011__Cylinder_011">
+		<Material id="0" name="concrete_04"/>
+		<file path="EXTERIOR_Assets/Cylinder_011__Cylinder_011.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2d0c19cdc9c821613daccf026cd822c3"/>
+	</StaticMesh>
+	<StaticMesh label="Plane_005__Plane_014" name="Plane_005__Plane_014">
+		<Material id="0" name="ceramic_hex_tiles_01"/>
+		<file path="EXTERIOR_Assets/Plane_005__Plane_014.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="72ff4d10d88349d0a3329478ba78ec2b"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_054" name="Cube_054">
+		<Material id="0" name="flagstone_02"/>
+		<file path="EXTERIOR_Assets/Cube_054.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="564f84097df74d6c32d462489be298bf"/>
+	</StaticMesh>
+	<StaticMesh label="Cube_055" name="Cube_055">
+		<Material id="0" name="Poliigon_MetalBronzeWorn_7248_4K"/>
+		<Material id="1" name="Material_048"/>
+		<Material id="2" name="glass"/>
+		<file path="EXTERIOR_Assets/Cube_055.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3e8ca8310b40ca1cba0b266c3874d48d"/>
+	</StaticMesh>
+	<StaticMesh label="free_tree_01_031__free_tree_01" name="free_tree_01_031__free_tree_01">
+		<Material id="0" name="bark01"/>
+		<Material id="1" name="beech_leaf"/>
+		<file path="EXTERIOR_Assets/free_tree_01_031__free_tree_01.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="163c4047982636fc6db192b6e0347fb5"/>
+	</StaticMesh>
+	<StaticMesh label="free_tree_01_001__free_tree_01" name="free_tree_01_001__free_tree_01">
+		<Material id="0" name="bark01"/>
+		<Material id="1" name="beech_leaf"/>
+		<file path="EXTERIOR_Assets/free_tree_01_001__free_tree_01.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1de7c4120aa62313f5b0b8b494d032e2"/>
+	</StaticMesh>
+	<StaticMesh label="free_tree_01_002__free_tree_01" name="free_tree_01_002__free_tree_01">
+		<Material id="0" name="bark01"/>
+		<Material id="1" name="beech_leaf"/>
+		<file path="EXTERIOR_Assets/free_tree_01_002__free_tree_01.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="26c704a1d3fae52b4a75d9d7107baca7"/>
+	</StaticMesh>
+	<StaticMesh label="free_tree_01_003__free_tree_01" name="free_tree_01_003__free_tree_01">
+		<Material id="0" name="bark01"/>
+		<Material id="1" name="beech_leaf"/>
+		<file path="EXTERIOR_Assets/free_tree_01_003__free_tree_01.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="264a23c19342782e991658232dcd2975"/>
+	</StaticMesh>
+	<StaticMesh label="free_tree_01_004__free_tree_01" name="free_tree_01_004__free_tree_01">
+		<Material id="0" name="bark01"/>
+		<Material id="1" name="beech_leaf"/>
+		<file path="EXTERIOR_Assets/free_tree_01_004__free_tree_01.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="02b9957a8c14d4a35a31e5f98e57be82"/>
+	</StaticMesh>
+	<StaticMesh label="Branches_002" name="Branches_002">
+		<Material id="0" name="Bark_C"/>
+		<file path="EXTERIOR_Assets/Branches_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ebf3f069d97b7d9fbaabfc8f9cb95f10"/>
+	</StaticMesh>
+	<StaticMesh label="Branches_003" name="Branches_003">
+		<Material id="0" name="Bark_C"/>
+		<file path="EXTERIOR_Assets/Branches_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b8abc515657612ef1cee9f65cd8be4e3"/>
+	</StaticMesh>
+	<StaticMesh label="Leaves_001" name="Leaves_001">
+		<Material id="0" name="Tree_leaf"/>
+		<file path="EXTERIOR_Assets/Leaves_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3ee089d3817387fbbd6e61423751c9ff"/>
+	</StaticMesh>
+	<StaticMesh label="Shadow_Catcher_001" name="Shadow_Catcher_001">
+		<Material id="0" name="shadow_catcher_001"/>
+		<file path="EXTERIOR_Assets/Shadow_Catcher_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bb9d5685f19348088462fe020e8889f9"/>
+	</StaticMesh>
+	<StaticMesh label="Shadow_Catcher" name="Shadow_Catcher">
+		<Material id="0" name="shadow_catcher"/>
+		<file path="EXTERIOR_Assets/Shadow_Catcher.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="907844081ce585cb53657e4eac1348e6"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_104" name="Mesh_104">
+		<Material id="0" name="blinn3"/>
+		<Material id="1" name="blinn1"/>
+		<Material id="2" name="blinn2"/>
+		<file path="EXTERIOR_Assets/Mesh_104.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2a9f3a751638ecf68a8956c4346079c6"/>
+	</StaticMesh>
+	<StaticMesh label="chrome__Mesh_106" name="chrome__Mesh_106">
+		<Material id="0" name="Chrome_mt"/>
+		<file path="EXTERIOR_Assets/chrome__Mesh_106.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1d25ca8b68e654f49b83e56e6323aa98"/>
+	</StaticMesh>
+	<StaticMesh label="Mesh_105" name="Mesh_105">
+		<Material id="0" name="Light_mt"/>
+		<file path="EXTERIOR_Assets/Mesh_105.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7292db3133b86cff7b752af19487f8ae"/>
+	</StaticMesh>
+	<StaticMesh label="matte_back__Mesh_109" name="matte_back__Mesh_109">
+		<Material id="0" name="Matt_mt"/>
+		<file path="EXTERIOR_Assets/matte_back__Mesh_109.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c3bfe4fd1ac20dd5dd1592c4e0e5f175"/>
+	</StaticMesh>
+	<StaticMesh label="metal__Mesh_108" name="metal__Mesh_108">
+		<Material id="0" name="Metal_mt"/>
+		<file path="EXTERIOR_Assets/metal__Mesh_108.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bd16d9818475ddac19b0f4e00b2018b5"/>
+	</StaticMesh>
+	<StaticMesh label="chrome_001__Mesh_106" name="chrome_001__Mesh_106">
+		<Material id="0" name="Chrome_mt"/>
+		<file path="EXTERIOR_Assets/chrome_001__Mesh_106.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5f19778637f4ef0ce09de24f25a00530"/>
+	</StaticMesh>
+	<StaticMesh label="matte_back_001__Mesh_109" name="matte_back_001__Mesh_109">
+		<Material id="0" name="Matt_mt"/>
+		<file path="EXTERIOR_Assets/matte_back_001__Mesh_109.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6fda9c349868fae0471fd1a03d74c7a3"/>
+	</StaticMesh>
+	<StaticMesh label="metal_001__Mesh_108" name="metal_001__Mesh_108">
+		<Material id="0" name="Metal_mt"/>
+		<file path="EXTERIOR_Assets/metal_001__Mesh_108.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cfe6aca1de2874bfc0b6d5a6d9db6c7d"/>
+	</StaticMesh>
+	<StaticMesh label="chrome_002__Mesh_106" name="chrome_002__Mesh_106">
+		<Material id="0" name="Chrome_mt"/>
+		<file path="EXTERIOR_Assets/chrome_002__Mesh_106.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="165c502907646597f13d75e164f363ff"/>
+	</StaticMesh>
+	<StaticMesh label="matte_back_002__Mesh_109" name="matte_back_002__Mesh_109">
+		<Material id="0" name="Matt_mt"/>
+		<file path="EXTERIOR_Assets/matte_back_002__Mesh_109.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="033dac7f34fe3e9259eab9b8efb2d02f"/>
+	</StaticMesh>
+	<StaticMesh label="metal_002__Mesh_108" name="metal_002__Mesh_108">
+		<Material id="0" name="Metal_mt"/>
+		<file path="EXTERIOR_Assets/metal_002__Mesh_108.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="63fdc6348550c3fc3c87be0eabbcea32"/>
+	</StaticMesh>
+	<StaticMesh label="GRASS__yan_parsel_001" name="GRASS__yan_parsel_001">
+		<Material id="0" name="yan_parseller_000"/>
+		<file path="EXTERIOR_Assets/GRASS__yan_parsel_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cd150219ff71e1f8103117fea62c5324"/>
+	</StaticMesh>
+	<UEPbrMaterial name="DefaultMaterial">
+		<Expressions>
+			<Color constant="(R=0.906332,G=0.906332,B=0.906332,A=1.000000)"/>
+			<Scalar constant="0.400000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Roughness expression="1" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="asphalt_03">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.500000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="3.170000"/>
+			<Scalar constant="25.099998"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.171281,G=0.171281,B=0.171281,A=1.000000)"/>
+			<Scalar constant="0.100000"/>
+			<Scalar constant="0.561233"/>
+			<Scalar constant="3.000000"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.171281,G=0.171281,B=0.171281,A=1.000000)"/>
+			<Scalar constant="0.100000"/>
+			<Scalar constant="0.060000"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.171281,G=0.097554,B=0.006641,A=1.000000)"/>
+			<Scalar constant="0.100000"/>
+			<Scalar constant="0.033876"/>
+			<Scalar constant="0.224670"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.303965"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="25.453331"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="39"/>
+				<1 expression="40"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.000000"/>
+		</Expressions>
+		<BaseColor expression="37"/>
+		<Metallic expression="38" OutputIndex="0"/>
+		<Roughness expression="41"/>
+		<Specular expression="42" OutputIndex="0"/>
+		<Normal expression="43"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="concrete_bformed_04">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.500000,G=0.404709,B=0.345913,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.309136"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="4.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.050000"/>
+			<Scalar constant="0.050000"/>
+			<Scalar constant="0.200000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.400000"/>
+			<Scalar constant="0.584061"/>
+			<Scalar constant="0.760000"/>
+			<Scalar constant="0.680000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.040000"/>
+			<Scalar constant="0.060000"/>
+			<Scalar constant="0.730000"/>
+			<Scalar constant="0.194323"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="6.000000"/>
+			<Scalar constant="14.500000"/>
+			<Scalar constant="4.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="33"/>
+				<1 expression="34"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="31"/>
+		<Metallic expression="32" OutputIndex="0"/>
+		<Roughness expression="35"/>
+		<Specular expression="36" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Poliigon_MetalGalvanizedZinc_7184_2K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalGalvanizedZinc_7184_Metallic_2K_jpg">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalGalvanizedZinc_7184_Roughness_2K_jpg">
+				<Coordinates expression="14"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalGalvanizedZinc_7184_Normal_2K_jpg">
+				<Coordinates expression="19"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="13"/>
+		<Roughness expression="17"/>
+		<Specular expression="18" OutputIndex="0"/>
+		<Normal expression="20" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Poliigon_MetalSteelBrushed_7174_4K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalSteelBrushed_7174_Metallic_4K_jpg">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalSteelBrushed_7174_Roughness_4K_jpg">
+				<Coordinates expression="14"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalSteelBrushed_7174_Normal_4K_jpg">
+				<Coordinates expression="19"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="13"/>
+		<Roughness expression="17"/>
+		<Specular expression="18" OutputIndex="0"/>
+		<Normal expression="20" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="concrete_04">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.899184,G=0.595168,B=0.353644,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.697674"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.806769"/>
+			<Scalar constant="0.760000"/>
+			<Scalar constant="0.480000"/>
+			<Scalar constant="0.750000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.190000"/>
+			<Scalar constant="0.230000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.733010"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="10.000000"/>
+			<Scalar constant="28.939997"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="24"/>
+				<1 expression="25"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="22"/>
+		<Metallic expression="23" OutputIndex="0"/>
+		<Roughness expression="26"/>
+		<Specular expression="27" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="ceramic_hex_tiles_01">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.491187,G=0.412413,B=0.380020,A=1.000000)"/>
+			<Scalar constant="0.840000"/>
+			<Scalar constant="0.075000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.100000"/>
+			<Color constant="(R=0.060113,G=0.145319,B=0.097967,A=1.000000)"/>
+			<Color constant="(R=0.276299,G=0.413465,B=0.352359,A=1.000000)"/>
+			<Scalar constant="0.359000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="10.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="3.000000"/>
+			<Scalar constant="6.700000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="24"/>
+				<1 expression="25"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="22"/>
+		<Metallic expression="23" OutputIndex="0"/>
+		<Roughness expression="26"/>
+		<Specular expression="27" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="flagstone_02">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.590000"/>
+			<Scalar constant="1.300000"/>
+			<Scalar constant="1.730000"/>
+			<Scalar constant="0.340000"/>
+			<Scalar constant="0.907609"/>
+			<Color constant="(R=0.549510,G=0.522139,B=0.493845,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.548913"/>
+			<Color constant="(R=0.209428,G=0.147957,B=0.113805,A=1.000000)"/>
+			<Scalar constant="0.300000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.505435"/>
+			<Scalar constant="0.322603"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="10.200000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="31"/>
+				<1 expression="32"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.000000"/>
+		</Expressions>
+		<BaseColor expression="29"/>
+		<Metallic expression="30" OutputIndex="0"/>
+		<Roughness expression="33"/>
+		<Specular expression="34" OutputIndex="0"/>
+		<Normal expression="35"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Poliigon_MetalBronzeWorn_7248_4K">
+		<Expressions>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="1"/>
+				<1 expression="2"/>
+			</AppendVector>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalBronzeWorn_7248_Metallic_4K_jpg">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalBronzeWorn_7248_Roughness_4K_jpg">
+				<Coordinates expression="14"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="15" OutputIndex="0"/>
+				<1 expression="16"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Poliigon_MetalBronzeWorn_7248_Normal_4K_jpg">
+				<Coordinates expression="19"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="0"/>
+		<Metallic expression="13"/>
+		<Roughness expression="17"/>
+		<Specular expression="18" OutputIndex="0"/>
+		<Normal expression="20" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_048">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.652727"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="glass">
+		<Expressions>
+			<Color constant="(R=0.853008,G=0.853008,B=0.853008,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="1.000000"/>
+			<OneMinus>
+				<0 expression="4" OutputIndex="0"/>
+			</OneMinus>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Opacity expression="5"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="bark01">
+		<Expressions>
+			<Texture PathName="bark01_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="beech_leaf">
+		<Expressions>
+			<Texture PathName="beech_leaf_png"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Bark_C">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="PineBark_diffuse_png">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="PineBark_Roughness_png">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="12"/>
+			</DotProduct>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="PineBark_normal_png">
+				<Coordinates expression="15"/>
+			</Texture>
+		</Expressions>
+		<BaseColor expression="8" OutputIndex="0"/>
+		<Metallic expression="9" OutputIndex="0"/>
+		<Roughness expression="13"/>
+		<Specular expression="14" OutputIndex="0"/>
+		<Normal expression="16" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Tree_leaf">
+		<Expressions>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="3"/>
+				<1 expression="4"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint2D_2">
+				<0 expression="5"/>
+				<1 expression="6" OutputIndex="0"/>
+				<2 expression="7" OutputIndex="0"/>
+				<3 expression="8" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Tree_Leaf_Diffuse_png">
+				<Coordinates expression="10"/>
+			</Texture>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.668182"/>
+			<Scalar constant="0.500000"/>
+			<ComponentMask>
+				<0 expression="9"/>
+			</ComponentMask>
+			<Texture PathName="Tree_Leaf_Normal_png">
+				<Coordinates expression="15"/>
+			</Texture>
+			<Scalar constant="0.500000"/>
+			<LinearInterpolate>
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="11" OutputIndex="0"/>
+				<2 expression="17" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar constant="1.000000"/>
+			<Texture PathName="Tree_Leaf_opacity_png"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="20" OutputIndex="0"/>
+				<1 expression="21"/>
+			</DotProduct>
+			<LinearInterpolate>
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="18"/>
+				<2 expression="22"/>
+			</LinearInterpolate>
+			<LinearInterpolate>
+				<0 expression="2"/>
+				<1 expression="19"/>
+				<2 expression="22"/>
+			</LinearInterpolate>
+		</Expressions>
+		<BaseColor expression="23"/>
+		<Refraction expression="1"/>
+		<Opacity expression="24"/>
+		<Metallic expression="12" OutputIndex="0"/>
+		<Roughness expression="13" OutputIndex="0"/>
+		<Specular expression="14" OutputIndex="0"/>
+		<Normal expression="16" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="shadow_catcher_001">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="shadow_catcher">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="blinn3">
+		<Expressions>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.748767"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="blinn1">
+		<Expressions>
+			<Color constant="(R=0.325203,G=0.325203,B=0.325203,A=1.000000)"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.838058"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="blinn2">
+		<Expressions>
+			<Texture PathName="panel_1"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.748767"/>
+			<Scalar constant="1.000000"/>
+			<Texture PathName="panelbump_1"/>
+			<Scalar constant="0.200000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Chrome_mt">
+		<Expressions>
+			<Color constant="(R=0.626172,G=0.626172,B=0.626172,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Light_mt">
+		<Expressions>
+			<Color constant="(R=0.921569,G=0.921569,B=0.921569,A=1.000000)"/>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="1.000000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Matt_mt">
+		<Expressions>
+			<Color constant="(R=0.036140,G=0.036140,B=0.036140,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.250000"/>
+			<Scalar constant="0.009091"/>
+			<Color constant="(R=0.500000,G=0.500000,B=1.000000,A=1.000000)"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<Normal expression="4" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Metal_mt">
+		<Expressions>
+			<Texture PathName="brushed_metal_albedo_png"/>
+			<Texture PathName="brushed_metal_metallic_png"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="1" OutputIndex="0"/>
+				<1 expression="2"/>
+			</DotProduct>
+			<Texture PathName="brushed_metal_roughness_png"/>
+			<Color constant="(R=0.333333,G=0.333333,B=0.333333,A=1.0)"/>
+			<DotProduct>
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5"/>
+			</DotProduct>
+			<Scalar constant="1.000000"/>
+			<Texture PathName="brushed_metal_normal_ogl_png"/>
+			<Scalar constant="3.100000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/NormalStrength">
+				<0 expression="8" OutputIndex="0"/>
+				<1 expression="9" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="3"/>
+		<Roughness expression="6"/>
+		<Specular expression="7" OutputIndex="0"/>
+		<Normal expression="10"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="yan_parseller_000">
+		<Expressions>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar constant="0.000000"/>
+			<AppendVector>
+				<0 expression="0"/>
+				<1 expression="1"/>
+			</AppendVector>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=0.000000,G=0.000000,B=0.000000,A=1.0)"/>
+			<Color constant="(R=50.000000,G=50.000000,B=50.000000,A=1.0)"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/MappingPoint2D_2">
+				<0 expression="2"/>
+				<1 expression="3" OutputIndex="0"/>
+				<2 expression="4" OutputIndex="0"/>
+				<3 expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<ComponentMask>
+				<0 expression="6"/>
+			</ComponentMask>
+			<Texture PathName="dev__imen_yaz_a_ustos_gimp_reduce_jpg_000">
+				<Coordinates expression="7"/>
+			</Texture>
+			<Scalar constant="2.000000"/>
+			<Power>
+				<0 expression="8" OutputIndex="0"/>
+				<1 expression="9" OutputIndex="0"/>
+			</Power>
+			<Scalar constant="1.000000"/>
+			<Scalar constant="0.000000"/>
+			<Color constant="(R=0.064803,G=0.119538,B=0.051269,A=1.000000)"/>
+			<Scalar constant="0.447214"/>
+			<Scalar constant="1.050000"/>
+			<FunctionCall Function="/DatasmithBlenderContent/MaterialFunctions/BlenderFresnel">
+				<0 expression="15" OutputIndex="0"/>
+			</FunctionCall>
+			<LinearInterpolate>
+				<0 expression="10"/>
+				<1 expression="13" OutputIndex="0"/>
+				<2 expression="16"/>
+			</LinearInterpolate>
+			<LinearInterpolate>
+				<0 expression="11"/>
+				<1 expression="14" OutputIndex="0"/>
+				<2 expression="16"/>
+			</LinearInterpolate>
+		</Expressions>
+		<BaseColor expression="17"/>
+		<Roughness expression="18"/>
+		<Metallic expression="12"/>
+	</UEPbrMaterial>
+	<Texture name="meadow_2_8k_exr" file="EXTERIOR_Assets\meadow_2_8k_exr.exr" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="1ade9928b0b0252505dfb8f7631e4ed2"/>
+	</Texture>
+	<Texture name="Poliigon_MetalGalvanizedZinc_7184_Metallic_2K_jpg" file="EXTERIOR_Assets\Poliigon_MetalGalvanizedZinc_7184_Metallic_2K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="9eb31169f0dbbce80aeaa20d02597494"/>
+	</Texture>
+	<Texture name="Poliigon_MetalGalvanizedZinc_7184_Roughness_2K_jpg" file="EXTERIOR_Assets\Poliigon_MetalGalvanizedZinc_7184_Roughness_2K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="4cc3c275288f5f12b50829d31b4d434b"/>
+	</Texture>
+	<Texture name="Poliigon_MetalGalvanizedZinc_7184_Normal_2K_jpg" file="EXTERIOR_Assets\Poliigon_MetalGalvanizedZinc_7184_Normal_2K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="281dda400c344b3151d3894352564ddb"/>
+	</Texture>
+	<Texture name="Poliigon_MetalSteelBrushed_7174_Metallic_4K_jpg" file="EXTERIOR_Assets\Poliigon_MetalSteelBrushed_7174_Metallic_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="d2dedb9192d7feff4ba41f14efa20d50"/>
+	</Texture>
+	<Texture name="Poliigon_MetalSteelBrushed_7174_Roughness_4K_jpg" file="EXTERIOR_Assets\Poliigon_MetalSteelBrushed_7174_Roughness_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="32649e5a30a9062f80a35d856f068e59"/>
+	</Texture>
+	<Texture name="Poliigon_MetalSteelBrushed_7174_Normal_4K_jpg" file="EXTERIOR_Assets\Poliigon_MetalSteelBrushed_7174_Normal_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="859b6072a556606ebed2fd9956aea9e1"/>
+	</Texture>
+	<Texture name="Poliigon_MetalBronzeWorn_7248_Metallic_4K_jpg" file="EXTERIOR_Assets\Poliigon_MetalBronzeWorn_7248_Metallic_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="3f5d245296f101e26dca4da408c357be"/>
+	</Texture>
+	<Texture name="Poliigon_MetalBronzeWorn_7248_Roughness_4K_jpg" file="EXTERIOR_Assets\Poliigon_MetalBronzeWorn_7248_Roughness_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="e4ee73a236247fd65f1325eb5c357923"/>
+	</Texture>
+	<Texture name="Poliigon_MetalBronzeWorn_7248_Normal_4K_jpg" file="EXTERIOR_Assets\Poliigon_MetalBronzeWorn_7248_Normal_4K_jpg.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="e3783804ca3415ec5afad9c9765ac521"/>
+	</Texture>
+	<Texture name="bark01_png" file="EXTERIOR_Assets\bark01_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="549892c8e2b541db661ec49a71216697"/>
+	</Texture>
+	<Texture name="beech_leaf_png" file="EXTERIOR_Assets\beech_leaf_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="2c54072a86bb96dbc31a4ffeb4fd8f54"/>
+	</Texture>
+	<Texture name="PineBark_diffuse_png" file="EXTERIOR_Assets\PineBark_diffuse_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="c4e8ce1b022fc720ae7b5bb8e2240f17"/>
+	</Texture>
+	<Texture name="PineBark_Roughness_png" file="EXTERIOR_Assets\PineBark_Roughness_png.png" rgbcurve="0.0" srgb="2" texturemode="1" texturefilter="3">
+		<Hash value="ec049bc73534808cdadbbf041b930581"/>
+	</Texture>
+	<Texture name="PineBark_normal_png" file="EXTERIOR_Assets\PineBark_normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="85e389a9438812f85516b98864a88e1f"/>
+	</Texture>
+	<Texture name="Tree_Leaf_Diffuse_png" file="EXTERIOR_Assets\Tree_Leaf_Diffuse_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="8cc497d29eef5ead0d15a60cd38c92ca"/>
+	</Texture>
+	<Texture name="Tree_Leaf_Normal_png" file="EXTERIOR_Assets\Tree_Leaf_Normal_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="b67a0d2a7c4292d728c7a50a1d79ffc8"/>
+	</Texture>
+	<Texture name="Tree_Leaf_opacity_png" file="EXTERIOR_Assets\Tree_Leaf_opacity_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="58000c26e162817a43a918ef62cf5704"/>
+	</Texture>
+	<Texture name="panel_1" file="EXTERIOR_Assets\panel_1.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="6b2f42f56efafe42d1a2c9039508eaa4"/>
+	</Texture>
+	<Texture name="panelbump_1" file="EXTERIOR_Assets\panelbump_1.jpg" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="e0cf4a4129a3d9af37e81d4ca808b5ff"/>
+	</Texture>
+	<Texture name="brushed_metal_albedo_png" file="EXTERIOR_Assets\brushed_metal_albedo_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="06a4d914b6bd97e6c3e24e23fac17dcc"/>
+	</Texture>
+	<Texture name="brushed_metal_metallic_png" file="EXTERIOR_Assets\brushed_metal_metallic_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="f264eb97bef631badb2c0b014c1fc98f"/>
+	</Texture>
+	<Texture name="brushed_metal_roughness_png" file="EXTERIOR_Assets\brushed_metal_roughness_png.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="a575ae86909a049948e924b90e233ec8"/>
+	</Texture>
+	<Texture name="brushed_metal_normal_ogl_png" file="EXTERIOR_Assets\brushed_metal_normal_ogl_png.png" rgbcurve="0.0" srgb="2" texturemode="3" texturefilter="3">
+		<Hash value="080603161b04b13330c35c120364c00d"/>
+	</Texture>
+	<Texture name="dev__imen_yaz_a_ustos_gimp_reduce_jpg_000" file="EXTERIOR_Assets\dev__imen_yaz_a_ustos_gimp_reduce_jpg_000.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="7d27d09f878afa7f85381aafa641c9c4"/>
+	</Texture>
+	<MetaData name="StaticMesh_Cube_016" reference="StaticMesh.Cube_016">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_015@758', 'object_ptr': '2074605469984'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_016" reference="Actor.Cube_016">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_016@757', 'object_ptr': '2074580260384', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_018" reference="StaticMesh.Cube_018">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_051@762', 'object_ptr': '2074604972832'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_018" reference="Actor.Cube_018">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_018@761', 'object_ptr': '2074580256800', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_019" reference="StaticMesh.Cube_019">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_052@764', 'object_ptr': '2074604971040'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_019" reference="Actor.Cube_019">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_019@763', 'object_ptr': '2074580255008', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_023" reference="StaticMesh.Cube_023">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_053@772', 'object_ptr': '2074604969248'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_023" reference="Actor.Cube_023">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_023@771', 'object_ptr': '2074580214816', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_metarig" reference="Actor.metarig">
+		<KeyValueProperty name="vray" val="{'unique_id': 'metarig@1340', 'object_ptr': '2074578951456'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_NurbsPath" reference="Actor.NurbsPath">
+		<KeyValueProperty name="vray" val="{'unique_id': 'NurbsPath@1386', 'object_ptr': '2074578438176', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Parent_Everything_to_me" reference="Actor.Parent_Everything_to_me">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Parent_Everything_to_me@1511', 'object_ptr': '2074578208800'}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Plane_002" reference="StaticMesh.Plane_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_004@1543', 'object_ptr': '2074596052768'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Plane_002" reference="Actor.Plane_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Plane_002@1542', 'object_ptr': '2074578157856', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Plane_003" reference="Actor.Plane_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Plane_003@1544', 'object_ptr': '2074594867488', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Plane_004" reference="StaticMesh.Plane_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Plane_013@1547', 'object_ptr': '2074595382816'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Plane_004" reference="Actor.Plane_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Plane_004@1546', 'object_ptr': '2074594865696', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cylinder_002" reference="StaticMesh.Cylinder_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cylinder_009@920', 'object_ptr': '2074603884320'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder_002" reference="Actor.Cylinder_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder_002@909', 'object_ptr': '2074579908896', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder_005" reference="Actor.Cylinder_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder_005@915', 'object_ptr': '2074579903520', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder_006" reference="Actor.Cylinder_006">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder_006@917', 'object_ptr': '2074579901728', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder_007" reference="Actor.Cylinder_007">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder_007@919', 'object_ptr': '2074579899936', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder_008" reference="Actor.Cylinder_008">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder_008@921', 'object_ptr': '2074579898144', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder_009" reference="Actor.Cylinder_009">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder_009@923', 'object_ptr': '2074579896352', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder_010" reference="Actor.Cylinder_010">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder_010@925', 'object_ptr': '2074579894560', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cylinder_011" reference="Actor.Cylinder_011">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cylinder_011@927', 'object_ptr': '2074579876128', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Plane_005" reference="Actor.Plane_005">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Plane_005@1548', 'object_ptr': '2074594863904', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_024" reference="StaticMesh.Cube_024">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_054@780', 'object_ptr': '2074604967456'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_024" reference="Actor.Cube_024">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_024@773', 'object_ptr': '2074580213024', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_026" reference="Actor.Cube_026">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_026@777', 'object_ptr': '2074580209440', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_027" reference="Actor.Cube_027">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_027@779', 'object_ptr': '2074580207648', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Cube_028" reference="StaticMesh.Cube_028">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Cube_055@784', 'object_ptr': '2074604965664'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_028" reference="Actor.Cube_028">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_028@781', 'object_ptr': '2074580205856', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Cube_029" reference="Actor.Cube_029">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Cube_029@783', 'object_ptr': '2074580203808', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_free_tree_01_031" reference="Actor.free_tree_01_031">
+		<KeyValueProperty name="vray" val="{'unique_id': 'free_tree_01_031@1094', 'object_ptr': '2074579431968', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_free_tree_01_001" reference="Actor.free_tree_01_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'free_tree_01_001@1086', 'object_ptr': '2074579504928', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_free_tree_01_002" reference="Actor.free_tree_01_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'free_tree_01_002@1088', 'object_ptr': '2074579503136', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_free_tree_01_003" reference="Actor.free_tree_01_003">
+		<KeyValueProperty name="vray" val="{'unique_id': 'free_tree_01_003@1090', 'object_ptr': '2074579501344', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_free_tree_01_004" reference="Actor.free_tree_01_004">
+		<KeyValueProperty name="vray" val="{'unique_id': 'free_tree_01_004@1092', 'object_ptr': '2074579433760', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Tree_Bark" reference="StaticMesh.Tree_Bark">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Branches_002@2941', 'object_ptr': '2074591399712'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Bark" reference="Actor.Tree_Bark">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Bark@2922', 'object_ptr': '2074592226080', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Tree_Bark_001" reference="StaticMesh.Tree_Bark_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Branches_003@2933', 'object_ptr': '2074591228448'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Bark_001" reference="Actor.Tree_Bark_001">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Bark_001@2924', 'object_ptr': '2074592224288', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Bark_002" reference="Actor.Tree_Bark_002">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Bark_002@2926', 'object_ptr': '2074592222496', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Bark_005" reference="Actor.Tree_Bark_005">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Bark_005@2928', 'object_ptr': '2074592220704', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Bark_006" reference="Actor.Tree_Bark_006">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Bark_006@2930', 'object_ptr': '2074592218912', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Bark_007" reference="Actor.Tree_Bark_007">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Bark_007@2932', 'object_ptr': '2074592217120', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Bark_008" reference="Actor.Tree_Bark_008">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Bark_008@2934', 'object_ptr': '2074592215328', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Bark_009" reference="Actor.Tree_Bark_009">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Bark_009@2936', 'object_ptr': '2074592147744', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Bark_010" reference="Actor.Tree_Bark_010">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Bark_010@2938', 'object_ptr': '2074592145952', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Bark_011" reference="Actor.Tree_Bark_011">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Bark_011@2940', 'object_ptr': '2074592144160', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Tree_Leaves" reference="StaticMesh.Tree_Leaves">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Leaves_001@2951', 'object_ptr': '2074602673696'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Leaves" reference="Actor.Tree_Leaves">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Leaves@2942', 'object_ptr': '2074592142368', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Leaves_005" reference="Actor.Tree_Leaves_005">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Leaves_005@2944', 'object_ptr': '2074592140576', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Leaves_008" reference="Actor.Tree_Leaves_008">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Leaves_008@2946', 'object_ptr': '2074592138784', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Leaves_010" reference="Actor.Tree_Leaves_010">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Leaves_010@2948', 'object_ptr': '2074592136992', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Tree_Leaves_011" reference="Actor.Tree_Leaves_011">
+		<KeyValueProperty name="kitops" val="{'insert_target': None, 'mirror_target': None, 'reserved_target': None, 'main_object': None}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'Tree_Leaves_011@2950', 'object_ptr': '2074592135200', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Shadow_Catcher_001" reference="StaticMesh.Shadow_Catcher_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Shadow_Catcher_001@1707', 'object_ptr': '2075205127968'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Shadow_Catcher_001" reference="Actor.Shadow_Catcher_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Shadow_Catcher_001@1706', 'object_ptr': '2074594521632', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_Shadow_Catcher" reference="StaticMesh.Shadow_Catcher">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Shadow_Catcher@1705', 'object_ptr': '2075205129760'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Shadow_Catcher" reference="Actor.Shadow_Catcher">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Shadow_Catcher@1704', 'object_ptr': '2074594523424', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_solar" reference="StaticMesh.solar">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_104@1812', 'object_ptr': '2074600037664'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_solar" reference="Actor.solar">
+		<KeyValueProperty name="currentUVSet" val="map1" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'solar@1795', 'object_ptr': '2074594288672', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_solar_001" reference="Actor.solar_001">
+		<KeyValueProperty name="currentUVSet" val="map1" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'solar_001@1797', 'object_ptr': '2074594286880', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_solar_002" reference="Actor.solar_002">
+		<KeyValueProperty name="currentUVSet" val="map1" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'solar_002@1799', 'object_ptr': '2074594285088', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_solar_003" reference="Actor.solar_003">
+		<KeyValueProperty name="currentUVSet" val="map1" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'solar_003@1801', 'object_ptr': '2074594283296', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_solar_004" reference="Actor.solar_004">
+		<KeyValueProperty name="currentUVSet" val="map1" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'solar_004@1803', 'object_ptr': '2074594281504', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_solar_005" reference="Actor.solar_005">
+		<KeyValueProperty name="currentUVSet" val="map1" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'solar_005@1805', 'object_ptr': '2074594279712', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_solar_006" reference="Actor.solar_006">
+		<KeyValueProperty name="currentUVSet" val="map1" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'solar_006@1807', 'object_ptr': '2074594261280', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_solar_007" reference="Actor.solar_007">
+		<KeyValueProperty name="currentUVSet" val="map1" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'solar_007@1809', 'object_ptr': '2074594259488', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_solar_008" reference="Actor.solar_008">
+		<KeyValueProperty name="currentUVSet" val="map1" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'solar_008@1811', 'object_ptr': '2074594257696', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Area" reference="Actor.Area">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Area@29', 'object_ptr': '2074581967904'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_chrome" reference="Actor.chrome">
+		<KeyValueProperty name="MaxHandle" val="62.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'chrome@303', 'object_ptr': '2074581227040', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_light_001" reference="StaticMesh.light_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_105@1299', 'object_ptr': '2074600035872'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_light_001" reference="Actor.light_001">
+		<KeyValueProperty name="MaxHandle" val="61.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'light_001@1294', 'object_ptr': '2074579075360', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_matte_back" reference="Actor.matte_back">
+		<KeyValueProperty name="MaxHandle" val="62.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'matte_back@1322', 'object_ptr': '2074578967840', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_metal" reference="StaticMesh.metal">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_108@1339', 'object_ptr': '2074599890208'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_metal" reference="Actor.metal">
+		<KeyValueProperty name="MaxHandle" val="63.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'metal@1330', 'object_ptr': '2074578960672', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Wall_light" reference="Actor.Wall_light">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Wall_light@3010', 'object_ptr': '2074591973152'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_chrome_001" reference="Actor.chrome_001">
+		<KeyValueProperty name="MaxHandle" val="62.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'chrome_001@305', 'object_ptr': '2074581225248', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_light_002" reference="Actor.light_002">
+		<KeyValueProperty name="MaxHandle" val="61.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'light_002@1296', 'object_ptr': '2074579007776', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_matte_back_001" reference="Actor.matte_back_001">
+		<KeyValueProperty name="MaxHandle" val="62.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'matte_back_001@1324', 'object_ptr': '2074578966048', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_metal_001" reference="StaticMesh.metal_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_108@1339', 'object_ptr': '2074599890208'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_metal_001" reference="Actor.metal_001">
+		<KeyValueProperty name="MaxHandle" val="63.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'metal_001@1334', 'object_ptr': '2074578956832', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Wall_light_001" reference="Actor.Wall_light_001">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Wall_light_001@3011', 'object_ptr': '2074591971360'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_chrome_002" reference="Actor.chrome_002">
+		<KeyValueProperty name="MaxHandle" val="62.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'chrome_002@307', 'object_ptr': '2074581223456', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_light_003" reference="Actor.light_003">
+		<KeyValueProperty name="MaxHandle" val="61.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'light_003@1298', 'object_ptr': '2074579005984', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_matte_back_002" reference="Actor.matte_back_002">
+		<KeyValueProperty name="MaxHandle" val="62.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'matte_back_002@1326', 'object_ptr': '2074578964256', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="StaticMesh_metal_002" reference="StaticMesh.metal_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'mesh_Mesh_108@1339', 'object_ptr': '2074599890208'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_metal_002" reference="Actor.metal_002">
+		<KeyValueProperty name="MaxHandle" val="63.000000" type="Float"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'metal_002@1338', 'object_ptr': '2074578953248', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_Wall_light_002" reference="Actor.Wall_light_002">
+		<KeyValueProperty name="vray" val="{'unique_id': 'Wall_light_002@3012', 'object_ptr': '2074591969568'}" type="String"/>
+	</MetaData>
+	<MetaData name="Actor_GRASS" reference="Actor.GRASS">
+		<KeyValueProperty name="corona" val="{'is_dirty': 1}" type="String"/>
+		<KeyValueProperty name="renderman" val="{'update_timestamp': 1501188129}" type="String"/>
+		<KeyValueProperty name="vray" val="{'unique_id': 'GRASS@1153', 'object_ptr': '2074579326496', 'ntree': {}}" type="String"/>
+	</MetaData>
+	<Export Duration="33.0309999999954"/>
+</DatasmithUnrealScene>
